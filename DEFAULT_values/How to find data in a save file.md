@@ -27,33 +27,44 @@
 				add_attacker="TEU"
 
 ## Pertes en bataille
-	1493.4.14={
-	battle={
-		name="Varsovie"
-		location=257
+`1493.4.14={
+battle={
+	name="Varsovie"
+	location=257`
 
 
-					BOH={
-				opinion={
-					modifier="improved_relation"
-					date=1454.9.22
-					current_opinion=37.000
-					expiry_date=yes
-					delayed_decay=yes
-				}
-				opinion={
-					modifier="break_alliance"
-					date=1453.10.5
-					current_opinion=-48.966
-					expiry_date=yes
-				}
+``	BOH={
+opinion={
+	modifier="improved_relation"
+	date=1454.9.22
+	current_opinion=37.000
+	expiry_date=yes
+	delayed_decay=yes
+}
+opinion={
+	modifier="break_alliance"
+	date=1453.10.5
+	current_opinion=-48.966
+	expiry_date=yes
+}``
 
 # Conversion d'état
-				1447.5.28={
-				religion=hussite
-				monarch={
+`1447.5.28={
+religion=hussite
+monarch={`
 ou
 			BOH={
 				has_set_government_name=yes
 et chercher dans la liste religion=XXX
 
+# Évènements variés
+`flags={
+	schools_initiated=1444.11.11`
+
+# foyer de la Révolution
+`revolution={
+	has_first_revolution_started=yes`
+
+# Un pays change de régime (révolution, etc)
+`				government=republic
+				revolution_target=yes`

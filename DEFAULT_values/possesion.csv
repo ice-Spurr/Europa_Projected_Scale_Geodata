@@ -1,9 +1,10 @@
 CODE;Name;Category
-OWN_CORE;Core;Own
-DEP_PU;Personnal Union;Dependance
-DEP_VAS;Vassal;Dependance
-DEP_MAR;March;Dependance
-OWN_OUTPOST;Colonial Outpost;Own
-DEP_COL;Colonial Nation;Dependance
-OWN_COMM;Commercial Company;Own
-OWN_POS;Possession;Own (not cored)
+DEP_PU;Personal Union;Subject
+DEP_vas;Vassal;Subject
+DEP_mar;March;Subject
+CORE_outpost;Colonial Outpost;Own
+DEP_col;Colonial Nation;Subject
+CORE_state;Full Core : State;Own
+CORE_territory;Territorial Core : Territory;Own
+CORE_trade;Territorial Core : Trade Company;Own
+DEP_client;Client State;Subject
