@@ -53,8 +53,8 @@ opinion={
 religion=hussite
 monarch={`
 ou
-			BOH={
-				has_set_government_name=yes
+`BOH={
+	has_set_government_name=yes`
 et chercher dans la liste religion=XXX
 
 # Évènements variés
@@ -68,3 +68,10 @@ et chercher dans la liste religion=XXX
 # Un pays change de régime (révolution, etc)
 `				government=republic
 				revolution_target=yes`
+
+`had_revolution=1720.11.1`
+
+# Pays
+`	PER={
+		\S`
+	-> \S cherche un caractère non-vide et évite tous les modificateurs d'opinions etc
