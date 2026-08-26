@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | Version | Date       | Changes                                                                                             | Completion (land+wasteland) |
 | ------- | ---------- | --------------------------------------------------------------------------------------------------- | --------------------------- |
+| 0.2.5   | 2026-08-26 | Provinces: Russia, Pontic Steppe (had to make weird shapes, far from the game provinces, to follow the cities locations).<br>Cities: Pontic Steppe| 739/3359 
 | 0.2.4.1 | 2026-08-18 | README.md written                                                                                   | 697/3359                    |
 | 0.2.4   | 2026-08-17 | Provinces: Part of Russia.<br>Cities: Russia.                                                       | 697/3359                    |
 | 0.2.3.2 | 2026-08-15 | Provinces: Ruthenia.<br>Cities: South Germany, Italy (now up to date).<br>Added `my_run_XXX` layer. | 677/3359                    |
@@ -82,4 +83,4 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 | 0.1.4   | 2026-07-20 | Provinces: Balkans, Wallachia, Moldova.                                                             | 581/3359                    |
 | 0.1.3   | 2026-07-17 | Provinces: Baltic.<br>Added `provinces.bmp` with reference points.                                  | 523/3359                    |
 | 0.1.2   | 2026-07-10 | Provinces: Scandinavia, France, Iberia, Britain, Italy, Low Countries, North Germany, South Germany | 515/3359                    |
-| 0.1.1   | 2026-07-08 | **Initial upload.**<br>Provinces: Greenland and Iceland.<br>Added trade goods pictures.             | 5/3359                      |
+| 0.1.1   | 2026-07-08 | **Initial upload.**<br>Provinces: Greenland and Iceland.<br>Added trade goods pictures.             | 005/3359                    |
