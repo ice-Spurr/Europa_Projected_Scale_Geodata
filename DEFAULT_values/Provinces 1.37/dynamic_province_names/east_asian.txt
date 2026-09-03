@@ -1,0 +1,1968 @@
+### ASIA
+
+
+## EAST SIBERIA
+
+# Buryatia
+
+1055 = "Jinshi"
+1056 = "Huanle"
+1057 = "Qingfeng"
+1058 = "Xinghua"
+2446 = "Changliu"
+
+# Kamchatka
+
+1034 = "Juyuan"
+1035 = "Baolong"
+1038 = "Jianshe"
+1041 = "Yutai"
+2440 = "Quanzhi"
+
+# Kolyma
+
+1036 = "Shuiyan"
+1037 = "Heyin"
+1039 = "Longshan"
+1040 = "Hanxing"
+2439 = "Fengshui"
+
+# Okhotsk
+
+1043 = "Heilong"
+1044 = "Daxuan"
+1047 = "Xinfeng"
+1052 = "Juli"
+
+# Sakha
+
+1042 = "Juyu"
+1046 = "Yujin"
+2438 = "Zhonglong"
+
+# Yakutia
+
+1045 = "Gancha"
+1051 = "Huanqiao"
+1054 = "Daxian"
+2435 = "Jinan"
+2437 = "Yuntai"
+
+## JAPAN
+
+# Eastern Chubu
+
+1029 = "Hailong" # Kai
+1839 = "Xulujia" # Suruga
+4188 = "Xinanuo" # Shinano
+4360 = "Wuyicheng" # Mikawa
+
+# Eastern Kanto
+
+1027 = "Heidao" # Hitachi
+4190 = "Mosha" # Shimousa
+4191 = "Xueqiu" # Shimotsuke
+
+# Hokkaido
+
+1031 = "Tianqing" # Kamikawa
+1032 = "Beidao" # The Kurils
+1847 = "Yunfeng" # Shiribeshi
+1852 = "Hanchi" # Tokachi
+4193 = "Daiyang" # Oshima
+
+# Hokuriku
+
+1023 = "Fenghuan" # Echizen
+1024 = "Longdang" # Echigo
+1837 = "Yunzhou" # Etchu
+
+# Kinai
+
+1020 = "Hudian" # Kyoto
+1021 = "Shuli" # Settsu
+1832 = "Juyuan" # Yamato
+4187 = "Qicai" # Kii
+
+# Northern Kyushu
+
+1014 = "Bingang" # Bungo
+1818 = "Chifeng" # Chikuzen
+4182 = "Haizhen" # Hizen
+4651 = "Shangtu" # Tsushima
+
+# San'indo
+
+1018 = "Hanyuan" # Izumo
+1830 = "Luancheng" # Tajima
+4183 = "Yishui" # Iwani
+4185 = "Luoyang" # Tango
+
+# Sanyodo
+
+1017 = "Lintong" # Suo
+1019 = "Shihu" # Harima
+1825 = "Huanming" # Aki
+4184 = "Feiyan" # Bizen
+
+# Shikoku
+
+1819 = "Helan" # Tosa
+1820 = "Chiping" # Awa
+4186 = "Lushan" # Iyo
+
+# Southern Kyushu
+
+1012 = "Xianya" # Satsuma
+1015 = "Longqiu" # Okinawa
+4180 = "Haiwan" # Hyuga
+4181 = "Fengbei" # Higo
+
+# Tohoku
+
+1025 = "Wuren" # Uzen
+1026 = "Likuxian" # Rikuzen
+4131 = "Mujin" # Mutsua
+4192 = "Wulang" # Ugo
+
+# Western Chubu
+
+1030 = "Ouwali" # Owari
+1835 = "Mingang" # Mino
+4359 = "Yishan" # Ise
+
+# Western Kanto
+
+1028 = "Muyang" # Musashi
+1843 = "Kaili" # Kozuke
+4189 = "Sanmei" # Sagami
+
+## KOREA
+
+# Eastern Korea
+
+734 = "Yuanzhou"
+736 = "Qiansheng"
+2694 = "Jiangliang"
+2745 = "Qingzhou"
+4227 = "Jinzhou"
+
+# Hamgyeong
+
+732 = "Xianxing"
+2742 = "Funing"
+2743 = "Jingcheng"
+
+# Southern Korea
+
+737 = "Qansanzhou"
+1013 = "Gonghong"
+2741 = "Jizhou"
+4228 = "Luozhou"
+4229 = "Zhongzhou"
+
+# Western Korea
+
+733 = "Huangzhou"
+735 = "Hancheng"
+4230 = "Shuiyuan"
+4231 = "Pingshan"
+
+## NORTH CHINA
+
+# East Gansu
+
+698 = {"Ningxia" "Ningxia"}
+699 = {"Lanzhou" "Lanzhou"}
+2180 = {"Tianshui" "Tianshui"}
+2181 = {"Pingliang" "Pingliang"}
+2183 = {"Taozhou" "Taozhou"}
+
+# North Anhui
+
+1838 = {"Hefei" "Hefei"}
+2143 = {"Fengyang" "Fengyang"}
+2144 = {"Fuyang" "Fuyang"}
+
+# North Hebei
+
+703 = {"Rehe" "Rehe"}
+1816 = {"Beijing" "Beijing"}
+2136 = {"Xuanhua" "Xuanhua"}
+4194 = {"Yongping" "Yongping"}
+
+# North Henan
+
+688 = {"Kaifeng" "Kaifeng"}
+692 = {"Huaiqing" "Huaiqing"}
+1836 = {"Luoyang" "Luoyang"}
+
+# North Jiangsu
+
+2141 = {"Xuzhou" "Xuzhou"}
+2142 = {"Huai'an" "Huai'an"}
+4196 = {"Haizhou" "Haizhou"}
+
+# Shaanxi
+
+689 = {"Hanzhong" "Hanzhong"}
+700 = {"Xi'an" "Xi'an"}
+2179 = {"Yan'an" "Yan'an"}
+4198 = {"Fengxiang" "Fengxiang"}
+
+# Shandong
+
+690 = {"Qingzhou" "Qingzhou"}
+691 = {"Jinan" "Jinan"}
+2138 = {"Wuding" "Wuding"}
+2139 = {"Laizhou" "Laizhou"}
+2140 = {"Yanzhou" "Yanzhou"}
+
+# Shanxi
+
+693 = {"Taiyuan" "Taiyuan"}
+694 = {"Pingyang" "Pingyang"}
+697 = {"Datong" "Datong"}
+2177 = {"Ningwu" "Ningwu"}
+2178 = {"Lu'an" "Lu'an"}
+
+# South Hebei
+
+695 = {"Hejian" "Hejian"}
+696 = {"Baoding" "Baoding"}
+2137 = {"Daming" "Daming"}
+4195 = {"Zhending" "Zhending"}
+
+# South Henan
+
+687 = {"Nanyang" "Nanyang"}
+2175 = {"Runing" "Runing"}
+2176 = {"Kaifeng" "Kaifeng"}
+
+# West Gansu
+
+707 = {"Yumen" "Yumen"}
+708 = {"Zhangye" "Zhangye"}
+2182 = {"Liangzhou" "Liangzhou"}
+2184 = {"Xining" "Xining"}
+
+## SOUTH CHINA
+
+# East Guangdong
+
+667 = {"Guangzhou" "Guangzhou"}
+668 = {"Aomen" "Aomen"}
+2156 = {"Chaozhou" "Chaozhou"}
+2157 = {"Huizhou" "Huizhou"}
+2158 = {"Shaoguan" "Shaoguan"}
+
+# Fujian
+
+669 = {"Fuzhou" "Fuzhou"}
+1829 = {"Quanzhou" "Quanzhou"}
+2152 = {"Jianning" "Jianning"}
+2153 = {"Tingzhou" "Tingzhou"}
+
+# Guangxi
+
+664 = {"Lingyun" "Lingyun"}
+1840 = {"Guilin" "Guilin"}
+2162 = {"Wuzhou" "Wuzhou"}
+2163 = {"Liuzhou" "Liuzhou"}
+2164 = {"Namning" "Namning"}
+
+# Hubei
+
+681 = {"Yichang" "Yichang"}
+682 = {"Wuchang" "Wuchang"}
+2171 = {"Xiangyang" "Xiangyang"}
+2172 = {"Jingzhou" "Jingzhou"}
+4197 = {"Huangzhou" "Huangzhou"}
+
+# Hunan
+
+671 = {"Changsha" "Changsha"}
+672 = {"Wuling" "Wuling"}
+2173 = {"Yuanling" "Yuanling"}
+2174 = {"Hengyang" "Hengyang"}
+
+# Jiangxi
+
+670 = {"Ganzhou" "Ganzhou"}
+683 = {"Nanchang" "Nanchang"}
+1833 = {"Ji'an" "Ji'an"}
+2151 = {"Poyang" "Poyang"}
+
+# South Anhui
+
+686 = {"Anqing" "Anqing"}
+2146 = {"Ningguo" "Ningguo"}
+2147 = {"Huizhou" "Huizhou"}
+
+# South Jiangsu
+
+685 = {"Yangzhou" "Yangzhou"}
+1821 = {"Nanjing" "Nanjing"}
+1822 = {"Suzhou" "Suzhou"}
+2145 = {"Zhenjiang" "Zhenjiang"}
+
+# Taiwan
+
+2154 = {"Danshui" "Keelung"}
+2155 = {"Taichung" "Taichung"}
+738 = {"Tainan" "Tainan"}
+
+# West Guangdong
+
+665 = {"Shiuhing" "Shiuhing"}
+666 = {"Jingzhou" "Jingzhou"}
+2159 = {"Leizhou" "Leizhou"}
+2160 = {"Sanya" "Yazhou"}
+2161 = {"Beihai" "Lianzhou"}
+
+# Zhejiang
+
+684 = {"Hangzhou" "Hangzhou"}
+1824 = {"Wenzhou" "Wenzhou"}
+2148 = {"Shaoxin" "Shaoxin"}
+2149 = {"Ningbo" "Ningbo"}
+2150 = {"Jinhua" "Jinhua"}
+
+## TIBET
+
+# Amdo
+
+705 = {"Jiegu" "Jiegu"}
+706 = {"Chaidamu" "Chaidamu"}
+2134 = {"Tongren" "Tongren"}
+4204 = {"Anding" "Anding"}
+
+# Bhutan
+
+565 = {"Paluo" "Paluo"}
+4481 = {"Punaka" "Punaka"}
+4482 = {"Xijing" "Youkasuomu"}
+
+# Kham
+
+678 = {"Kangding" "Kangding"}
+2131 = {"Changdu" "Changdu"}
+2132 = {"Mangkang" "Mangkang"}
+2133 = {"Deqingzhen" "Deqingzhen"}
+2135 = {"Ganzi" "Ganzi"}
+
+# Ngari
+
+2128 = {"Zhapalang" "Zhapalang"}
+4516 = {"Pulang" "Pulang"}
+4520 = {"Rituzhen" "Rituzhen"}
+
+# Tsang
+
+676 = {"Rikaze" "Rikaze"}
+4514 = {"Sajiapai" "Sajiapai"}
+4515 = {"Jilong" "Jilong"}
+4518 = {"Zupu" "Zupu"}
+
+# U
+
+677 = {"Luoxie" "Luoxie"}
+2130 = {"Linzhi" "Linzhi"}
+4205 = {"Naqu" "Naqu"}
+4517 = {"Naidong" "Naidong"}
+4519 = {"Dangxiong" "Dangxiong"}
+
+## CENTRAL ASIA
+
+# Central Altishahr
+
+712 = {"Akesu" "Akesu"}
+2121 = {"Qiuci" "Qiuci"}
+2192 = {"Kuerle" "Kuerle"}
+
+# Kashgar
+
+739 = {"Kashi" "Kashi"}
+2124 = {"Yerqiang" "Yerqiang"}
+4209 = {"Bachu" "Bachu"}
+4210 = {"Xincheng" "Xincheng"}
+
+# Shanshan
+
+710 = {"Hetian" "Hetian"}
+711 = {"Qiemo" "Qiemo"}
+2123 = {"Ruoqiang" "Ruoqiang"}
+4693 = {"Mugala" "Mugala"}
+
+## MONGOLIA
+
+
+
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Yuzhen"   
+869 = "Dingzhan"   
+2021 = "Fengkougang"   
+2476 = "Zhanghuaguan"   
+4637 = "Jinmen"   
+     
+# APACHERIA    
+     
+879 = "Yinde"   
+2492 = "Houwu"   
+4634 = "Qulian"   
+     
+# ARIZONA    
+     
+867 = "Yangzuoshan"   
+876 = "Ningmen"   
+877 = "Heren"   
+2491 = "Lecheng"   
+4633 = "Tongzhuang"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Jiaoyuan"   
+866 = "Jinci"   
+2620 = "Nianwen"   
+4639 = "Kuishan"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Zangu"   
+2478 = "Changhua"   
+4635 = "Bishan"   
+4636 = "Kaiyi"   
+     
+# COLORADO PLATEU   
+     
+875 = "Huogu"   
+878 = "Dingnei"   
+2493 = "Xiaqin"   
+2494 = "Zhongshan"   
+     
+# NEW MEXICO   
+     
+880 = "Guaizhang"   
+881 = "Shiguang"   
+2495 = "Gaocheng"   
+4631 = "Shuntu"   
+4632 = "Shanren"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Xiaoan"   
+2477 = "Shanjing"   
+2479 = "Shenlong"   
+2480 = "Huihua"   
+4638 = "Dunkui"   
+     
+# SONORA    
+     
+862 = "Yajin"   
+2616 = "Huangdepo"   
+4577 = "Chengxia"   
+4649 = "Qingqiang"   
+4650 = "Dunshan"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Meizhuang"   
+2576 = "Beiyongguan"   
+2577 = "Yi'zhou"   
+2578 = "Chiyue Dao"   
+2579 = "Lutuofu"   
+     
+# GREENLAND    
+     
+1104 = "Baichuan"   
+1105 = "Beichuan"   
+     
+# HURONIA    
+     
+988 = "Daomin"   
+989 = "Huding"   
+2585 = "Pingxin"   
+2670 = "Pingshui"   
+     
+# LABRADOR    
+     
+997 = "Songzhou"   
+2574 = "Hanchuan"   
+2575 = "Chengxingfeng"   
+     
+# LAURENTIA    
+     
+992 = "Dugu"   
+2581 = "Yi'lan"   
+4894 = "Huitong"   
+     
+# LOWER ACADIA   
+     
+982 = "Xiezhua Dao"   
+984 = "Yudi"   
+2568 = "Xiangmin"   
+2569 = "Youchang"   
+4891 = "Xiangzhuang"   
+     
+# LOWER CANADA   
+     
+993 = "Xuelaijia"   
+2584 = "Tanwu"   
+4895 = "Liuyang"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Chenggao"   
+981 = "Ziyuan"   
+2573 = "Zaolu"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Jufu"   
+4892 = "Taikang"   
+4897 = "Yusu"   
+     
+# QUEBEC    
+     
+986 = "Zhugang"   
+994 = "Fengchang"   
+995 = "Lingzifeng"   
+2582 = "Chaochuan"   
+2583 = "Huali"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Wenyang"   
+2571 = "Qiushuang"   
+4896 = "Chongren"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Langshan"   
+2012 = "Xinxun"   
+2580 = "Dongfu"   
+2580 = "Dongfu"   
+     
+# UPPER ACADIA   
+     
+983 = "Zhou Dao"   
+985 = "Longwan"   
+2572 = "Xinkang"   
+     
+# UPPER CANADA   
+     
+987 = "Luqiao"   
+2586 = "Zhoushuipo"   
+2587 = "Shangmin"   
+     
+# UPPER ONTARIO   
+     
+991 = "Kaidifang"   
+1001 = "Lianghu"   
+1007 = "Gangkang"   
+2015 = "Huanhumin"   
+2671 = "Yuantai"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Ledu"   
+2658 = "Haimen"   
+2659 = "Xingpu"   
+4620 = "Nan'zhang"   
+4621 = "Gaoquan"   
+     
+# EAST CUBA   
+     
+486 = "Feng'cheng"   
+2654 = "Jinping"   
+2655 = "Shishui"   
+2656 = "Yangwu"   
+     
+# GREATER ANTILLES   
+     
+481 = "Wufu Yu"   
+487 = "Baonan Dao"   
+491 = "Xiangtu"   
+492 = "Qingcheng Dao"   
+     
+# HAITI    
+     
+488 = "Xuanyun"   
+489 = "Weiyang"   
+4618 = "Xinqi"   
+4619 = "Qingkou"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Cui Yu"   
+494 = "Dui Yu"   
+495 = "Jinlang Yu"   
+496 = "Shun Yu"   
+1881 = "Hong YU"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Huankou Changsha"   
+483 = "Qukou Shitang"   
+     
+# WEST CUBA   
+     
+484 = "Haining"   
+485 = "Kangqing"   
+4622 = "Enmin"   
+4623 = "Shanggang"   
+4624 = "Hubai"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Wanlan Yu"   
+498 = "Can Jiao"   
+499 = "Yi Jiao"   
+500 = "Qingzhu Yu"   
+501 = "Tao Yu"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Qingweilan"   
+977 = "Duchangdong"   
+2613 = "Dongyeren"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Mianyu"   
+2486 = "Yanghuan"   
+2487 = "Linmi"   
+2488 = "Huangluan"   
+     
+# HECATE STRAIT   
+     
+975 = "Xinxi'an"   
+2022 = "Haida Dao"   
+2609 = "Baiwu"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Yang'shan"   
+2604 = "Dingqiu"   
+2605 = "Xueqiu"   
+2606 = "Chading"   
+2607 = "Xuesong"   
+     
+# OREGON    
+     
+872 = "Yongqiang"   
+2481 = "Fangzhou"   
+2482 = "Sunlin"   
+2483 = "Huangtu"   
+     
+# PUGET SOUND   
+     
+874 = "Heijing"   
+2484 = "Taitongkou"   
+2485 = "Qingxue"   
+     
+# SNAKE RIVER   
+     
+2019 = "Mizhou"   
+2020 = "Gaocaocheng"   
+2489 = "Shanxue"   
+2490 = "Xianchi"   
+2506 = "Xinshan"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Yun Dao"   
+973 = "Songlin"   
+974 = "Xuefeng"   
+2610 = "Meigang"   
+     
+# WESTERN ALASKA   
+     
+978 = "Qinsu"   
+979 = "Beiqu Changsha"   
+2611 = "Fuxinggang"   
+2612 = "Dongliugui"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Lin'an"   
+2632 = "Heshang"   
+2650 = "Liquya"   
+     
+# CHIAPAS    
+     
+2635 = "Feng'zhou"   
+2638 = "Puzhang"   
+2649 = "Kaiqin"   
+4585 = "Shan'he"   
+4586 = "Guyu"   
+     
+# COSTA RICA   
+     
+836 = "Pinghaishan"   
+2663 = "Zuolai"   
+4597 = "Dejiang"   
+     
+# EAST YUCATAN   
+     
+2634 = "Qing'gang"   
+2652 = "Yikai"   
+4588 = "Jingguan"   
+4591 = "Hongju"   
+     
+# GUATEMALA    
+     
+839 = "Shanling"   
+841 = "Fanpo"   
+2653 = "Shanliao"   
+4587 = "Shunshan"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Xiaochaoge"   
+843 = "Dinglin"   
+2636 = "Jiling"   
+4589 = "Pinglin"   
+4594 = "Linxi"   
+     
+# HONDURAS    
+     
+840 = "Xingye"   
+2637 = "Waifan"   
+2640 = "Langzhou"   
+2662 = "Shukang"   
+4593 = "Lifeng"   
+     
+# NICARAGUA    
+     
+837 = "Jiehai"   
+838 = "Misiduo"   
+2660 = "Zhongshuidao"   
+2661 = "Deteng"   
+4592 = "Bi'qing"   
+     
+# WEST YUCATAN   
+     
+846 = "Yongfeng"   
+2633 = "Xiuyang"   
+2651 = "Linhai"   
+4590 = "Wuhua"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Tongyang"   
+2664 = "Lincheng"   
+2819 = "Dalian"   
+4595 = "Haizhen"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Yumin"   
+916 = "Lanze"   
+917 = "Kangzhai"   
+4903 = "Shao'ercun"   
+     
+# INDIANA    
+     
+942 = "Wuchao"   
+943 = "Xiayoumin"   
+2523 = "Ledong"   
+2524 = "Xinmi"   
+4922 = "Wanrong"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Shimin"   
+911 = "Danfeng"   
+2517 = "Qihuo"   
+2518 = "Zuohua"   
+4898 = "Wangting"   
+     
+# MICHIGAN    
+     
+944 = "Huoshou"   
+945 = "Huxiang"   
+2521 = "Huwan"   
+2522 = "Binshui"   
+     
+# OHIO    
+     
+946 = "Milian"   
+947 = "Shuisu"   
+948 = "Tuanyang"   
+2525 = "Wubao"   
+4907 = "Dengfeng"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Lanting"   
+2520 = "Wu'meng"   
+4904 = "Lancun"   
+     
+# WISCONSIN    
+     
+912 = "Li'nan"   
+913 = "Lang'he"   
+914 = "Taiguan"   
+4899 = "Hushui"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Pingye"   
+2504 = "Lancheng"   
+2505 = "Cezhou"   
+     
+# Central Plains   
+     
+901 = "Langcheng"   
+903 = "Liuen"   
+2009 = "Chengtang"   
+2508 = "Jusanhe"   
+4915 = "Shouchuan"   
+     
+# HIGH PLAINS   
+     
+889 = "Yeniudi"   
+2507 = "Huangyuan"   
+2625 = "Chicheng"   
+     
+# IOWA    
+     
+905 = "Xifeng"   
+2513 = "Dongshang"   
+4900 = "Baibao"   
+4905 = "Wuxian"   
+     
+# KANSAS    
+890 = "Jiping"   
+898 = "Sa'zhou"   
+2672 = "Liangan"   
+4914 = "Gongan"   
+     
+# MINNESOTA    
+     
+904 = "Wangdu"   
+908 = "Shanxian"   
+2512 = "Guyuan"   
+4901 = "Jianxi"   
+     
+# NORTH DAKOTA   
+     
+906 = "Jihefang"   
+909 = "Mandan"   
+2510 = "Shuixian"   
+4918 = "Ruikang"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Zhengjiakou"   
+2007 = "Chenghui"   
+2008 = "Yuanta"   
+4916 = "Qing'he"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Hehu"   
+892 = "Xiwang"   
+896 = "Huoji"   
+4908 = "Xutong"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Zhuimin"   
+2501 = "Pengang"   
+2502 = "Xinxing"   
+2503 = "Yuhe"   
+4917 = "Zhenghe"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Dixian"   
+2588 = "Tangzhou"   
+2589 = "Beimin"   
+2590 = "Yi'de"   
+2591 = "Zhenjiu"   
+     
+# ALBERTA    
+     
+2004 = "Heizu"   
+2017 = "Xiangxing"   
+2018 = "Tusu"   
+2602 = "Hongdongpo"   
+     
+# ASSINIBOIA    
+     
+2005 = "Zhouping"   
+2596 = "Lingdongcheng"   
+2598 = "Bei He"   
+4920 = "Jiayi"   
+     
+# ATHABASCA    
+     
+2599 = "Fantou"   
+2600 = "Cangzhou"   
+2601 = "Danzhang"   
+2603 = "Lukun"   
+     
+# HUDSON BAY   
+     
+1005 = "Fanggan"   
+1006 = "Luhe"   
+1009 = "Youan"   
+2592 = "Houtonggang"   
+2594 = "Fangpan"   
+     
+# JAMES BAY   
+     
+998 = "Qingshuihu"   
+999 = "Duhu"   
+1000 = "Changwan"   
+1003 = "Beiwan"   
+1004 = "Shixiong"   
+     
+# MANITOBA    
+     
+1008 = "Binji"   
+1010 = "Chongan"   
+1011 = "Xinghu"   
+2593 = "Yuanxing"   
+4919 = "Wu'chang"   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Yinyangniu"   
+2511 = "Tianmin"   
+4902 = "Huanggang"   
+     
+# SASKATCHEWAN    
+     
+1813 = "Susheng"   
+2595 = "Weichang"   
+2597 = "Da'hui"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Miru"   
+4646 = "Fuping"   
+4647 = "Fengli"   
+4648 = "Yuancheng"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Anning"   
+2642 = "Lianghe"   
+4642 = "Changyu"   
+     
+# GUANAJUATO    
+     
+853 = "Pingzhang"   
+2615 = "Yanglin"   
+4640 = "Taijia"   
+4641 = "Beizipo"   
+     
+# GUERRERO    
+     
+2627 = "Baogang"   
+2645 = "Jincheng"   
+2648 = "Shilin"   
+     
+# HUASTECA    
+     
+848 = "Puyu"   
+2641 = "Yuanzou"   
+4598 = "Xingliao"   
+     
+# JALISCO    
+     
+854 = "Tuwu"   
+2617 = "Huiqiao"   
+2621 = "Pingmo"   
+2657 = "Huining"   
+4576 = "Xingyang"   
+     
+# MEXICO    
+     
+852 = "Jiaoyin"   
+2626 = "Pingyin"   
+4570 = "Jinshan"   
+4571 = "Tongning"   
+4572 = "Qihua"   
+     
+# MICHOAVAN    
+     
+2622 = "Changlin"   
+2623 = "Dunpan"   
+2624 = "Yingshan"   
+4573 = "Jinanhe"   
+4574 = "Yiyun"   
+     
+# MIXTECA    
+     
+847 = "Shan'jing"   
+849 = "Jingang"   
+2646 = "Xiaoguan"   
+4581 = "Shangshan"   
+     
+# NAYARIT    
+     
+855 = "Songcheng"   
+859 = "Donglongpo"   
+4578 = "Changbojin"   
+     
+# Oaxaca    
+     
+844 = "Shu'nan"   
+2629 = "Saian"   
+4584 = "Yangrao"   
+     
+# PUEBLA    
+     
+850 = "Gaoding"   
+2628 = "Leguang"   
+2644 = "Chizhong"   
+4582 = "Jiaoping"   
+4583 = "Xiangfei"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Heshan"   
+2643 = "Mengshan"   
+4575 = "Zhencheng"   
+4579 = "Binbei"   
+4580 = "Nanku"   
+     
+# VERACRUZ    
+     
+2630 = "Ping'yang"   
+2631 = "Xinshui"   
+2647 = "Dingyang"   
+     
+# ZACATECAS    
+     
+856 = "Zecang"   
+4643 = "Menhe"   
+4645 = "Jinhan"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Chunyi"   
+925 = "Yang'min"   
+2531 = "Lan'zhou"   
+2532 = "Luxun"   
+4883 = "Xiangliu"   
+     
+# ARKANSAS    
+     
+894 = "Kangduo"   
+895 = "Jiuwanfang"   
+897 = "Lianbei"   
+4885 = "Fanhua"   
+4923 = "Yuanlang"   
+     
+# KENTUCKY    
+     
+941 = "Jinshuang"   
+2526 = "Hangyuan"   
+4888 = "Dajingzhuang"   
+     
+# LOUISIANA    
+     
+893 = "Yixing"   
+2014 = "He'hua"   
+2516 = "Haijiang"   
+     
+# MISSISSIPPI    
+     
+919 = "Zhenfan"   
+920 = "Hemin"   
+2528 = "Xinting"   
+2529 = "Sian"   
+4884 = "Shenze"   
+     
+# OZARKS    
+     
+899 = "Zhongshui"   
+2509 = "Huiwu"   
+2515 = "Lingshui"   
+4886 = "Panglin"   
+     
+# TENNESSEE    
+     
+918 = "Fuhe"   
+934 = "Linglong"   
+939 = "Yuansui"   
+4913 = "Yingsha"   
+     
+# UPPER LOUISIANA   
+     
+900 = "Tangfang"   
+902 = "Zhaotang"   
+2514 = "Yikang"   
+4906 = "Muyang"   
+     
+# VANDALIA    
+     
+951 = "Fuchengpo"   
+2551 = "Fengmen"   
+4889 = "Doucheng"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Baoli"   
+4887 = "Baxiang"   
+4921 = "Yuchi"   
+     
+# WEST FLORIDA   
+     
+921 = "Youpu"   
+922 = "Puhuigang"   
+923 = "Yiping"   
+2530 = "Wenlin"   
+2533 = "Xizongkou"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Lianzhi"   
+2555 = "Yangtu"   
+4875 = "Yun'xi"   
+     
+# CONNECTICUT    
+     
+967 = "Pingqing"   
+2010 = "Zhaomin"   
+2560 = "Qin'an"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Gui'cheng"   
+957 = "Kouyong"   
+962 = "Shugu"   
+2023 = "Tanglai"   
+     
+# EASTERN MAINE   
+     
+971 = "Dongli"   
+2566 = "Kunzhou"   
+2567 = "Wukun"   
+     
+# HUDSON VALLEY   
+     
+961 = "Enfeng"   
+963 = "Hangping"   
+964 = "Chengkou"   
+2559 = "Huxi"   
+4912 = "Tianbian"   
+     
+# IRIQUOISIA    
+     
+958 = "Xiongtang"   
+959 = "Taiyun"   
+960 = "Changwu"   
+4872 = "Dabao"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Chaohe"   
+2563 = "Hudong"   
+4871 = "Zhaoping"   
+     
+# MAINE    
+     
+2013 = "Shunzhou"   
+2565 = "Nancun"   
+4873 = "Nanyue"   
+     
+# MARYLAND    
+     
+953 = "Haidonggang"   
+2553 = "Ji'dong"   
+2554 = "Chang'de"   
+     
+# MASSACHUSETTS    
+     
+966 = "Lubei"   
+968 = "Xizhao"   
+2561 = "Xuyi"   
+4874 = "Yong'feng"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Yingcheng"   
+2562 = "Qingzuo"   
+2564 = "Zugu"   
+     
+# NEW YORK   
+     
+965 = "Huihai"   
+2558 = "Huanlou"   
+2639 = "Shunshui"   
+     
+# WESTYLVANIA    
+     
+955 = "Wugan"   
+2556 = "Tanxiang"   
+2557 = "Dingduanfeng"   
+4876 = "Shimen"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Lihui"   
+864 = "Kangqiao"   
+2618 = "Gulie"   
+4644 = "Xianxiang"   
+     
+# COAHUILA    
+     
+861 = "Suixing"   
+864 = "Kangqiao"   
+2666 = "Bangshui"   
+2667 = "Yishan"   
+4606 = "Huanggu"   
+     
+# COASTAL PRARIE   
+     
+884 = "Honggong"   
+888 = "Laian"   
+2665 = "Shuiciguan"   
+2669 = "Hanqiu"   
+     
+# LLANO ESTACADO   
+     
+882 = "Shanlin"   
+885 = "Taiya"   
+2496 = "Geyang"   
+2497 = "Yanghan"   
+4630 = "Hesha"   
+     
+# PECOS    
+     
+2498 = "Qunluo"   
+4628 = "Yulu"   
+4629 = "Hanling"   
+     
+# TAMAULIPAS    
+     
+858 = "Gaoqiu"   
+2499 = "Guigang"   
+2614 = "Duowen"   
+2668 = "Fusangjiang"   
+     
+# TEXAS    
+     
+883 = "Qiancheng"   
+887 = "Wu'ke"   
+4627 = "Chuliang"   
+4911 = "Xiaozhou"   
+     
+# TEXAS PLAINS   
+     
+886 = "Huanmu"   
+2500 = "Zhangying"   
+4909 = "Suixian"   
+4910 = "Yuanan"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Tingrong"   
+928 = "An'qing"   
+2534 = "Zeguan"   
+     
+# FLORIDA    
+     
+926 = "Xuanhu"   
+2535 = "Zenan"   
+2536 = "Lianshang"   
+4625 = "Dongpan"   
+4626 = "Xipan"   
+     
+# GEORGIA    
+     
+929 = "Suyu"   
+2537 = "Xichi"   
+2538 = "Chengtian"   
+2539 = "Zegang"   
+4880 = "Lanling"   
+     
+# GREAT VALLEY   
+     
+949 = "Nanding"   
+2011 = "Guangcheng"   
+2548 = "Zaobei"   
+2552 = "Shengnan"   
+     
+# NORTH CAROLINA   
+     
+937 = "Taixing"   
+938 = "Litang"   
+2546 = "Xietang"   
+2547 = "Chang'yi"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Xiaohan"   
+936 = "Changxiangfeng"   
+2527 = "Xinxiang"   
+4879 = "Wushan"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Huashun"   
+2545 = "Boyang"   
+4878 = "Rudong"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Cangding"   
+2542 = "Changxu"   
+2543 = "Dengshi"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Wenshi"   
+2541 = "Luping"   
+4882 = "Dongming"   
+     
+# UPPER GEORGIA   
+     
+930 = "Linping"   
+931 = "Ningyu"   
+2540 = "Renshan"   
+4881 = "Haiting"   
+     
+# VIRGINIA    
+     
+950 = "Longankou"   
+952 = "Panfu"   
+2549 = "Hexiang"   
+2550 = "Haixuanshan"   
+4877 = "Baokang"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Fengji"   
+2935 = "Dongyong"   
+2938 = "Dachang"   
+     
+# AMAZON    
+     
+2889 = "Danyang"   
+2930 = "Mengtong"   
+2933 = "Wurufeng"   
+2934 = "Jin'an"   
+     
+# BAHIA    
+     
+756 = "Jing'cheng"   
+757 = "Fandao"   
+760 = "Yudun"   
+2914 = "Mihua"   
+2916 = "Tanghuan"   
+     
+# CEARA    
+     
+750 = "Dehuang"   
+751 = "Xiangtian"   
+753 = "Debaoya"   
+     
+# DIAMANTINA    
+     
+759 = "Luanqing"   
+2891 = "Caoyang"   
+2898 = "Taiyao"   
+     
+# GOIAS    
+     
+758 = "Tangying"   
+2906 = "Huaiwu"   
+2907 = "Fugui"   
+2908 = "Bo'jiang"   
+2919 = "Huahe"   
+     
+# GRAO PARA   
+     
+748 = "Shanjingya"   
+2890 = "Suiyu"   
+2928 = "Ningzhou"   
+2929 = "Longdongya"   
+     
+# GUAPORE    
+     
+2900 = "Guang'zhou"   
+2901 = "Sui'zhou"   
+2902 = "Lanxi"   
+     
+# GUAYRA    
+     
+768 = "Gaoning"   
+2895 = "Wuyu"   
+2897 = "Liangfu"   
+     
+# MARANHAO    
+     
+749 = "Shuangping"   
+2923 = "Angou"   
+2924 = "Taimen"   
+2926 = "Lüru"   
+2927 = "Wangning"   
+     
+# MATO GROSSO   
+     
+2888 = "Xijing"   
+2903 = "Yan'tai"   
+2904 = "Ping'li"   
+2905 = "Zhenglan"   
+     
+# MINAS GERAIS   
+     
+765 = "Xiangjiu"   
+2892 = "Nan'cheng"   
+2894 = "Yangcifeng"   
+2899 = "Chenbin"   
+     
+# OFAIE    
+     
+2881 = "Shuide"   
+2893 = "Wenqi"   
+2920 = "Shang'shan"   
+     
+# PERNAMBUCO    
+     
+754 = "Lianxiang"   
+755 = "Longyou"   
+2912 = "Ji-nan"   
+2921 = "Sudao"   
+2922 = "Fengyun"   
+     
+# PIAUI    
+752 = "Caiguang"   
+2886 = "Taizhigang"   
+2925 = "Lingxi"   
+     
+# PONTAL    
+     
+2909 = "Daichang"   
+2910 = "Xingchang"   
+2911 = "Xibai"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Zehai"   
+762 = "Rugang"   
+763 = "Shanshui"   
+764 = "Lianhua"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Chunlanya"   
+2879 = "Xiaolian"   
+2884 = "Lunshan"   
+2887 = "Sining"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Tainong"   
+2913 = "Dong'yu"   
+2915 = "Dingfan"   
+2917 = "Pushuijiang"   
+2918 = "Huanggao"   
+     
+# SAO PAULO   
+     
+766 = "Liuxiang"   
+769 = "Chenggang"   
+2896 = "Changlian"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Yifeng"   
+832 = "Qian'an"   
+4602 = "Feng-zhou"   
+4603 = "Dejing"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Ju'jing"   
+2810 = "Fulan"   
+2813 = "Zhuzhou"   
+4613 = "Yangzhang"   
+4614 = "Fuming"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Qingquan"   
+2816 = "Xishu"   
+4605 = "Linsu"   
+     
+# COQUIVACOA    
+     
+828 = "Chaodong"   
+829 = "Banhu"   
+2806 = "Xuanwu"   
+4599 = "Kangning"   
+4601 = "Yangdagu"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Jiangdafeng"   
+827 = "Ciwei"   
+2817 = "Jianshoupo"   
+4600 = "Ping'shan"   
+4607 = "Xiqiugu"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Chongguo"   
+2809 = "Fuyi"   
+2939 = "Luoyu"   
+4615 = "Delin"   
+     
+# GUYANA    
+     
+502 = "Li Dao"   
+743 = "Qinxian"   
+744 = "Masi"   
+2803 = "Wu'zhou"   
+     
+# MARACAIBO    
+     
+830 = "Peipumen"   
+2807 = "Luyumen"   
+4609 = "Tong'ning"   
+4610 = "Liwan"   
+4611 = "Cangxin"   
+     
+# POPAYAN    
+     
+823 = "Quanqu"   
+826 = "Bianshan"   
+2818 = "Tongliang"   
+4596 = "Gangqiguan"   
+4604 = "Taixi"   
+     
+# SURINAME    
+     
+745 = "Yurendi"   
+746 = "Jiangshun"   
+2937 = "Xiashui"   
+     
+# UPPER GUYANA   
+     
+742 = "Linning"   
+2804 = "Sunyin"   
+2811 = "Linqiu"   
+2931 = "Ji-an"   
+4617 = "Puxian"   
+     
+# VENEZUELA    
+     
+741 = "Puzhao"   
+831 = "Zhouyang"   
+2808 = "Haigao"   
+4612 = "Hangqing"   
+4616 = "Cuihai"   
+     
+# WESTERN LLANOS   
+     
+2812 = "He'tong"   
+2814 = "Anzi"   
+2815 = "Jiankang"   
+4608 = "Luyuan"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Fenggang"   
+786 = "Anhai"   
+2868 = "Wangpu"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Heijiang"   
+773 = "Xingze"   
+2850 = "Jiaji"   
+2851 = "Jin'ping"   
+2852 = "Xinyang"   
+     
+# BUENOS AIRES   
+     
+778 = "Yangfan "   
+2846 = "Shunhu"   
+2848 = "Zhangli"   
+2849 = "Nanzhen"   
+     
+# CENTRAL CHILE   
+     
+784 = "Nanfan"   
+787 = "Lang'cheng"   
+2862 = "Xiexian"   
+     
+# CUYO    
+     
+2843 = "Haicangling"   
+2844 = "Wujiang"   
+2845 = "Minfenfeng"   
+2847 = "Ningqiu"   
+2877 = "Yanzong"   
+     
+# MESOPOTAMIA    
+     
+777 = "Qingjiang"   
+2853 = "Shouping"   
+2855 = "Yang'lin"   
+2858 = "Jilun"   
+2859 = "Shanyi"   
+     
+# NEHEUNKEN    
+     
+785 = "Lan'cheng"   
+2867 = "Guimin"   
+2871 = "Jiang'an"   
+2872 = "Moshan"   
+     
+# PATAGONIA    
+     
+781 = "Xing'lian"   
+782 = "Jiaozongmen"   
+2869 = "Zongqumen"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Tuxin"   
+2870 = "Woxian"   
+2875 = "Laozhou"   
+2876 = "Xingyi"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Yuanyang Yu"   
+2025 = "Gu Yu"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Changnan Xingtang"   
+2873 = "Shishan"   
+2874 = "Tuanyu Xingtang"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Anshui"   
+2860 = "Hufeng"   
+2861 = "Xing'an"   
+2865 = "Guang'yuan"   
+2866 = "Yaoping"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Shengge"   
+804 = "Juanhu"   
+2831 = "Shun'an"   
+2947 = "Xiuningshan"   
+     
+# CAJAMARCA    
+     
+813 = "Pingbao"   
+2824 = "Dinghuo"   
+2825 = "Daofeng"   
+2943 = "Qingdongfeng"   
+     
+# CHIMOR    
+     
+812 = "Shungang"   
+2002 = "Risheng Yu"   
+2821 = "Chuntai"   
+2822 = "Chuanan"   
+2826 = "Anhongshan"   
+     
+# HUANUCO    
+     
+809 = "Ningdong"   
+810 = "Tai'ning"   
+811 = "Ningfeng"   
+814 = "Fuzhao"   
+2827 = "Jingshan"   
+     
+# IQUITOS    
+     
+815 = "Caoan"   
+818 = "Yingzou"   
+821 = "Qiushun"   
+     
+# KUNTISUYU    
+     
+807 = "Quanfufeng"   
+808 = "Dingyangfeng"   
+2829 = "Gufu"   
+2830 = "Shumu"   
+     
+# PERUAN COAST   
+     
+805 = "Qiutongshan"   
+806 = "Lingming"   
+2828 = "Qutian"   
+     
+# QUITO    
+     
+816 = "Koushan"   
+817 = "Qianzhufeng"   
+819 = "Changmo"   
+820 = "Yingwu"   
+2820 = "Luancheng"   
+     
+# UCAYALI    
+     
+2823 = "Dongtie"   
+2944 = "Zhaoxia"   
+2945 = "Lianhe"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Gongshan"   
+801 = "Fulong"   
+2834 = "Jingjifeng"   
+     
+# CHACO    
+     
+790 = "Micang"   
+2854 = "Ganhua"   
+2878 = "Libao"   
+     
+# JUJUY    
+     
+794 = "Dingnan"   
+2837 = "Heliao"   
+2839 = "Daoshan"   
+     
+# MOXOS    
+     
+803 = "Mangzhou"   
+2832 = "Xiyuan"   
+2833 = "Xianling"   
+     
+# NORTHERN CHILE   
+     
+792 = "Yagang"   
+793 = "Taifang"   
+796 = "Youshui"   
+2840 = "Zhengang"   
+2841 = "Ding'lin"   
+     
+# PARAGUAY    
+     
+775 = "Changping"   
+776 = "Pingjin"   
+799 = "Changzhou"   
+2882 = "Wenling"   
+2883 = "Gu'an"   
+     
+# POTOSI    
+     
+795 = "Xingyou"   
+797 = "Dianzhou"   
+2940 = "Fenghu"   
+2946 = "Punan"   
+     
+# TUCUMAN    
+     
+791 = "Hui'shan"   
+2836 = "Ningzhi"   
+2842 = "Changmin"   
+     
+# UPPER PERU   
+     
+2835 = "Anhei"   
+2838 = "Ganfu"   
+2941 = "Tianshui"   
+2942 = "Gao'ning"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Qinglong"   
+4852 = "Xinfeng"   
+4853 = "Yongning"   
+4854 = "Baoan"   
+     
+# CAPRICORNIA    
+     
+2730 = "Bama"   
+2731 = "Yinggedi"   
+2732 = "Nanlu"   
+4848 = "Mingjin"   
+4849 = "Yongshun"   
+     
+# ILLAWARA    
+     
+1090 = "Anfeng"   
+4857 = "Luoyuan"   
+4858 = "Jiayu"   
+4859 = "Dongguang"   
+4860 = "Qinghe"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Chengshalin"   
+1092 = "Licheng"   
+4855 = "Zhaoan"   
+4856 = "Huichun"   
+     
+# PERTH    
+     
+1084 = "Lianzhao"   
+2727 = "Yingtong"   
+4863 = "Shangtai"   
+4864 = "Wuqiang"   
+     
+# PILBARA    
+     
+2726 = "Yongzuo"   
+4865 = "Linman"   
+4866 = "Luoshui"   
+4867 = "Fangwankou"   
+     
+# PRINCELAND    
+     
+1086 = "Daishudi"   
+2735 = "Emiaodi"   
+2736 = "Luke"   
+4862 = "Shanyin"   
+     
+# QUEENSLAND    
+     
+1093 = "Pingguan"   
+1094 = "Zangang"   
+2733 = "Lianpo"   
+4850 = "Longxing"   
+     
+# TASMANIA    
+     
+1085 = "Tianya"   
+4868 = "Jin'shan"   
+4869 = "Chang'hua"   
+     
+# TOP END   
+     
+2728 = "Shuangtai Yu"   
+2729 = "Xingxiang"   
+4846 = "Longkang"   
+4847 = "Xuanqiao"   
+     
+# VICTORIA    
+     
+1087 = "Xinjinshan"   
+1088 = "Xuannan"   
+1089 = "Jiaoyi"   
+2734 = "Gulong"   
+4861 = "Pingchuan"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1244 = "Shayu Shitang"   
+1987 = "Cangming Changsha"   
+1988 = "Shixiang Yu"   
+     
+# EAST MICRONESIA   
+     
+1241 = "Dinghai Shitang"   
+1991 = "Xinghai Changsha"   
+1993 = "Kunlü Changsha"   
+1994 = "Shanhu Yu"   
+     
+# FIJI    
+     
+1242 = "Fu Yu"   
+4937 = "Zi Shitang"   
+4938 = "Mu Yu"   
+     
+# MELANESIA    
+     
+1236 = "Xiaoyingzhou"   
+1238 = "Jingshui Shitang"   
+1239 = "Zunshi Haitang"   
+1986 = "Shuishi Yu"   
+     
+# NORTHERN POLYNESIA   
+     
+1240 = "Weiyi"   
+1997 = "Bieshan Shitang"   
+4934 = "Dongshan"   
+4935 = "Bengbu"   
+4936 = "Dongao"   
+     
+# POLYNESIA    
+     
+1243 = "Zimei Yu"   
+1989 = "Yuren Haitang"   
+1990 = "Yingshi Shitang"   
+1992 = "Yuan Yu"   
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Huafan"   
+1107 = "Maoliman"   
+2739 = "Changyunxiang"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Nanwan"   
+2737 = "Shanzong"   
+4939 = "Luo'shan"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Yingfeng"   
+1246 = "Weifeng"   
+2738 = "Shifeng"   
+     
+# WEST MICRONESIA   
+     
+1235 = "Haikou Shitang"   
+1995 = "Wanli Haitang"   
+1996 = "Gaihai Shitang"   

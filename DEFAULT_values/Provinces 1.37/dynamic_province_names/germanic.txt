@@ -1,0 +1,2962 @@
+#############################################################################################################################
+## DO NOT FORGET TO ADD GERMAN PROVINCE NAMES IN THE URALS, MONGOLIA AND KAZAKHSTAN ##
+#############################################################################################################################
+
+### EUROPE ###
+
+## GERMANY ##
+
+# Alsace
+
+75 = {"Straßburg" "Straßburg"}
+1880 = {"Sundgau" "Altkirch"}
+4765 = {"Mülhausen" "Mülhausen"}
+
+# Austria Proper
+
+133 = {"Ob der Enns" "Linz"}
+134 = {"Wien" "Wien"}
+1770 = {"Manhartsberg" "Krems"}
+4761 = {"Traungau" "Steyr"}
+4762 = {"Wienerwald" "Sankt Pölten"}
+
+# Baden
+
+72 = {"Breisgau" "Freiburg"}
+74 = {"Baden-Baden" "Baden-Baden"}
+4714 = {"Baden-Durlach" "Karlsruhe"}
+
+# Bohemia
+
+266 = {"Prag" "Prag"}
+2968 = {"Budweis" "Budweis"}
+2970 = {"Königgrätz" "Königgrätz"}
+4724 = {"Pardubitz" "Pardubitz"}
+4725 = {"Neuhaus" "Neuhaus"}
+
+# Braunschweig
+
+57 = {"Braunschweig" "Braunschweig"}
+1758 = {"Hannover" "Hannover"}
+2971 = {"Hoya" "Hoya"}
+4773 = {"Göttingen" "Göttingen"}
+
+# Carniola
+
+129 = {"Krain" "Laibach"}
+130 = {"Istrien" "Pola"}
+1769 = {"Görz" "Görz"}
+4738 = {"Triest" "Triest"}
+4751 = {"Zilli" "Zilli"}
+
+# East Bavaria
+
+76 = {"Salzburg" "Salzburg"}
+4709 = {"Passau" "Passau"}
+4760 = {"Innviertel" "Braunau am Inn"}
+
+# East Swabia
+
+68 = {"Memmingen" "Memmingen"}
+1868 = {"Augsburg" "Augsburg"}
+1872 = {"Ulm" "Ulm"}
+4711 = {"Donauwerth" "Nördlingen"}
+
+# Erzgebirge
+
+267 = {"Pilsen" "Pilsen"}
+1771 = {"Leitmeritz" "Leitmeritz"}
+2967 = {"Karlsbad" "Eger"}
+
+# Hesse
+
+78 = {"Mainz" "Mainz"}
+81 = {"Oberhessen" "Marburg"}
+1762 = {"Niederhessen" "Cassel"}
+1876 = {"Frankfurt" "Frankfurt am Main"}
+4774 = {"Fulda" "Fulda"}
+
+# Hinterpommern
+
+48 = {"Kolberg" "Kolberg"}
+2995 = {"Stolp" "Stolp"}
+4746 = {"Stargard" "Stargard"}
+
+# Inner Austria
+
+128 = {"Unterkärnten" "Klagenfurt"}
+132 = {"Steiermark" "Judenburg"}
+1863 = {"Graz" "Graz"}
+4759 = {"Oberkärnten" "Villach"}
+
+# Lower Bavaria
+
+64 = {"Landshut" "Landshut"}
+1757 = {"Oberpfalz" "Amberg"}
+2956 = {"Straubing" "Straubing"}
+2957 = {"Regensburg" "Regensburg"}
+
+# Lower Franconia
+
+71 = {"Ansbach" "Ansbach"}
+79 = {"Würzburg" "Würzburg"}
+4715 = {"Rothenburg" "Rothenburg"}
+4718 = {"Aschaffenburg" "Aschaffenburg"}
+
+# Lower Rhineland
+
+80 = {"Trier" "Trier"}
+1760 = {"Koblenz" "Koblenz"}
+1878 = {"Aachen" "Aachen"}
+4768 = {"Jülich" "Jülich"}
+
+# Lower Saxony
+
+44 = {"Hamburg" "Hamburg"}
+53 = {"Lüneburg" "Lüneburg"}
+1857 = {"Lauenburg" "Lauenburg"}
+4772 = {"Celle" "Celle"}
+
+# Lusatia
+
+60 = {"Bautzen" "Bautzen"}
+1763 = {"Niederlausitz" "Cottbus"}
+4778 = {"Görlitz" "Görlitz"}
+
+# Mecklemburg
+
+45 = {"Lübeck" "Lübeck"}
+46 = {"Rostock" "Rostock"}
+2996 = {"Wismar" "Wismar"}
+4749 = {"Strelitz" "Neustrelitz"}
+4786 = {"Prignitz" "Pankow"}
+
+# Mittelmark
+
+50 = {"Berlin" "Berlin-Cölln"}
+51 = {"Ruppin" "Neuruppin"}
+1759 = {"Potsdam" "Potsdam"}
+2993 = {"Uckermark" "Prenzlau"}
+4748 = {"Brandenburg" "Brandenburg an der Havel"}
+
+# Moravia
+
+265 = {"Brünn" "Brünn"}
+4237 = {"Olmütz" "Olmütz"}
+4726 = {"Hradisch" "Hradisch"}
+
+# Neumark
+
+49 = {"Neumark" "Landsberg an der Warthe"}
+2969 = {"Sternberg" "Frankfurt an der Oder"}
+4747 = {"Dramburg" "Dramburg"}
+
+# North Rhine
+
+83 = {"Nassau" "Weilburg"}
+84 = {"Berg" "Düsseldorf"}
+85 = {"Köln" "Köln"}
+2975 = {"Kleves" "Kleves"}
+
+# North Westphalia
+
+56 = {"Osnabrück" "Osnabrück"}
+69 = {"Dortmund" "Dortmund"}
+86 = {"Münster" "Münster"}
+2973 = {"Meppen" "Meppen"}
+
+# Palatinate
+
+77 = {"Heidelberg" "Heidelberg"}
+1761 = {"Pfalz" "Worms"}
+4767 = {"Zweibrücken" "Zweibrücken"}
+
+# Romandie
+
+165 = {"Bern" "Bern"}
+1867 = {"Waadt" "Losannen"}
+1871 = {"Wallis" "Sitten"}
+4720 = {"Genf" "Genf"}
+4721 = {"Freiburg" "Freiburg"}
+
+# Saxony
+
+59 = {"Wittenberg" "Wittenberg"}
+61 = {"Dresden" "Dresden"}
+62 = {"Leipzig" "Leipzig"}
+4744 = {"Zwickau" "Zwickau"}
+
+# Saxony-Anhalt
+
+52 = {"Magdeburg" "Magdeburg"}
+58 = {"Anhalt" "Dessau"}
+2964 = {"Altmark" "Stendal"}
+4741 = {"Halle" "Halle"}
+4742 = {"Goslar" "Goslar"}
+
+# Schleswig-Holstein
+
+13 = {"Schleswig" "Schleswig"}
+1775 = {"Holstein" "Kiel"}
+4141 = {"Dithmarschen" "Meldorf"}
+
+# South Westphalia
+
+82 = {"Westfalen" "Arnsberg"}
+2972 = {"Paderborn" "Paderborn"}
+4775 = {"Ravensberg" "Bielefeld"}
+
+# Switzerland
+
+166 = {"Waldstätten" "Schwyz"}
+1869 = {"Zürich" "Zürich"}
+1870 = {"Sankt Gallen" "Sankt Gallen"}
+1873 = {"Chur" "Chur"}
+4722 = {"Illanz" "Illanz"}
+
+# Tirol
+
+73 = {"Inntal" "Innsbruck"}
+110 = {"Trient" "Trient"}
+1768 = {"Lienz" "Lienz"}
+4710 = {"Vorarlberg" "Bregenz"}
+4758 = {"Etschtal" "Bozen"}
+
+# Thuringia
+
+63 = {"Erfurt" "Erfurt"}
+2965 = {"Vogtland" "Plauen"}
+4743 = {"Weimar" "Weimar"}
+
+# Upper Bavaria
+
+65 = {"München" "München"}
+2955 = {"Ingolstadt" "Ingolstadt"}
+4707 = {"Wasserburg" "Wasserburg am Inn"}
+4708 = {"Freising" "Freising"}
+
+# Upper Franconia
+
+66 = {"Bamberg" "Bamberg"}
+67 = {"Nürnberg" "Nürnberg"}
+4716 = {"Coburg" "Coburg"}
+4717 = {"Bayreuth" "Bayreuth"}
+
+# Vorpommern
+
+47 = {"Stralsund" "Stralsund"}
+1858 = {"Stettin" "Stettin"}
+2994 = {"Wolgast" "Wolgast"}
+4745 = {"Rügen" "Bergen auf Rügen"}
+
+# Weser
+
+54 = {"Stade" "Stade"}
+55 = {"Oldenburg" "Oldenburg"}
+1874 = {"Bremen" "Bremen"}
+4771 = {"Verden" "Verden"}
+
+# West Swabia
+
+70 = {"Württemberg" "Stuttgart"}
+4712 = {"Konstanz" "Konstanz"}
+4713 = {"Urach" "Reutlingen"}
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Bourbonenschaft" "Mühlen"}
+195 = {"Lemaugen" "Lemowitz"}
+199 = {"Avernerland" "Klemenz-Ferdinand"}
+4697 = {"Die Marsch" "Gürett"}
+4777 = {"Forz" "Bergbriesen"}
+
+# Brittany
+
+169 = {"Meerland" "Sankt Maclovius"}
+170 = {"Landende" "Brest (in der Bretagne)"}
+171 = {"Kleinmeer" "Wannen"}
+172 = {"Liger-Mündung" "Namnetz"}
+4384 = {"Rennen" "Rennen"}
+
+# Champagne
+
+181 = {"Ardennen" "Rethel"}
+186 = {"Rheims" "Rheims"}
+4390 = {"Dreien" "Dreien"}
+
+# Eastern Burgundy
+
+192 = {"Goldhang" "Dision"}
+193 = {"Freigrafschaft" "Bisanz"}
+4764 = {"Salzbad" "Salzbad"}
+
+# Gascony
+
+173 = {"Lapurden" "Guthafen"}
+175 = {"Armenach" "Auch"}
+176 = {"Bären" "Paufen"}
+4694 = {"Fuchsburg" "Fuchsburg"}
+
+# Guyenne
+
+174 = {"Bordenschaft" "Bordigalen"}
+194 = {"Perigund" "Bergenau"}
+198 = {"Rürgen" "Rothenz"}
+4112 = {"Kersch" "Kerchen"}
+
+# Île-de-France
+
+182 = {"Watztal" "Sartzellen"}
+183 = {"Paris" "Paris"}
+185 = {"Seinemark" "Nimmern"}
+4388 = {"Ohrgau" "Scharten"}
+
+# Languedoc
+
+196 = {"Tulusen" "Tulusen"}
+200 = {"Blankberg" "Blankberg"}
+2753 = {"Narbogen" "Narbogen"}
+4391 = {"Wieberau" "Wiebern"}
+4695 = {"Glockenklang" "Glockenklang"}
+
+# Loire Valley
+
+177 = {"Mahren" "Lembach"} # name for Le Mans??
+178 = {"Anschauen" "Anschauen"}
+4389 = {"Thüren" "Thurm"}
+
+# Lorraine
+
+187 = {"Barenberg" "Bar (an der Maas)"}
+188 = {"Metz" "Metz"}
+189 = {"Lothringen" "Nanzig"}
+4766 = {"Wirten" "Wirten"}
+
+# Normandy
+
+167 = {"Kauen" "Haferwiek"}
+168 = {"Kahnen" "Kahnen"}
+1879 = {"Allenburg" "Allenburg"}
+4385 = {"Cottenberg" "Karlsburg"}
+
+# Orléanais
+
+179 = {"Beergau" "Burg im Beergau"}
+184 = {"Aurelians" "Aurelians"}
+4776 = {"Lauterkern" "Bliesen"}
+
+# Picardy
+
+87 = {"Kalen" "Kalen"}
+88 = {"Artesien" "Atrecht"}
+89 = {"Pikenheim" "Ammen"}
+1743 = {"Kamerich" "Kamerich"}
+
+# Poitou
+
+180 = {"Oberpotten" "Piktenstadt"}
+4111 = {"Santonenland" "Santen"}
+4386 = {"Unterpotten" "Luzern"}
+4387 = {"Angumenschaft" "Angulehm"}
+
+# Provence
+
+201 = {"Marsilien" "Marsillien"}
+202 = {"Wasserherr" "Wasserherr"}
+2991 = {"Forkelburg" "Forkelburg"}
+4696 = {"Tülen" "Tülen"}
+
+# Savoy
+
+203 = {"Leyden" "Leyden"}
+204 = {"Delfinat" "Greinhübel"}
+205 = {"Kamrach" "Kamrach"}
+4719 = {"Briechen" "Burg (in Briechen)"}
+
+# Western Burgundy
+
+191 = {"Nieferschaft" "Niefern"}
+1877 = {"Flussenburg" "Scharoll"}
+4392 = {"Aucksern" "Siemern"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Schieratz" "Schieratz"}
+1939 = {"Lentschitz" "Lentschitz"}
+4533 = {"Weilen" "Weilen"}
+
+# Kuyavia
+
+1859 = {"Kulm" "Thorn"}
+4523 = {"Argenau" "Argenau"}
+4524 = {"Dobrin" "Dobrin an der Weichsel"}
+4528 = {"Kujawien" "Kujawisch Brest"}
+
+# Malopolska
+
+262 = {"Krakau" "Krakau"}
+2960 = {"Neu Sandec" "Neu Sandec"}
+4527 = {"Heiligkreuz" "Kielitz"}
+
+# Mazovia
+
+256 = {"Plozk" "Plozk"}
+257 = {"Warschau" "Warschau"}
+1938 = {"Podlachien" "Podlachien"}
+4525 = {"Rau" "Rau"}
+
+# Red Ruthenia
+
+261 = {"Halitsch" "Halitsch"}
+1940 = {"Bels" "Bels"}
+2424 = {"Premissel" "Premissel"}
+2961 = {"Lemberg" "Lemberg"}
+4541 = {"Drohobytsch" "Drohobytsch"}
+
+# Sandomierz
+
+259 = {"Sandomir" "Sandomir"}
+260 = {"Lublin" "Lublin"}
+2959 = {"Tarnau" "Tarnau"}
+
+# Silesia
+
+263 = {"Ratibor" "Ratibor"}
+264 = {"Breslau" "Breslau"}
+2966 = {"Glogau" "Glogau"}
+4238 = {"Liegnitz" "Liegnitz"}
+4723 = {"Oppeln" "Oppeln"}
+
+# Wielkopolska
+
+254 = {"Posen" "Posen"}
+255 = {"Kalisch" "Kalisch"}
+2963 = {"Netze" "Nakel an der Netze"}
+4526 = {"Gnesen" "Gnesen"}
+
+## BALKANS
+
+# Albania
+
+143 = "Floren" # =
+4174 = "Durrach" # =
+4175 = "Lesch" # =
+4750 = "Krujen" # =
+
+# Bosnia
+
+139 = "Cholm" # Mostar
+140 = "Bosnien" # Doboj
+1831 = "Herzegowina" # Herceg Novi
+3002 = "Wissoko" # =
+4755 = "Podrina" # Visegrad
+
+# Bulgaria
+
+150 = "Nikopolis" # =
+1765 = "Sofia" # =
+2746 = "Widin" # =
+2750 = "Philippopel" # =
+4703 = "Küstendil" # =
+
+# Croatia
+
+131 = "Agram" # =
+1826 = "Wolfen" # Senj
+1828 = "Untere Enden" # Jajce
+4752 = "Sankt Veit an der Flaum" # =, for the province name I actually recommend just "Sankt Veit" to look nicer on the map
+
+# Dalmatia
+
+136 = "Split" # =
+137 = "Ragus" # =
+4753 = "Zadar" # =
+
+# Macedonia
+
+148 = "Mazedonien" # Thessaloniki
+1853 = "Kastorien" # =
+3001 = "Schkup" # =
+4702 = "Sirid" # =
+4780 = "Ochrid" # =
+
+# Morea
+
+145 = "Morien" # Mystrás
+146 = "Athen" # =
+163 = "Kreta" # Heraklion
+1773 = "Achaien" # Pátrai
+4701 = "Korfu" # =
+
+# Northern Greece
+
+142 = "Korinth" # =
+144 = "Epirus" # Ioánnina
+147 = "Thessalien" # Lárisa
+4698 = "Kefalonia" # Ágois Georgios (or literally Saint George)
+4699 = "Arta" # Naúpaktos
+
+# Rascia
+
+138 = "Diokletien" # Zabljak
+1766 = {"Kosovo" "Prisren"}
+1827 = "Raszien" # Trgoviste
+4754 = "Kotor" # =
+
+# Serbia
+
+141 = "Semendrien" # =
+3000 = "Nisch" # =
+4176 = "Branitz" # Krushevac (I don't have the diacritic)
+4239 = "Belgrad" # =
+4757 = {"Kolben" "Waljewo"}
+
+# Silistria
+
+159 = "Hartberg" # =, but based on Greek you can use Dinoysópolis as the city name
+4704 = "Tirnau" # =
+4706 = "Tultscha" # =, Dinogéteia
+
+# Slavonia
+
+152 = "Warasdin" # =
+1767 = "Slawonien" # Osijek
+4173 = "Syrmien" # Mitrovica
+4756 = "Bellowar" # =
+
+# Thrace
+
+149 = "Adrianopel" # =
+151 = "Konstantinopel" # =
+1764 = "Wallburg" # =, Agathópolis
+4705 = "Kallipolis" # Attention that this is not the province of Gallipoli, it's the province of Komotini
+4779 = "Heiligpass" # This one is the province of Gallipoli
+
+## BALTIC
+
+# Aukstaitija
+
+272 = "Wilnius" # =
+770 = "Braslau" # =
+4535 = "Wilkomir" # =
+4536 = "Liden" # =
+
+# Curonia
+
+35 = "Ösel" # Arensburg
+39 = "Goldingen" # =
+1935 = "Mitau" # =
+
+# East Prussia
+
+40 = "Memel" # =
+41 = "Königsberg" # =
+42 = "Ermland" # Allenstein
+767 = "Ortelsburg" # =
+2958 = "Osterode" # =
+
+# Estonia
+
+36 = "Reval" # =
+1834 = "Dorpat" # =
+1842 = "Narwa" # =
+
+# Livonia
+
+37 = "Liefland" # Fellin
+38 = "Riga" # =
+273 = "Lettgalen" # =
+4241 = "Wenden" # =
+
+# Samogitia
+
+270 = "Traken" # =
+271 = "Samogitien" # Varniai
+1936 = "Kauen" # =
+4534 = "Upitten" # =
+
+# West Prussia
+
+43 = "Danzig" # =
+1841 = "Marienburg" # =
+2997 = "Tuchel" # =
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = "Brügge" # =
+1865 = "Gent" # =
+4769 = "Ryssel" # Lille
+
+# Frisia
+
+99 = "Geldern" # Arnhem
+100 = "Friesland" # Leeuwarden
+1931 = "Ostfriesland" # Emden
+4381 = "Oberstift" # Zwolle
+4382 = "Groningen" # =
+
+# Holland
+
+96 = {"Zeeland" "Mittelburg"}
+97 = "Amsterdam" # =
+98 = {"Niederstift" "Utrecht"}
+4383 = "der Haag" # =
+
+# North Brabant
+
+95 = "Breda" # =
+1742 = "Obergeldern" # Roermond
+4770 = "Herzogenbusch" # =
+
+# South Brabant
+
+92 = "Brüssel" # =, but you can use the base province name as Brabant
+1744 = "Antorf" # =
+2974 = "Loon" # Borgloon
+
+# Wallonia
+
+91 = "Hennegau" # Mons
+93 = "Lüttich" # =
+94 = "Lützelburg" # =
+1866 = "Namen" # =
+
+## Iberia
+
+# Alentejo
+
+227 = "Lissabon" # =
+229 = "Bezen" # Beja, province name in this mod is Baixo Alentejo
+230 = "Algarfurt" # Faro
+4150 = "Evoren" # =, province name is Alto Alentejo
+4787 = "Tagerufer" # Santarém
+
+# Aragon
+
+211 = "Bolsken" # =
+214 = "Saragossa" # =
+2990 = "Teraul" # =
+4557 = "Maurenburg" # =
+
+# Baleares
+
+333 = {"Malle" "Palmen auf Malle"}
+4559 = "Menorken" # Mahon
+4560 = "Ibitzen" # =
+
+# Beiras
+
+228 = "Beiren" # Viseu
+231 = "Hafen" # =
+232 = "Bregantz" # =, province name is Trás-os-Montes
+1851 = "Koimbren" # =
+4556 = "Aweiren" # =
+
+# Catalonia
+
+197 = "Rosenburg" # Perpignan
+212 = "Gerlingen" # =
+213 = "Barselona" # =
+2987 = "Drachenstadt" # Tàrrega
+2988 = "Tarragen" # Tarragona
+
+# Extremadura
+
+218 = "Badereuth" # =
+1747 = "Zitadellen" # =
+4788 = "Plasenz" # =
+
+# Galicia
+
+206 = "Korunien" # =
+4554 = "Lugau" # =
+4555 = "Brückenfurt" # =
+4558 = "Oransen" # =
+
+# León
+
+207 = "Asturien" # Oviedo
+208 = "Löwenstadt" # =
+216 = "Salmenburg" # =
+4553 = "Olivenburg" # =
+
+# Lower Andalucia
+
+224 = "Seefeld" # =
+225 = "Kordoben" # =
+1748 = "Jansenburg" # =
+1749 = "Kaditz" # =
+4548 = "Helvenburg" # =
+
+# North Castile
+
+215 = "Bruchzaun" # =
+1745 = "Kantabrien" # =
+1746 = "Burgaus" # =
+4552 = "Palenz" # =
+
+# South Castile
+
+217 = "Madrid" # =
+2755 = "Saurach" # =
+4551 = "Avenburg" # =
+4789 = "Segenstein" # =
+
+# Toledo
+
+219 = "Erhoben" # =
+221 = "Murzen" # =
+2751 = "Kuenka" # =
+2754 = "Mantschau" # =
+4547 = "Albazett" # =
+
+# Upper Andalucia
+
+222 = "Almeringen" # =
+223 = "Granate" # =
+226 = "Tariksfels" # =
+4546 = "Malenstein" # =
+
+# Valencia
+
+220 = "Walenzien" # =
+1750 = "Weißberg" # =
+4549 = "Schatzenau" # =
+4550 = "Burgheim" # =
+
+# Vasconia
+
+209 = "Baskanien" # =
+210 = "Navern" # Iruña
+2989 = "Reuggen" # =
+
+## BRITAIN
+
+# Connacht
+
+375 = "Limburg" # =
+376 = "Konnewacht" # Galway
+4119 = "Schlichten" # =
+
+# East Anglia
+
+238 = "Esslingen" # Chelmsford
+1860 = "Nordfelsen" # Norwich
+4370 = "Bettfurt" # Cambridge
+
+# East Midlands
+
+243 = "Becken" # Lincoln
+1861 = "Düringen" # =
+4376 = "Leinfurt" # =
+
+# Highlands
+
+250 = "Perthaue" # =
+252 = "Inerness" # =
+369 = "Orkeninseln" # Kirkwall
+4110 = "Süderland" # Dornoch
+4363 = "Argau" # Loch Awe
+
+# Leinster
+
+373 = "Blassingen" # Dublin
+374 = "Löwenreich" # Wexford
+4120 = "Kilderheim" # Naas
+4379 = "Mittellande" # Annaly; You can either use King's County or Midlands as the base province name
+
+# London
+
+235 = "Königsstadt" # Canterbury
+236 = "London" # =
+237 = "Oxenfurt" # =
+4371 = "Südsachsen" # Hastings
+
+# Lowlands
+
+248 = "Leudingen" # Edinburgh
+249 = "Aiergau" # Ayr
+251 = "Abendach" # =
+4361 = "Rottenburg" # Jedburgh
+4362 = "Dunkelfurt" # =
+
+# Munster
+
+4118 = "Karl" # =
+4377 = "Ormünden" # Kilkenny
+4378 = "Dunstein" # Killarney
+
+# Northern England
+
+244 = "Lunenburg" # Lancaster
+246 = "Nossingheim" # Newcastle upon Tyne
+247 = "Kumbrien" # Carlisle
+4375 = "Kästern" # =
+
+# The Isles
+
+253 = "Äußere Hebriden" # Stornoway
+4364 = "Innere Hebriden" # Skye
+4365 = {"Mön" "Tauglast"}
+
+# Ulster
+
+372 = "Tirren" # Dungannon
+4121 = "Ulstern" # Carrickfergus
+4380 = "Donnegau" # =
+
+# Wales
+
+241 = "Glamsburg" # Swansea
+242 = "Geweinden" # Carnarvon, English name for this province is Carnarvonshire (in this mod)
+4366 = "Bergbrücke" # Montgomery, English name for this province is Powys
+4369 = "Karmarthen" # =, province name is Carmarthenshire
+
+# Wessex
+
+233 = "Welschhorn" # Treliver
+234 = "Hampengau" # Salisbury
+4130 = "Bergbrücke" # Bath
+4373 = "Lindenburg" # Plymouth, province name is Devonshire
+4374 = "Küstenheim" # Weymouth
+
+# West Midlands
+
+239 = "Glauken" # Bristol
+240 = "Schroernburg" # =
+4372 = "Kofasbaum" # =
+
+# Yorkshire
+
+245 = "Jorvik" # =
+4367 = "Hüllen" # =
+4368 = "Scharburg" # =
+4785 = "Scheffeld" # =
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Bekesch" "Julau"}
+1953 = {"Saboltsch" "Debrezin"}
+1954 = {"Torontal" "Großbetschkerek"}
+4125 = {"Sollnock" "Sollnock"}
+
+# Moldavia
+
+268 = {"Suczawa" "Suczawa"}
+1756 = {"Bessarabien" "Kilija"}
+2405 = {"Bender" "Bender"}
+4529 = {"Jassenmarkt" "Jassenmarkt"}
+4530 = {"Berlau" "Berlau"}
+
+# Northern Transylvania
+
+157 = {"Bihar" "Großwardein"}
+158 = {"Marosch" "Neumarkt am Mieresch"}
+1952 = {"Maramarosch" "Chust"}
+4127 = {"Thorenburg" "Thorenburg"}
+
+# Slovakia
+
+154 = {"Neutra" "Neutra"}
+162 = {"Semmlin" "Kaschau"}
+1318 = {"Zips" "Leutschau"}
+1772 = {"Preßburg" "Preßburg"}
+4236 = {"Trentschin" "Trentschin"}
+
+# Southern Transylvania
+
+156 = {"Temesch" "Temeschwar"}
+1951 = {"Eisenmarkt" "Diemrich"}
+4128 = {"Königsboden" "Hermannstadt"}
+
+# Transdanubia
+
+135 = {"Ödenburg" "Ödenburg"}
+153 = {"Pest" "Ofen"}
+1864 = {"Schomodei" "Kopisch"}
+4126 = {"Batsch" "Batsch"}
+4240 = {"Stuhlweißenburg" "Stuhlweißenburg"}
+
+# Wallachia
+
+160 = {"Oltenien" "Krajowa"}
+161 = {"Tergowisch" "Tergowisch"}
+2998 = {"Busau" "Busau"}
+4531 = {"Zurz" "Zurz"}
+4532 = {"Sewerin" "Sewerin"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Seeland" "Kopenhagen"}
+14 = {"Fünen" "Odense"}
+1981 = {"Bornholm" "Rönne"}
+1983 = {"Lolland" "Nyköbing Falster"}
+
+# Finland
+
+27 = {"Äbo" "Äbo"}
+28 = {"Neuland" "Helsen"}
+29 = {"Tawastland" "Tawahus"}
+31 = {"Sawolax" "Olfenburg"}
+4123 = {"Birkanenland" "Birkanenland"}
+
+# Laponia
+
+315 = {"Finnmark" "Vardö"}
+1777 = {"Kola" "Kola"}
+4151 = {"Enare" "Sodanküle"}
+
+# Norrland
+
+9 = {"Hälsingland" "Gefle"}
+11 = {"Westbottnien" "Umö"}
+18 = {"Lapland" "Arwidschaur"}
+4114 = {"Jomock" "Jomock"}
+
+# North Atlantic Islands
+
+370 = {"Reikawich" "Reikawich"}
+371 = {"Achuren" "Achuren"}
+1978 = {"Shetland-Inseln" "Lerwick"}
+1979 = {"Färöer-Inseln" "Thorshaven"}
+
+# North Jutland
+
+15 = {"Westjütland" "Ripen"}
+1984 = {"Nordjütland" "Aalburg"}
+4142 = {"Ostjütland" "Arenhusen"}
+4149 = {"Kotling" "Kotling"}
+
+# Østlandet
+
+17 = {"Akershaus" "Oslo"}
+22 = {"Opplanden" "Hamahr"}
+4143 = {"Östfolt" "Moß"}
+4144 = {"Bratenburg" "Skeien"}
+
+# Östra Götaland
+
+2 = {"Ostgötland" "Linküpen"}
+3 = {"Kalmar" "Kalmar"}
+25 = {"Götland" "Wisby"}
+4166 = {"Teherricht" "Vekschen"}
+
+# Östra Svealand
+
+1 = {"Stockholm" "Stockholm"}
+4 = {"Bergslagen" "Westerose"}
+1930 = {"Aaland" "Marienhafen"}
+
+# Ostrobothnia
+
+19 = {"Ostbottnien" "Kreuzholm"}
+4113 = {"Rodemünde" "Rodemünde"}
+4152 = {"Kainen" "Mahnselke"}
+
+# Skåneland
+
+6 = {"Lindau" "Lindau"}
+26 = {"Halleland" "Holmstadt"}
+1982 = {"Blänken" "Rönnenburg"}
+4165 = {"Gladsachsen" "Gladsachsen"}
+
+# Trøndelag
+
+10 = {"Juntland" "Froshen"}
+20 = {"Tröndelag" "Drontheim"}
+21 = {"Helgeland" "Steiger"}
+
+# Vastra Götaland
+
+7 = {"Schkarenburg" "Schkaren"}
+16 = {"Bohusland" "Mahrstrandt"}
+4163 = {"Elfsburg" "Elfsburg"}
+4164 = {"Dahl" "Dahlburg"}
+
+# Västra Svealand
+
+5 = {"Wermland" "Karlstadt"}
+8 = {"Dahlenwald" "Moren"}
+1985 = {"Narkau" "Örebroch"}
+
+# Vestlandet
+
+23 = {"Westlandet" "Bergen"}
+24 = {"Westagder" "Westagder"}
+2752 = {"Romsdal" "Mauden"}
+4145 = {"Agdesiden" "Mandel"}
+
+## ITALY
+
+# Apulia
+
+122 = {"Salent" "Tarent"}
+1933 = {"Barien" "Barien"}
+2985 = {"Daunien" "Gruben"}
+4733 = {"Mülsen" "Unterfeld"}
+
+# Calabria
+
+123 = {"Kalabrien" "Kalabrien"}
+1934 = {"Wölfien" "Kraftheim"}
+2984 = {"Kusent" "Kusent"}
+
+# Campania
+
+121 = {"Neapel" "Neapel"}
+2983 = {"Salern" "Salern"}
+4734 = {"Affeln" "Affeln"}
+
+# Eastern Sicily
+
+124 = {"Messen" "Messen"}
+126 = {"Malta" "Malta"}
+2982 = {"Syrakus" "Syrakus"}
+
+# Emilia-Romagna
+
+105 = {"Parmen" "Parmen"}
+106 = {"Muden" "Muden"}
+113 = {"Ferrauen" "Ferrauen"}
+114 = {"Raben" "Raben"}
+4730 = {"Bülgen" "Bülgen"}
+
+# Lazio-Umbria
+
+118 = {"Rom" "Rom"}
+2976 = {"Perusien" "Perisuen"}
+4731 = {"Spoleten" "Spoleten"}
+4732 = {"Teigen" "Teigen"}
+
+# Liguria
+
+101 = {"Genua" "Genua"}
+102 = {"Nizza" "Nizza"}
+2992 = {"Felsenhaupt" "Felsenhaupt"}
+
+# Lombardy
+
+104 = {"Mailand" "Mailand"}
+1862 = {"Kremen" "Kremen"}
+2979 = {"Neuwehr" "Neuwehr"}
+4728 = {"Pawien" "Pawien"}
+4740 = {"Chum" "Chum"}
+
+# Marche-Abruzzo
+
+119 = {"Ankonen" "Ankonen"}
+120 = {"Abruzzen" "Adlerstadt"}
+2977 = {"Kleinstadt" "Kleinstadt"}
+
+# Piedmont
+
+103 = {"Turin" "Turin"}
+1875 = {"Keilen" "Keilen"}
+2981 = {"Eisenberg" "Eisenberg"}
+4727 = {"Sultzen" "Sultzen"}
+
+# Po Valley
+
+107 = {"Welsch-Brixen" "Welsch-Brixen"}
+109 = {"Mantua" "Mantua"}
+4739 = {"Bergheim" "Bergheim"}
+
+# Tuscany
+
+115 = {"Pisa" "Pisa"}
+116 = {"Florenz" "Florenz"}
+117 = {"Seinen" "Seinen"}
+2978 = {"Arezen" "Arezen"}
+2980 = {"Lukien" "Lukien"}
+
+# Thyrrhenian Isles
+
+127 = {"Tahren" "Tahren"}
+1247 = {"Korsika" "Aken"}
+2986 = {"Karalien" "Karalien"}
+4735 = {"Arenbüren" "Arenbüren"}
+
+# Venetia
+
+108 = {"Welsch-Bern" "Welsch-Bern"}
+111 = {"Friaul" "Weiden"}
+112 = {"Venedig" "Venedig"}
+1774 = {"Dreiwissen" "Dreiwissen"}
+4729 = {"Fabien" "Fabien"}
+
+# Western Sicily
+
+125 = {"Palerm" "Palerm"}
+4736 = {"Trapunzen" "Trapunzen"}
+4737 = {"Greigaugen" "Greigaugen"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrachan" "Hartzingen"}
+466 = {"Saraj" "Saraj"}
+468 = {"Männich" "Tschorny Jar"}
+2416 = {"Machern" "Machern"}
+2417 = {"Kummern" "Kummern"}
+
+# Azov
+
+286 = {"Azow" "Azow"}
+287 = {"Kubingen" "Stauffenburg"}
+2413 = {"Thün" "Thün"}
+2414 = {"Asarabingen" "Asarabingen"}
+
+# Crimea
+
+284 = {"Krym" "Edlestadt"}
+285 = {"Kertsch" "Kertsch"}
+2410 = {"Theodorichshafen" "Mangen"}
+2447 = {"Tamen" "Tamen"}
+
+# Lower Don
+
+288 = {"Unterer Don" "Tscherkassen"}
+467 = {"Benhardschleben" "Benhardschleben"}
+1971 = {"Bernjamer" "Saronburg"}
+2409 = {"Bachmüten" "Bachmüten"}
+
+# Yedisan
+
+282 = {"Ochsenkof" "Kötzelhuber"}
+1974 = {"Kerzorn" "Kerzorn"}
+2406 = {"Ingel" "Berslau"}
+
+# Zaporizhzhia
+
+283 = {"Zaporitz" "Zaporitz"}
+2411 = {"Dnieper" "Dnieper"}
+2412 = {"Marienpohl" "Marienpohl"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Erzengelstadt" "Erzengelstadt"}
+4122 = {"Schenkburg" "Shenkburg am Deiven"}
+4256 = {"Salzweichendangen" "Salzweichendangen"}
+4257 = {"Mesen" "Zoleimnisch Ochleiden"}
+
+# Beloozero
+
+312 = {"Weißensee" "Weißensee"} # historical
+4259 = {"Welsch" "Welsch"}
+4261 = {"Ostjuchnen" "Ostjuchnen"}
+
+# Moscow
+
+295 = {"Moskau" "Moskau"}
+4251 = {"Mozach" "Mozach"}
+4252 = {"Kolman" "Kolman"}
+
+# North Karelia
+
+32 = {"Keschern" "Kerschern"}
+309 = {"Olonez" "Olonez"}
+4124 = {"Karelien" "Leiksen"}
+
+# Novgorod
+
+310 = {"Neugard" "Neugard"}
+311 = {"Cholm" "Cholm"}
+1959 = {"Torschok" "Torschok"}
+2749 = {"Tichwin" "Tichwin"}
+4260 = {"Wyschni Wolotschok" "Wyschni Wolotschok"}
+
+# Oka
+
+296 = {"Kalkau" "Kalkau"}
+300 = {"Teulen" "Teulen"}
+4116 = {"Othildesheim" "Othildesheim"}
+
+# Pomorye
+
+313 = {"Sorken" "Sorken"}
+1776 = {"Weißkarelen" "Kiem"}
+1958 = {"Korgenpülen" "Korgenpülen"}
+4258 = {"Ogenau" "Ogenau"}
+
+# Pskov
+
+274 = {"Pleskau" "Pleskau"}
+275 = {"Pölitz" "Pölitz"}
+1960 = {"Ostrau" "Ostrau"}
+4148 = {"Lucken" "Lucken"}
+
+# Ryazan
+
+301 = {"Riessen" "Riessen"}
+1778 = {"Kasimon" "Kasimon"}
+4254 = {"Prunsen" "Prunsen"}
+
+# South Karelia
+
+30 = {"Wiburg" "Wiburg"}
+33 = {"Sankt Petersburg" "Sankt Petersburg"}
+34 = {"Ingermanland" "Küppern"}
+1961 = {"Laudendorf" "Laudendorf"}
+
+# Suzdal
+
+1754 = {"Mürren" "Mürren"}
+1956 = {"Zudeln" "Zudeln"}
+4254 = {"Alteichen" "Alteichen"}
+
+# Tambov
+
+302 = {"Tamber" "Müchken"}
+304 = {"Pentz" "Pentz"}
+2415 = {"Etterich" "Etterich"}
+
+# Tver
+
+294 = {"Tewer" "Tewer"}
+1752 = {"Rewen" "Rewen"}
+4243 = {"Trüppen" "Trüppen"}
+4248 = {"Keschen" "Keschen"}
+4249 = {"Zubern" "Zubern"}
+
+# Vladimir
+
+307 = {"Waldemir" "Waldemir"}
+4147 = {"Rostau" "Rostau"}
+4253 = {"Jörger" "Jörger"}
+
+# Vologda
+
+314 = {"Wolheinen" "Wolheinen"}
+4262 = {"Tümern" "Tümern"}
+4263 = {"Salzengälz" "Salzengälz"}
+
+# Yaroslavl
+
+308 = {"Jaroslau" "Jaroslau"}
+1753 = {"Kostrümen" "Kostrümen"}
+4117 = {"Beizeck" "Beizeck"}
+4250 = {"Mollach" "Mollach"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Tschernigau" "Tschernigau"}
+1945 = {"Sewerien" "Neuschwering"}
+4543 = {"Rylsen" "Rylsen"}
+
+# East Dniepr
+
+290 = {"Poltawien" "Poltawien"}
+2407 = {"Perlitz" "Perlitz"}
+4542 = {"Leuben" "Leuben"}
+
+# Minsk
+
+276 = {"Menskburg" "Menskburg"}
+4115 = {"Müsern" "Müsern"}
+4242 = {"Ülben" "Ülben"}
+4544 = {"Brodach" "Brodach"}
+
+# Podlasie
+
+269 = {"Podlachien" "Dorichsen"}
+277 = {"Brest" "Litauisch-Brest"}
+1937 = {"Garten" "Garten"}
+
+# Podolia
+
+281 = {"Podolien" "Kemnitsch"}
+1943 = {"Bratschau" "Bratschau"}
+4540 = {"Winitzen" "Winitzen"}
+
+# Pripyat
+
+278 = {"Pinsch" "Pinsch"} # Pinsk
+1941 = {"Tharandt" "Tharandt"} # Turov
+4547 = {"Neu Grottkau" "Neu Grottkau"} # Nowogrodek
+4545 = {"Sluzk" "Sluzk"} # Sluck
+
+# Sloboda Ukraine
+
+291 = {"Karkau" "Karkau"}
+298 = {"Kursch" "Kursch"}
+299 = {"Woronetsch" "Woronetsch"}
+2408 = {"Ilitz" "Ilitz"}
+
+# Smolensk
+
+293 = {"Schmöllen" "Schmöllen"}
+297 = {"Brienz" "Brienz"}
+4244 = {"Trübenchau" "Trübenchau"}
+4245 = {"Wiemer" "Wiemer"}
+
+# Volhynia
+
+279 = {"Wolhynien" "Wladimir"}
+2962 = {"Rowen" "Rowen"}
+4538 = {"Culm" "Culm"}
+4539 = {"Kremnitz" "Kremnitz"}
+
+# West Dniepr
+
+280 = {"Kiew" "Kiew"}
+1942 = {"Zitomir" "Zitomir"}
+1944 = {"Tschernowitz" "Tschernowitz"}
+4247 = {"Owrutsch" "Owrutsch"}
+
+# White Ruthenia
+
+292 = {"Mogilau" "Mogilau"}
+771 = {"Weittenberg" "Weittenberg"}
+4246 = {"Mostislaff" "Mostislaff"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Baschkirien" "Baschert"}
+1965 = {"Buschelkau" "Buschelkau"}
+1966 = {"Tscheliabin" "Tscheliabin"}
+2420 = {"Weißenbach" "Weißenbach"}
+2444 = {"Böschkurt" "Böschkurt"}
+
+# Galich
+
+306 = {"Unter Neugard" "Unter Neugard"}
+1079 = {"Weitchen" "Gleibnau"}
+1083 = {"Wetulgau" "Jure"}
+1957 = {"Galitz" "Galitz"}
+
+# Kama
+
+305 = {"Pirmen" "Jagorschau"}
+1962 = {"Kudemiren" "Kudemiren"}
+1972 = {"Glaschau" "Erbenweiler"}
+4266 = {"Eischar" "Eischar"}
+
+# Kazan
+
+1082 = {"Kasan" "Kasan"}
+2422 = {"Bochsenburg" "Bochsenburg"}
+4264 = {"Tettschen" "Tettschen"}
+
+# Perm
+
+1077 = {"Salzenmüchen" "Kamischwegen"}
+1755 = {"Jugenburg" "Jugenburg"}
+1963 = {"Scherdin" "Scherdin"}
+1964 = {"Sißelburg" "Sißelburg"}
+4129 = {"Wyme" "Wyme"}
+
+# Samara
+
+473 = {"Sammern" "Sammern"}
+1081 = {"Simber" "Simber"}
+2423 = {"Alterich" "Alterich"}
+
+# Saratov
+
+303 = {"Zarotten" "Zarotten"}
+2418 = {"Pöckern" "Pöckern"}
+2419 = {"Sisern" "Sisern"}
+
+# Ural
+
+1078 = {"Friederichburg" "Friederichburg"}
+1080 = {"Sereff" "Sereff"}
+1780 = {"Kommern" "Jarrenz"}
+2427 = {"Belloritz" "Belloritz"}
+2441 = {"Ilgen" "Ilgen"}
+
+# Volga
+
+2421 = {"Berschen" "Berschen"}
+4265 = {"Arckeln" "Arckeln"}
+4267 = {"Bockenau" "Bockenau"}
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Vielitz"   
+869 = "Kieferhaven"   
+2021 = "Kölner Bucht"   
+2476 = "Friederikenport"   
+4637 = "Reichstadt Neuköln"   
+     
+# APACHERIA    
+     
+879 = "Oberfluss"   
+2492 = "Seetal"   
+4634 = "Drei Wege"   
+     
+# ARIZONA    
+     
+867 = "Linkenburg"   
+876 = "Phönix"   
+877 = "Silberstedt"   
+2491 = "Niederwiese"   
+4633 = "Steinach"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Niederkalifornien"   
+866 = "Holländisches Kap"   
+2620 = "Mindelstetten"   
+4639 = "Neuhorn"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Tennenlohe"   
+2478 = "Bärwald"   
+4635 = "Isenheim"   
+4636 = "Sankt Antonius"   
+     
+# COLORADO PLATEU   
+     
+875 = "Lingener Höhe"   
+878 = "Weißenfels"   
+2493 = "Fähnrich"   
+2494 = "Kronsmark"   
+     
+# NEW MEXICO   
+     
+880 = "Hoffnung"   
+881 = "Westernhagen"   
+2495 = "Hildegrund"   
+4631 = "Ratzeburg"   
+4632 = "Unterschloss"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Heilige Rose"   
+2477 = "Julikap"   
+2479 = "Seikäu"   
+2480 = "Petersburg"   
+4638 = "Helvetia"   
+     
+# SONORA    
+     
+862 = "Spandau"   
+2616 = "Babenhausen"   
+4577 = "Riezlern"   
+4649 = "Treptow"   
+4650 = "Fürstenschloss"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Friederichsort"   
+2576 = "Margarethen Archipel"   
+2577 = "Sieben-Inseln"   
+2578 = "Freisingshövel"   
+2579 = "Hansastadt"   
+     
+# GREENLAND    
+     
+1104 = "Wilhelmsburg"   
+1105 = "Nordland"   
+     
+# HURONIA    
+     
+988 = "Huronenland"   
+989 = "Ontarioland"   
+2585 = "Elwangen"   
+2670 = "Sternenfeld"   
+     
+# LABRADOR    
+     
+997 = "Rotbucht"   
+2574 = "Labrador"   
+2575 = "Rigolettbucht"   
+     
+# LAURENTIA    
+     
+992 = "Felddorf"   
+2581 = "Sturmtal"   
+4894 = "Tannham"   
+     
+# LOWER ACADIA   
+     
+982 = "Berliner Insel"   
+984 = "Minenbucht"   
+2568 = "Eilenberg"   
+2569 = "Kempten-an-der-Bucht"   
+4891 = "Schütz"   
+     
+# LOWER CANADA   
+     
+993 = "Jakobsberg"   
+2584 = "Gleichengau"   
+4895 = "Oberwölfern"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Seelöwenbucht"   
+981 = "Schönkap"   
+2573 = "Widukindland"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Grünreit"   
+4892 = "Himmelreich"   
+4897 = "Plochwald"   
+     
+# QUEBEC    
+     
+986 = "Calw-Kap"   
+994 = "Stadaconien"   
+995 = "Lütjeburg"   
+2582 = "Galgenbrück"   
+2583 = "Neipperg"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Schinkel"   
+2571 = "Frederiksstadt"   
+4896 = "Hacklbrunn"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Drei Flüsse"   
+2012 = "Sankt Benedictus"   
+2580 = "Bergeschütteln"   
+4893 = "Krieglach"   
+     
+# UPPER ACADIA   
+     
+983 = "Neu-Sylt"   
+985 = "Burgundia"   
+2572 = "Markertshofen"   
+     
+# UPPER CANADA   
+     
+987 = "Niagara"   
+2586 = "Schönhaven"   
+2587 = "Kreutzberg-am-Huronsee"   
+     
+# UPPER ONTARIO   
+     
+991 = "Tegelland"   
+1001 = "Marienströme"   
+1007 = "Donnerbucht"   
+2015 = "Raugrafen"   
+2671 = "Fürstenberg"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Sankt Dominikus"   
+2658 = "Lüttwitz"   
+2659 = "Silberhafen"   
+4620 = "Frauenfeld"   
+4621 = "Gorelkirche"   
+     
+# EAST CUBA   
+     
+486 = "Harderwyckenburg"   
+2654 = "Jühndebucht"   
+2655 = "Bevern"   
+2656 = "Mariengarten"   
+     
+# GREATER ANTILLES   
+     
+481 = "Bermudainseln"   
+487 = "Quellenland"   
+491 = "Heilungsinsel"   
+492 = "Krabbeninsel"   
+     
+# HAITI    
+     
+488 = "Edelmundskai"   
+489 = "Schildkröteninsel"   
+4618 = "Mittelburg"   
+4619 = "Neu-Mainz"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Sankt Thomas"   
+494 = "Sankt Ursula"   
+495 = "Sankt Georg"   
+496 = "Bonifatius"   
+1881 = "Sankt Martin"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Neu Nassau"   
+483 = "Kaktusinseln"   
+     
+# WEST CUBA   
+     
+484 = "Hafenstadt"   
+485 = "Bieberach"   
+4622 = "Zuckerbucht"   
+4623 = "Dreibrücken"   
+4624 = "Kieferburg"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Sonntagsinsel"   
+498 = "Blumeninsel"   
+499 = "Sankt Luzia"   
+500 = "Sankt Vinzenz"   
+501 = "Bärtigenland"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Prinz zu Anhalt-Dessau"   
+977 = "Mundberg"   
+2613 = "Weißhaven"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Wilhelminenfluss"   
+2486 = "Der Große"   
+2487 = "Hundesee"   
+2488 = "Stralengau"   
+     
+# HECATE STRAIT   
+     
+975 = "Königsinsel"   
+2022 = "Haida-Inseln"   
+2609 = "Kronprinz Wilhelm"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Kooteney"   
+2604 = "Blankenthal"   
+2605 = "Gandersheim"   
+2606 = "Neu-Frankenland"   
+2607 = "Sommerland"   
+     
+# OREGON    
+     
+872 = "Marienhügel"   
+2481 = "Englisches Kap"   
+2482 = "Appelhaven"   
+2483 = "Unglück"   
+     
+# PUGET SOUND   
+     
+874 = "Gänsefurt"   
+2484 = "Windkap"   
+2485 = "Olympia"   
+     
+# SNAKE RIVER   
+     
+2019 = "Ratsstadt"   
+2020 = "Schlangenfluss"   
+2489 = "Mittelbergen"   
+2490 = "Salzsee"   
+2506 = "Untkammer"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Weiße Insel"   
+973 = "Freudenberg"   
+974 = "Echobucht"   
+2610 = "Fürstenbucht"   
+     
+# WESTERN ALASKA   
+     
+978 = "Ankerplatz"   
+979 = "Bäreninseln"   
+2611 = "Heidhafen"   
+2612 = "Gimborn-Neustadt"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Sankt Lazarus"   
+2632 = "Schöndorff"   
+2650 = "Carmelinsel"   
+     
+# CHIAPAS    
+     
+2635 = "Soest"   
+2638 = "Grubenhafen"   
+2649 = "Neu-Lindau"   
+4585 = "Rapperswil"   
+4586 = "Amelunxenstedt"   
+     
+# COSTA RICA   
+     
+836 = "Sankt Josef"   
+2663 = "Fehnboer"   
+4597 = "Johannesberg"   
+     
+# EAST YUCATAN   
+     
+2634 = "Breisachgau"   
+2652 = "Nordkap"   
+4588 = "Schlechteberg"   
+4591 = "Neu-Colditz"   
+     
+# GUATEMALA    
+     
+839 = "Heiliger Erlöser"   
+841 = "Seydlitz"   
+2653 = "Uberkirch"   
+4587 = "Vier Marschälle"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Blumenmeer"   
+843 = "Heimatskirche"   
+2636 = "Friedenstal"   
+4589 = "Eifel"   
+4594 = "Dillenburg"   
+     
+# HONDURAS    
+     
+840 = "Niederbucht"   
+2637 = "Rosshaven"   
+2640 = "Trieria"   
+2662 = "Hadeln"   
+4593 = "Neuss"   
+     
+# NICARAGUA    
+     
+837 = "Sterndorf"   
+838 = "Blauenfelde"   
+2660 = "Schloote"   
+2661 = "Krieseby"   
+4592 = "Bieledorf"   
+     
+# WEST YUCATAN   
+     
+846 = "Weilnaukap"   
+2633 = "Gleichenstein"   
+2651 = "Limburg"   
+4590 = "Keistadt"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Panamaland"   
+2664 = "Füssen"   
+2819 = "Bündnistal"   
+4595 = "Sachsen-Gaumi"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Groß-Naedlitz"   
+916 = "Reifsbrück"   
+917 = "Prussiniowitz"   
+4903 = "Amesschlag"   
+     
+# INDIANA    
+     
+942 = "Brühlgau"   
+943 = "Leibertingen"   
+2523 = "Etschburg"   
+2524 = "Freundschaft"   
+4922 = "Feistenau"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Donnersee"   
+911 = "Weißsicht"   
+2517 = "Onolzheim"   
+2518 = "Abendberg"   
+4898 = "Freiwalddorf"   
+     
+# MICHIGAN    
+     
+944 = "Neu-Offenburg"   
+945 = "Reuß"   
+2521 = "Güldensteyn"   
+2522 = "Kronprinz Friedrich"   
+     
+# OHIO    
+     
+946 = "Sanneck zu Friedberg-Bachern"   
+947 = "Kleveland"   
+948 = "Scheidingen"   
+2525 = "Gaarz"   
+4907 = "Kühstein"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Feldkirch"   
+2520 = "Zypressenwald"   
+4904 = "Lanzerstorf"   
+     
+# WISCONSIN    
+     
+912 = "Rheinland"   
+913 = "Kriegertal"   
+914 = "Grünbucht"   
+4899 = "Kerschbaum"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Herzogsfeste"   
+2504 = "Buggenhagen"   
+2505 = "Neuenkirchen"   
+     
+# Central Plains   
+     
+901 = "Sieben Städte"   
+903 = "Ludowingen"   
+2009 = "Welscherland"   
+2508 = "Thunsfeld"   
+4915 = "Gröm"   
+     
+# HIGH PLAINS   
+     
+889 = "Werlhagen"   
+2507 = "Kelleraden"   
+2625 = "Siegburg"   
+     
+# IOWA    
+     
+905 = "Wettinerburg"   
+2513 = "Die Harfe"   
+4900 = "Böhmdorf"   
+4905 = "Rohrbach"   
+     
+# KANSAS    
+
+890 = "Rappoltstein"   
+898 = "Syrakus"   
+2672 = "Beatrix"   
+4914 = "Niederbrunn"   
+     
+# MINNESOTA    
+     
+904 = "Grünefurt"   
+908 = "Minnesotaland"   
+2512 = "Rundeheim"   
+4901 = "Pötscher"   
+     
+# NORTH DAKOTA   
+     
+906 = "Friedrich-Wilhelm-Stadt"   
+909 = "Kapelle"   
+2510 = "Schlieffenberg"   
+4918 = "Nassereith"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Johannesstedt"   
+2007 = "Zedernbaum"   
+2008 = "Heilige Barmherzigkeit"   
+4916 = "Rödham"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Neu-Sidonland"   
+892 = "Siegfeld"   
+896 = "Köpenickfürth"   
+4908 = "Innerödt"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Gelbstein"   
+2501 = "Nilsingen"   
+2502 = "Wizlawidstadt"   
+2503 = "Großwald"   
+4917 = "Ampfenham"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Hudsonfestung"   
+2588 = "Wickrathgau"   
+2589 = "Elbing"   
+2590 = "Rauchstürze"   
+2591 = "Finstingen"   
+     
+# ALBERTA    
+     
+2004 = "Krähennest"   
+2017 = "Margarethenschanze"   
+2018 = "Brennberg"   
+2602 = "Obernach-Obernach"   
+     
+# ASSINIBOIA    
+     
+2005 = "Kinzigtal"   
+2596 = "Aspern"   
+2598 = "Klinkowald"   
+4920 = "Rosenfeldendorf"
+     
+# ATHABASCA    
+     
+2599 = "Fleckenstein"   
+2600 = "Friedensfluss"   
+2601 = "Niedersee"   
+2603 = "Rossenberg"   
+     
+# HUDSON BAY   
+     
+1005 = "Schneefurt"   
+1006 = "Dänemarkfluss"   
+1009 = "Kaplansfluss"   
+2592 = "Nordfluss"   
+2594 = "Vielenseen"   
+     
+# JAMES BAY   
+     
+998 = "Königsbucht"   
+999 = "Reischach"   
+1000 = "Jülich-am-Westrhein"   
+1003 = "Engelandsbucht"   
+1004 = "Fort Roggenhorst"   
+     
+# MANITOBA    
+     
+1008 = "Rotfluss"   
+1010 = "Hohenzollernfestung"   
+1011 = "Friedenstadt"   
+2593 = "Chiemsee-im-Wald"   
+4919 = "Opalstadt"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Großgabeln"   
+2511 = "Teufelssee"   
+4902 = "Morgentau"
+     
+# SASKATCHEWAN    
+     
+1813 = "Ecktal"   
+2595 = "Kiestochtun"   
+2597 = "Eppstadt"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Seysdorff"   
+4646 = "Zollersheim"   
+4647 = "Neu Danzig"   
+4648 = "Stadestadt"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Krakaufelden"   
+2642 = "Friedrichsfeld"   
+4642 = "Fuggerei"   
+     
+# GUANAJUATO    
+     
+853 = "Guttenberg"   
+2615 = "Adelshofen"   
+4640 = "Neu Demmin"   
+4641 = "Vorscharten"   
+     
+# GUERRERO    
+     
+2627 = "Guthagen"   
+2645 = "Rutterweil"   
+2648 = "Großkreuz"   
+     
+# HUASTECA    
+     
+848 = "Hasenport"   
+2641 = "Augustenheim"   
+4598 = "Winden"   
+     
+# JALISCO    
+     
+854 = "Oberweißenbach"   
+2617 = "Rißbaden"   
+2621 = "Siebenbrücken"   
+2657 = "Marianaland"   
+4576 = "Erfurtsburg"   
+     
+# MEXICO    
+     
+852 = "Mexiko-Stadt"   
+2626 = "Grünwald"   
+4570 = "Peterhof"   
+4571 = "Maidegg"   
+4572 = "Rembda"   
+     
+# MICHOAVAN    
+     
+2622 = "Bregenz"   
+2623 = "Namuria"   
+2624 = "Gradisca"   
+4573 = "Hansestadt"   
+4574 = "Nettelau"   
+     
+# MIXTECA    
+     
+847 = "Grünbucht"   
+849 = "Kriegerfeste"   
+2646 = "Beckenwald"   
+4581 = "Maursmünster"   
+     
+# NAYARIT    
+     
+855 = "Burgweiler"   
+859 = "Neu-Franken"   
+4578 = "Hundfluß"   
+     
+# Oaxaca    
+     
+844 = "Zapotekaland"   
+2629 = "Albedyll"   
+4584 = "Maulbronn"   
+     
+# PUEBLA    
+     
+850 = "Kölheim"   
+2628 = "Auersperg-in-Mexiko"   
+2644 = "Sankt Andreas"   
+4582 = "Stalhof"   
+4583 = "Bryggen"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Agathenburg"   
+2643 = "Kurkölnedam"   
+4575 = "Die Könige"   
+4579 = "Neu-Dorpat"   
+4580 = "Gotsman"   
+     
+# VERACRUZ    
+     
+2630 = "Freising-Freising"   
+2631 = "Koppstein"   
+2647 = "Bassewitz"   
+     
+# ZACATECAS    
+     
+856 = "Reuthlas"   
+4643 = "Michaelsburg"   
+4645 = "Schloßhorn"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Walleshausen"   
+925 = "Kastanienburg"   
+2531 = "Cismar"   
+2532 = "Leopoldsburg"   
+4883 = "Mettendorf"   
+     
+# ARKANSAS    
+     
+894 = "Ephraimsheide"   
+895 = "Balthasar"   
+897 = "Großer Fluss"   
+4885 = "Sternhöhe"
+4923 = "Hochfilzen"   
+     
+# KENTUCKY    
+     
+941 = "Andermannsdorff"   
+2526 = "Witwendorff"   
+4888 = "Rosenheim"   
+     
+# LOUISIANA    
+     
+893 = "Neu Hamburg"   
+2014 = "Mansfeld"   
+2516 = "Etzdorff"   
+     
+# MISSISSIPPI    
+     
+919 = "Heeden"   
+920 = "Neustadt"   
+2528 = "Kaltwasser"   
+2529 = "Querfurt"   
+4884 = "Enteschbach"   
+     
+# OZARKS    
+     
+899 = "Lützau"   
+2509 = "Neu-Aalen"   
+2515 = "Armansperg"   
+4886 = "Gaimersheim"   
+     
+# TENNESSEE    
+     
+918 = "Kautschuksee"   
+934 = "Neuhof"   
+939 = "Padukahland"   
+4913 = "Rothwald"
+     
+# UPPER LOUISIANA   
+     
+900 = "Sankt Ludwig"   
+902 = "Adlercreutzer Tal"   
+2514 = "Kap Hohenzollern"   
+4906 = "Gollner"   
+     
+# VANDALIA    
+     
+951 = "Kanzach"   
+2551 = "Festung Kremhild"   
+4889 = "Traunstein"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Ludwigsheim"   
+4887 = "Herrsching"   
+4921 = "Herrenhäuser"   
+     
+# WEST FLORIDA   
+     
+921 = "Rostock am Mississippi"   
+922 = "Charlottenburg"   
+923 = "Pöhlde"   
+2530 = "Pücklerheim"   
+2533 = "Schwarzhaven"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Maibaum"   
+2555 = "Löwenhaupt"   
+4875 = "Heidenrod"   
+     
+# CONNECTICUT    
+     
+967 = "Rotholm"   
+2010 = "Siegfriedsfluss"   
+2560 = "Neuhafen"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Falkenhöhe"   
+957 = "Schwanendeich"   
+962 = "Maikap"   
+2023 = "Iburger Tal"   
+     
+# EASTERN MAINE   
+     
+971 = "Schwabenbucht"   
+2566 = "Breitbucht"   
+2567 = "Salzau"   
+     
+# HUDSON VALLEY   
+     
+961 = "Gersdorf"   
+963 = "Westmühlen"   
+964 = "Silbersee"   
+2559 = "Obodriten"   
+4912 = "Vichtenstein"   
+     
+# IRIQUOISIA    
+     
+958 = "Casimirfeste"   
+959 = "Neu-Kronland"   
+960 = "Rechtberg"   
+4872 = "Vettelschoß"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Falkenmeer"   
+2563 = "Grünbergen"   
+4871 = "Asbach"   
+     
+# MAINE    
+     
+2013 = "Neu-Frankfurt"   
+2565 = "Zähringer Kreuz"   
+4873 = "Singhofen"   
+     
+# MARYLAND    
+     
+953 = "Marienland"   
+2553 = "Süddeich"   
+2554 = "Wittmoldt"   
+     
+# MASSACHUSETTS    
+     
+966 = "Reibnitz"   
+968 = "Neu Eulenburg"   
+2561 = "Weißkap"   
+4874 = "Reckenroth"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Neukirchen"   
+2562 = "Lechfeld"   
+2564 = "Eggenberg"   
+     
+# NEW YORK   
+     
+965 = "Neu-Lübeck"   
+2558 = "Oynhausen"   
+2639 = "Pavonien"   
+     
+# WESTYLVANIA    
+     
+955 = "Rosenbrügge"   
+2556 = "Eberstein"   
+2557 = "Paterast"   
+4876 = "Hünstetten"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Sankt Patricius"   
+864 = "Osnabrügge"   
+2618 = "Rosarienland"   
+4644 = "Menden"   
+     
+# COAHUILA    
+     
+861 = "Friedrichshain"   
+864 = "Osnabrügge"   
+2666 = "Schlingland"   
+2667 = "Neumühlen"   
+4606 = "Zezschwitz"   
+     
+# COASTAL PRARIE   
+     
+884 = "Ludwigsbucht"   
+888 = "Freihausen"   
+2665 = "Schöneberg"   
+2669 = "Weitblick"   
+     
+# LLANO ESTACADO   
+     
+882 = "Magnusia"   
+885 = "Haidenschloss"   
+2496 = "Liebeland"   
+2497 = "Grüdebrücke"   
+4630 = "Wallberg"   
+     
+# PECOS    
+     
+2498 = "Pankow"   
+4628 = "Wittelsbach"   
+4629 = "Zentrum"   
+     
+# TAMAULIPAS    
+     
+858 = "Stiglitzingen"   
+2499 = "Königsfürth"   
+2614 = "Fuggerstadt"   
+2668 = "Neu Bamberg"   
+     
+# TEXAS    
+     
+883 = "Britzburg"   
+887 = "Marzahn"   
+4627 = "Nazareth"   
+4911 = "Reiting"   
+     
+# TEXAS PLAINS   
+     
+886 = "Ostland"   
+2500 = "Braunwald"   
+4909 = "Waldhäusl"   
+4910 = "Sankt Aegidi"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Augustinusland"   
+928 = "Neu Bern"   
+2534 = "Falkenstein"   
+     
+# FLORIDA    
+     
+926 = "Zultenkap"   
+2535 = "Charlottenhaven"   
+2536 = "Heiliger Geist"   
+4625 = "Parsenn"   
+4626 = "Ifen"   
+     
+# GEORGIA    
+     
+929 = "Berum"   
+2537 = "Azalien"   
+2538 = "Deutschfelde"   
+2539 = "Neu Braunschweig"   
+4880 = "Kleinich"   
+     
+# GREAT VALLEY   
+     
+949 = "Leinrhoden"   
+2011 = "Nova Borussia"   
+2548 = "Neufluss"   
+2552 = "Patroney"   
+     
+# NORTH CAROLINA   
+     
+937 = "Altfeste"   
+938 = "Neuland"   
+2546 = "Kap der Angst"   
+2547 = "Welfbucht"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Karlsfluß"   
+936 = "Salzbergen"   
+2527 = "Hövel Beobachtung"   
+4879 = "Lötzbeuren"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Turmfehn"   
+2545 = "Cirksenazweig"   
+4878 = "Heinzenbach"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Karolingburg"   
+2542 = "Sankt Helena"   
+2543 = "Lange Bucht"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Grüner Münster"   
+2541 = "Die Gnade"   
+4882 = "Klüsserath"   
+     
+# UPPER GEORGIA   
+     
+930 = "Moritzberg"   
+931 = "Pfirsichbaum"   
+2540 = "Syndikstedt"   
+4881 = "Gornhausen"   
+     
+# VIRGINIA    
+     
+950 = "Pyrmont"   
+952 = "Peterfluss"   
+2549 = "Pfirsichfluss"   
+2550 = "Sankt-Lorenz"   
+4877 = "Pfalzfeld"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Becherstadt"   
+2935 = "Schmalkalden"   
+2938 = "Hanauisch-Indien"   
+     
+# AMAZON    
+     
+2889 = "Neuendenwald"   
+2930 = "Neu Donau"   
+2933 = "Westerburg"   
+2934 = "Römhild"   
+     
+# BAHIA    
+     
+756 = "Allerheiligenbucht"   
+757 = "Obergau"   
+760 = "Fürstenhaven"   
+2914 = "Laurenburg"   
+2916 = "Kreuzlingen"   
+     
+# CEARA    
+     
+750 = "Neu Werlte"   
+751 = "Keiserlingerburg"   
+753 = "West Rheinland"   
+     
+# DIAMANTINA    
+     
+759 = "Diamantenfurt"   
+2891 = "Godesberg"   
+2898 = "Neuheiligen"   
+     
+# GOIAS    
+     
+758 = "Weißkirchen"   
+2906 = "Meßkirch"   
+2907 = "Bischoffdorf"   
+2908 = "Boosland"   
+2919 = "Hessen Kolonie"   
+     
+# GRAO PARA   
+     
+748 = "Bethlehem"   
+2890 = "Gutenzell"   
+2928 = "Bingenheim"   
+2929 = "Darmstadt"   
+     
+# GUAPORE    
+     
+2900 = "Hohenlohe"   
+2901 = "West Machlande"   
+2902 = "Linzgau"   
+     
+# GUAYRA    
+     
+768 = "Manteuffelstedt"   
+2895 = "Habsgau"   
+2897 = "Mainau"   
+     
+# MARANHAO    
+     
+749 = "Neu Hannover"   
+2923 = "Löwenberg"   
+2924 = "Kamminsbrug"   
+2926 = "Kirchberg"   
+2927 = "Henneberg"   
+     
+# MATO GROSSO   
+     
+2888 = "Hildesheim"   
+2903 = "Hatzfeld"   
+2904 = "Allgäuerdschungel"   
+2905 = "Colditz"   
+     
+# MINAS GERAIS   
+     
+765 = "Waldminen"   
+2892 = "Dorffman"   
+2894 = "Sankt Johannes von Gottes Gnaden"   
+2899 = "Ponickau"   
+     
+# OFAIE    
+     
+2881 = "Pölnitz"   
+2893 = "Pappenheim"   
+2920 = "Alderfestung"   
+     
+# PERNAMBUCO    
+     
+754 = "Friedrichsstadt"   
+755 = "Heiliges Kreuz"   
+2912 = "Schwerinsgau"   
+2921 = "Moritzfort"   
+2922 = "Leidberg"   
+     
+# PIAUI    
+752 = "Wittenwald"   
+2886 = "Rot-an-Rot"   
+2925 = "Laufen"   
+     
+# PONTAL    
+     
+2909 = "Heilbronn"   
+2910 = "Hinterort"   
+2911 = "Langwies"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Heiligenburg"   
+762 = "Scheventorf"   
+763 = "Januarfluß"   
+764 = "Münchow"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Sankt Leopold"   
+2879 = "Heilige Thekla"   
+2884 = "Brauersheim"   
+2887 = "Pomerode"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Hardegg"   
+2913 = "Hauptbischoff"   
+2915 = "Beutler"   
+2917 = "Rixenburg"   
+2918 = "Breitenbach"   
+     
+# SAO PAULO   
+     
+766 = "Mittburg"   
+769 = "Blumenau"   
+2896 = "Glockenheim"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Damenbrügge"   
+832 = "Freistadt Tunjaberg"   
+4602 = "Samboridia"   
+4603 = "Fünfbrücken"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Belisaria"   
+2810 = "Sailerspitz"   
+2813 = "Speyersberg"   
+4613 = "Hirschegg"   
+4614 = "Lunien"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Bunter Berg"   
+2816 = "Erholung"   
+4605 = "Nebelhorn"   
+     
+# COQUIVACOA    
+     
+828 = "Sankt Phillippus"   
+829 = "Magdalenenfurt"   
+2806 = "Welserkap"   
+4599 = "Auerochsbucht"   
+4601 = "Romskirche"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Reiterfluss"   
+827 = "Antiochia"   
+2817 = "Höchstkirchen"   
+4600 = "Französisch Haus"   
+4607 = "Vierkirchen"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Giengen Neustadt"   
+2809 = "Huttendorf"   
+2939 = "Sankt Ludgeri"   
+4615 = "Anklam"   
+     
+# GUYANA    
+     
+502 = "Neu Kurland"   
+743 = "Neu Köln"   
+744 = "Helenenburg"   
+2803 = "Orinocoland"   
+     
+# MARACAIBO    
+     
+830 = "Neu Nürnberg"   
+2807 = "Klein Venedig"   
+4609 = "Höhenzollern"   
+4610 = "Fuggersdorf"   
+4611 = "Ratzhoe"   
+     
+# POPAYAN    
+     
+823 = "Weißstadt"   
+826 = "Heringshaven"   
+2818 = "Gmünd"   
+4596 = "Küne"   
+4604 = "Wedding"   
+     
+# SURINAME    
+     
+745 = "Friedrich-Casimir Stadt"   
+746 = "Lichtenberg"   
+2937 = "Suriname"   
+     
+# UPPER GUYANA   
+     
+742 = "Schwarzheide"   
+2804 = "Hesselgaard"   
+2811 = "Wenden Pasewalk"   
+2931 = "Helfenstein"   
+4617 = "Federsburg"   
+     
+# VENEZUELA    
+     
+741 = "Normannküste"   
+831 = "Ehinger"   
+2808 = "Neu Augsburg"   
+4612 = "Demmin"   
+4616 = "Neu Griefswald"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Neu Rügenwalde"   
+2814 = "Rotheiderkirchen"   
+2815 = "Rotheide"   
+4608 = "Bruchlanden"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Maria Erlöserin"   
+786 = "Swartefluss"   
+2868 = "Greifensee"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Uruguayland"   
+773 = "Oppener Zuflucht"   
+2850 = "Gengenbach"   
+2851 = "Kaden"   
+2852 = "Stromaufwärts"   
+     
+# BUENOS AIRES   
+     
+778 = "Gutwind"   
+2846 = "Vogelgau"   
+2848 = "Degenberg"   
+2849 = "Glarustal"   
+     
+# CENTRAL CHILE   
+     
+784 = "Wilhelmshaven"   
+787 = "Eunomia"   
+2862 = "Anwandterberg"   
+     
+# CUYO    
+     
+2843 = "Durkheim"   
+2844 = "Niedermühle"   
+2845 = "Sankt Johannes"   
+2847 = "Pettluis"   
+2877 = "Arnswaldt"   
+     
+# MESOPOTAMIA    
+     
+777 = "Unterbrück"   
+2853 = "Strömungen"   
+2855 = "Neugängen"   
+2858 = "Sankt Jakobus"   
+2859 = "Sachsenwald"   
+     
+# NEHEUNKEN    
+     
+785 = "Wiederhold"   
+2867 = "Baden-Spee"   
+2871 = "Romkirch"   
+2872 = "Goltstein"   
+     
+# PATAGONIA    
+     
+781 = "Willhaven"   
+782 = "Feuerland"   
+2869 = "Oldenbrügge"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Schmiedelfeld"   
+2870 = "Myllendonk"   
+2875 = "Kleine Schweiz"   
+2876 = "Gelnbrug"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Helgoland"   
+2025 = "Süd Borkum"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Phillippinseln"   
+2873 = "Guterivier"   
+2874 = "Flindthaven"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Wackelstein"   
+2860 = "Fraunberg"   
+2861 = "Gaildorf"   
+2865 = "Gemen"   
+2866 = "Speckfeld"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Frieden"   
+804 = "Freiburg am Titicaca"   
+2831 = "Niederberg"   
+2947 = "Malsburg"   
+     
+# CAJAMARCA    
+     
+813 = "Doeberitz"   
+2824 = "Grävenitz"   
+2825 = "Hohbrück"   
+2943 = "Kammin"   
+     
+# CHIMOR    
+     
+812 = "Ranzow"   
+2002 = "Dracheninseln"   
+2821 = "Völlnerfehn"   
+2822 = "Hallwyl-Pyramide"   
+2826 = "Einsambucht"   
+     
+# HUANUCO    
+     
+809 = "Lima"   
+810 = "Bad Reichshofen"   
+811 = "Brottal"   
+814 = "Aulenbachhöhe"   
+2827 = "Handewitt"   
+     
+# IQUITOS    
+     
+815 = "Rietbeck"   
+818 = "Landsberg"   
+821 = "Batavien"   
+     
+# KUNTISUYU    
+     
+807 = "Königsdorf"   
+808 = "Cusco"   
+2829 = "Cimburg"   
+2830 = "Sankt Petersberg"   
+     
+# PERUAN COAST   
+     
+805 = "Deutschbrück"   
+806 = "Nascaland"   
+2828 = "Bovelinostedt"   
+     
+# QUITO    
+     
+816 = "Regensberg"   
+817 = "Kyburg"   
+819 = "Stemmenhaven"   
+820 = "Heiliger Franziskus"   
+2820 = "Bayernstadt"   
+     
+# UCAYALI    
+     
+2823 = "Acht Täler"   
+2944 = "Holtzendorff"   
+2945 = "Leiningen"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Zwergstetten"   
+801 = "General Ziethen Land"   
+2834 = "Mühlingen"   
+     
+# CHACO    
+     
+790 = "Vinkemühlen"   
+2854 = "Zentral Schackoland"   
+2878 = "Chlingensperg"   
+     
+# JUJUY    
+     
+794 = "Altdeich"   
+2837 = "Sankt Katharina"   
+2839 = "Rotsandland"   
+     
+# MOXOS    
+     
+803 = "Dreifaltigkeit"   
+2832 = "Sankt Joachim"   
+2833 = "Mutter Gottes"   
+     
+# NORTHERN CHILE   
+     
+792 = "Kuntsmann"   
+793 = "Johannesport"   
+796 = "Spielberg"   
+2840 = "Kaiserstuhl"   
+2841 = "Grassau"   
+     
+# PARAGUAY    
+     
+775 = "Vielkirchen"   
+776 = "Die Empfängnis"   
+799 = "Nordkirchen"   
+2882 = "Lüdelow"   
+2883 = "Melodie"   
+     
+# POTOSI    
+     
+795 = "Schwarzberg"   
+797 = "Graufürt"   
+2940 = "Bundstadt"   
+2946 = "Coburg"   
+     
+# TUCUMAN    
+     
+791 = "Kattmark"   
+2836 = "Münzenberg"   
+2842 = "Dünkirchen"   
+     
+# UPPER PERU   
+     
+2835 = "Halden"   
+2838 = "Hochdonaufürth"   
+2941 = "Katzenelnbogen"   
+2942 = "Bodenlauben"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Krabbenbucht"   
+4852 = "Auershain"   
+4853 = "Leopoldingen"   
+4854 = "Fürsthafen"   
+     
+# CAPRICORNIA    
+     
+2730 = "Nordwesthorn"   
+2731 = "Jungerfernkap"   
+2732 = "Neidheidtstadt"   
+4848 = "Louisenhafen"   
+4849 = "Strassmoor"   
+     
+# ILLAWARA    
+     
+1090 = "Franckstadt"   
+4857 = "Goldkap"   
+4858 = "Friedenshafen"   
+4859 = "Königinberg"   
+4860 = "Generalfurt"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Humboldtebene"   
+1092 = "Leichhardtstrand"   
+4855 = "Knechtkirch"   
+4856 = "Hansenhügel"   
+     
+# PERTH    
+     
+1084 = "Adlerklippen"   
+2727 = "Humboldtkap"   
+4863 = "Hermannstadt"   
+4864 = "Schwanenstieg"   
+     
+# PILBARA    
+     
+2726 = "Wolfsbüttel"   
+4865 = "Rotstrand"   
+4866 = "Känguruebene"   
+4867 = "Windplateau"   
+     
+# PRINCELAND    
+     
+1086 = "Wilhelmshügel"   
+2735 = "Siegeshafen"   
+2736 = "Spitzhorn"   
+4862 = "Salzebene"   
+     
+# QUEENSLAND    
+     
+1093 = "Neu Holtzendorf"   
+1094 = "Neu Straßburg"   
+2733 = "Königsfurt"   
+4850 = "Sankt Ording"   
+     
+# TASMANIA    
+     
+1085 = "Südwesthorn"   
+4868 = "Georgshafen"   
+4869 = "Palmenhain"   
+     
+# TOP END   
+     
+2728 = "Scharnhorst Inseln"   
+2729 = "Blücherstrand"   
+4846 = "Gneisenaubucht"   
+4847 = "Hötzendorf"   
+     
+# VICTORIA    
+     
+1087 = "Elisabethenbucht"   
+1088 = "Krellenberg"   
+1089 = "Neu Friedrichsburg"   
+2734 = "Bassfurt"   
+4861 = "Dänenfeld"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1244 = "Kölbnitz"   
+1987 = "Stampf"   
+1988 = "Gottschall"   
+     
+# EAST MICRONESIA   
+     
+1241 = "Kiribaten"
+1991 = "Günter Inseln"
+1993 = "Wilhelm Inseln"
+1994 = "Räuflach"   
+     
+# FIJI    
+     
+1242 = "Aigen"   
+4937 = "Würda"   
+4938 = "Durnthal"   
+     
+# MELANESIA    
+     
+1236 = "Keuschen"   
+1238 = "Höggen"   
+1239 = "Löbenau"   
+1986 = "Neu Kaledonien"   
+     
+# NORTHERN POLYNESIA   
+     
+1240 = "Waimeanen"   
+1997 = "Mittelinsel"
+4934 = "Obertilliach"   
+4935 = "Kartitsch"   
+4936 = "Wöllatratten"   
+     
+# POLYNESIA    
+     
+1243 = "Heinfels"   
+1989 = "Nischlwitz"   
+1990 = "Zladisch"   
+1992 = "Semslach"   
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Haegen"   
+1107 = "Karnitzen"   
+2739 = "Villach"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Draschitz"   
+2737 = "Achomitz"   
+4939 = "Göriach"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Görtschach"   
+1246 = "Lenzhof"   
+2738 = "Nieselach"   
+     
+# WEST MICRONESIA   
+     
+1235 = "Steyr"   
+1995 = "Vorderau"   
+1996 = "Römerhof"   
+
+#############################################################################################################################
+## DO NOT FORGET TO ADD GERMAN PROVINCE NAMES IN THE URALS, SIBERIA, MANCHURIA, MONGOLIA AND KAZAKHSTAN ##
+#############################################################################################################################

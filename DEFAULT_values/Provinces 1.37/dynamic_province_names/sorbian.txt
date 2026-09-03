@@ -1,0 +1,55 @@
+### EUROPE
+
+## NORTH GERMANY
+
+# Saxony
+
+61 = {"Drježdzany" "Drježdzany"}
+59 = {"Wytpark" "Wytpark"}
+4744 = {"Šwikawa" "Šwikawa"}
+62 = {"Lipsk" "Lipsk"}
+
+# Lusatia
+
+1763 = {"Dolna Lužyca" "Chósebuz"}
+60 = {"Budyšin" "Budyšin"}
+4778 = {"Zhorjelc" "Zhorjelc"}
+
+# Neumark
+
+2969 = {"Sternberg" "Frankobrod nad Wódru"}
+49 = {"Nowomerc" "Góry Wjelkopólské"}
+
+# Mittelmark
+
+1759 = {"Podstupim" "Podstupim"}
+4748 = {"Braniborska" "Branibor"}
+50 = {"Barlin" "Barlin-Cölln"}
+
+# Saxony-Anhalt
+
+58 = {"Anhaltska" "Dessau"}
+4741 = {"Hala" "Hala nad Solawu"}
+52 = {"Dzewin" "Dzewin"}
+
+# Thuringia
+
+63 = {"Jarobrod" "Jarobrod"}
+
+# Upper Franconia
+
+66 = {"Babin" "Babin"}
+
+# Braunschweig
+
+57 = {"Brunšwik" "Brunšwik"}
+
+## POLAND
+
+# Silesia
+
+2966 = {"Hlohow" "Hlohow"}
+4238 = {"Lehnica" "Lehnica"}
+264 = {"Wróclaw" "Wróclaw"}
+4723 = {"Opole" "Opole"}
+263 = {"Racibórz" "Racibórz"}

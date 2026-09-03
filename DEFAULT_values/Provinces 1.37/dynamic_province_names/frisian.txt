@@ -1,0 +1,95 @@
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brugge" "Brugge"}
+1865 = {"Gint" "Gint"}
+4769 = {"Risel" "Risel"}
+
+# Frisia
+
+99 = {"Gelre" "Gelre"}
+100 = {"Fryslân" "Ljouwert"}
+1931 = {"Eastfryslân" "Emden"}
+4381 = {"Oerisel" "Swol"}
+4382 = {"Grins" "Grins"}
+
+# Holland
+
+96 = {"Seelân" "Middelburch"}
+97 = {"Amsterdam" "Amsterdam"}
+98 = {"Utert" "Utert"}
+4383 = {"De Haach" "De Haach"}
+
+# North Brabant
+
+95 = {"Breda" "Breda"}
+1742 = {"Heger Gelre" "Limburg"}
+4770 = {"De Bosk" "De Bosk"}
+
+# South Brabant
+
+92 = {"Brussel" "Brussel"}
+1744 = {"Antwerpen" "Antwerpen"}
+2974 = {"Borgloon" "Borgloon"}
+
+# Wallonia
+
+91 = {"Henegouwen" "Bergen"}
+93 = {"Luik" "Luik"}
+94 = {"Lúksemboarch" "Lúksemboarch"}
+1866 = {"Namen" "Namen"}
+
+## FRANCE
+
+# Champagne
+
+181 = {"Rethel" "Rethel"}
+186 = {"Reims" "Reims"}
+4390 = {"Troyes" "Troyes"}
+
+# Normandy
+
+167 = {"Kauks" "Rouen"}
+168 = {"Kaen" "Kaen"}
+1879 = {"Alensjon" "Alensjon"}
+4385 = {"Kotentin" "Sjerboarch"}
+
+# Picardy
+
+87 = {"Kalês" "Kalês"}
+88 = {"Arteezje" "Arras"}
+89 = {"Picardje" "Amiens"}
+1743 = {"Kameryk" "Kameryk"}
+
+183 = {"Parys" "Parys"}
+
+## NORTH GERMANY
+
+# Lower Rhineland
+
+80 = {"Trier" "Trier"}
+1760 = {"Koblenz" "Koblenz"}
+1878 = {"Aken" "Aken"}
+4768 = {"Gulik" "Gulik"}
+
+# North Rhine
+
+83 = {"Nassau" "Nassau"}
+84 = {"Berg" "Düsseldorf"}
+85 = {"Keulen" "Keulen"}
+2975 = {"Kleef" "Kleef"}
+
+# North Westphalia
+
+56 = {"Osnabrück" "Osnabrück"}
+69 = {"Dortmund" "Dortmund"}
+86 = {"Múnster" "Múnster"}
+2973 = {"Meppen" "Meppen"}
+
+# Weser
+
+54 = {"Stade" "Stade"}
+55 = {"Aldenburch" "Aldenburch"}
+1874 = {"Bremen" "Bremen"}
+4771 = {"Verden" "Verden"}

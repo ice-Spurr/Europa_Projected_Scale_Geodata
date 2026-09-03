@@ -1,0 +1,3266 @@
+### EUROPE
+
+## ANATOLIA (Anatólia)
+
+# Aegean Archipelago (Arquipélago do Egeu)
+
+164 = {"Naxos" "Naxos"}
+320 = {"Rodes" "Rodes"}
+2348 = {"Quios" "Castro"}
+3003 = {"Eubeia" "Cálquida"}
+4700 = {"Lesbos" "Metilena"}
+
+# Ankara (Ancara)
+
+326 = {"Ancara" "Ancara"}
+4312 = {"Dorileia" "Dorileia"}
+4313 = {"Chanquere" "Chanquere"}
+
+# Aydin
+
+318 = {"Esmirna" "Esmirna"}
+319 = {"Halicarnasso" "Halicarnasso"}
+2297 = {"Manissa" "Manissa"}
+2298 = {"Antália" "Antália"}
+4309 = {"Euância" "Euância"}
+
+# Çukurova
+
+321 = {"Chipre" "Nicósia"}
+327 = {"Antioquia" "Antioquia na Cilícia"}
+2302 = {"Coracésia" "Coracésio"}
+
+# Dulkadir (Germanícia)
+
+332 = {"Germanícia" "Germanícia Cesareia"}
+2303 = {"Malateia" "Malateia"}
+2308 = {"Edessa" "Edessa"}
+4310 = {"Tefrique" "Tefrique"}
+
+# Erzurum (Teodosiópolis)
+
+330 = {"Trebizonda" "Trebizonda"}
+331 = {"Teodosiópolis" "Teodosiópolis"}
+2305 = {"Acilisena" "Acilisena"}
+
+# Germiyan
+
+322 = {"Frígia" "Cotieu"}
+1848 = {"Pisídia" "Esparta Turca"}
+4308 = {"Laodiceia" "Laodiceia no Lico"}
+4311 = {"Acroénia" "Acroeno"}
+
+# Hudavendigar
+
+316 = {"Bitínia" "Nicomédia"}
+317 = {"Prusa" "Prusa"}
+2296 = {"Dardanelos" "Dardânia"}
+
+# Karadeniz
+
+325 = {"Paflagónia" "Castro Comneno"}
+328 = {"Sinope" "Sinope"}
+2299 = {"Claudiópolis" "Claudiópolis"}
+2304 = {"Cáldia" "Samessonda"}
+
+# Karaman
+
+323 = {"Icónia" "Icónio"}
+324 = {"Larândia" "Larândia"}
+2301 = {"Capadócia" "Mázaca"}
+4307 = {"Arqueládia" "Arqueládia"}
+
+# Rum
+
+329 = {"Sebástia" "Sebástia"}
+1846 = {"Amássia" "Amássia"}
+2300 = {"Távia" "Távia"}
+4314 = {"Mocíssia" "Mocisso"}
+4315 = {"Tocácia" "Tocate"}
+
+## BALKANS (Balcãs)
+
+# Albania
+
+143 = {"Valona" "Valona"}
+4174 = {"Durazo" "Durazo"}
+4175 = {"Escodra" "Escodra"}
+4750 = {"Cruja" "Cruja"}
+
+# Bosnia
+
+139 = {"Zaclúmia" "Móstaro"}
+140 = {"Bósnia" "Canabeia"}
+1831 = {"Herzegovina" "Castelo Novo"}
+3002 = {"Visoque" "Visoque"}
+4755 = {"Podriníjia" "Visegrado"}
+
+# Bulgaria
+
+150 = {"Nicopol" "Nicopol"}
+1765 = {"Sófia" "Sófia"}
+2746 = {"Bonónia" "Bonónia"}
+2750 = {"Plódiva" "Plódiva"}
+4703 = {"Pautália" "Costende"}
+
+# Croatia
+
+131 = {"Zagábria" "Zagábria"}
+1826 = {"Lapúdia" "Sénia"}
+1828 = {"Partes Inferiores" "Bânia Luca"}
+4752 = {"Riéca" "Riéca"}
+
+# Dalmatia
+
+136 = {"Espalato" "Espalato"}
+137 = {"Ragusa" "Ragusa"}
+4753 = {"Zádera" "Zádera"}
+
+# Macedonia
+
+148 = {"Calcídica" "Tessalónica"}
+1853 = {"Castória" "Castória"}
+3001 = {"Escópia" "Escópia"}
+4702 = {"Serres" "Serres"}
+4780 = {"Ócrida" "Ócrida"}
+
+# Morea
+
+145 = {"Lacónia" "Mistra"}
+146 = {"Atenas" "Atenas"}
+163 = {"Creta" "Heraclião"}
+1773 = {"Acaia" "Pátra"}
+4701 = {"Coríntia" "Coríntia"}
+
+# Northern Greece
+
+142 = {"Córcira" "Córcira"}
+144 = {"Épiro" "Janina"}
+147 = {"Tessália" "Lárissa"}
+4698 = {"Cefalónia" "São Jorge"}
+4699 = {"Árta" "Lepanto"}
+
+# Rascia
+
+138 = {"Montenegro" "Zabelaque"}
+1766 = {"Cossovo" "Pristina"}
+1827 = {"Réscia" "Tirgovista"}
+4754 = {"Cátaro" "Cátaro"}
+
+# Serbia
+
+141 = {"Semêndria" "Semêndria"}
+3000 = {"Néscia" "Néscia"}
+4176 = {"Viminácio" "Viminácio"}
+4239 = {"Belgrado" "Belgrado"}
+4757 = {"Valievo" "Valievo"}
+
+# Silistria
+
+159 = {"Silístria" "Silístria"}
+4704 = {"Ternóvia" "Ternóvia"}
+4706 = {"Egisso" "Egisso"}
+
+# Slavonia
+
+152 = {"Varásdina" "Varasde"}
+1767 = {"Eslavónia" "Ócero"}
+4173 = {"Sírmia" "São Demétrio"}
+4756 = {"Belovar" "Belovar"}
+
+# Thrace
+
+149 = {"Adrianópolis" "Adrianópolis"}
+151 = {"Constantinopla" "Constantinopla"}
+1764 = {"Messâmbria" "Agatópolis"}
+4705 = {"Comótena" "Comótena"}
+4779 = {"Galípoli" "Galípoli"}
+
+## BALTICS (Bálticos)
+
+# Aukstaitija
+
+272 = {"Vilno" "Vilno"}
+770 = {"Braslávia Lituana" "Braslávia Lituana"}
+4535 = {"Vilcomíria" "Vilcomíria"}
+4536 = {"Lides" "Lides"}
+
+# Curonia
+
+35 = {"Osília" "Arenesburgo"}
+39 = {"Goldínguia" "Goldinga"}
+1935 = {"Semigola" "Mitávia"}
+
+# East Prussia
+
+40 = {"Castro Melo" "Castro Melo"}
+41 = {"Montanha do Rei" "Montanha do Rei"}
+42 = {"Vármia" "Olestina"}
+767 = {"Estíteno" "Estíteno"}
+2958 = {"Osteródia" "Osteródia"}
+
+# Estonia
+
+36 = {"Talim" "Talim"}
+1834 = {"Tárbato" "Tárbato"}
+1842 = {"Narva" "Narva"}
+
+# Livland
+
+37 = {"Livónia" "Felina"}
+38 = {"Riga" "Riga"}
+273 = {"Lategália" "Dunaburgo"}
+4241 = {"Vónia" "Vónia"}
+
+# Samogitia
+
+270 = {"Trócia" "Trócia"}
+271 = {"Samogícia" "Várnia"}
+1936 = {"Caunas" "Caunas"}
+4534 = {"Úpeta" "Úpeta"}
+
+# West Prussia
+
+43 = {"Danges" "Danges"}
+1841 = {"Mariemburgo" "Mariemburgo"}
+2997 = {"Túguela" "Túguela"}
+
+## BRITAIN (Bretanha/Ilhas Britânicas)
+
+# Connacht
+
+375 = {"Limerico" "Limerico"}
+376 = {"Conácia" "Gálvia"}
+4119 = {"Esligóvia" "Esligóvia"}
+
+# East Anglia
+
+238 = {"Camulódena" "Claudiópole"}
+1860 = {"Norfózia" "Nórvico"}
+4370 = {"Cantabrígia" "Cantabrígia"}
+
+# East Midlands
+
+243 = {"Líncole" "Líncole"}
+1861 = {"Dervêntia" "Dervento"}
+4376 = {"Lecéstria" "Lecéstria"}
+
+# Highlands
+
+250 = {"Pértia" "Pértia"}
+252 = {"Néstia" "Avernéscia"}
+369 = {"Ilhas Órquenas" "Eclésina"}
+4110 = {"Suterlândia" "São Espírito"}
+4363 = {"Argila" "Taumásia"}
+
+# Leinster
+
+373 = {"Palânia" "Dublim"}
+374 = {"Lagénia" "Manápia"}
+4120 = {"Quélaro" "Quélaro"}
+4379 = {"Terras Médias" "Telomeres"}
+
+# London
+
+235 = {"Cântia" "Cantuária"}
+236 = {"Londres" "Londres"}
+237 = {"Oxónia" "Oxónia"}
+4371 = {"Sessénia" "Astinga"}
+
+# Lowlands
+
+248 = {"Lugónia" "Edimburgo"}
+249 = {"Arenéchia" "Glásgua"}
+251 = {"Aberdínia" "Aberdina"}
+4361 = {"Guedeburgo" "Guedeburgo"}
+4362 = {"Ranquim" "Ranquim"}
+
+# Munster
+
+4118 = {"Corque" "Corque"}
+4377 = {"Momónia Oriental" "Clerequénia"}
+4378 = {"Momónia Ocidental" "Cilârnia"}
+
+# Northern England
+
+244 = {"Castro Lim" "Castro Lim"} # or Castelo Lim
+246 = {"Nortúmbria" "Castelo Novo"} # or Ponte Élio, or Castro Novo
+247 = {"Cúmbera" "Luguevale"}
+4375 = {"Arvénia" "Arvénia"}
+
+# The Isles
+
+253 = {"Hébridas Exteriores" "Estornovalha"}
+4364 = {"Hébridas Interiores" "Esquébes"}
+4365 = {"Ilha de Meniana" "Vila do Castelo"}
+
+# Ulster
+
+372 = {"Tirénia" "Dérria"} # or Dungaguenão
+4121 = {"Ultónia" "Bélfato"}
+4380 = {"Donegália" "Donegália"}
+
+# Wales
+
+241 = {"Glamorgínia" "Esvecínia"}
+242 = {"Venegócia" "Cernaverão"} # city name can also be Segôntia or Asperim
+4366 = {"Póvia" "Monterão"}
+4369 = {"Carmacena" "Carmacena"}
+
+# Wessex
+
+233 = {"Cornualha" "Tamarópolis"} # or Terevélia
+234 = {"Sarisbéria" "Sarisbéria"}
+4130 = {"Sormosédia" "Ávona"}
+4373 = {"Dumónia" "Foz do Pluma"}
+4374 = {"Dorsécia" "Dorsécia"} # or Durnovária (both names)
+
+# West Midlands
+
+239 = {"Glocestre" "Brístola"}
+240 = {"Salópia" "Salópia"}
+4372 = {"Covêntria" "Covêntria"}
+
+# Yorkshire
+
+245 = {"Iorque" "Iorque"}
+4367 = {"Condado Real" "Olhão (sobre o Trento)"}
+4368 = {"Escártia" "Escarburgo"}
+4785 = {"Sefelda" "Sefelda"}
+
+## CARPATHIA (Cárpatos)
+
+# Alföld
+
+155 = {"Jules" "Jules"}
+1953 = {"Debrecém" "Debrecém"}
+1954 = {"Bechequer" "Bechequer"}
+4125 = {"Tibisco" "Solónia"} # or Solnoca
+
+# Moldova
+
+268 = {"Súqueves" "Súqueves"}
+1756 = {"Bessarábia" "Quília"}
+2405 = {"Teguina" "Teguina"}
+4529 = {"Jásere" "Mercado Filisteu"}
+4530 = {"Bérlado" "Bérlado"}
+
+# Northern Transilvania
+
+157 = {"Varádia" "Oradeia"}
+158 = {"Márcia" "Mercado Mercês"}
+1952 = {"Marmácia" "Husta"}
+4127 = {"Potaiça" "Tordes"}
+
+# Slovakia
+
+154 = {"Nítria" "Honta"}
+162 = {"Cassóvia" "Cassóvia"}
+1318 = {"Espísia" "Levócia"}
+1772 = {"Posónia" "Posónia"}
+4236 = {"Laugarício" "Laugarício"}
+
+# Southern Transilvania
+
+156 = {"Tebisco" "Tevisque"}
+1951 = {"Húnhade" "Saregétia"}
+4128 = {"Sebião" "Sebião"}
+
+# Transdanubia
+
+135 = {"Escarbântia" "Escarbântia"}
+153 = {"Peste" "Buda"}
+1864 = {"Semígia" "Castelo Rupertino"}
+4126 = {"Vodreguina" "Semóvera"}
+4240 = {"Anamácia" "Branco Real"}
+
+# Wallachia
+
+160 = {"Craiova" "Craiova"} # or Pelendávia as the city name, based in Greek and Latin
+161 = {"Targovíscia" "Targovíscia"}
+2998 = {"Buzéu" "Buzéu"}
+4531 = {"Munténia" "Bucareste"}
+4532 = {"Sevéria" "Sevéria"}
+
+## CAUCASIA (Caucásia/Cáucaso)
+
+# Circassia
+
+463 = {"Circásia" "Crasnódaro"}
+2195 = {"Adigueia" "Souxe"}
+2197 = {"Cabárdia" "Nalíscio"}
+2201 = {"Alânia" "Vladicáucaso"}
+
+# Dagestan
+
+425 = {"Daguestão" "Derbento"}
+2198 = {"Cúndia" "Cúnzaco"}
+2199 = {"Tárquia" "Tarco"}
+2208 = {"Terécia" "Mósdoca"}
+4306 = {"Láquia" "Velissária"} # or Belissária
+
+# Imereti
+
+422 = {"Imerécia" "Cotássia"}
+462 = {"Mingrélia" "Arcaeópolis"} # or Arcaiópolis
+1856 = {"Abecásia" "Sucúmia"}
+
+# Kartli-Kakheti
+
+423 = {"Tíbliça" "Tíbliça"}
+2203 = {"Caécia" "Teledo"}
+4301 = {"Cartália" "Gourém"}
+
+# Samtskhe
+
+2196 = {"Gúria" "Batum"}
+2204 = {"Córchena" "Córchena"}
+4303 = {"Ólcia" "Ólcia"}
+
+## FRANCE (França)
+
+# Auvergne
+
+190 = {"Borbónia" "Molena"}
+195 = {"Lemosina" "Limoge"}
+199 = {"Auvérnia" "Monte Claro"}
+4697 = {"A Marcha" "Guerete"}
+4777 = {"Forência" "Monbrião"} # or Monte Brisão
+
+# Brittany
+
+169 = {"Arevão" "São Malo"}
+170 = {"Finisterra" "Bresta"}
+171 = {"Venedócia" "Venedócia"}
+172 = {"Nância" "Nância"}
+4384 = {"Rénia" "Redão"}
+
+# Champagne
+
+181 = {"Ardenas" "Retelo"}
+186 = {"Champanha" "Rémia"}
+4390 = {"Trecássia" "Drécazo"}
+
+# Eastern Burgundy
+
+192 = {"Dião" "Dião"}
+193 = {"Condado Livre" "Vesôntia"}
+4764 = {"Salinas" "Salinas"}
+
+# Gascony
+
+173 = {"Laborde" "Baiona"}
+175 = {"Armanhaque" "Ausco"}
+176 = {"Bérnia" "Palo"}
+4694 = {"Fóis" "Fóis"}
+
+# Guyenne
+
+174 = {"Bordéus" "Bordéus"}
+194 = {"Beregória" "Bergueraque"}
+198 = {"Ruerga" "Rodéus"}
+4112 = {"Quércia" "Cadorco"}
+
+# Ile-de-France
+
+182 = {"Valóia" "Suessão"}
+183 = {"Paris" "Paris"}
+185 = {"Nemoures" "Nemoures"}
+4388 = {"Cartácia" "Áutrico"}
+
+# Languedoc
+
+196 = {"Tolosa" "Tolosa"}
+200 = {"Montepélia" "Montepélia"}
+2753 = {"Narbona" "Narbona"}
+4391 = {"Verácia" "Verácia"}
+4695 = {"Carcassona" "Carcassona"}
+
+# Loire Valley
+
+177 = {"Maiena" "Maiena"}
+178 = {"Alenção" "Andecávia"}
+4389 = {"Turónia" "Toures"}
+
+# Lorraine
+
+187 = {"Barrócia" "Barro Duque"}
+188 = {"Mécia" "Mécia"}
+189 = {"Lorena" "Nância"}
+4766 = {"Veredúnia" "Verdão"}
+
+# Normandy
+
+167 = {"Ruão" "Ruão"}
+168 = {"Caena" "Caena"}
+1879 = {"Alenção" "Alenção"}
+4385 = {"Contentena" "Cherburgo na Contentena"}
+
+# Orleanais
+
+179 = {"Berronha" "Burges"}
+184 = {"Orleães" "Orleães"}
+4776 = {"Blessa" "Blessa"}
+
+# Picardie
+
+87 = {"Cales" "Cales"}
+88 = {"Artésia" "Arrás"}
+89 = {"Picardia" "Amião"}
+1743 = {"Câmbria" "Cambraia"}
+
+# Poitou
+
+180 = {"Alta Pictávia" "Pictávia"}
+4111 = {"Santónia" "Santónia"}
+4386 = {"Baixa Pictávia" "Lucião"}
+4387 = {"Angolémia" "Angolémia"}
+
+# Provence
+
+201 = {"Marselha" "Marselha"}
+202 = {"Avinhão" "Avinhão"}
+2991 = {"Forcalcário" "Forcalcário"}
+4696 = {"Toulão" "Toulão"}
+
+# Savoy
+
+203 = {"Lião" "Lião"}
+204 = {"Delfinado" "Granobra"}
+205 = {"Saboia" "Chambérria"}
+4719 = {"Bréchia" "Burgo na Bréchia"}
+
+# Western Burgundy
+
+191 = {"Niverna" "Nerbirno"}
+1877 = {"Charlónia" "Chiarrola"}
+4392 = {"Auxérria" "Auxérria"}
+
+## IBERIA (Ibéria)
+
+# Alentejo
+
+227 = {"Lisboa" "Lisboa"}
+229 = {"Baixo Alentejo" "Beja"}
+230 = {"Algarve" "Lagos"}
+4150 = {"Alto Alentejo" "Évora"}
+4787 = {"Ribatejo" "Santarém"}
+
+# Beira
+
+228 = {"Beira" "Viseu"}
+231 = {"Porto" "Porto"}
+232 = {"Trás-os-Montes" "Bragança"}
+1851 = {"Coimbra" "Coimbra"}
+4556 = {"Aveiro" "Aveiro"}
+
+# Aragon
+
+211 = {"Pirinéus" "Uesca"}
+214 = {"Saragoça" "Saragoça"}
+2990 = {"Teruel" "Teruel"}
+4557 = {"Calataiúde" "Calataiúde"}
+
+# Asturias
+
+207 = {"Astúrias" "Oviedo"}
+1745 = {"Cantábria" "Santander"}
+1746 = {"Burgos" "Burgos"}
+4552 = {"Palência" "Palência"}
+
+# Baleares
+
+333 = {"Maiorca" "Palma de Maiorca"}
+4559 = {"Menorca" "Porto Magão"}
+4560 = {"Ibiza" "Ibiza"}
+
+# Castille
+
+215 = {"Valhadolide" "Valhadolide"}
+217 = {"Mádriza" "Mádriza"}
+2755 = {"Sória" "Sória"}
+4551 = {"Ávila" "Ávila"}
+4789 = {"Segóvia" "Segóvia"}
+
+# Catalonia
+
+197 = {"Rossilhão" "Perpinhão"}
+212 = {"Gerona" "Gerona"}
+213 = {"Barcelona" "Barcelona"}
+2987 = {"Urgel" "Tárrega"}
+2988 = {"Tarragona" "Tarragona"}
+
+# Extremadura
+
+218 = {"Badajoz" "Badajoz"}
+1747 = {"Cáceres" "Cáceres"}
+4788 = {"Plasência" "Plasência"}
+
+# Galicia
+
+206 = {"A Corunha" "A Corunha"}
+4554 = {"Lugo" "Lugo"}
+4555 = {"Pontevedra" "Pontevedra"}
+4558 = {"Orense" "Orense"}
+
+# Leon
+
+208 = {"Leão" "Leão"}
+216 = {"Salamanca" "Salamanca"}
+4553 = {"Zamora" "Zamora"}
+
+# Lower Andalucia
+
+224 = {"Sevilha" "Sevilha"}
+225 = {"Córdova" "Córdova"}
+1748 = {"Jaém" "Jaém"}
+1749 = {"Cádis" "Cádis"}
+4548 = {"Uelva" "Uelva"}
+
+# Toledo
+
+219 = {"Toledo" "Toledo"}
+221 = {"Múrcia" "Múrcia"}
+2751 = {"Cuenca" "Cuenca"}
+2754 = {"Cidade Real" "Cidade Real"}
+4547 = {"Albacete" "Albacete"}
+
+# Upper Andalucia
+
+222 = {"Almeiria" "Almeiria"}
+223 = {"Granada" "Granada"}
+226 = {"Gibraltar" "Gibraltar"}
+4546 = {"Málaga" "Málaga"}
+
+# Valencia
+
+220 = {"Valência" "Valência"}
+1750 = {"Alicante" "Alicante"}
+4549 = {"Chátiva" "Chátiva"}
+4550 = {"Castelão" "Castelão da Plana"}
+
+# Vasconia
+
+209 = {"Biscaia" "Bilbau"}
+210 = {"Navarra" "Pamplona"}
+2989 = {"Riocha" "Logronho"}
+
+## LOW COUNTRIES (Países Baixos)
+
+# Flanders
+
+90 = {"Bruga" "Bruga"}
+1865 = {"Gante" "Gante"}
+4769 = {"Lila" "Lila"}
+
+# Frisia
+
+99 = {"Güéldres" "Arénaco"} # Spelling conventions pre-1945
+100 = {"Frísia" "Loavarda"}
+1931 = {"Frísia Oriental" "Amedão"}
+4381 = {"Transisalânia" "Esvola"}
+4382 = {"Groninga" "Groninga"}
+
+# Holland
+
+96 = {"Zelândia" "Cidade Média"}
+97 = {"Amesterdão" "Amesterdão"}
+98 = {"Utreque" "Utreque"}
+4383 = {"Haia" "A Haia"}
+
+# North Brabant
+
+95 = {"Breda" "Breda"}
+1742 = {"Güéldria Superior" "Ruremunda"} # Spelling conventions pre-1945
+4770 = {"Bolduque" "Bosque do Duque"}
+
+# South Brabant
+
+92 = {"Bruxelas" "Bruxelas"}
+1744 = {"Antuérpia" "Antuérpia"}
+2974 = {"Lona" "Lona"}
+
+# Wallonia
+
+91 = {"Hanónia" "Montes Valónicos"}
+93 = {"Lieja" "Lieja"} # or Lége
+94 = {"Luxemburgo" "Cidade do Luxemburgo"}
+1866 = {"Namurgo" "Namurgo"}
+
+## ITALY (Itália)
+
+# Apulia
+
+122 = {"Salência" "Taranto"}
+1933 = {"Bária" "Bária"}
+2985 = {"Fóguia" "Fóguia"}
+4733 = {"Molízia" "Campo Basso"}
+
+# Calabria
+
+123 = {"Calábria" "Catácia"}
+1934 = {"Lucânia" "Potência"}
+2984 = {"Cosença" "Cosença"}
+
+# Campania
+
+121 = {"Nápoles" "Nápoles"}
+2983 = {"Salerno" "Salerno"}
+4734 = {"Avelino" "Avelino"}
+
+# Eastern Sicily
+
+124 = {"Messina" "Messina"}
+126 = {"Ilhas de Malta" "Medina"}
+2982 = {"Siracusa" "Siracusa"}
+
+# Emilia-Romagna
+
+105 = {"Parma" "Parma"}
+106 = {"Modena" "Modena"}
+113 = {"Ferrária" "Ferrária"} # seriously
+114 = {"Ravena" "Ravena"}
+4730 = {"Bolonha" "Bolonha"}
+
+# Lazio-Umbria
+
+118 = {"Roma" "Roma"}
+2976 = {"Perúgia" "Perúgia"}
+4731 = {"Espoleto" "Espoleto"}
+4732 = {"Terracina" "Terracina"}
+
+# Liguria
+
+101 = {"Génova" "Génova"}
+102 = {"Niza" "Niza"}
+2992 = {"Savácia" "Albenga"}
+
+# Lombardy
+
+104 = {"Milão" "Milão"}
+1862 = {"Cremonha" "Cremonha"}
+2979 = {"Novária" "Novária"}
+4728 = {"Pávia" "Pávia"}
+4740 = {"Comáchia" "Comasca"}
+
+# Marche-Abruzzo
+
+119 = {"Péssaro" "Péssaro"}
+120 = {"Áquila" "Áquila"}
+2977 = {"Urbénia" "Cidade Pequena"}
+
+# Piedmont
+
+103 = {"Turim" "Turim"}
+1875 = {"Cunes" "Cunes"}
+2981 = {"Monferrate" "Casal Monferrato"}
+4727 = {"Saluzo" "Saluzo"}
+
+# Po Valley
+
+107 = {"Bréscia" "Bréscia"}
+109 = {"Mântua" "Mântua"}
+4739 = {"Bérgamo" "Bérgamo"}
+
+# Tuscany
+
+115 = {"Pisa" "Pisa"}
+116 = {"Florença" "Florença"}
+117 = {"Sena" "Sena"}
+2978 = {"Areço" "Areço"}
+2980 = {"Luca" "Luca"}
+
+# Venetia
+
+108 = {"Veronha" "Veronha"}
+111 = {"Friúlia" "Údena"}
+112 = {"Veneza" "Veneza"}
+1774 = {"Treviço" "Treviço"}
+4729 = {"Pádua" "Pádua"}
+
+# West Mediterranian Islands
+
+127 = {"Sássaro" "Sássaro"}
+1247 = {"Córsega" "Bástia"}
+2986 = {"Cálhare" "Cálhare"}
+4735 = {"Arboreia" "Arboreia"}
+
+# Western Sicily
+
+125 = {"Palermo" "Palermo"}
+4736 = {"Trapânia" "Trapânia"}
+4737 = {"Agrigento" "Agrigento"}
+
+## MAGHREB (Magrebe)
+
+# Macaronesia
+
+366 = {"Grande Canária" "As Palmas"}
+367 = {"Arquipélago dos Açores" "Cidade da Horta"}
+368 = {"Arquipélago da Madeira" "Funchal"}
+4565 = {"Tenerife" "Santa Cruz de Tenerife"}
+
+## GERMANY (Alemanha)
+
+# Alsace
+
+75 = {"Estrasburgo" "Estrasburgo"} # historical
+1880 = {"Igreja Velha" "Igreja Velha"}
+4765 = {"Moluza" "Moluza"}
+
+# Austria Proper
+
+133 = {"Áustria Superior" "Lência"} # historical province name, not used
+134 = {"Viena" "Viena"} # historical
+1770 = {"Cremisa" "Cremisa"}
+4761 = {"Estira" "Estira"}
+4762 = {"Áustria Inferior" "Santo Hipólito"} # historical province name, not used
+
+# Baden
+
+72 = {"Cidade Livre" "Cidade Livre"}
+74 = {"Bade" "Bade"}
+4714 = {"Carluga" "Carluga"}
+
+# Bohemia
+
+266 = {"Praga" "Praga"} # or Bohémia Superior; Praga is always used today
+2968 = {"Bohémia Inferior" "Budevícia"} # historical province name, not used
+2970 = {"Castro Real" "Castro Real"}
+4724 = {"Pardubícia" "Pardubícia"}
+4725 = {"Castro Henrique" "Castelo Henrique"}
+
+# Braunschweig
+
+57 = {"Brunsvique" "Brunsvique"} # historical, sometimes used
+1758 = {"Hanôver" "Hanôver"} # historical, sometimes used
+2971 = {"Hóia" "Hóia"}
+4773 = {"Gotinga" "Gotinga"} # historical, rarely used
+
+# Carniola
+
+129 = {"Carníola" "Lubiana"} # province name always used today
+130 = {"Ístria" "Póla"} # province name always used today
+1769 = {"Gorícia" "Gorícia"}
+4738 = {"Trieste" "Trieste"} # exonym always used
+4751 = {"Celeia" "Celeia"}
+
+# East Bavaria
+
+76 = {"Salesburgo" "Cidade do Sal"} # used name in European Portuguese
+4709 = {"Paçálaves" "Paçálaves"}
+4760 = {"Baviera Interior" "Brundúnio"} # historical province name, not used
+
+# East Swabia
+
+68 = {"Suávia" "Meminga"}
+1868 = {"Ausburgo" "Castelo d'Água"} # historical province name, sometimes used
+1872 = {"Ulma" "Ulma"}
+4711 = {"Danúbia-Vornécia" "Nordelinga"} # Danúbia is the feminine version name of the Danube river (in Portuguese)
+
+# Erzgebinge
+
+267 = {"Pílesna" "Pílesna"}
+1771 = {"Monte Metalefério" "Nomestério"}
+2967 = {"Ágria" "Ágria"}
+
+# Hesse
+
+78 = {"Mogúncia" "Mogúncia"} # historical, not used
+81 = {"Alta Héssia" "Marburgo"} # historical capital name, always used
+1762 = {"Baixa Héssia" "Cassela"}
+1876 = {"Francoforte" "Francoforte sobre o Meno"} # historical, very rarely used
+4774 = {"Folda" "Folda"}
+
+# Hinterpommern
+
+48 = {"Colberga" "Colberga"} # historical, rarely used
+2995 = {"Estólpia" "Estolpa"}
+4746 = {"Estrelaga" "Estrelaga"}
+
+# Inner Austria
+
+128 = {"Caríntia Inferior" "Forte da Lamentação"} # historical province name, not used
+132 = {"Estíria" "Cidade dos Judeus"}
+1863 = {"Graça" "Graça"}
+4759 = {"Caríntia Superior" "Vilaco"} # historical province name, not used
+
+# Lower Bavaria
+
+64 = {"Landeshuta" "Terra dos Alcantis"}
+1757 = {"Alta Baviera" "Amberga"} # historical province name, not used
+2956 = {"Estrubinga" "Estrubinga"}
+2957 = {"Ratisbona" "Ratisbona"} # historical, not used
+
+# Lower Franconia
+
+71 = {"Ansaburgo" "Riacho de Onolde"} # or Onóloda
+79 = {"Vuresburgo" "Vuresburgo"} # better adaptation of the historical name (which is in Brazilian Portuguese)
+4715 = {"Rutemburgo" "Rutemburgo no Távaro"}
+4718 = {"Aschafemburgo" "Aschafemburgo"} # historical, rarely used
+
+# Lower Rhineland
+
+80 = {"Tréveris" "Tréveris"} # historical, not used
+1760 = {"Coblença" "Coblença"} # historical, not used
+1878 = {"Aquisgrão" "Aquisgrão"} # historical, not used
+4768 = {"Juliaco" "Juliaco"}
+
+# Lower Saxony
+
+44 = {"Hamburgo" "Hamburgo"} # historical, always used
+53 = {"Luneburgo" "Luneburgo"} # historical, always used
+1857 = {"Lauemburgo" "Lauemburgo"} # historical, always used
+4772 = {"Cela" "Cela"}
+
+# Lusatia
+
+60 = {"Alta Lusácia" "Budiça"} # historical province name, not used
+1763 = {"Baixa Lusácia" "Cotúbia"} # historical province name, not used
+4778 = {"Gorlícia" "Gorlícia"}
+
+# Mecklemburg
+
+45 = {"Lubeca" "Lubeca"} # historical, sometimes used
+46 = {"Rostoque" "Rostoque"} # historical, rarely used
+2996 = {"Vismária" "Vismária"}
+4749 = {"Estrelícia" "Nova Estrelícia"}
+4786 = {"Preguenícia" "Pâncova"}
+
+# Mittelmark
+
+50 = {"Berlim" "Berlim"} # historical, always used
+51 = {"Rupina" "Rupina"}
+1759 = {"Potesdâmia" "Pôsdame"}
+2993 = {"Premeslávia" "Premeslávia"} # or Preneslávia
+4748 = {"Brandemburgo" "Brandemburgo sobre o Ávela"} # historical province name, always used
+
+# Moravia
+
+265 = {"Brum" "Brum"} # or Bruno, historical, never used
+4237 = {"Olomócia" "Olomócia"}
+4726 = {"Radíscio" "Ostrávia"}
+
+# Neumark
+
+49 = {"Nova Marca" "Montanhas do Varta"}
+2969 = {"Esterneberga" "Francoforte do Óder"} # historical capital name, sometimes used
+4747 = {"Dramburgo" "Dramburgo"}
+
+# North Rhine
+
+83 = {"Nassóvia" "Viesbade"} # historical capital name, very rarely used
+84 = {"Berga" "Aldeia Dússela"} # capital name derived from Düssel + dorf, Dussel Village (whereas Düssel is used as an adjective)
+85 = {"Colónia" "Colónia"} # historical, always used
+2975 = {"Cleves" "Cleves"} # historical, always used
+
+# North Westphalia
+
+56 = {"Osnabruque" "Osnabruque"} # historical, rarely used
+69 = {"Dortemundo" "Dortemundo"} # historical, always used
+86 = {"Monastério" "Monastério Vestefaliense"} # historical province name, never used, derived from the Latin "Monasterium"
+2973 = {"Mépena" "Mépena"}
+
+# Palatinate
+
+77 = {"Ancarberga" "Ancarberga"}
+1761 = {"Palatinado" "Vórmia"} # or Palatinado Renano, historical, unknown utilization frequency
+4767 = {"Duas Pontes" "Duas Pontes"} # literally "Two Bridges", Zwei- + -brück(en)
+
+# Romandie
+
+165 = {"Berna" "Berna"} # historical, always used
+1867 = {"Vado" "Lausana"} # or Losana, historical European Portuguese capital name
+1871 = {"Vales" "Sião"} # historical capital name, sometimes used
+4720 = {"Genebra" "Genebra"} # historical, always used
+4721 = {"Friburgo" "Cidade Livre"} # historical province name, always used?
+
+# Saxony
+
+59 = {"Vitemberga" "Vitemberga"} # historical, sometimes used
+61 = {"Dresda" "Dresda"} # historical, never used
+62 = {"Lípsia" "Lípsia"} # historical, never used
+4744 = {"Esvícaro" "Esvícaro"}
+
+# Saxony-Anhalt
+
+52 = {"Magdeburgo" "Magdeburgo"} # or Madeburgo, historical, always used
+58 = {"Ainalta" "Dessávia"} # historical capital name, never used
+2964 = {"Marca Velha" "Estendália"}
+4741 = {"Hala" "Hala"}
+4742 = {"Goslária" "Góslare"}
+
+# Schleswig-Holstein
+
+13 = {"Eslésvico" "Eslésvico"} # historical, never used
+1775 = {"Hoslácia" "Holsácia"} # historical, never used
+4141 = {"Ditemarcha" "Aldeia dos Melros"}
+
+# South Westphalia
+
+82 = {"Vestefália" "Arnesberga"} # historical province name, always used
+2972 = {"Padebórnia" "Paderborna"}
+4775 = {"Belefelda" "Belefelda"}
+
+# Switzerland
+
+166 = {"Cidades Silvestres" "Esvito"}
+1869 = {"Zurique" "Zurique"} # historical, always used
+1870 = {"São Galeão" "São Galeão"}
+1873 = {"Cória" "Cória"}
+4722 = {"Ilança" "Ilança"}
+
+# Thuringia
+
+63 = {"Erforte" "Erforte"} # historical, never used
+2965 = {"Voguelândia" "Plávia"} # or Voguetelândia
+4743 = {"Vísmare" "Vísmare"}
+
+# Tirol
+
+73 = {"Insbruque" "Insbruque"} # historical, never used
+110 = {"Trento" "Trento"} # historical, always used
+1768 = {"Tirol Ocidental" "Líncia"} # historical capital name
+4710 = {"Vorarleberga" "Berguença"} # historical province name, rarely used
+4758 = {"Alto Ádige" "Merano"} # or Tirol do Sul (South Tyrol), historical province name, sometimes used
+
+# Vorpommern
+
+47 = {"Estralsúndia" "Estralsúndia"}
+1858 = {"Estetino" "Estetino"} # historical, very rarely used
+2994 = {"Volgaste" "Volgaste"}
+4745 = {"Rúgia" "Berga na Rúgia"} # historical province name, sometimes used
+
+# Upper Bavaria
+
+65 = {"Munique" "Munique"} # historical
+2955 = {"Cidade dos Ângoles" "Cidade dos Ângoles"} # or Ingolstádio, which is a Portuguese form of the name
+4707 = {"Águaburgo" "Castelo d'Água"} # derived from Wasser (Água) + -burg (-burgo)
+4708 = {"Frisinga" "Frisinga"} # historical
+
+# Upper Franconia
+
+66 = {"Bamberga" "Bamberga"} # historical, always used
+67 = {"Nuremberga" "Nuremberga"} # historical, always used
+4716 = {"Coburgo" "Coburgo"} # historical, always used
+4717 = {"Berrúcia" "Berrúcia"}
+
+# Weser
+
+54 = {"Cidade" "Cidade Norte"} # derived from Stadt (Cidade), then North City (Cidade Norte)
+55 = {"Oldemburgo" "Oldemburgo"} # historical, always used
+1874 = {"Brema" "Brema"} # historical, rarely used
+4771 = {"Verdúncia" "Verdena"}
+
+# West Swabia
+
+70 = {"Estugarda" "Estugarda"} # historical, always used
+4712 = {"Constança" "Constança"} # historical, sometimes used
+4713 = {"Tubinga" "Tubinga"} # historical, based on the city of Tübingen, rarely used
+
+## POLAND (Polónia)
+
+# Central Poland
+
+258 = {"Serádia" "Serádia"}
+1939 = {"Lencícia" "Lencícia"} # or Lecícia
+4533 = {"Velúnia" "Velúnia"}
+
+# Kuyavia
+
+1859 = {"Turúnia" "Turúnia"}
+4523 = {"Aguenóvia" "Aguenóvia"} # based on the German name (Argenau), or Léslia (based on the Greek name Léslia)
+4524 = {"Dobrijínia" "Dobrijínia"} # or Dobrejínia
+4528 = {"Cuiávia" "Bresta Cuiávica"}
+
+# Malopolska
+
+262 = {"Cracóvia" "Cracóvia"} # historical
+2960 = {"Sância" "Nova Sância"}
+4527 = {"Cencínia" "Cencínia"}
+
+# Mazovia
+
+256 = {"Plócia" "Plócia"}
+257 = {"Varsóvia" "Varsóvia"} # historical
+1938 = {"Visna" "Visna"} # or Víchena
+4525 = {"Rávia" "Rava"}
+
+# Red Ruthenia
+
+261 = {"Galícia" "Galícia"}
+1940 = {"Belécia" "Belça"}
+2424 = {"Premíslia" "Premíslia"}
+2961 = {"Cidade do Leão" "Cidade do Leão"} # or Levive, name comes from Leo- + -polis (Lion City)
+4541 = {"Drogobícia" "Drogobícia"}
+
+# Sandomierz
+
+259 = {"Sandomíria" "Sandomíria"}
+260 = {"Lublínia" "Lublina"}
+2959 = {"Tarnóvia" "Tarnóvia"}
+
+# Silesia
+
+263 = {"Alta Silésia" "Ratebória"}
+264 = {"Baixa Silésia" "Breslávia"} # historical
+2966 = {"Glogóvia" "Glogóvia"}
+4238 = {"Leguenícia" "Leguenícia"}
+4723 = {"Opólia" "Opólia"}
+
+# Wielkopolska
+
+254 = {"Posnânia" "Posnânia"} # or Poznânia, historical
+255 = {"Caléchia" "Calezes"}
+2963 = {"Natiza" "Náquela no (rio) Natiza"} # river Notec
+4526 = {"Guenésnia" "Guenésna"}
+
+## PONTIC STEPPE (Estepes Pônticos)
+
+# Astrakhan
+
+464 = {"Astracãnia" "Astracãnia"}
+466 = {"Camechina" "Camechina"}
+468 = {"Ratânia" "Ratânia"} # or Volgodónia
+2416 = {"Estarópolis" "Estarópolis"}
+2417 = {"Elista" "Elista"}
+
+# Azov
+
+286 = {"Tânia" "Tânia"} # also a name in Portuguese
+287 = {"Ipânia" "Crasnodária"}
+2413 = {"Nova Chercássia" "Nova Chercássia"}
+2414 = {"Techerésquena" "Techerésquena"}
+
+# Crimea
+
+284 = {"Crimeia" "Eupatória"} # historical
+285 = {"Teodósia" "Cáfa"} # historical province name
+2410 = {"Sebastópolis" "Sebastópolis"} # historical name, quite rare to use today
+2447 = {"Tamão" "Tamão"} # or Matregue, or even Fanagória
+
+# Lower Don
+
+288 = {"Chercássia" "Chercássia"}
+467 = {"São Bogório" "São Bogório"}
+1971 = {"Água Flávia" "Água Flávia"} # or Saresina
+2409 = {"Baquemute" "Baquemute"}
+
+# Yedisan
+
+282 = {"Odessa" "Odessa"}
+1974 = {"Quersona" "Quersona"} # ?
+2406 = {"Berieslávia" "Berieslávia"}
+
+# Zaporizhia
+
+283 = {"Zaporíjia" "Zaporíjia"} # historical
+2411 = {"Danápria" "Danápria"} # based on the historical name of the Dnipro river
+2412 = {"Mariópolis" "Mariópolis"}
+
+## RUSSIA (Rússia)
+
+# Arkhangelsk
+
+1955 = {"Comolgória" "Comolgória"}
+4122 = {"Senquersque" "Senquersque"}
+4256 = {"Salinas Orientais" "Salinas de Água Verde"}
+4257 = {"Mezém" "Mezém"}
+
+# Beloozero
+
+312 = {"Belossera" "Belossera"}
+4259 = {"Veláchia" "Velesque"}
+4261 = {"Ústena" "Ústena"}
+
+# Moscow
+
+295 = {"Moscovo" "Moscovo"} # historical
+4251 = {"Mezaque" "Mezaque"}
+4252 = {"Colónia Oriental" "Colónia Oriental"}
+
+# North Karelia
+
+32 = {"Corela" "Corela"}
+309 = {"Olonícia" "Olonícia"} # or Olôncia
+4124 = {"Carélia" "Léques"} # historical province name
+
+# Novgorod
+
+310 = {"Cidade Nova" "Cidade Nova"} # from Nov- + -gorod, "New City"
+311 = {"Chelma" "Chelma"}
+1959 = {"Torsócia" "Torsócia"}
+2749 = {"Tiquevina" "Tiquevina"}
+4260 = {"Partes Superiores" "Grande Voláquia"} # interpretation from "Great/Grand Volochyok"
+
+# Oka
+
+296 = {"Caluga" "Caluga"}
+300 = {"Toula" "Toula"}
+4116 = {"Óqua" "Óqua"} # not "Odióvia" because it looks like it came from the word "ódio", which means "hatred"
+
+# Pomorye
+
+313 = {"Arcângela" "Soroca"}
+1776 = {"Carélia Branca" "Quémia"} # historical province name
+1958 = {"Cargópolia" "Cidade do Cargo"}
+4258 = {"Ónega" "Ónega"}
+
+# Pskov
+
+274 = {"Plescóvia" "Plescóvia"}
+275 = {"Polácia" "Polácia"}
+1960 = {"Ostróvia" "Ostróvia"}
+4148 = {"Luques" "Luques"}
+
+# Ryazan
+
+301 = {"Resânia" "Pereslávia da Resânia"}
+1778 = {"Casemóvia" "Casemiro"}
+4255 = {"Perónia" "Perósco"}
+
+# South Karelia
+
+30 = {"Veborgue" "Veborgue da Carélia"}
+33 = {"São Henriques" "São Henriques"} # reference to the first king of Portugal, D. Afonso Henriques, nationally seen as a great conqueror
+34 = {"Íngria" "Copória"} # historical province name
+1961 = {"Ladogue" "Ladogue"}
+
+# Suzdal
+
+1754 = {"Moirão" "Moirão"}
+1956 = {"Súzeda" "Súzeda"}
+4254 = {"Estarodúbia" "Estarodúbia"}
+
+# Tambov
+
+302 = {"Tambóvia" "Tambóvia"}
+304 = {"Pencha" "Pencha"}
+2415 = {"Écaro" "Écaro"}
+
+# Tver
+
+294 = {"Tuéria" "Tuéria"}
+1752 = {"Rascóvia" "Rascóvia"} # or Rieva
+4243 = {"Trupénia" "Trupénia"}
+4248 = {"Alquemina" "Alquemina"}
+4249 = {"Zubeténia" "Zubeténia"} # probably?
+
+# Vladimir
+
+307 = {"Volodimíria" "Volodimíria Russa"}
+4147 = {"Rostóvia" "Grande Rostóvia"}
+4253 = {"Jurique" "Jurique"}
+
+# Vologda
+
+314 = {"Vológueda" "Vológueda"}
+4262 = {"Tódema" "Tódema"}
+4263 = {"Galiscaia" "Galiscaia"}
+
+# Yaroslavl
+
+308 = {"Jaroslávia" "Jaroslávia"}
+1753 = {"Costroma" "Costroma"}
+4117 = {"Bechézia" "Bechézia"} # or Bechésia
+4250 = {"Mologa" "Mologa"}
+
+## RUTHENIA (Ruténia)
+
+# Cherignov
+
+289 = {"Chernigóvia" "Chernigóvia"}
+1945 = {"Sevéria" "Nova Cidade (da Sevéria)"}
+4543 = {"Rílchia" "Rílchia"}
+
+# East Dniepr
+
+290 = {"Poltávia" "Poltava"}
+2407 = {"Pereslávia" "Pereslávia"} # or Pereaslávia
+4542 = {"Lúbenia" "Lúbena"}
+
+# Minsk
+
+276 = {"Minsque" "Minsque"}
+4115 = {"Moséria" "Mosérano"}
+4242 = {"Boressóvia" "Boressóvia"}
+4544 = {"Boberíchia" "Boberíchia"}
+
+# Podlasie
+
+269 = {"Podelásia" "Drogobícia (na Podelásia)"} # historical province name
+277 = {"Bresta" "Bresta Lituana"}
+1937 = {"Gródena" "Gródena"}
+
+# Podolia
+
+281 = {"Podólia" "Camenécia (na Podólia)"} # historical province name
+1943 = {"Braslávia Rutena" "Braslávia Rutena"}
+4540 = {"Visôncia" "Visôncia"}
+
+# Pripyat
+
+278 = {"Pínchia" "Pinsque"}
+1941 = {"Tórvia" "Tórva"}
+4537 = {"Novogrado" "Nova Cidade Lituana"}
+4545 = {"Esluca" "Esluca"}
+
+# Sloboda Ukraine
+
+291 = {"Carcóvia" "Carcóvia"} # historical
+298 = {"Curéchia" "Curesco"}
+299 = {"Voronéjia" "Vorénaco"}
+2408 = {"Jelécia" "Jelécia"}
+
+# Smolensk
+
+293 = {"Meleníchia" "Meleníchia"}
+297 = {"Brigântia" "Brigântia"}
+4244 = {"Trubecévia" "Trubes"}
+4245 = {"Viasma" "Viasma"}
+
+# Volhynia
+
+279 = {"Volínia" "Volodimíria Voliniense"} # historical province name
+2962 = {"Róvene" "Róvene"} # or Erácia
+4538 = {"Chelma Polaca" "Chelma Polaca"}
+4539 = {"Creménia" "Crémano"}
+
+# West Dniepr
+
+280 = {"Quívia" "Quieve"} # Kyiv and Kiev, phonetically adapted (or Quíve for the first name)
+1942 = {"Jetomíria" "Jetomire"}
+1944 = {"Chercásia" "Chercásia"} # do not confuse with "Chercássia"
+4247 = {"Overúcia" "Overuco"}
+
+# White Ruthenia
+
+292 = {"Moguília" "Moguília"} # or Moguelóvia
+771 = {"Vitebe" "Vitebe"}
+4246 = {"Mestislávia" "Mestislávia"}
+
+## SCANDINAVIA (Escandinávia)
+
+# Denmark
+
+12 = {"Copenhaga" "Copenhaga"} # historical
+14 = {"Fiónia" "Ótena"} # historical province name
+1981 = {"Ilha da Boríngia" "Rónia"} # historical province name
+1983 = {"Lalândia" "Nicobinga"} # historical province name
+
+# Finland
+
+27 = {"Satagôndia" "Áboa"} # based on the French province name
+28 = {"Helsínquia" "Helsínquia"} # historical
+29 = {"Tavástia" "Tavaste"} # historical province name
+31 = {"Savónia" "Forte d'Olávio"} # historical province name
+4123 = {"Bircária" "Tamerfósia"} # historical province name
+
+# Laponia
+
+315 = {"Finemarca" "Vânguia"} # or Varânguia
+1777 = {"Península de Cola" "Pessâmia"} # or "Cola de Lapónia" as the capital name; historical province name
+4151 = {"Inária" "Belónia"}
+
+# Norrland
+
+9 = {"Helsíngia" "Gebília"} # historical province name
+11 = {"Bótnia Ociental" "Uma"} # historical province name
+18 = {"Lapónia" "Arvesária"} # historical province name
+4114 = {"Lapónia Setentorial" "Jacómia"} # or Jecómia; historical province name
+
+# North Atlantic Islands
+
+370 = {"Islândia Ocidental" "Reiquiavique"} # historical capital name; the province name literally means "West Iceland"
+371 = {"Islândia Oriental" "Acureire"} # or Acure, the province name logically means "East Iceland"
+1978 = {"Ilhas Chetelândia" "Lérvico"}
+1979 = {"Ilhas Faroé" "Porta de Dunar"} # historical province name; the capital name (originally Tórshavn) means "Dunar's Gate", whose Gate owner is a High German name adaptation of (the mythological god of) Thor, which was then adapted to the Portuguese phonetic conventions.
+
+# North Jutland
+
+15 = {"Jutlândia Ocidental" "Riba"}
+1984 = {"Jutlândia Setentorial" "Alburgo"}
+4142 = {"Jutlândia Oriental" "Arúchia"}
+4149 = {"Jutlândia do Sul" "Coldinga"}
+
+# Ostlandet
+
+17 = {"Oslo" "Oslo"} # or Cristiânia; both historical names which already sound Portuguese
+22 = {"Oplândia" "Hamária"} # historical province name
+4143 = {"Somalena" "Mósso"} # or "Fóldia Oriental" for the province name
+4144 = {"Bremonte" "Chia"}
+
+# Östra Götland
+
+2 = {"Gotalândia Oriental" "Lincópia"}
+3 = {"Esmolândia do Norte" "Calmar"} # or "Esmolândia Setentorial", but it doesn't fit
+25 = {"Gotlândia" "Vísbia"} # do NOT confuse with "Gotalândia"
+4166 = {"Esmolândia do Sul" "Véchia"} # historical province name
+
+# Östra Svealand
+
+1 = {"Estocolmo" "Estocolmo"} # historical
+4 = {"Arócia" "Arósia"}
+1930 = {"Ilhas Alanda" "Porto Maria"} # historical province name
+
+# Ostrobothnia
+
+19 = {"Bótnia Oriental" "Coresolma"} # historical province name
+4113 = {"Rovanémia" "Rovanema"}
+4152 = {"Caiânia" "Moselca"}
+
+# Skaneland
+
+6 = {"Escânia Ocidental" "Lunda"}
+26 = {"Halândia" "Vila d'Alme"} # historical province name
+1982 = {"Escânia Oriental" "Ronévia"} # or Renévia
+4165 = {"Escânia Central" "Gonges"}
+
+# Trondelag
+
+10 = {"Jemetelândia" "Venúcia"} # historical province name
+20 = {"Trondeláguia" "Trôndema"} # or Trôntema; historical province name
+21 = {"Halogalândia" "Esteiga"} # historical province name
+
+# Västra Götaland
+
+7 = {"Gotalândia Ocidental" "Escaraburgo"} # or Escarânia as the province name
+16 = {"Bohúsia" "Merácia"} # or Marestândia as the capital name
+4163 = {"Gotemburgo" "Gotemburgo"} # historical
+4164 = {"Dália" "Daleburgo"}
+
+# Västra Svealand
+
+5 = {"Vernelândia" "Cidade Carlos"} # or Varnelândia
+8 = {"Dalecárlia" "Falonha"} # historical province name
+1985 = {"Nerícia" "Oureberão"} # or "Nerízia" and "Ourebrão", respectively
+
+# Vestlandet
+
+23 = {"Berga" "Berga"}
+24 = {"Rogalândia" "Estavângria"} # historical province name
+2752 = {"Ramedália" "Móleda"}
+4145 = {"Augândia" "Ledesna"} # or "Ledesne"
+
+## URAL (Urais)
+
+# Bashkiria
+
+475 = {"Bascortostão" "Bascortostão"} # historical
+1965 = {"Bezúlia" "Buzúlaco"}
+1966 = {"Côngora" "Côngora"} # based on the French name "Koungour"
+2420 = {"Oremburgo" "Oremburgo"} # historical
+2444 = {"Crisóstomo" "Crisóstomo"}
+
+# Galich
+
+306 = {"Novogrado Inferior" "Nova Cidade Baixa"}
+1079 = {"Viáteca" "Clenóvia"}
+1083 = {"Vetelúguia" "Vetelugo"}
+1957 = {"Galícia Meridional" "Galícia Meridional"}
+
+# Kama
+
+305 = {"Pérmia" "Perma"} # or Perme
+1962 = {"Cudímera" "Cudímera"}
+1972 = {"Udmúrtia" "Izéveque"} # historical province name
+4266 = {"Écaro" "Vila Dia"}
+
+# Kazan
+
+1082 = {"Casém" "Casém"} # not naming this "Casão" because it means "Big House"
+2422 = {"Cebocária" "Sebáchera"}
+4264 = {"Tetúsia" "Tetúsia"}
+
+# Perm
+
+1077 = {"Selicâmia" "Salinas de Câmia"}
+1755 = {"Ustiuga" "Grande Ustiuga"} # or Ustiuga Magna as the capital name
+1963 = {"Cherdínia" "Chérdina"}
+1964 = {"Sízola" "Sízola"}
+4129 = {"Vímare" "Vímare"}
+
+# Samara
+
+473 = {"Samária" "Samare"}
+1081 = {"Símbiria" "Símbiria"}
+2423 = {"Alatíria" "Alatíria"}
+
+# Saratov
+
+303 = {"Saratóvia" "Saratove"}
+2418 = {"Intercessão" "Poqueróvia"}
+2419 = {"Serânia" "Serânia"} # or "Sirânia"
+
+# Ural
+
+1078 = {"São Afonso" "São Afonso"}
+1080 = {"Pelímia" "Pelímia"}
+1780 = {"Arência" "Arência"}
+2427 = {"Ostáquia" "Ostáquia"}
+2441 = {"Íglia" "Íglia"}
+
+# Volga
+
+2421 = {"Jucácia" "Jucácia"} # or "Berejénia"
+4265 = {"Arcos" "Arcos Ripuários"}
+4267 = {"Belária" "Belária"}
+
+### AFRICA (África)
+
+## MAGHREB (Magrebe)
+
+# Algiers
+
+336 = {"Tremecém" "Tremecém"}
+2465 = {"Hújeda" "Hújeda"}
+4562 = {"Mercém Quibir" "Mercém Quibir"}
+
+# Barbary Coast
+
+337 = {"Orão" "Orão"}
+338 = {"Métula" "Desarelas"}
+2461 = {"Dára" "Mostaganém"}
+
+# Central Morocco
+
+343 = {"Féz" "Féz"}
+344 = {"Marraquexe" "Marraquexe"}
+2467 = {"Méquenes" "Méquenes"}
+2468 = {"Tádula" "Tádula"}
+
+# Djerba
+
+353 = {"Tateaém" "Tateaém"}
+2453 = {"Esfáchia" "Esfache"}
+2954 = {"Jerba" "Jerba"}
+
+# Fezzan
+
+2448 = {"Fezão" "Murzuque"}
+2449 = {"Júfera" "Hune"}
+2474 = {"Tájare" "Tájare"}
+4567 = {"Seba" "Saba"}
+
+# Gharb
+
+342 = {"Garbe" "Rabate"}
+345 = {"Ábeda" "Safim"}
+2469 = {"Duquela" "Mazagão"}
+4564 = {"Anafé" "Anafé"}
+
+# Hautes Plains
+
+2459 = {"Títere" "Médua"}
+2462 = {"Tenegária" "Tenegária"}
+2463 = {"Cádire" "Cádire"}
+
+# Kabylia
+
+339 = {"Cabília" "Búgia"}
+340 = {"Constantina" "Constantina"}
+1882 = {"Bona" "Bona"}
+
+# North Morocco
+
+334 = {"Tânger" "Tânger"}
+335 = {"Melilha" "Melilha"}
+1751 = {"Ceuta" "Ceuta"}
+4561 = {"Tetuão" "Tetuão"}
+4563 = {"Salé" "Salé"}
+
+# North Sahara
+
+352 = {"Gáfesa" "Gáfesa"}
+2450 = {"Gadâmes" "Gadâmes"}
+2456 = {"Tugurte" "Tugurte"}
+2457 = {"Muzábe" "Garedaia"}
+2472 = {"Uargla" "Uargla"}
+
+# Ouled Nail
+
+350 = {"Laguate" "Laguate"}
+351 = {"Bíscra" "Bíscra"}
+2458 = {"Hódena" "Massila"}
+
+# Southern Morocco
+
+347 = {"Ífene" "Sídefene"}
+1110 = {"Sta. Cruz do Cabo" "Sta Cruz do Cabo de Gué"}
+2470 = {"Ameguedúla" "Ameguedúla"}
+
+# Sus
+
+348 = {"Sous" "Tarudante"}
+349 = {"Uarzazate" "Uarzazate"}
+2466 = {"Drá" "Tagadarte"}
+4568 = {"Demenate" "Demenate"}
+
+# Tafilalt
+
+346 = {"Táfila" "Táfila"}
+349 = {"Figuigue" "Figuigue"}
+2460 = {"Sáura" "Ouraderém"}
+
+# Tripoltania
+
+354 = {"Trípoli" "Trípoli"}
+355 = {"Sirte" "Inferante"}
+2451 = {"Tubáquete" "Tubáquete"}
+2452 = {"Zuára" "Zuára"}
+
+# Tunisia
+
+341 = {"Tunes" "Tunes"}
+2454 = {"Quefe" "Quefe"}
+2455 = {"Bizerte" "Bizerte"}
+2473 = {"Susa" "Susa"}
+4566 = {"Alcorovim" "Alcorovim"}
+
+## EGYPT (Egipto/Egito)
+
+# al-Wahat
+
+1233 = {"Oásis de Carga" "Carga"}
+2318 = {"Pequena Oásis" "Banécia"}
+4323 = {"Farânia" "Farânia"}
+
+# Bahari
+
+361 = {"Cairo" "Cairo"} # historical
+2316 = {"Atríbia" "Novo Crato"} # respectively: or "Busírede"; or "Naúcrato"
+4316 = {"Fílvia" "Fílvia"}
+4317 = {"Quermúnia" "Carmão"}
+
+# Cyrenaica
+
+356 = {"Espérides" "Espérides"}
+357 = {"Derna" "Derna"} # historical
+2325 = {"Peretónia" "Peretónia"} # or "Paretónia"
+2326 = {"Bárdia" "Bárdia"}
+
+# Delta
+
+358 = {"Alexandria" "Alexandria"} # historical
+362 = {"Roseta" "Roseta"} # historical
+363 = {"Damieta" "Damieta"} # historical
+
+# Lower Nubia
+
+1234 = {"Prímia" "Prímia"}
+2322 = {"Vales Alfensianos" "Alfência"}
+2323 = {"Deserto Nubiano" "Santa Maria"} # or either "Sáara Nubiano" or "Saara Nubiano" as the province name
+
+# Red Sea Hills
+
+365 = {"Península Sinática" "Santa Catarina"}
+2315 = {"Arsenão" "Arsenão"}
+2320 = {"Porto Venerão" "Santo António"}
+2321 = {"Bereníchia" "Bereniza"}
+
+# Said
+
+360 = {"Edéfo" "Edéfo"}
+1231 = {"Chena" "Chena"}
+2319 = {"Záucia" "Záucia"} # historical
+4319 = {"Tebaida" "Temão"} # historical province name
+4320 = {"Abido" "Tirnes"}
+
+# Vostani
+
+359 = {"Lago Meridional" "Crocodilópolis"} # or "Faium" as the capital name
+2317 = {"Tassenete" "Tassenete"}
+4318 = {"Jercão" "Vóssira"}
+
+### NORTH AMERICA
+
+## CALIFORNIA
+
+# ALTA CALIFORNIA
+
+868 = {"Todos os Anjos" "Todos os Anjos"}
+869 = {"Pinheiros" "Pinheiros"}
+2021 = {"Forte São Francisco" "São Francisco"}
+2476 = {"A Mesa" "A Mesa"}
+4637 = {"Baía de Santo António" "Santo António"}
+
+# APACHERIA
+
+879 = {"São Miguel" "São Miguel"}
+2492 = {"Pedro Álvares" "Pedro Álvares"}
+4634 = {"Orgãos" "Orgãos"}
+
+# ARIZONA
+
+867 = {"São Lucas" "São Lucas"}
+876 = {"Almalaguês" "Almalaguês"}
+877 = {"Água Quente" "Água Quente"}
+2491 = {"Santa Joana" "Santa Joana"}
+4633 = {"Cristo Rei" "Cristo Rei"}
+
+# BAJA CALIFORNIA
+
+865 = {"Novo Pombal" "Novo Pombal"}
+866 = {"Papagaios" "Papagaios"}
+2620 = {"Ilhotes" "Ilhotes"}
+4639 = {"Julgamento" "Julgamento"}
+
+# CENTRAL VALLEY
+
+870 = {"Águas Claras" "Águas Claras"}
+2478 = {"Floresta dos Ursos" "Floresta dos Ursos"}
+4635 = {"Monte Maior" "Monte Maior"}
+4636 = {"Santa Misericórdia" "Santa Misericórdia"}
+
+# COLORADO PLATEU
+
+875 = {"Sta. Maria da Mesa" "Sta. Maria da Mesa"}
+878 = {"Sousa" "Sousa"}
+2493 = {"João de Deus" "João de Deus"}
+2494 = {"Ponto da Coroa" "Ponto da Coroa"}
+
+# NEW MEXICO
+
+880 = {"Vilarosa" "Vilarosa"}
+881 = {"Aluada" "Aluada"}
+2495 = {"Princesa Real" "Princesa Real"}
+4631 = {"Santa Luzia" "Santa Luzia"}
+4632 = {"Trauma" "Trauma"}
+
+# NORTH CALIFORNIA
+
+871 = {"Rosácea" "Rosácea"}
+2477 = {"A Santíssima" "A Santíssima"}
+2479 = {"Cidade Nova" "Cidade Nova"}
+2480 = {"Pregadores" "Pregadores"}
+4638 = {"Sacramento" "Sacramento"}
+
+# SONORA
+
+862 = {"Santa Bárbara" "Santa Bárbara"}
+2616 = {"Contagens" "Contagens"}
+4577 = {"Vila d'Enseada" "Vila d'Enseada"}
+4649 = {"São Tiago de Baixo" "São Tiago de Baixo"}
+4650 = {"Cactos" "Cactos"}
+
+## CANADA
+
+# COTE NORD
+
+996 = {"Baía dos Peixes" "Baía dos Peixes"}
+2576 = {"Saúde" "Saúde"}
+2577 = {"Baía da Trinidade" "Baía da Trinidade"}
+2578 = {"Ilha da Anunciação" "Ilha da Anunciação"}
+2579 = {"São Jerónimo" "São Jerónimo"}
+
+# GREENLAND
+
+1104 = {"Grande Fiorde" "Grande Fiorde"}
+1105 = {"Terra do Norte" "Terra do Norte"}
+
+# HURONIA
+
+988 = {"Cacarvilhas" "Cacarvilhas"}
+989 = {"Santa Adelaide" "Santa Adelaide"}
+2585 = {"Laguna" "Laguna"}
+2670 = {"Novo Faro" "Novo Faro"}
+
+# LABRADOR
+
+997 = {"Cabo Vermelho" "Cabo Vermelho"}
+2574 = {"Lavrador" "Lavrador"}
+2575 = {"Baía Fernandes" "Baía Fernandes"}
+
+# LAURENTIA
+
+992 = {"Lago dos Lobos" "Lago dos Lobos"}
+2581 = {"Oliveiras" "Oliveiras"}
+4894 = {"Barrosa" "Barrosa"}
+
+# LOWER ACADIA
+
+982 = {"Ilha São José" "Ilha São José"}
+984 = {"Baía Sul" "Baía Sul"}
+2568 = {"Cabo da Justiça" "Cabo da Justiça"}
+2569 = {"Valverde" "Valverde"}
+4891 = {"Abegoaria" "Abegoaria"}
+
+# LOWER CANADA
+
+993 = {"Santa Vida" "Santa Vida"}
+2584 = {"Santa Ceia" "Santa Ceia"}
+4895 = {"Folgosa" "Folgosa"}
+
+# NEWFOUNDLAND
+
+980 = {"Baía Santa Clara" "Baía Santa Clara"}
+981 = {"Cabo Galvão" "Cabo Galvão"}
+2573 = {"Fagundes" "Fagundes"}
+
+# OTTAWA VALLEY
+
+4890 = {"Berlonguinho" "Berlonguinho"}
+4892 = {"Sesmaria Nova" "Sesmaria Nova"}
+4897 = {"Potiraguá" "Potiraguá"}
+
+# QUEBEC
+
+986 = {"Cabo Real" "Cabo Real"}
+994 = {"Quebeque" "Quebeque"}
+995 = {"Lafões" "Lafões"}
+2582 = {"Cabo Rachado" "Cabo Rachado"}
+2583 = {"Alcácer das Neves" "Alcácer das Neves"}
+
+# ST. JOHN'S VALLEY
+
+2570 = {"Fragoso" "Fragoso"}
+2571 = {"Nova Diu" "Nova Diu"}
+4896 = {"Itarantim" "Itarantim"}
+
+# TROIS_RIVIERES
+
+990 = {"Três Rios" "Três Rios"}
+2012 = {"São Bento" "São Bento"}
+2580 = {"Montanhas" "Montanhas"}
+4893 = {"Fajarda" "Fajarda"}
+
+# UPPER ACADIA
+
+983 = {"Ilha São João" "Ilha São João"}
+985 = {"Estadia Maravilhosa" "Estadia Maravilhosa"}
+2572 = {"Alarícia" "Alarícia"}
+
+# UPPER CANADA
+
+987 = {"Niágara" "Niágara"}
+2586 = {"João das Graças" "João das Graças"}
+2587 = {"Promontório Real" "Promontório Real"}
+
+# UPPER ONTARIO
+
+991 = {"Santa Sabina" "Santa Sabina"}
+1001 = {"São Mateus" "São Mateus"}
+1007 = {"Baía do Trovão" "Baía do Trovão"}
+2015 = {"Lago São Geraldo" "Lago São Geraldo"}
+2671 = {"Tratado" "Tratado"}
+
+## CARIBBEANS
+
+# DOMINICA
+
+490 = {"São Domingos" "São Domingos"}
+2658 = {"Baraúnas" "Baraúnas"}
+2659 = {"Porto Prata" "Porto Prata"}
+4620 = {"Limoeiro" "Limoeiro"}
+4621 = {"Baía do Leste" "Baía do Leste"}
+
+# EAST CUBA
+
+486 = {"Nuzedo" "Nuzedo"}
+2654 = {"Baracão" "Baracão"}
+2655 = {"Santa Cruz do Sul" "Santa Cruz do Sul"}
+2656 = {"Jardim Real" "Jardim Real"}
+
+# GREATER ANTILLES
+
+481 = {"Bermudas" "Bermudas"}
+487 = {"São Jorge" "São Jorge"}
+491 = {"Coração" "Coração"}
+492 = {"Porto Rico" "Porto Rico"}
+
+# HAITI 
+
+488 = {"Cabo Cordial" "Cabo Cordial"}
+489 = {"Tartarugas" "Tartarugas"}
+4618 = {"Porto Português" "Porto Português"}
+4619 = {"Cabo Haitiano" "Cabo Haitiano"}
+
+# LEEWARD ISLANDS
+
+493 = {"São Tomás" "São Tomás"}
+494 = {"São Cristóvão" "São Cristóvão"}
+495 = {"Diogo Gomes" "Diogo Gomes"}
+496 = {"Bartolomeu Dias" "Bartolomeu Dias"}
+1881 = {"São Martinho" "São Martinho"}
+
+# LUCAYAN ARCHIPELAGO
+
+482 = {"Águas Rasas" "Águas Rasas"}
+483 = {"Ilhas Turcas" "Ilhas Turcas"}
+
+# WEST CUBA
+
+484 = {"Sacroporto" "Sacroporto"}
+485 = {"Remédios" "Remédios"}
+4622 = {"Baía dos Porcos" "Baía dos Porcos"}
+4623 = {"Cem Fogos" "Cem Fogos"}
+4624 = {"Ponta do Cabide" "Ponta do Cabide"}
+
+# WINDWARD ISLANDS
+
+497 = {"Dominicana" "Dominicana"}
+498 = {"Franciscana" "Franciscana"}
+499 = {"Santa Luzia" "Santa Luzia"}
+500 = {"Ilhas das Palmeiras" "Ilhas das Palmeiras"}
+501 = {"Ilha Solteira" "Ilha Solteira"}
+
+## CASCADIA
+
+# ALASKA PANHANDLE
+
+976 = {"Ilha do Príncipe" "Ilha do Príncipe"}
+977 = {"Monte Vitória" "Monte Vitória"}
+2613 = {"Ilhas das Focas" "Ilhas das Focas"}
+
+# COLUMBIA RIVER
+
+873 = {"Cascatas" "Cascatas"}
+2486 = {"Rocha Musgosa" "Rocha Musgosa"}
+2487 = {"Lago dos Cães" "Lago dos Cães"}
+2488 = {"Santa Iria" "Santa Iria"}
+
+# HECATE STRAIT
+
+975 = {"Ilhas do Rei" "Ilhas do Rei"}
+2022 = {"Ilhas Carlotinas" "Ilhas Carlotinas"}
+2609 = {"Morro Branco" "Morro Branco"}
+
+# INTERIOR PLATEAU
+
+2003 = {"São Carlos" "São Carlos"}
+2604 = {"São Tiago Maior" "São Tiago Maior"}
+2605 = {"Zebedeu" "Zebedeu"}
+2606 = {"Nova Guadiana" "Nova Guadiana"}
+2607 = {"Pessegueiros" "Pessegueiros"}
+
+# OREGON
+
+872 = {"Nova Esperança" "Nova Esperança"}
+2481 = {"Cabo Aragonês" "Cabo Aragonês"}
+2482 = {"Beato Gonçalo" "Beato Gonçalo"}
+2483 = {"Intercessão" "Intercessão"}
+
+# PUGET SOUND
+
+874 = {"Vasconcellos" "Vasconcellos"}
+2484 = {"Cabo das Alfacinhas" "Cabo das Alfacinhas"}
+2485 = {"Olímpia" "Olímpia"}
+
+# SNAKE RIVER
+
+2019 = {"São Frei Gil" "São Frei Gil"}
+2020 = {"Rio Sinuoso" "Rio Sinuoso"}
+2489 = {"Ferrão" "Ferrão"}
+2490 = {"Jordão Ocidental" "Jordão Ocidental"}
+2506 = {"Justiça Sagrada" "Justiça Sagrada"}
+
+# STRAITS OF GEORGIA
+
+972 = {"Ilha Branca" "Ilha Branca"}
+973 = {"Caminha" "Caminha"}
+974 = {"Baía dos Ecos" "Baía dos Ecos"}
+2610 = {"Enseada do Conde" "Enseada do Conde"}
+
+# WESTERN ALASKA
+
+978 = {"Ancoragem" "Ancoragem"}
+979 = {"Ilhas Aleutas" "Ilhas Aleutas"}
+2611 = {"Cabo Piloto" "Cabo Piloto"}
+2612 = {"Cordôva" "Cordôva"}
+
+## CENTRAL AMERICA
+
+# CAMPECHE
+
+845 = {"São Lázaro" "São Lázaro"}
+2632 = {"Vila Bonita" "Vila Bonita"}
+2650 = {"Carmelita" "Carmelita"}
+
+# CHIAPAS
+
+2635 = {"Lancadão" "Lancadão"}
+2638 = {"Fidalga" "Fidalga"}
+2649 = {"Arroios" "Arroios"}
+4585 = {"Vila Real das Chapas" "Vila Real das Chapas"}
+4586 = {"Acaltecas" "Acaltecas"}
+
+# COSTA RICA
+
+836 = {"Praia Bonita" "Praia Bonita"}
+2663 = {"Nicão" "Nicão"}
+4597 = {"Duas Pontas" "Duas Pontas"}
+
+# EAST YUCATAN
+
+2634 = {"Ponta Brava" "Ponta Brava"}
+2652 = {"São Raimundo" "São Raimundo"}
+4588 = {"Forte dos Pombos" "Forte dos Pombos"}
+4591 = {"Marcelina" "Marcelina"}
+
+# GUATEMALA
+
+839 = {"São Salvador" "São Salvador"}
+841 = {"Guatemalteca" "Guatemalteca"}
+2653 = {"Nova Guarda" "Nova Guarda"}
+4587 = {"Princesa Matilde" "Princesa Matilde"}
+
+# GUATEMALA LOWLANDS
+
+842 = {"Adentrada" "Adentrada"}
+843 = {"Corais" "Corais"}
+2636 = {"Princesa Isabel" "Princesa Isabel"}
+4589 = {"Navegadora" "Navegadora"}
+4594 = {"Contra Corrente" "Contra Corrente"}
+
+# HONDURAS
+
+840 = {"Santo Isidoro" "Santo Isidoro"}
+2637 = {"Portalegre" "Portalegre"}
+2640 = {"Baía da Saia" "Baía da Saia"}
+2662 = {"Rio Doce" "Rio Doce"}
+4593 = {"Juramento" "Juramento"}
+
+# NICARAGUA
+
+837 = {"Bandeira" "Bandeira"}
+838 = {"Costa Nova" "Costa Nova"}
+2660 = {"Bonfim" "Bonfim"}
+2661 = {"Nova Barbacena" "Nova Barbacena"}
+4592 = {"Pérola" "Pérola"}
+
+# WEST YUCATAN
+
+846 = {"Nova Braga" "Nova Braga"}
+2633 = {"Novo Faro" "Novo Faro"}
+2651 = {"Salinas Reais" "Salinas Reais"}
+4590 = {"Católica" "Católica"}
+
+## COLOMBIA
+
+# PANAMA
+
+835 = {"Panamá" "Panamá"}
+2664 = {"Juncais" "Juncais"}
+2819 = {"Torre Nova" "Torre Nova"}
+4595 = {"São Jorge da Lagoa" "São Jorge da Lagoa"}
+
+## GREAT LAKES
+
+# ILLINOIS
+
+915 = {"Monte Real" "Monte Real"}
+916 = {"Pérola Grande" "Pérola Grande"}
+917 = {"Novalenquer" "Novalenquer"}
+4903 = {"Milharado" "Milharado"}
+
+# INDIANA
+
+942 = {"Praia Longa" "Praia Longa"}
+943 = {"Silvestre" "Silvestre"}
+2523 = {"Forte Zénite" "Forte Zénite"}
+2524 = {"Amizade" "Amizade"}
+4922 = {"São Adão" "São Adão"}
+
+# LAKE SUPERIOR
+
+910 = {"Lago Baixo" "Lago Baixo"}
+911 = {"Cristalina" "Cristalina"}
+2517 = {"Lago dos Alces" "Lago dos Alces"}
+2518 = {"Salomão" "Salomão"}
+4898 = {"Ondina" "Ondina"}
+
+# MICHIGAN
+
+944 = {"Rica Joanina" "Rica Joanina"}
+945 = {"Vila Viçosa" "Vila Viçosa"}
+2521 = {"Pombo" "Pombo"}
+2522 = {"São José do Lago" "São José do Lago"}
+
+# OHIO
+
+946 = {"Verde Gramado" "Verde Gramado"}
+947 = {"Corte Real" "Corte Real"}
+948 = {"Santa Clara" "Santa Clara"}
+2525 = {"Quinquinato" "Quinquinato"}
+4907 = {"Sobreiro" "Sobreiro"}
+
+# SOUTHERN ILLINOIS
+
+2519 = {"São Telmo" "São Telmo"}
+2520 = {"Cipreste" "Cipreste"}
+4904 = {"Quintas" "Quintas"}
+
+# WISCONSIN
+
+912 = {"Cachoeiro" "Cachoeiro"}
+913 = {"Pradarias" "Pradarias"}
+914 = {"Lago da Raposa" "Lago da Raposa"}
+4899 = {"Salinada" "Salinada"}
+
+## GREAT PLAINS
+
+# BADLANDS
+
+1809 = {"Forte da Cunha" "Forte da Cunha"}
+2504 = {"São Teutónio" "São Teutónio"}
+2505 = {"Santo Aleixo" "Santo Aleixo"}
+
+# Central Plains
+
+901 = {"Sete Cidades" "Sete Cidades"}
+903 = {"Colombo" "Colombo"}
+2009 = {"Majestoso" "Majestoso"}
+2508 = {"Santos do Ribatejo" "Santos do Ribetejo"}
+4915 = {"Maceira" "Maceira"}
+
+# HIGH PLAINS
+
+889 = {"Escarlate" "Escarlate"}
+2507 = {"Dedo de Deus" "Dedo de Deus"}
+2625 = {"Grande Flor" "Grande Flor"}
+
+# IOWA
+
+905 = {"Sagrado Coração" "Sagrado Coração"}
+2513 = {"A Harpa" "A Harpa"}
+4900 = {"Canavieiras" "Canavieiras"}
+4905 = {"Ventureira" "Ventureira"}
+
+# KANSAS
+890 = {"São Gonçalo" "São Gonçalo"}
+898 = {"Nova Siracusa" "Nova Siracusa"}
+2672 = {"Beatriz" "Beatriz"}
+4914 = {"Barril" "Barril"}
+
+# MINNESOTA
+
+904 = {"Forte Algarve" "Forte Algarve"}
+908 = {"Rio Ladro" "Rio Ladro"}
+2512 = {"São Bernardo" "São Bernardo"}
+4901 = {"Felicidade" "Felicidade"}
+
+# NORTH DAKOTA
+
+906 = {"Forte Henriques" "Forte Henriques"}
+909 = {"Santo Espinho" "Santo Espinho"}
+2510 = {"Forte Infante" "Forte Infante"}
+4918 = {"Matança" "Matança"}
+
+# SOUTH DAKOTA
+
+907 = {"Batista" "Batista"}
+2007 = {"Santa Isabel" "Santa Isabel"}
+2008 = {"Santa Graça" "Santa Graça"}
+4916 = {"Santa Rita" "Santa Rita"}
+
+# SOUTHERN PLAINS
+
+891 = {"Terra Gorda" "Terra Gorda"}
+892 = {"Beneficente" "Beneficente"}
+896 = {"Pássaro" "Pássaro"}
+4908 = {"Caeiros" "Caeiros"}
+
+# UPPER MISSOURI
+
+2006 = {"Madeira Ardente" "Madeira Ardente"}
+2501 = {"Santo Augusto" "Santo Augusto"}
+2502 = {"São Conano" "São Conano"}
+2503 = {"Angra da Ursa" "Angra da Ursa"}
+4917 = {"Merendeiro" "Merendeiro"}
+
+## HUDSON BAY
+
+# ABITIBI
+
+1002 = {"Forte Avis" "Forte Avis"}
+2588 = {"Os Sinos" "Os Sinos"}
+2589 = {"Rio das Lontras" "Rio das Lontras"}
+2590 = {"Cachoeiras Fumegantes" "Cachoeiras Fumegantes"}
+2591 = {"Verânea" "Verânea"}
+
+# ALBERTA
+
+2004 = {"Extrema" "Extrema"}
+2017 = {"Nebulosa" "Nebulosa"}
+2018 = {"S. João da Montanha" "S. João da Montanha"}
+2602 = {"Veado Vermelho" "Veado Vermelho"}
+
+# ASSINIBOIA
+
+2005 = {"Santo Antão" "Santo Antão"}
+2596 = {"Mirandela" "Mirandela"}
+2598 = {"Correntesa" "Correntesa"}
+4920 = {"Trofa" "Trofa"}
+
+# ATHABASCA
+
+2599 = {"Lagoa de Pedro" "Lagoa de Pedro"}
+2600 = {"Rio da Paz" "Rio da Paz"}
+2601 = {"Comarca Nova" "Comarca Nova"}
+2603 = {"Montanha Rosa" "Montanha Rosa"}
+
+# HUDSON BAY
+
+1005 = {"Forte Novo" "Forte Novo"}
+1006 = {"Rio das Focas" "Rio das Focas"}
+1009 = {"Rio Rodrigues" "Rio Rodrigues"}
+2592 = {"Feira Nova" "Feira Nova"}
+2594 = {"Freguesia dos Lagos" "Freguesia dos Lagos"}
+
+# JAMES BAY
+
+998 = {"Baía dos Reis" "Baía dos Reis"}
+999 = {"Aldeia Norte" "Aldeia Norte"}
+1000 = {"Fundão" "Fundão"}
+1003 = {"Forte Bragança" "Forte Bragança"}
+1004 = {"Forte Mendonça" "Forte Mendonça"}
+
+# MANITOBA
+
+1008 = {"Rio Vermelho" "Rio Vermelho"}
+1010 = {"Forte Príncipe" "Forte Príncipe"}
+1011 = {"Vila Pascoal" "Vila Pascoal"}
+2593 = {"Lago das Madeiras" "Lago das Madeiras"}
+4919 = {"Fetais" "Fetais"}
+
+# RED RIVER OF THE NORTH
+
+2016 = {"Grão Tridente" "Grão Tridente"}
+2511 = {"Lago do Diabo" "Lago do Diabo"}
+4902 = {"Terra de Agostinho" "Terra de Agostinho"}
+
+# SASKATCHEWAN
+
+1813 = {"Rio dos Esturjões" "Rio dos Esturjões"}
+2595 = {"Videmonte" "Videmonte"}
+2597 = {"Novo Minho" "Novo Minho"}
+
+## MEXICO
+
+#DURANGO
+
+860 = {"São Marcelo" "São Marcelo"}
+4646 = {"Milho Verde" "Milho Verde"}
+4647 = {"A Guardiã" "A Guardiã"}
+4648 = {"Interiorana" "Interiorana"}
+
+# GRAN CHICHIMECA
+
+857 = {"Vila Miguelina" "Vila Miguelina"}
+2642 = {"São João do Rio" "São João do Rio"}
+4642 = {"Agradecidos" "Agradecidos"}
+
+# GUANAJUATO
+
+853 = {"Novos Ventos" "Novos Ventos"}
+2615 = {"Saudade" "Saudade"}
+4640 = {"Termália" "Termália"}
+4641 = {"Louvado" "Louvado"}
+
+# GUERRERO
+
+2627 = {"São João da Espada" "São João da Espada"}
+2645 = {"Vespeiros" "Vespeiros"}
+2648 = {"Grande Cruz" "Grande Cruz"}
+
+# HUASTECA
+
+848 = {"Porto dos Coelhos" "Porto dos Coelhos"}
+2641 = {"Piovila" "Piovila"}
+4598 = {"Clementina" "Clementina"}
+
+# JALISCO
+
+854 = {"Realeza" "Realeza"}
+2617 = {"Ferrenha" "Ferrenha"}
+2621 = {"Novo Campo" "Novo Campo"}
+2657 = {"Lanceiros" "Lanceiros"}
+4576 = {"Rainha Joana" "Rainha Joana"}
+
+# MEXICO
+
+852 = {"Mechica" "Mechica"}
+2626 = {"Casa Rica da Vitória" "Casa Rica da Vitória"}
+4570 = {"Muralhas" "Muralhas"}
+4571 = {"Gregório" "Gregório"}
+4572 = {"Franciscana" "Franciscana"}
+
+# MICHOAVAN
+
+2622 = {"Chaves" "Chaves"}
+2623 = {"Príncipe Henrique" "Príncipe Henrique"}
+2624 = {"Castelo Rodrigo" "Castelo Rodrigo"}
+4573 = {"Bonito" "Bonito"}
+4574 = {"Cornélia" "Cornélia"}
+
+# MIXTECA
+
+847 = {"Porto Escondido" "Porto Escondido"}
+849 = {"Batalhas" "Batalhas"}
+2646 = {"Pilares" "Pilares"}
+4581 = {"Justa" "Justa"}
+
+# NAYARIT
+
+855 = {"Rio dos Cães" "Rio dos Cães"}
+859 = {"Nova Galiza" "Nova Galiza"}
+4578 = {"Porta Real" "Porta Real"}
+
+# Oaxaca
+
+844 = {"Zapoteca" "Zapoteca"}
+2629 = {"As Cortes" "As Cortes"}
+4584 = {"Mariana" "Mariana"}
+
+# PUEBLA
+
+850 = {"Vila Constança" "Vila Constança"}
+2628 = {"Fita Verde" "Fita Verde"}
+2644 = {"Santo André" "Santo André"}
+4582 = {"Vila Romana" "Vila Romana"}
+4583 = {"Costumeira" "Costumeira"}
+
+# TIERRA CALIENTE
+
+851 = {"Grande Penhasco" "Grande Penhasco"}
+2643 = {"Aliança" "Aliança"}
+4575 = {"Cornélia" "Cornélia"}
+4579 = {"Lindo Monte" "Lindo Monte"}
+4580 = {"As Palmas" "As Palmas"}
+
+# VERACRUZ
+
+2630 = {"Infante" "Infante"}
+2631 = {"Novo Setúbal" "Novo Setúbal"}
+2647 = {"Verdadeira" "Verdadeira"}
+
+# ZACATECAS
+
+856 = {"Abacates" "Abacates"}
+4643 = {"Castelos" "Castelos"}
+4645 = {"São Pedro das Alturas" "São Pedro das Alturas"}
+
+## MISSISSIPPI
+
+# ALABAMA
+
+924 = {"Empreendimento" "Empreendimento"}
+925 = {"Ruivo" "Ruivo"}
+2531 = {"Arborícolas" "Arborícolas"}
+2532 = {"Terramélia" "Terramélia"}
+4883 = {"Almarginho" "Almarginho"}
+
+# ARKANSAS
+
+894 = {"Vila Grega" "Vila Grega"}
+895 = {"São Brás" "São Brás"}
+897 = {"Caldeiras" "Caldeiras"}
+4885 = {"Xodó" "Xodó"}
+4923 = {"Pedrianes" "Pedrianes"}
+
+# KENTUCKY
+
+941 = {"Salgado" "Salgado"}
+2526 = {"Estada do Sião" "Estada do Sião"}
+4888 = {"Cabo Cordial" "Cabo Cordial"}
+
+# LOUISIANA
+
+893 = {"Nova Brangança" "Nova Brangança"}
+2014 = {"São Frutuoso" "São Frutuoso"}
+2516 = {"Verdadeiro" "Verdadeiro"}
+
+# MISSISSIPPI
+
+919 = {"Cunha" "Cunha"}
+920 = {"Nascentes" "Nascentes"}
+2528 = {"Água Fria" "Água Fria"}
+2529 = {"Nogueiras" "Nogueiras"}
+4884 = {"Castelão" "Castelão"}
+
+# OZARKS
+
+899 = {"São Roque" "São Roque"}
+2509 = {"Resende" "Resende"}
+2515 = {"Nova Portugália" "Nova Portugália"}
+4886 = {"Panasqueira" "Panasqueira"}
+
+# TENNESSEE
+
+918 = {"Lagoa da Gama" "Lagoa da Gama"}
+934 = {"Covilhã das Américas" "Covilhã das Américas"}
+939 = {"Arvoredo" "Arvoredo"}
+4913 = {"Valongo" "Valongo"}
+
+# UPPER LOUISIANA
+
+900 = {"São Luís do Norte" "São Luís do Norte"}
+902 = {"Águia" "Águia"}
+2514 = {"Sacra Salvação" "Sacra Salvação"}
+4906 = {"Zambujal" "Zambujal"}
+
+# VANDALIA
+
+951 = {"Céu" "Céu"}
+2551 = {"São David" "São David"}
+4889 = {"Caeirinha" "Caeirinha"}
+
+# WESTERN KENTUCKY
+
+940 = {"Vila de S. Jorge" "Vila de S. Jorge"}
+4887 = {"Bocaína" "Bocaína"}
+4921 = {"Encarnação" "Encarnação"}
+
+# WEST FLORIDA
+
+921 = {"São Gabriel" "São Gabriel"}
+922 = {"Sta. Maria do Forte" "Sta. Maria do Forte"}
+923 = {"Escambo" "Escambo"}
+2530 = {"Novo Porto" "Novo Porto"}
+2533 = {"Barcelos" "Barcelos"}
+
+## NORTHEAST
+
+# ALLEGHENIES
+
+954 = {"Chifre de Boi" "Chifre de Boi"}
+2555 = {"Nove Pedras" "Nove Pedras"}
+4875 = {"Espinheiro" "Espinheiro"}
+
+# CONNECTICUT
+
+967 = {"Baía da Esperança" "Baía da Esperança"}
+2010 = {"Salve Rainha" "Salve Rainha"}
+2560 = {"Atoleiros" "Atoleiros"}
+
+# DELAWARE VALLEY
+
+956 = {"Castória" "Castória"}
+957 = {"Delauare" "Delauare"}
+962 = {"Sta. Eustáquia do Sul" "Sta. Eustáquia do Sul"}
+2023 = {"Vale d'Afonso" "Vale d'Afonso"}
+
+# EASTERN MAINE
+
+971 = {"Baía dos Bascos" "Baía dos Bascos"}
+2566 = {"Baía Ampla" "Baía Ampla"}
+2567 = {"São João de Deus" "São João de Deus"}
+
+# HUDSON VALLEY
+
+961 = {"Portárvore" "Portárvore"}
+963 = {"Moinho d'Água" "Moinho d'Água"}
+964 = {"Planície Forte" "Planície Forte"}
+2559 = {"Morro Vermelho" "Morro Vermelho"}
+4912 = {"Encarnação" "Encarnação"}
+
+# IRIQUOISIA
+
+958 = {"Quatro Povos" "Quatro Povos"}
+959 = {"Silvana" "Silvana"}
+960 = {"Monte Salgado" "Monte Salgado"}
+4872 = {"Rogela" "Rogela"}
+
+# LAKE CHAMPLAIN
+
+969 = {"Cadaval" "Cadaval"}
+2563 = {"Lisboa d'Oeste" "Lisboa d'Oeste"}
+4871 = {"Vilarinho" "Vilarinho"}
+
+# MAINE
+
+2013 = {"Nova Lisboa" "Nova Lisboa"}
+2565 = {"Cruz Azul" "Cruz Azul"}
+4873 = {"Forquilha" "Forquilha"}
+
+# MARYLAND
+
+953 = {"Conde de Ourém" "Conde de Ourém"}
+2553 = {"Cume Verde" "Cume Verde"}
+2554 = {"Hospitalária" "Hospitalária"}
+
+# MASSACHUSETTS
+
+966 = {"Nova Covilhã" "Nova Covilhã"}
+968 = {"Fortemar" "Fortemar"}
+2561 = {"Cabo Trancoso" "Cabo Trancoso"}
+4874 = {"Fontaínhas" "Fontaínhas"}
+
+# NEW HAMPSHIRE
+
+970 = {"Novo Aveiro" "Novo Aveiro"}
+2562 = {"Aljubarrota" "Aljubarrota"}
+2564 = {"Vermonte" "Vermonte"}
+
+# NEW YORK
+
+965 = {"Nova Bergantina" "Nova Bergantina"}
+2558 = {"Acordo" "Acordo"}
+2639 = {"Estâncias" "Estâncias"}
+
+# WESTYLVANIA
+
+955 = {"Cidade das Rosas" "Cidade das Rosas"}
+2556 = {"Vale Galego" "Vale Galego"}
+2557 = {"Leiria Americana" "Leiria Americana"}
+4876 = {"Almalaguês" "Almalaguês"}
+
+## RIO GRANDE
+
+# CHIHUAHUA
+
+863 = {"São Judas Tadeu" "São Judas Tadeu"}
+864 = {"Macieiras" "Macieiras"}
+2618 = {"Penafiel Americano" "Penafiel Americano"}
+4644 = {"Curva d'Água" "Curva d'Água"}
+
+# COAHUILA
+
+861 = {"Corajosa" "Corajosa"}
+864 = {"Macieiras" "Macieiras"}
+2666 = {"Santana do Rio" "Santana do Rio"}
+2667 = {"Pedras Negras" "Pedras Negras"}
+4606 = {"Leandrina" "Leandrina"}
+
+# COASTAL PRARIE
+
+884 = {"Porto Rodrigues" "Porto Rodrigues"}
+888 = {"Água Boa" "Água Boa"}
+2665 = {"Os Aies" "Os Aies"}
+2669 = {"Símona" "Símona"}
+
+# LLANO ESTACADO
+
+882 = {"Areias Brancas" "Areias Brancas"}
+885 = {"Vista Plana" "Vista Plana"}
+2496 = {"Cacho Corado" "Cacho Corado"}
+2497 = {"Filipeia" "Filipeia"}
+4630 = {"Agulhas" "Agulhas"}
+
+# PECOS
+
+2498 = {"Bendita" "Bendita"}
+4628 = {"Santo Adalberto" "Santo Adalberto"}
+4629 = {"Santos Mártires" "Santos Mártires"}
+
+# TAMAULIPAS
+
+858 = {"Formosa do Golfo" "Formosa do Golfo"}
+2499 = {"Santo Ovídio" "Santo Ovídio"}
+2614 = {"Nova Nazaré" "Nova Nazaré"}
+2668 = {"Nova Olivença" "Nova Olivença"}
+
+# TEXAS
+
+883 = {"Santo António" "Santo António"}
+887 = {"Sabedoria" "Sabedoria"}
+4627 = {"Planaltina" "Planaltina"}
+4911 = {"Marvão" "Marvão"}
+
+# TEXAS PLAINS
+
+886 = {"Nova Atenas" "Nova Atenas"}
+2500 = {"Invernália" "Invernália"}
+4909 = {"Junqueiros" "Junqueiros"}
+4910 = {"Feiteira" "Feiteira"}
+
+## SOUTHEAST
+
+# EAST FLORIDA
+
+927 = {"Santo Agostinho" "Santo Agostinho"}
+928 = {"São Marcos" "São Marcos"}
+2534 = {"Órião" "Órião"}
+
+# FLORIDA
+
+926 = {"Canaviais" "Canaviais"}
+2535 = {"Porto Carlota" "Porto Carlota"}
+2536 = {"Amor de Cristo" "Amor de Cristo"}
+4625 = {"Arraial d'Ajuda" "Arraial d'Ajuda"}
+4626 = {"Novo Mundo" "Novo Mundo"}
+
+# GEORGIA
+
+929 = {"Restaurador" "Restaurador"}
+2537 = {"Azaleia" "Azaleia"}
+2538 = {"São Sebastião" "São Sebastião"}
+2539 = {"Porto Verde" "Porto Verde"}
+4880 = {"Azinheira" "Azinheira"}
+
+# GREAT VALLEY
+
+949 = {"Baixio Negro" "Baixio Negro"}
+2011 = {"São Félix" "São Félix"}
+2548 = {"Rio Novo" "Rio Novo"}
+2552 = {"Merciana" "Merciana"}
+
+# NORTH CAROLINA
+
+937 = {"Forte Velho" "Forte Velho"}
+938 = {"Nova Terra" "Nova Terra"}
+2546 = {"São Mamede" "São Mamede"}
+2547 = {"Baía Herculana" "Baía Herculana"}
+
+# OVERMOUNTAIN
+
+935 = {"Dia Santo" "Dia Santo"}
+936 = {"Monte Bragança" "Monte Bragança"}
+2527 = {"Colina da Observação" "Colina da Observação"}
+4879 = {"Fuzeiros" "Fuzeiros"}
+
+# PIEDMONT PLATEAU
+
+2544 = {"Torres" "Torres"}
+2545 = {"Ouriques" "Ouriques"}
+4878 = {"Fuzeiros" "Fuzeiros"}
+
+# SOUTH CAROLINA
+
+932 = {"Forte Carlino" "Forte Carlino"}
+2542 = {"Santa Helena" "Santa Helena"}
+2543 = {"Baía Longa" "Baía Longa"}
+
+# SOUTH CAROLINA PIEDMONT
+
+933 = {"Cristóvão" "Cristóvão"}
+2541 = {"Santa Mercê" "Santa Mercê"}
+4882 = {"Picão" "Picão"}
+
+# UPPER GEORGIA
+
+930 = {"Vila Cristo" "Vila Cristo"}
+931 = {"Vila do Cetro" "Vila do Cetro"}
+2540 = {"Nova Tessália" "Nova Tessália"}
+4881 = {"Odeceixe" "Odeceixe"}
+
+# VIRGINIA
+
+950 = {"Baía Grande" "Baía Grande"}
+952 = {"Benjamim" "Benjamim"}
+2549 = {"Germinada" "Germinada"}
+2550 = {"Vale do Doegue" "Vale do Doegue"}
+4877 = {"Serrazina" "Serrazina"}
+
+### SOUTH AMERICA
+
+## BRAZIL
+
+# AMAPA
+
+747 = {"Macapá" "Macapá"}
+2935 = {"Almeirim" "Almeirim"}
+2938 = {"Oiapoque" "Oiapoque"}
+
+# AMAZON
+
+2889 = {"Boa Vista" "Boa Vista"}
+2930 = {"Santarém" "Santarém"}
+2933 = {"Mariuá" "Mariuá"}
+2934 = {"Manaós" "Manaós"}
+
+# BAHIA
+
+756 = {"Todos os Santos" "Todos os Santos"}
+757 = {"Ilhéus" "Ilhéus"}
+760 = {"Porto Seguro" "Porto Seguro"}
+2914 = {"Feira de Santana" "Feira de Santana"}
+2916 = {"Vitória da Conquista" "Vitória da Conquista"}
+
+# CEARA
+
+750 = {"Crato" "Crato"}
+751 = {"Ceará" "Ceará"}
+753 = {"Potengi" "Potengi"}
+
+# DIAMANTINA
+
+759 = {"Montes Claros" "Montes Claros"}
+2891 = {"Mangueiras" "Mangueiras"}
+2898 = {"Arraial do Tijuco" "Arraial do Tijuco"}
+
+# GOIAS
+
+758 = {"Goiás" "Goiás"}
+2906 = {"Iporã" "Iporã"}
+2907 = {"Vila Boa" "Vila Boa"}
+2908 = {"Arraial dos Couros" "Arraial dos Couros"}
+2919 = {"Luziana" "Luziana"}
+
+# GRAO PARA
+
+748 = {"Belém do Pará" "Belém do Pará"}
+2890 = {"Marajó" "Marajó"}
+2928 = {"Tucuruí" "Tucuruí"}
+2929 = {"Pará" "Pará"}
+
+# GUAPORE
+
+2900 = {"Guaporé" "Guaporé"}
+2901 = {"Cerejeiras" "Cerejeiras"}
+2902 = {"Vila Bela" "Vila Bela"}
+
+# GUAYRA
+
+768 = {"Paraná" "Paraná"}
+2895 = {"Londrina" "Londrina"}
+2897 = {"Araraquara" "Araraquara"}
+
+# MARANHAO
+
+749 = {"Maranhão" "Maranhão"}
+2923 = {"Pastos Bons" "Pastos Bons"}
+2924 = {"Timbiras" "Timbiras"}
+2926 = {"Grande Rainha" "Grande Rainha"}
+2927 = {"Alcântara" "Alcântara"}
+
+# MATO GROSSO
+
+2888 = {"Cuiabá" "Cuiabá"}
+2903 = {"Cáceres" "Cáceres"}
+2904 = {"Chapada Diamantina" "Chapada Diamantina"}
+2905 = {"Rio das Mortes" "Rio das Mortes"}
+
+# MINAS GERAIS
+
+765 = {"Minas Gerais" "Minas Gerais"}
+2892 = {"Araxás" "Araxás"}
+2894 = {"São João del Rei" "São João del Rei"}
+2899 = {"Vila Rica" "Vila Rica"}
+
+# OFAIE
+
+2881 = {"Corumbá" "Corumbá"}
+2893 = {"Três Lagoas" "Três Lagoas"}
+2920 = {"Coxim" "Coxim"}
+
+# PERNAMBUCO
+
+754 = {"Itamaracá" "Itamaracá"}
+755 = {"Recife" "Recife"}
+2912 = {"Sergipe" "Sergipe"}
+2921 = {"Alagoas" "Alagoas"}
+2922 = {"Borborema" "Borborema"}
+
+# PIAUI
+752 = {"Oeiras" "Oeiras"}
+2886 = {"Parnaíba" "Parnaíba"}
+2925 = {"Parnaguá" "Parnaguá"}
+
+# PONTAL
+
+2909 = {"Conceição" "Conceição"}
+2910 = {"Araguaiana" "Araguaiana"}
+2911 = {"Navidade" "Navidade"}
+
+# RIO DE JANEIRO
+
+761 = {"Espírito Santo" "Espírito Santo"}
+762 = {"Freguesia S. Tomé" "Freguesia S. Tomé"}
+763 = {"Rio de Janeiro" "Rio de Janeiro"}
+764 = {"Taubaté" "Taubaté"}
+
+# RIO GRANDE DO SUL
+
+2857 = {"Porto Alegre" "Porto Alegre"}
+2879 = {"Alegrete" "Alegrete"}
+2884 = {"Missões" "Missões"}
+2887 = {"Santa Catarina" "Santa Catarina"}
+
+# SAO FRANCISCO
+
+2885 = {"Pedra Linda" "Pedra Linda"}
+2913 = {"Rio de Pedras" "Rio de Pedras"}
+2915 = {"Serra Talhada" "Serra Talhada"}
+2917 = {"Paratinga" "Paratinga"}
+2918 = {"Campo Largo" "Campo Largo"}
+
+# SAO PAULO
+
+766 = {"São Vincente" "São Vincente"}
+769 = {"Pinhais" "Pinhais"}
+2896 = {"Campinas" "Campinas"}
+
+## COLOMBIA
+
+# BOGOTA
+
+825 = {"Santa Fé de Bogotá" "Santa Fé de Bogotá"}
+832 = {"Nova Avis" "Nova Avis"}
+4602 = {"Anolaima" "Anolaima"}
+4603 = {"Exploradores" "Exploradores"}
+
+# CENTRAL LLANOS
+
+834 = {"Paragem Boa" "Paragem Boa"}
+2810 = {"São José do Sul" "São José do Sul"}
+2813 = {"Graciosa" "Graciosa"}
+4613 = {"S. Jorge dos Charcos" "S. Jorge dos Charcos"}
+4614 = {"Vale da Lua" "Vale da Lua"}
+
+# COLOMBIAN AMAZONAS
+
+822 = {"São João Baptista" "São João Baptista"}
+2816 = {"Desesperados" "Desesperados"}
+4605 = {"Vale Dourado" "Vale Dourado"}
+
+# COQUIVACOA
+
+828 = {"Romaria" "Romaria"}
+829 = {"Madalena" "Madalena"}
+2806 = {"Ponta Grossa" "Ponta Grossa"}
+4599 = {"Laurícia" "Laurícia"}
+4601 = {"Paredão de Rochas" "Paredão de Rochas"}
+
+# CORDILLERA OCCIDENTAL
+
+824 = {"Casa dos Cavaleiros" "Casa dos Cavaleiros"}
+827 = {"Forte da Gama" "Forte da Gama"}
+2817 = {"Gouveia-os-Montes" "Gouveia-os-Montes"}
+4600 = {"Barrancos" "Barrancos"}
+4607 = {"Vale do Sol" "Vale do Sol"}
+
+# EASTERN LLANOS
+
+2805 = {"Uiapari" "Uiapari"}
+2809 = {"São José do Norte" "São José do Norte"}
+2939 = {"Vasco Grande" "Vasco Grande"}
+4615 = {"Caudalosa" "Caudalosa"}
+
+# GUYANA
+
+502 = {"Trindade" "Trindade"}
+743 = {"Guiana" "Guiana"}
+744 = {"Demerara" "Demerara"}
+2803 = {"Estuário d'Orinoco" "Estuário d'Orinoco"}
+
+# MARACAIBO
+
+830 = {"Boca do Dragão" "Boca do Dragão"}
+2807 = {"Miranda" "Miranda"}
+4609 = {"São Pedro da Serra" "São Pedro da Serra"}
+4610 = {"Miradouro" "Miradouro"}
+4611 = {"Nova Ceuta" "Nova Ceuta"}
+
+# POPAYAN
+
+823 = {"São Judas" "São Judas"}
+826 = {"Forte Catarina" "Forte Catarina"}
+2818 = {"Montemor-a-Nova" "Montemor-a-Nova"}
+4596 = {"Vigilante" "Vigilante"}
+4604 = {"Rosária" "Rosária"}
+
+# SURINAME
+
+745 = {"Nova Tondela" "Nova Tondela"}
+746 = {"Caiena" "Caiena"}
+2937 = {"Suriname" "Suriname"}
+
+# UPPER GUYANA
+
+742 = {"Santa Amadora" "Santa Amadora"}
+2804 = {"São Januário" "São Januário"}
+2811 = {"Borba" "Borba"}
+2931 = {"Pirara" "Pirara"}
+4617 = {"Cimeira" "Cimeira"}
+
+# VENEZUELA
+
+741 = {"Paraísia" "Paraísia"}
+831 = {"Príncipe Perfeito" "Príncipe Perfeito"}
+2808 = {"Filoménia" "Filoménia"}
+4612 = {"Aveiro das Índias" "Aveiro das Índias"}
+4616 = {"Nova Guimarães" "Nova Guimarães"}
+
+# WESTERN LLANOS
+
+2812 = {"Fronteira" "Fronteira"}
+2814 = {"Vila Vicênzia" "Vila Vicênzia"}
+2815 = {"Monte Falim" "Monte Falim"}
+4608 = {"Aplaneiro" "Aplaneiro"}
+
+## LA PLATA
+
+# BAHIA BLANCA
+
+780 = {"Candelária" "Candelária"}
+786 = {"Praia Branca" "Praia Branca"}
+2868 = {"Ramalho" "Ramalho"}
+
+# BANDA ORIENTAL
+
+772 = {"Uruguai" "Uruguai"}
+773 = {"Banda Oriental" "Banda Oriental"}
+2850 = {"Cisplatina" "Cisplatina"}
+2851 = {"Santo Sacramento" "Santo Sacramento"}
+2852 = {"Saltos" "Saltos"}
+
+# BUENOS AIRES
+
+778 = {"Bons Ventos" "Bons Ventos"}
+2846 = {"Santa Quitéria" "Santa Quitéria"}
+2848 = {"São Cosme do Vale" "São Cosme do Vale"}
+2849 = {"São Caetano" "São Caetano"}
+
+# CENTRAL CHILE
+
+784 = {"São Pedro" "São Pedro"}
+787 = {"Jardim do Paraíso" "Jardim do Paraíso"}
+2862 = {"Olaria" "Olaria"}
+
+# CUYO
+
+2843 = {"Nova Beira" "Nova Beira"}
+2844 = {"Serralarga" "Serralarga"}
+2845 = {"São João" "São João"}
+2847 = {"São Luiz do Sul" "São Luiz do Sul"}
+2877 = {"Santa Leocádia" "Santa Leocádia"}
+
+# MESOPOTAMIA
+
+777 = {"São Luís" "São Luís"}
+2853 = {"Correntes" "Correntes"}
+2855 = {"Novo Caminho" "Novo Caminho"}
+2858 = {"Novo Castelo" "Novo Castelo"}
+2859 = {"Gualamba" "Gualamba"}
+
+# NEHEUNKEN
+
+785 = {"Andradas" "Andradas"}
+2867 = {"Sousa" "Sousa"}
+2871 = {"Linho" "Linho"}
+2872 = {"Boa Passagem" "Boa Passagem"}
+
+# PATAGONIA
+
+781 = {"Porto Desejado" "Porto Desejado"}
+782 = {"Terra do Fogo" "Terra do Fogo"}
+2869 = {"Nova Palmas" "Nova Palmas"}
+
+# PATAGONIAN ANDES
+
+2863 = {"São Martinho de Braga" "São Martinho de Braga"}
+2870 = {"Santa Cândida" "Santa Cândida"}
+2875 = {"Correira" "Correira"}
+2876 = {"Monte das Pedras" "Monte das Pedras"}
+
+# SOUTH ATLANTIC ISLANDS
+
+1095 = {"Malvinas Continentais" "Malvinas Continentais"}
+2025 = {"Açores do Sul" "Açores do Sul"}
+
+# SOUTHERN CHILE
+
+783 = {"Forte Magalhães" "Forte Magalhães"}
+2873 = {"Conceição do Sul" "Conceição do Sul"}
+2874 = {"Fragosela" "Fragosela"}
+
+# SOUTHERN PAMPAS
+
+779 = {"Mil Fontes" "Mil Fontes"}
+2860 = {"Lourinhã" "Lourinhã"}
+2861 = {"Santa Colombina" "Santa Colombina"}
+2865 = {"Vale Formoso" "Vale Formoso"}
+2866 = {"Bertelinho" "Bertelinho"}
+
+## PERU
+
+# ANTISUYU
+
+802 = {"Vila da Paz" "Vila da Paz"}
+804 = {"Sagres das Américas" "Sagres das Américas"}
+2831 = {"Tiuanaco" "Tiuanaco"}
+2947 = {"Orodão" "Orodão"}
+
+# CAJAMARCA
+
+813 = {"Santo Inácio" "Santo Inácio"}
+2824 = {"Saldanha" "Saldanha"}
+2825 = {"Santarém das Américas" "Santarém das Américas"}
+2943 = {"Ourodão" "Ourodão"}
+
+# CHIMOR
+
+812 = {"Viana do Monte" "Viana do Monte"}
+2002 = {"Ilhas Encantadas" "Ilhas Encantadas"}
+2821 = {"Piurá" "Piurá"}
+2822 = {"Nova Soveral" "Nova Soveral"}
+2826 = {"Quimos" "Quimos"}
+
+# HUANUCO
+
+809 = {"Lima" "Lima"}
+810 = {"Coalhado" "Coalhado"}
+811 = {"São Jaime" "São Jaime"}
+814 = {"Uanúco" "Uanúco"}
+2827 = {"São Paio" "São Paio"}
+
+# IQUITOS
+
+815 = {"Vila Louro" "Vila Louro"}
+818 = {"Barreiras" "Barreiras"}
+821 = {"Belo Monte" "Belo Monte"}
+
+# KUNTISUYU
+
+807 = {"Aldeia dos Reis" "Aldeia dos Reis"}
+808 = {"Cusco" "Cusco"}
+2829 = {"Vila Pecuária" "Vila Pecuária"}
+2830 = {"Monte São Pedro" "Monte São Pedro"}
+
+# PERUAN COAST
+
+805 = {"Vagos" "Vagos"}
+806 = {"São João da Nasca" "São João da Nasca"}
+2828 = {"Vila Bonita" "Vila Bonita"}
+
+# QUITO
+
+816 = {"Virgindade" "Virgindade"}
+817 = {"Santana" "Santana"}
+819 = {"São Tiago" "São Tiago"}
+820 = {"São Francisco do Equador" "São Francisco do Equador"}
+2820 = {"Vale Flores" "Vale Flores"}
+
+# UCAYALI
+
+2823 = {"Oito Vales" "Oito Vales"}
+2944 = {"Isna" "Isna"}
+2945 = {"Castelo dos Monges" "Castelo dos Monges"}
+
+## UPPER PERU
+
+# BENI
+
+800 = {"Pequena Lisboa" "Pequena Lisboa"}
+801 = {"Nova Estremoz" "Nova Estremoz"}
+2834 = {"Santa Cruz da Serra" "Santa Cruz da Serra"}
+
+# CHACO
+
+790 = {"A Lusíada" "A Lusíada"}
+2854 = {"Charco Central" "Charco Central"}
+2878 = {"Gondoriz" "Gondoriz"}
+
+# JUJUY
+
+794 = {"Afonsinas" "Afonsinas"}
+2837 = {"Bemposta" "Bemposta"}
+2839 = {"Atacama" "Atacama"}
+
+# MOXOS
+
+803 = {"Santíssima Trindade" "Santíssima Trindade"}
+2832 = {"São Joaquim" "São Joaquim"}
+2833 = {"Mãe de Deus" "Mãe de Deus"}
+
+# NORTHERN CHILE
+
+792 = {"Planaltina" "Planaltina"}
+793 = {"Porto Joanino" "Porto Joanino"}
+796 = {"Paranaguá" "Paranaguá"}
+2840 = {"Junqueira" "Junqueira"}
+2841 = {"Formoso" "Formoso"}
+
+# PARAGUAY
+
+775 = {"Anunciação" "Anunciação"}
+776 = {"Novigrejas" "Novigrejas"}
+799 = {"Sta. Luzia do Norte" "Sta. Luzia do Norte"}
+2882 = {"Vale Longo" "Vale Longo"}
+2883 = {"N. Sra. da Madalena" "N. Sra. da Madalena"}
+
+# POTOSI
+
+795 = {"Vila Rica do Peru" "Vila Rica do Peru"}
+797 = {"Belém d'Andamarca" "Belém d'Andamarca"}
+2940 = {"Vouzela" "Vouzela"}
+2946 = {"Aljezur" "Aljezur"}
+
+# TUCUMAN
+
+791 = {"Vila dos Gatos" "Vila dos Gatos"}
+2836 = {"Angelical" "Angelical"}
+2842 = {"Pereira" "Pereira"}
+
+# UPPER PERU
+
+2835 = {"Cascais" "Cascais"}
+2838 = {"Alto Amparo" "Alto Amparo"}
+2941 = {"Formoso" "Formoso"}
+2942 = {"Nova Montemor" "Nova Montemor"}
+
+### OCEANIA
+
+## Australia
+
+# BRISBANE
+
+4851 = {"Cidade do Sol" "Cidade do Sol"}
+4852 = {"Martim" "Martim"}
+4853 = {"Rebordãos" "Rebordãos"}
+4854 = {"Alfaião" "Alfaião"}
+
+# CAPRICORNIA
+
+2730 = {"Palorca" "Palorca"}
+2731 = {"Orelhão" "Orelhão"}
+2732 = {"Freixedinha" "Freixedinha"}
+4848 = {"Azibeiro" "Azibeiro"}
+4849 = {"Espadanedo" "Espadanedo"}
+
+# ILLAWARA
+
+1090 = {"Vidigueira" "Vidigueira"}
+4857 = {"Francinha" "Francinha"}
+4858 = {"Landedo" "Landedo"}
+4859 = {"Salgueiros" "Salgueiros"}
+4860 = {"Nuzedo" "Nuzedo"}
+
+# NEW SOUTH WALES
+
+1091 = {"Alqueidão" "Alqueidão"}
+1092 = {"Burinhosa" "Burinhosa"}
+4855 = {"Deilão" "Deilão"}
+4856 = {"Guadramil" "Guadramil"}
+
+# PERTH
+
+1084 = {"Silveiras" "Silveiras"}
+2727 = {"Lezíria" "Lezíria"}
+4863 = {"Aregos" "Aregos"}
+4864 = {"Travancas" "Travancas"}
+
+# PILBARA
+
+2726 = {"Sismaria" "Sismaria"}
+4865 = {"Pastorias" "Pastorias"}
+4866 = {"Fresulfe" "Fresulfe"}
+4867 = {"Bobadela" "Bobadela"}
+
+# PRINCELAND
+
+1086 = {"Alcobaça" "Alcobaça"}
+2735 = {"Paradela" "Paradela"}
+2736 = {"Avantos" "Avantos"}
+4862 = {"São Vicente" "São Vicente"}
+
+# QUEENSLAND
+
+1093 = {"Gândara" "Gândara"}
+1094 = {"Carvide" "Carvide"}
+2733 = {"Pousadas" "Pousadas"}
+4850 = {"São Cibrão" "São Cibrão"}
+
+# TASMANIA
+
+1085 = {"Azenhas" "Azenhas"}
+4868 = {"Carvalhais" "Carvalhais"}
+4869 = {"Costilhão" "Costilhão"}
+
+# TOP END
+
+2728 = {"Montijos" "Montijos"}
+2729 = {"Navalho" "Navalho"}
+4846 = {"Carrapatas" "Carrapatas"}
+4847 = {"Vale da Barcellas" "Vale da Barcellas"}
+
+# VICTORIA
+
+1087 = {"Boticária" "Boticária"}
+1088 = {"Pataias" "Pataias"}
+1089 = {"Burinhosa" "Burinhosa"}
+2734 = {"Mascarenhas" "Mascarenhas"}
+4861 = {"Gosende" "Gosende"}
+
+## OCEANIA
+
+# EASTERN POLYNESIA
+
+1244 = {"Ilhas Temoteus" "Ilhas Temoteus"}
+1987 = {"Ilhas da Sociedade" "Ilhas da Sociedade"}
+1988 = {"Ilha da Páscoa" "Ilha da Páscoa"}
+
+# EAST MICRONESIA
+
+1241 = {"Olho de Zarco" "Olho de Zarco"}
+1991 = {"Ilhas Pereira" "Ilhas Pereira"}
+1993 = {"Ilhas Marechal" "Ilhas Marechal"}
+1994 = {"Atol da Pessanha" "Atol da Pessanha"}
+
+# FIJI
+
+1242 = {"Grande Fiji" "Vezelão"}
+4937 = {"Arquipélago Oriental" "Tubou"}
+4938 = {"Ilhas Sândalo" "Abelaque"}
+
+# MELANESIA
+
+1236 = {"Rebula" "Rebula"}
+1238 = {"Ilhas Salomão" "Ilhas Salomão"}
+1239 = {"Ilhas Venuácia" "Venuácia"}
+1986 = {"Nova Caledónia" "Nova Caledónia"}
+
+# NORTH POLYNESIA
+
+1240 = {"Havai" "Celelão"}
+1997 = {"Ilha Média" "Ilha Média"}
+4934 = {"Meleão" "Prometedores"}
+4935 = {"Oreão" "Porto do Abrigo"}
+4936 = {"Cavém" "Tepeães"}
+
+# POLYNESIA
+
+1243 = {"Samoa" "Feleapém"}
+1989 = {"Tonga" "Nucualofa"}
+1990 = {"Trevalém" "Frenafurte"}
+1992 = {"Ninfas" "Iarém"}
+
+# TE IKA A MAUI HAUAURU
+
+1106 = {"Avidagos" "Avidagos"}
+1107 = {"Porto Novo" "Porto Novo"}
+2739 = {"Romeu" "Romeu"}
+
+# TE IKA A MAUI WAHO
+
+1108 = {"Maiorga" "Maiorga"}
+2737 = {"Valdrez" "Valdrez"}
+4939 = {"Cortiço" "Cortiço"}
+
+# TE WAIPOUNAMU
+
+1109 = {"Santa Combinha" "Santa Combinha"}
+1246 = {"Edroso" "Edroso"}
+2738 = {"Cernadela" "Cernadela"}
+
+# WEST MICRONESIA
+
+1235 = {"Guão" "Guão"}
+1995 = {"Micronésia" "Micronésia"}
+1996 = {"Palau" "Palau"}
+
+2149 = "Liampo"
+
+## SOUTH AFRICA
+
+1175 = {"Pequena Namaqualândia" "Porto Nólote"}
+1177 = {"Cabo" "Cidade do Cabo"}
+1176 = {"Campo Centeio" "Calvínia"}
+2864 = {"Zenque" "Biútas"}
+1179 = {"Esvelendão" "Cabo Jorge"}
+1178 = {"Grande Careão" "Pombal"}
+2880 = {"Grequalândia" "Quimbareleia"}
+833 = {"Baía de Lagoa" "Cova do Reneto"}
+2856 = {"Savana Alta" "Blumefontaína"}
+1180 = {"Terra dos Xossas" "Tembe"}
+1181 = {"Natal" "Mágolo"}
+789 = {"Metulão" "Metulão"}
+4783 = {"Terra dos Suázis" "Menambão"}
+4782 = {"Tessualândia" "Verimburgo"}
+4781 = {"Tranzelevânia" "Pretória"}
+4784 = {"Alto Limpopo" "Poloquânia"}
+1800 = {"Baixo Limpopo" "Gaza"}
+1182 = {"Matola" "Chefina"}
+1183 = {"Inhambane" "Inhambane"}
+1174 = {"Luderim" "Luderim"}

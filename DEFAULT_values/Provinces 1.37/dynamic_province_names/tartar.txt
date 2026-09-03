@@ -1,0 +1,42 @@
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrahan" "Haci Tarhan"}
+466 = {"Saray Batu" "Saray Batu"}
+468 = {"Maniç" "Yanqala"}
+2416 = {"Majar" "Macar"}
+2417 = {"Kuma" "Kuma"}
+
+# Azov
+
+286 = {"Azaq" "Azaq"}
+287 = {"Kuban" "Akhtar-Bakhtar"}
+2413 = {"Tyn" "Tyn"}
+2414 = {"Azarba" "Azarba"}
+
+# Crimea
+
+284 = {"Qirim" "Çufut Qale"}
+285 = {"Kefe" "Kefe"}
+2410 = {"Mangup" "Mangup Qale"}
+2447 = {"Taman" "Temrük"}
+
+# Lower Don
+
+288 = {"Asagi Don" "Çerkask"}
+467 = {"Syrkli" "Syrkli"}
+1971 = {"Belyaman" "Belyaman"}
+2409 = {"Bahmut" "Bahmut"}
+
+# Yedisan
+
+282 = {"Cedisan" "Özü"}
+1974 = {"Yedishkul" "Herson"}
+2406 = {"Ingil" "Qizi Kermen"}
+
+# Zaporizhia
+
+283 = {"Zaporijjâ" "Zaporijjâ"}
+2411 = {"Mansur" "Mansur"}
+2412 = {"Qizil Yar" "Qizil Yar"}

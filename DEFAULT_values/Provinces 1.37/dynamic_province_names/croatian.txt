@@ -1,0 +1,153 @@
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naksos" "Grad Naksos"}
+320 = {"Rod" "Grad Rod"}
+2348 = {"Hij" "Grad Hij"}
+3003 = {"Eubeja" "Halkida"}
+4700 = {"Lezb" "Mitilene"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Vlora" "Vlora"}
+4174 = {"Drac" "Drac"}
+4175 = {"Lješ" "Lješ"}
+4750 = {"Kruj" "Kruj"}
+
+# Bosnia
+
+139 = {"Hum" "Mostar"}
+140 = {"Bosna" "Doboj"}
+1831 = {"Hercegovina" "Trebinje"}
+3002 = {"Visoki" "Visoki"}
+4755 = {"Podrinje" "Višegrad"}
+
+# Bulgaria
+
+150 = {"Nikopolje" "Nikopolje"}
+1765 = {"Sofija" "Sofija"}
+2746 = {"Vidin" "Vidin"}
+2750 = {"Plovdiv" "Plovdiv"}
+4703 = {"Custendil" "Custendil"}
+
+# Croatia
+
+131 = {"Zagreb" "Zagreb"}
+1826 = {"Lika" "Gospic"}
+1828 = {"Dolnji Kraji" "Jajce"}
+4752 = {"Rijeka" "Rijeka"}
+
+# Dalmatia
+
+136 = {"Split" "Split"}
+137 = {"Dubrovnik" "Dubrovnik"}
+4753 = {"Zadar" "Zadar"}
+
+# Macedonia
+
+148 = {"Solun" "Solun"}
+1853 = {"Kastorija" "Kastorija"}
+3001 = {"Skoplje" "Skoplje"} 
+4702 = {"Ser" "Ser"}
+4780 = {"Ohrid" "Ohrid"}
+
+# Morea
+
+145 = {"Lakonija" "Mistras"}
+146 = {"Atena" "Atena"}
+163 = {"Kandija" "Kandija"}
+1773 = {"Ahaja" "Patras"}
+4701 = {"Korint" "Korint"}
+
+# Northern Greece
+
+142 = {"Krf" "Grad Krf"}
+144 = {"Epir" "Janjina"}
+147 = {"Tesalija" "Larisa"}
+4698 = {"Kefalonija" "Sveti Juraj"}
+4699 = {"Etolija" "Arta"}
+
+# Rascia
+
+138 = {"Crna Gora" "Žabljak"}
+1766 = {"Kosovo" "Priština"}
+1827 = {"Raška" "Trgovište"}
+4754 = {"Kotor" "Kotor"}
+
+# Serbia
+
+141 = {"Smederevo" "Smederevo"}
+3000 = {"Niš" "Niš"}
+4176 = {"Branicevo" "Kruševac"}
+4239 = {"Beograd" "Beograd"}
+4757 = {"Kolubara" "Loznica"}
+
+# Silistria
+
+159 = {"Drastar" "Drastar"}
+4704 = {"Trnovo" "Trnovo"}
+4706 = {"Tulcja" "Tulcja"}
+
+# Slavonia
+
+152 = {"Varaždin" "Varaždin"}
+1767 = {"Slavonija" "Osijek"}
+4173 = {"Srijem" "Ruma"}
+4756 = {"Bjelovar" "Bjelovar"}
+	
+# Thrace
+
+149 = {"Drinopolje" "Drinopolje"}
+151 = {"Carigrad" "Carigrad"}
+1764 = {"Burgas" "Burgas"}
+4705 = {"Komotene" "Komotene"}
+4779 = {"Galipolje" "Galipolje"}
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Bekeš" "Bekeš"}
+1953 = {"Szabolcko" "Niredhaza"}
+1954 = {"Veliki" "Sveti Nikola"}
+4125 = {"Zolnoka" "Zolnoka"}
+
+# Transdanubia
+
+135 = {"Šapruon" "Šapruon"}
+153 = {"Pešta" "Budim"}
+1864 = {"Sambotel" "Sambotel"}
+4126 = {"Backo" "Backo"}
+4240 = {"Stolni Biograd" "Stolni Biograd"}
+
+## SOUTH GERMANY
+
+# Austria Proper
+
+133 = {"Gornja Austrija" "Linec"}
+134 = {"Bec" "Bec"}
+1770 = {"Donja Austrija" "Krems na Dunavu"}
+4761 = {"Solgrad" "Solgrad"}
+4762 = {"Becka šuma" "Sveti Hipolit"}
+
+# Carniola
+
+129 = {"Kranjska" "Ljubljana"}
+130 = {"Istra" "Pula"}
+1769 = {"Gorica" "Gorica"}
+4738 = {"Trst" "Trst"}
+4751 = {"Celje" "Celje"}
+
+# Inner Austria
+
+128 = {"Celovac" "Celovac"}
+132 = {"Štajerska" "Štajerska"}
+1863 = {"Gradac" "Gradac"}
+4759 = {"Gornja Koruška" "Beljak"}
+
+## ITALY
+
+4733 = {"Moliš" "Moliš"}

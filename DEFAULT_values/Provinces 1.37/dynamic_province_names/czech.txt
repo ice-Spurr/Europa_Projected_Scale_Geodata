@@ -1,0 +1,520 @@
+### EUROPE
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = "Praha"
+2968 = "Budejovice"
+2970 = "Hradecko"
+4724 = "Pardubice"
+4725 = "Jindrichuv Hradec"
+
+# Braunschweig
+
+57 = "Brunšvik"
+1758 = "Hanov"
+2971 = "Hoja"
+4773 = "Gotinky"
+
+# Erzgebirge
+
+267 = "Plzen"
+1771 = "Litomerice"
+2967 = "Cheb"
+
+# Hesse
+
+78 = "Mohuc"
+81 = {"Horní Hesensko" "Marburk"}
+1762 = {"Dolní Hesensko" "Kassel"}
+1876 = "Frankfurt"
+4774 = "Fulda"
+
+# Hinterpommern
+
+48 = "Kolobreh"
+2995 = "Sloup"
+4746 = "Stargard"
+
+# Lower Rhineland
+
+80 = "Trevír"
+1760 = "Koblenec"
+1878 = "Cáchy"
+4768 = "Julík"
+
+# Lower Saxony
+
+44 = "Hamburk"
+53 = "Lunéburk"
+1857 = "Lauenburk"
+4772 = "Celé"
+
+# Lusatia
+
+60 = "Budyšín"
+1763 = {"Dolní Lužice" "Chotebuz"}
+4778 = {"Zhorelec" "Zhorelec"}
+
+# Mecklemburg
+
+45 = "Lubek"
+46 = "Roztoky"
+2996 = "Vesmir"
+4749 = "Nový Branibor"
+4786 = "Prýnec"
+
+# Mittelmark
+
+50 = {"Berlín" "Berlín-Kolín"}
+51 = {"Rupín" "Nový Rupín"}
+1759 = "Postupim"
+2993 = {"Ukersko" "Premyslav"}
+4748 = {"Braniborsko" "Branibor nad Havolou"}
+
+# Moravia
+
+265 = "Brno"
+4237 = "Olomouc"
+4726 = "Hradiste"
+
+# Neumark
+
+49 = {"Nová Marka" "Horov"}
+2969 = {"Sternberk" "Frankfurt nad Odrou"}
+4747 = "Dramburk"
+
+# North Rhine
+
+83 = {"Nasavsko" "Vídenské Lázne"}
+84 = {"Berk" "Dušovice"}
+85 = "Kolín nad Rýnem"
+2975 = "Klevy"
+
+# North Westphalia
+
+56 = "Osnabruk"
+69 = "Tremena"
+86 = "Monšter"
+2973 = "Mepno"
+
+# Saxony
+
+59 = "Vitemberk"
+61 = "Dráždany"
+62 = "Lipsko"
+4744 = "Cvikov"
+
+# Saxony-Anhalt
+
+52 = "Magdeburk"
+58 = {"Anhaltsko" "Dessava"}
+2964 = {"Stará Marka" "Stenadal"}
+4741 = "Dobrosol"
+4742 = "Goselír"
+
+# Schleswig-Holstein
+
+13 = "Šlesvik"
+1775 = {"Holštýnsko" "Kiel"}
+4141 = {"Dýmarsko" "Moricín"}
+
+# South Westphalia
+
+82 = {"Vestfálsko" "Arnsberk"}
+2972 = "Paderbor"
+4775 = {"Ravensberk" "Bílovec"}
+
+# Thuringia
+
+63 = "Erfurk"
+2965 = {"Fojtsko" "Plavno"}
+4743 = "Výmar"
+
+# Vorpommern
+
+47 = "Stralsko"
+1858 = "Štetín"
+2994 = "Bolehošt"
+4745 = {"Rujána" "Berk na Rujáne"}
+
+# Weser
+
+54 = "Stáda"
+55 = "Oldenburk"
+1874 = "Brémy"
+4771 = "Verda"
+
+## POLAND
+
+# Central Poland
+
+258 = "Sieradz"
+1939 = "Lencice"
+4533 = "Velun"
+
+# Kuyavia
+
+1859 = {"Chlumno" "Torun"}
+4523 = "Mladá Vratislav"
+4524 = "Dobrín"
+4528 = {"Kujavsko" "Brešt Kujavský"}
+
+# Malopolska
+
+262 = "Krakov"
+2960 = "Nový Sad"
+4527 = "Chenciny"
+
+# Mazovia
+
+256 = "Ploc"
+257 = "Varšava"
+1938 = "Vizna"
+4525 = "Rava"
+
+# Red Ruthenia
+
+261 = "Halic"
+1940 = "Belc"
+2424 = "Premyšl"
+2961 = "Lvov"
+4541 = "Drohobyc"
+
+# Sandomierz
+
+259 = "Sandomer"
+260 = "Lublin"
+2959 = "Tarnov"
+
+# Silesia
+
+263 = "Ratibor"
+264 = {"Vratislav" "Vratislav"}
+2966 = "Hlohov"
+4238 = "Lehnice"
+4723 = "Opolí"
+
+# Wielkopolska
+
+254 = "Poznan"
+255 = "Kališ"
+2963 = {"Notec" "Naklo"}
+4526 = "Hnezdno"
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = "Štrasburk"
+1880 = {"Suntgov" "Starý Kostel"}
+4765 = "Mylhúzy"
+
+# Austria Proper
+
+133 = {"Horní Rakousy" "Linec"}
+134 = "Viden"
+1770 = {"Manhartbeck" "Kremže"}
+4761 = {"Travenští" "Štýr"}
+4762 = {"Vídenský les" "Svatý Hypolit"}
+
+# Baden
+
+72 = {"Breisgavsko" "Volnýhrad"}
+74 = "Badén"
+4714 = "Durac"
+
+# Carniola
+
+129 = {"Kransko" "Lublan"}
+130 = {"Istrie" "Pula"}
+1769 = {"Gorice" "Gorice"}
+4738 = {"Terst" "Terst"}
+4751 = {"Celje" "Celje"}
+
+# East Bavaria
+
+76 = {"Solnohrad" "Solnohrad"}
+4709 = {"Pasov" "Pasov"}
+4760 = {"Innská Ctvrt" "Brunov"}
+
+# East Swabia
+
+68 = "Memín"
+1868 = "Augšpurk"
+1872 = "Úlín"
+4711 = {"Dunovirt" "Nerlín"}
+
+# Inner Austria
+
+128 = {"Dolní Korutany" "Celovec"}
+132 = {"Štýrsko" "Židovhrad"}
+1863 = "Štýrský Hradec"
+4759 = {"Horní Korutany" "Belák"}
+
+# Lower Bavaria
+
+64 = "Lanžhot"
+1757 = {"Horní Falc" "Amberk"}
+2956 = "Štrubina"
+2957 = "Rezno"
+
+# Lower Franconia
+
+71 = "Anzbaš"
+79 = "Vircpurk"
+4715 = {"Rudoltov" "Rudolt nad Tauberskem"}
+4718 = "Ašafnhrad"
+
+# Palatinate
+
+77 = "Hejdelberk"
+1761 = {"Rýnská Falc" "Verm"}
+4767 = "Dva Mosty"
+
+# Romandie
+
+165 = "Bern"
+1867 = {"Vod" "Laucžan"}
+1871 = {"Valaš" "Sedun"}
+4720 = "Ženeva"
+4721 = "Friburk"
+
+# Switzerland
+
+166 = {"Valdštát" "Svíce"} # First name needs confirmation
+1869 = "Curych"
+1870 = "Svatý Gal"
+1873 = "Chur"
+4722 = "Ilanec"
+
+# Tirol
+
+73 = {"Inthol" "Inšpruk"}
+110 = "Trident"
+1768 = "Ljence"
+4710 = "Brežnice"
+4758 = {"Ectactka" "Merán"}
+
+# Upper Bavaria
+
+65 = "Mnichov"
+2955 = "Intol" # needs confirmation
+4707 = "Vodní Hrad"
+4708 = "Frisinky"
+
+# Upper Franconia
+
+66 = "Bamberk"
+67 = "Norimberk"
+4716 = "Koburk"
+4717 = "Barout"
+
+# West Swabia
+
+70 = "Štutgart"
+4712 = "Kostnice"
+4713 = {"Úrach" "Rojtlín"}
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Békeš" "Dula"}
+1953 = {"Debrecín" "Debrecín"}
+1954 = {"Torontál" "Zrenjanin"}
+4125 = "Solník"
+
+# Moldavia
+
+268 = "Sucava"
+1756 = {"Besarábie" "Kilija"}
+2405 = "Bendery"
+4529 = "Jasy"
+4530 = "Bárova"
+
+# Northern Transylvania
+
+157 = {"Berchatice" "Velký Varadín"}
+158 = {"Mureš" "Murešské Trhovisko"}
+1952 = {"Maramureš" "Chust"}
+4127 = "Turdovice"
+
+# Slovakia
+
+154 = {"Nitra" "Nitra"}
+162 = {"Zemplín" "Košice"}
+1318 = {"Spiš" "Levoca"}
+1772 = {"Prešpurk" "Prešpurk"}
+4236 = {"Trencín" "Trencín"}
+
+# Southern Transylvania
+
+156 = {"Temeš" "Temešov"}
+1951 = {"Hunedova" "Hunedova"}
+4128 = {"Králuv Pozemek" "Sibin"}
+
+# Transdanubia
+
+135 = "Šopron"
+153 = {"Pešt" "Budín"}
+1864 = {"Somogsko" "Kopíš"}
+4126 = "Bácsko"
+4240 = "Stolicný Belehrad"
+
+# Wallachia
+
+160 = {"Olténie" "Krajova"}
+161 = "Trhovište"
+2998 = "Buzov"
+4531 = "Gírjív"
+4532 = "Severinský"
+
+## BALKANS
+
+# Albania
+
+143 = "Vlára"
+4174 = "Drac"
+4175 = "Leža"
+4750 = "Kruž"
+
+# Bosnia
+
+139 = {"Culm" "Mostar"}
+140 = {"Bosna" "Doboí"}
+1831 = {"Hercegovina" "Nový Herceg"}
+3002 = "Visoko"
+4755 = {"Podriní" "Višegrad"}
+
+# Bulgaria
+
+150 = "Nikopole"
+1765 = "Sofie"
+2746 = "Vidín"
+2750 = "Plodiv"
+4703 = "Kystendely"
+
+# Croatia
+
+131 = "Záhreb"
+1826 = {"Licka" "Zden"}
+1828 = {"Dolní Kraj" "Jajce"}
+4752 = "Rieka"
+
+# Dalmatia
+
+136 = "Šplit"
+137 = "Dubrovník"
+4753 = "Zadar"
+
+# Macedonia
+
+148 = {"Makedonie" "Solun"}
+1853 = "Koštírna"
+3001 = "Skopje"
+4702 = "Serany"
+4780 = "Ochrid"
+
+# Morea
+
+145 = {"Lakónie" "Mistra"}
+146 = "Athény"
+163 = {"Kréta" "Herákov"}
+1773 = {"Achaia" "Patry"}
+4701 = {"Korint" "Navplio"}
+
+# Northern Greece
+
+142 = {"Korfu" "Korfu"}
+144 = {"Epir" "Janina"}
+147 = {"Thesálie" "Lariška"}
+4698 = {"Kefalonia" "Svatý Jirí"}
+4699 = {"Arta" "Arta"}
+
+# Rascia
+
+138 = {"Zetská" "Žabljak"}
+1766 = {"Kosovo" "Priština"}
+1827 = {"Raška" "Trgovište"}
+4754 = "Kotor"
+
+# Serbia
+
+141 = "Smedar"
+3000 = "Niš"
+4176 = {"Branicevici" "Krušecký"}
+4239 = "Belehrad"
+4757 = {"Kolubarka" "Valjevo"}
+
+# Silistria
+
+159 = "Silistra"
+4704 = "Veliký Tarnov"
+4706 = "Tulca"
+
+# Slavonia
+
+152 = "Varaždín"
+1767 = {"Slavonie" "Osice"}
+4173 = {"Srem" "Mitrovice"}
+4756 = "Belovár"
+
+# Thrace
+
+149 = "Drinopol"
+151 = {"Carihrad" "Carihrad"}
+1764 = {"Neseber" "Achtopol"}
+4705 = {"Rudoperí" "Gjumlcín"}
+4779 = "Kalipole"
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilno" "Vilno"}
+770 = {"Braclav" "Braclav"}
+4535 = {"Vlkovna" "Vlkovna"}
+4536 = {"Lída" "Lída"}
+
+# Curonia
+
+35 = {"Sárama" "Kuremes"}
+39 = {"Kuldyba" "Kuldyba"}
+1935 = {"Jelenice" "Jelenice"}
+
+# East Prussia
+
+40 = {"Klajpeda" "Klajpeda"}
+41 = {"Královec" "you probably know why"}
+42 = {"Varmie" "Olštýn"}
+767 = {"Štít" "Štít"}
+2958 = {"Ostród" "Ostród"}
+
+# Estonia
+
+36 = {"Revel" "Talin"}
+1834 = {"Tarta" "Tarta"}
+1842 = {"Narova" "Narova"}
+
+# Livonia
+
+37 = {"Livonsko" "Vilín"}
+38 = {"Riga" "Riga"}
+273 = {"Latgalsko" "Dvinohrad"}
+
+# Samogitia
+
+270 = {"Troky" "Troky"}
+271 = {"Dolní Litva" "Varny"}
+1936 = {"Kovno" "Kovno"}
+4534 = {"Upite" "Upite"}
+
+# West Prussia
+
+43 = {"Gdansk" "Gdansk"}
+1841 = {"Malbor" "Malbor"}
+2997 = {"Tuchola" "Tuchola"}
+
+### LETTERS WITH OTHER DIACRITICS that are supported here: S (š), Z (ž), Y (ý)

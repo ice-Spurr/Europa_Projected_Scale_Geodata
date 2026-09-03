@@ -1,0 +1,259 @@
+### EUROPE ###
+
+## GERMANY ##
+
+# Alsace
+
+75 = {"Straßbörg" "Straßbörg"}
+1880 = {"Sundgau" "Aldkirch"}
+4765 = {"Mülhausen" "Mülhausen"}
+
+# Austria Proper
+
+133 = {"Oberoostnriek" "Lienz"} # province name confirmed
+134 = {"Wienen" "Wienen"} # confirmed
+1770 = {"Manhartsberg" "Krems"}
+4761 = {"Traungau" "Steyr"}
+4762 = {"Nideroostnriek" "Sankt Pöltn"} # province name confirmed
+
+# Baden
+
+72 = {"Breisachgau" "Freibörg"}
+74 = {"Bedn" "Bedn-Bedn"}
+4714 = {"Bedn-Durlach" "Karlsrueh"}
+
+# Bohemia
+
+266 = {"Praag" "Praag"}
+2968 = {"Bodweis" "Bodweis"}
+2970 = {"Königgrätz" "Königgrätz"}
+4724 = {"Pardubitz" "Pardubitz"}
+4725 = {"Niegenhuus" "Niegenhuus"}
+
+# Braunschweig (all confirmed)
+
+57 = {"Broenswiek" "Broenswiek"}
+1758 = {"Hannover" "Hannover"}
+2971 = {"Hajen" "Hajen"}
+4773 = {"Chöttingen" "Chöttingen"}
+
+# Carniola
+
+129 = {"Krein" "Laipach"}
+130 = {"Istrien" "Pola"}
+1769 = {"Gorz" "Gorz"}
+4738 = {"Traist" "Traist"}
+4751 = {"Cilli" "Cilli"}
+
+# East Bavaria
+
+76 = {"Soltbörg" "Soltbörg"}
+4709 = {"Passau" "Passau"}
+4760 = {"Innweald" "Brunau am Inn"}
+
+# East Swabia
+
+68 = {"Memminga" "Memminga"}
+1868 = {"Augsborg" "Augsborg"}
+1872 = {"Ulm" "Ulm"}
+4711 = {"Donauwerth" "Nordlingen"}
+
+# Erzgebirge
+
+267 = {"Pilzen" "Pilzen"} # confirmed
+1771 = {"Leidmeridz" "Leidmeridz"}
+2967 = {"Karlsbad" "Eger"}
+
+# Hesse
+
+78 = {"Mainz" "Mainz"}
+81 = {"Oberhessen" "Marbörg"} # province name confirmed
+1762 = {"Niderhessen" "Cassel"} # province name confirmed
+1876 = {"Frankfort" "Frankfort"}
+4774 = {"Fulda" "Fulda"}
+
+# Hinterpommern
+
+48 = {"Kolbaarg" "Kolbaarg"}
+2995 = {"Stolb" "Stolb"} # risky phonetic adaptation
+4746 = {"Stargard" "Stargard"}
+
+# Inner Austria
+
+128 = {"Unterkarinten" "Klagenfort"}
+132 = {"Steiermark" "Judenbörg"} # province name confirmed
+1863 = {"Graz" "Graz"}
+4759 = {"Oberkarinten" "Vielach"} # province name confirmed
+
+# Lower Bavaria
+
+64 = {"Landshut" "Landshut"}
+1757 = {"Oberpalz" "Amberg"}
+2956 = {"Straubing" "Straubing"}
+2957 = {"Regensbörg" "Regensbörg"}
+
+# Lower Franconia
+
+71 = {"Anspach" "Anspach"}
+79 = {"Würzborg" "Würzborg"}
+4715 = {"Rothenbörg" "Rothenbörg"}
+4718 = {"Aschoppenborg" "Aschoppenborg"} # risky phonetic adaptation
+
+# Lower Rhineland
+
+80 = {"Treer" "Treer"} # Lower Saxon tends to simplify phonetically adjusted names
+1760 = {"Koblenz" "Koblenz"}
+1878 = {"Aken" "Aken"}
+4768 = {"Jölich" "Jölich"}
+
+# Lower Saxony
+
+44 = {"Hambörg" "Hambörg"}
+53 = {"Lümborg" "Lümborg"}
+1857 = {"Lauenbörg" "Lauenbörg"}
+4772 = {"Celle" "Celle"}
+
+# Lusatia
+
+60 = {"Bauten" "Bauten"}
+1763 = {"Niderlösitz" "Cotbus"}
+4778 = {"Görlitz" "Görlitz"}
+
+# Mecklemburg
+
+45 = {"Lubeek" "Lubeek"}
+46 = {"Rostok" "Rostok"}
+2996 = {"Wismer" "Wismer"}
+4749 = {"Strelitz" "Niegenstrelitz"}
+4786 = {"Prinitz" "Pankow"}
+
+# Mittelmark
+
+50 = {"Berlien" "Berlien"} # confirmed
+51 = {"Reppin" "Reppin"}
+1759 = {"Potsdam" "Potsdam"}
+2993 = {"Uckermark" "Prentzlow"}
+4748 = {"Braandenbörg" "Braandenbörg an de Havel"} # province name confirmed
+
+# Moravia
+
+265 = {"Brün" "Brün"}
+4237 = {"Olmütz" "Olmütz"}
+4726 = {"Oströ" "Oströ"} # risky phonetic adaptation
+
+# Neumark
+
+49 = {"Niegenmark" "Landsberg an der Warthe"}
+2969 = {"Staarnbaarg" "Frankfort an de Oder"}
+4747 = {"Drambörg" "Drambörg"}
+
+# North Rhine
+
+83 = {"Nassö" "Weilbörg"} # risky phonetic adaptation for the province name
+84 = {"Baarg" "Dusseldörp"} # capital name confirmed
+85 = {"Keulen" "Keulen"} # confirmed
+2975 = {"Kleef" "Kleef"} # confirmed
+
+# North Westphalia
+
+56 = {"Ossenbrugge" "Ossenbrugge"} # confirmed
+69 = {"Dortmund" "Dortmund"} # confirmed
+86 = {"Mönster" "Mönster"} # confirmed
+2973 = {"Möppen" "Möppen"} # confirmed
+
+# Palatinate
+
+77 = {"Heidelbaarg" "Heidelbaarg"}
+1761 = {"Pfalz" "Worms"}
+4767 = {"Twiebrogge" "Twiebrogge"} # confirmed (Zweibrücken, lit. two bridges)
+
+# Romandie
+
+165 = {"Bärn" "Bärn"}
+1867 = {"Wad" "Losanen"}
+1871 = {"Walis" "Siten"}
+4720 = {"Genf" "Genf"}
+4721 = {"Freibörg" "Freibörg"}
+
+# Saxony
+
+59 = {"Wittenbaarg" "Wittenbaarg"}
+61 = {"Dräsdn" "Dräsdn"} # Upper Saxon name
+62 = {"Leibz'sch" "Leibz'sch"} # Upper Saxon name
+4744 = {"Zwikö" "Zwikö"} # risky phonetic adaptation
+
+# Saxony-Anhalt
+
+52 = {"Meidebörg" "Meidebörg"}
+58 = {"Aanhoalt" "Desö"} # risky phonetic adaptation
+2964 = {"Ollmark" "Stendal"}
+4741 = {"Haale" "Haale"}
+4742 = {"Goslär" "Goslär"}
+
+# Schleswig-Holstein
+
+13 = {"Sleeswiek" "Sleeswiek"} # confirmed
+1775 = {"Holstain" "Kiel"} # confirmed
+4141 = {"Dithmarschen" "Moldorf"}
+
+# South Westphalia
+
+82 = {"Westfalen" "Arnsbarg"} # confirmed
+2972 = {"Paterboärn" "Paterboärn"}
+4775 = {"Ravensbärg" "Ravensbärg"}
+
+# Switzerland
+
+166 = {"Woudsteden" "Schwyz"} # Dutch province name
+1869 = {"Zürich" "Zürich"}
+1870 = {"Sankt Galen" "Sankt Galen"}
+1873 = {"Chuur" "Chuur"}
+4722 = {"Ilanz" "Ilanz"}
+
+# Tirol
+
+73 = {"Inntal" "Innsbruck"} # capital name confirmed
+110 = {"Trente" "Trente"} # confirmed
+1768 = {"Leenz" "Leenz"}
+4710 = {"Vörarlberg" "Bregenz"}
+4758 = {"Etschtal" "Bozen"}
+
+# Thuringia
+
+63 = {"Erfort" "Erfort"}
+2965 = {"Vogtland" "Ploën"}
+4743 = {"Weemër" "Weemër"}
+
+# Upper Bavaria
+
+65 = {"München" "München"} # confirmed
+2955 = {"Engolstad" "Engolstad"}
+4707 = {"Woaterborg" "Woaterborg"} # confirmed
+4708 = {"Freising" "Freising"}
+
+# Upper Franconia
+
+66 = {"Bambarg" "Bambarg"}
+67 = {"Nürnbarg" "Nürnbarg"}
+4716 = {"Cobörg" "Cobörg"}
+4717 = {"Bayreuth" "Bayreuth"}
+
+# Vorpommern
+
+47 = {"Stralsund" "Stralsund"}
+1858 = {"Stettin" "Stettin"} # confirmed
+2994 = {"Wolgast" "Wolgast"}
+4745 = {"Rügen" "Baargen"}
+
+# Weser
+
+54 = {"Stood" "Stood"}
+55 = {"Oldenborg" "Oldenborg"}
+1874 = {"Breemn" "Breemn"}
+4771 = {"Veern" "Veern"}
+
+# West Swabia
+
+70 = {"Wurttembaarg" "Stuttgart"}
+4712 = {"Konstanz" "Konstanz"}
+4713 = {"Urach" "Reutlingen"}

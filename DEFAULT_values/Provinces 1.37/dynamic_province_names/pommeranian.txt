@@ -1,0 +1,11 @@
+2996 = {"Wismer" "Wismer"}
+46 = {"Rostock" "Rostock"}
+47 = {"Stralsund" "Stralsund"}
+4749 = {"Strelitz" "Niegenstrelitz"}
+4745 = {"Rügen" "Bergen auf Rügen"}
+2993 = {"Uckermark" "Prentzlow"}
+1858 = {"Stettin" "Stettin"}
+4746 = {"Stargard" "Stargard"}
+48 = {"Kolbarg" "Kolbarg"}
+4747 = {"Dramburg" "Dramburg"}
+2995 = {"Stolp" "Stolp"}

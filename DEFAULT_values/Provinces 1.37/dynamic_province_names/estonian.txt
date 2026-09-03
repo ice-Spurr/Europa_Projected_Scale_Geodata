@@ -1,0 +1,93 @@
+### EUROPE
+
+## BALTIC
+
+# Curonia
+
+35 = {"Saaremaa" "Kuressaare"}
+1935 = {"Miitavi" "Miitavi"}
+
+# East Prussia
+
+41 = {"Kuningamägi" "Kuningamägi"}
+42 = "Warmia"
+
+# Estonia
+
+36 = {"Tallinn" "Tallinn"}
+1834 = {"Tartu" "Tartu"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Liivimaa" "Viljandi"}
+38 = {"Riia" "Riia"}
+273 = {"Latgale" "Väinalinn"}
+4241 = {"Võnnu" "Võnnu"}
+
+## RUSSIA
+
+274 = {"Pihkva" "Pihkva"}
+1960 = {"Saar" "Saar"}
+34 = {"Ingeri" "Koporje"}
+33 = {"Neeva" "Pähkellinn"}
+32 = {"Kägusalm" "Kägusalm"}
+4124 = {"Karjala" "Lieksa"}
+309 = {"Aunus" "Aunus"}
+1961 = {"Laatoka" "Laakota"}
+2749 = {"Tihvina" "Tihvina"}
+30 = {"Viiburi" "Viiburi"}
+
+## SCANDINAVIA
+
+# Finland
+
+27 = {"Turu" "Turu"}
+28 = {"Uusimaa" "Helsingi"}
+29 = {"Häme" "Hämelinn"}
+31 = {"Savo" "Olevlinn"}
+4123 = {"Pirkamaa" "Missaküla"}
+
+# Laponia
+
+315 = {"Ruija" "Vuorea"}
+1777 = {"Koola" "Petsamo"}
+4151 = {"Inari" "Sõdaküla"}
+1776 = {"Viina Karjala" "Kemi"}
+
+# others
+
+1930 = {"Ahvenamaa" "Maarjasadam"}
+12 = {"Hülgemaa" "Kopenhaagen"}
+19 = {"Pohjanmaa" "Mustsaar"}
+4113 = {"Künknina" "Künknina"}
+25 = "Ojamaa"
+
+## other names
+
+183 = {"Pariis" "Pariis"}
+50 = {"Berliin" "Berliin-Cölln"}
+146 = {"Ateena" "Ateena"}
+142 = {"Korfu" "Korfu"}
+118 = {"Rooma" "Rooma"}
+112 = {"Veneetsia" "Veneetsia"}
+262 = {"Krakovi" "Krakovi"}
+257 = {"Varssavi" "Varssavi"}
+227 = {"Lissabon" "Lissabon"}
+4531 = {"Bukarest" "Bukarest"}
+4239 = {"Belgrad" "Belgrad"}
+181 = "Ardennid"
+207 = "Astuuria"
+1756 = "Bessaraabia"
+1745 = {"Kantaabria" "Kantaabria"}
+163 = "Kreeta"
+144 = "Ípeiros"
+3003 = "Euboia"
+1979 = "Fääri saared"
+100 = "Friisimaa"
+130 = "Istra"
+1952 = "Maramures"
+269 = "Podlaasia"
+205 = "Savoia"
+4173 = "Srem"
+147 = "Tessaalia"

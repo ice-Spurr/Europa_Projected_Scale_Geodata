@@ -1,0 +1,118 @@
+## FRANCE
+
+# Auvergne
+
+190 = {"Borbonés" "Molins"}
+195 = {"Lemosin" "Lemòtges"}
+199 = {"Auvèrnhe" "Clarmont"}
+4697 = {"La Marche" "Garait"}
+4777 = {"Forés" "Montbrison"}
+
+# Brittany
+
+169 = {"Còstas d'Arvòr" "Sant Maclo"}
+170 = {"Finistèrra" "Brèst"}
+171 = {"Mor-Bihan" "Vannas"}
+172 = {"Lèger Atlantic" "Nantas"}
+4384 = {"Illa e Vilena" "Rènas"}
+
+# Champagne
+
+181 = {"Ardena" "Rethel"}
+186 = {"Rems" "Rems"}
+4390 = {"Tròias" "Tròias"}
+
+# Eastern Burgundy
+
+192 = {"Dijon" "Dijon"}
+193 = {"Franca Comtat" "Besançon"}
+4764 = {"Salins e los Banhs" "Salins"}
+
+# Gascony
+
+173 = {"Labord" "Baiona"}
+175 = {"Armanhac" "Aush"}
+176 = {"Biarn" "Pau"}
+4694 = {"Foish" "Foish"}
+
+# Guyenne
+
+174 = {"Bordèu" "Bordèu"}
+194 = {"Peiregòrd" "Peiregòrd"}
+198 = {"Roergue" "Rodés"}
+4112 = {"Carcin" "Caors"}
+
+# Ile-de-France
+
+182 = {"Valès" "Saishons"}
+183 = {"París" "París"}
+185 = {"Nemurs" "Nemurs"}
+4388 = {"Eure e Loir" "Chartras"}
+
+# Languedoc
+
+196 = {"Tolosa" "Tolosa"}
+200 = {"Montpelhièr" "Montpelhièr"}
+2753 = {"Narboneta" "Narboneta"}
+4391 = {"Vivarés" "Vivièrs"}
+4695 = {"Carcassona" "Carcassona"}
+
+# Loire Valley
+
+177 = {"Maine" "Lo Mans"}
+178 = {"Anjau" "Angieu"}
+4389 = {"Torena" "Tors"}
+
+# Lorraine
+
+187 = {"Barroés" "Bar lo Duc"}
+188 = {"Mètz" "Mètz"}
+189 = {"Lorena" "Nancí"}
+4766 = {"Verdun" "Verdun"}
+
+# Normandy
+
+167 = {"Can" "Roams"}
+168 = {"Caús" "Caús"}
+1879 = {"Alençon" "Alençon"}
+4385 = {"Cotentin" "Cherburgo"}
+
+# Orleanais
+
+179 = {"Barric" "Borgas"}
+184 = {"Orleans" "Orleans"}
+4776 = {"Loir e Char" "Bles"}
+
+# Picardie
+
+87 = {"Calais" "Calais"}
+88 = {"Artés" "Athrades"}
+89 = {"Picardia" "Amians"}
+1743 = {"Cambrai" "Cambrai"}
+
+# Poitou
+
+180 = {"Naut Peitiau" "Peiteus"}
+411 = {"Sentonge" "Sentas"}
+4386 = {"Bas Peitiau" "Luçon"}
+4387 = {"Engolmés" "Engoleime"}
+
+# Provence
+
+201 = {"Marselha" "Marselha"}
+202 = {"Avinhon" "Avinhon"}
+2991 = {"Forcauquier" "Forcauquier"}
+4696 = {"Tolon" "Tolon"}
+
+# Savoy
+
+203 = {"Lion" "Lion"}
+204 = {"Dalfinat" "Graçanòbol"}
+205 = {"Savòia" "Chamberí"}
+4719 = {"Bressa" "Borg de Bressa"}
+
+# Western Burgundy
+
+191 = {"Nivernés" "Nivèrns"}
+1877 = {"Charolés" "Charolés"}
+4392 = {"Aussèrra" "Semur"}

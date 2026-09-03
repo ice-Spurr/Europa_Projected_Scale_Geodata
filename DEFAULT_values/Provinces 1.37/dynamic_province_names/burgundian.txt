@@ -1,0 +1,184 @@
+## FRANCE
+
+# Auvergne
+
+190 = {"Borbonês" "Molins"}
+195 = {"Lymosin" "Limojo"}
+199 = {"Ârvèrgne" "Cllârmont"}
+4697 = {"Mârsha" "Guéret"}
+4777 = {"Forês" "Montbréson"}
+
+# Brittany
+
+169 = {"Armor" "Sant-Brioc"}
+170 = {"Finistèro" "Brest"}
+171 = {"Vannês" "Vana"}
+172 = {"Nantês" "Nantes"}
+4384 = {"Rènes" "Rènes"}
+
+# Champagne
+ 
+181 = {"Ardêne" "Rethel"}
+186 = {"Rems" "Rems"}
+4390 = {"Champaine" "Troys"} ## province name is from the 12th century
+
+# Eastern Burgundy
+
+192 = {"Divionês" "Divione"}
+193 = {"Franche-Comtât" "Besençon"}
+4764 = {"Sâlins" "Sâlins"}
+
+# Gascony
+
+173 = {"Labôrd" "Bayône"}
+175 = {"Armanhac" "Auch"}
+176 = {"Bèarn" "Pô"}
+4694 = {"Fouès" "Fouès"}
+
+# Guyenne
+
+174 = {"Bordôx" "Bordôx"}
+194 = {"Pétrigord" "Bergerac"}
+198 = {"Rouerga" "Rodez"}
+4112 = {"Quèrci" "Caortz"}
+
+# Île-de-France
+
+182 = {"Valouès" "Soissons"}
+183 = {"Paris" "Paris"}
+185 = {"Nemou" "Nemou"}
+4388 = {"Chartra" "Chartres"}
+
+# Languedoc
+
+196 = {"Toulousa" "Toulousa"}
+200 = {"Montpelyér" "Montpelyér"}
+2753 = {"Narbona" "Narbona"}
+4391 = {"Viviérs" "Viviérs"}
+4695 = {"Carcassiona" "Carcassiona"}
+
+# Loire Valley
+
+177 = {"Mêna" "Lo Mans"}
+178 = {"Angou" "Angers"}
+4389 = {"Tourêna" "Tours"}
+
+# Lorraine
+
+187 = {"Barrois" "Bar-lo-Duc"}
+188 = {"Mes" "Metz"}
+189 = {"Lorrêna" "Nancy"}
+4766 = {"Verden" "Verdun-sur-Meuse"}
+
+# Normandy
+
+167 = {"Côs" "Rouan"}
+168 = {"Caën" "Caen"}
+1879 = {"Alencione" "Alencione"}
+4385 = {"Contantin" "Cherbôrg"}
+
+# Orléanais
+
+179 = {"Bèrri" "Bourjo"}
+184 = {"Orlèans" "Orlèans"}
+4776 = {"Blouè" "Blouè"}
+
+# Picardy
+
+87 = {"Calê" "Calê"}
+88 = {"Atrebât" "Arras"}
+89 = {"Pecârdi" "Amians"}
+1743 = {"Cambrê" "Cambrê"}
+
+# Poitou
+
+180 = {"Ôt Pouètou" "Pouètiérs"}
+4111 = {"Saintês" "Saintes"}
+4386 = {"Bâs Pouètou" "Luçon"}
+4387 = {"Angoumois" "Angouléma"}
+
+# Provence
+
+201 = {"Èx" "Èx-en-Provence"}
+202 = {"Avignon" "Avignon"}
+2991 = {"Forcalquier" "Forcalquier"}
+4696 = {"Tolon" "Tolon"}
+
+# Savoy
+
+203 = {"Liyonês" "Liyon"}
+204 = {"Dôfenât" "Grenoblo"}
+205 = {"Chambèri" "Chambèri"}
+4719 = {"Brêsse" "Bôrg"}
+
+# Western Burgundy
+
+191 = {"N'ver" "N'ver"}
+1877 = {"Tsarolles" "Tsarolles"}
+4392 = {"Ausserois" "Ausserois"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Estrâbôrg" "Estrâbôrg"}
+1880 = {"Sundgô" "Àltkelch"}
+4765 = {"Milusa" "Milusa"}
+
+# Romandie
+
+165 = {"Bèrna" "Bèrna"}
+1867 = {"Vôd" "Losena"}
+1871 = {"Valês" "Sion"}
+4720 = {"Gènèva" "Gènèva"}
+4721 = {"Fribôrg" "Fribôrg"}
+
+# Switzerland
+
+166 = {"Schwytz" "Schwytz"}
+1869 = {"Tsurique" "Tsurique"}
+1870 = {"Sent-Gâl" "Sent-Gâl"}
+1873 = {"Couère" "Couère"}
+4722 = {"Iliande" "Iliande"}
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brûge" "Brûge"}
+1865 = {"Gând" "Gând"}
+4769 = {"Lila" "Lila"}
+
+# Frisia
+
+99 = {"Gueldre" "Gueldre"}
+100 = {"Frîze" "Leovârda"}
+1931 = {"Est Frîze" "Emde"}
+4381 = {"Outre-yssel" "Zwolle"}
+4382 = {"Groningue" "Groningue"}
+
+# Holland
+
+96 = {"Zéland" "Middelbourg"}
+97 = {"Amstèrdame" "Amstèrdame"}
+98 = {"Utrèct" "Utrèct"}
+4383 = {"L’Hage" "L’Hage"}
+
+# North Brabant
+
+95 = {"Bréda" "Bréda"}
+1742 = {"Ôt Gueldre" "Limbôrg"}
+4770 = {"Bois-le-Duc" "Bois-le-Duc"}
+
+# South Brabant
+
+92 = {"Brussèles" "Brussèles"}
+1744 = {"Anvêrs" "Anvêrs"}
+2974 = {"Looz" "Looz"}
+
+# Wallonia
+
+91 = {"Hainut" "Mont"}
+93 = {"Liége" "Liége"}
+94 = {"Lussembôrg" "Lussembôrg"}
+1866 = {"Namûr" "Namûr"}

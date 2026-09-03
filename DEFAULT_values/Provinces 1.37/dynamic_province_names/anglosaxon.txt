@@ -1,0 +1,207 @@
+### EUROPE
+
+## BRITAIN
+
+# Connacht
+
+375 = "Wærferth" # Limerick
+376 = "Fyrngield" # Connaught
+4119 = "Wistflod" # Sligo
+
+# East Anglia
+
+238 = "Hwitwuda" # Essex
+1860 = "Wudufen" # Norfolk
+4370 = "Beornford" # Bedfordshire
+
+# East Midlands
+
+243 = "Lindisfar" # Lincolnshire
+1861 = "Derbysæt" # Derby
+4376 = "Leicesterscir" # Leicester
+
+# Highlands
+
+250 = "Frithgar" # Perth
+252 = "Eorlisdun" # Inverness
+369 = "Ceasterleah" # Orkney
+4110 = "Eoforhaim" # Sutherland
+4363 = "Eargyll" # Argyll
+
+# Leinster
+
+373 = "Eoforwic" # Pale
+374 = "Wintanceaster" # Leinster
+4120 = "Whicce" # Kildare
+4379 = "Ligorna" # Midlands
+
+# London
+
+235 = "Hwitland" # Kent
+236 = "Ludenwic" # London
+237 = "Oxenaford" # Oxford
+4371 = "Seaxum" # Sussex
+
+# Lowlands
+
+248 = "Wicgar" # Lothian
+249 = "Wulfden" # Ayrshire
+251 = "Scylfing" # Aberdeen
+4361 = "Mearcfeld" # Roxburgshire
+4362 = "Heathwulf" # Dumfries
+
+# Munster
+
+4118 = "Scealc" # Cork
+4377 = "Wærstræt" # Ormond
+4378 = "Hæglond" # Desmond
+
+# Northern England
+
+244 = "Wuduforst" # Lancashire
+246 = "Fennland" # Northumberland
+247 = "Grimere" # Cumbria
+4375 = "Ceaster" # Chester
+
+# The Isles
+
+253 = "Saelan" # Outer Hebrides
+4364 = "Innan" # Inner Hebrides
+4365 = "Beorn" # Mann
+
+# Ulster
+
+372 = "Beowulf" # Tyrone
+4121 = "Hengist" # Ulster
+4380 = "Dríge" # Donegal
+
+# Wales
+
+241 = "Wígleáf" # Glamorgan
+242 = "Rícwæld" # Gwynedd
+4366 = "Hrunting" # Montgomery
+4369 = "Fenris" # Carmarthen
+
+# Wessex
+
+233 = "Wælcyrge" # Cornwall
+234 = "Werme" # Hampshire
+4130 = "Weald" # Somerset
+4373 = "Suth" # Devon
+4374 = "Dornstan" # Dorset
+
+# West Midlands
+
+239 = "Glastir" # Gloucester
+240 = "Scrwesbyrig" # Shrewsbury
+4372 = "Cybeburg" # Coventry
+
+# Yorkshire
+
+245 = "Eoferwulf" # York
+4367 = "Holhurn" # Hull
+4368 = "Wicbyrne" # Scarborough
+4785 = "Hælum" # Sheffield
+
+
+## NORTH AMERICA
+
+## CANADA
+
+# Cote Nord
+996 = "Wintertarn"
+2576 = "Fælingard"
+2577 = "Eotheburg"
+2578 = "Ashenholm"
+2579 = "Thunorsby"
+
+# Greenland
+
+1104 = "Hrimgarthr"
+1105 = "Ískyn"
+
+# Huronia
+
+988 = "Wydholm"
+989 = "Hæfenwulf"
+2585 = "Eoforhild"
+2670 = "Hránby"
+
+# Labrador
+
+997 = "Hwitelund"
+2574 = "Æthelmere"
+2575 = "Winthrith"
+
+# Laurentia
+
+992 = "Wulfham"
+2581 = "Eadwinstow"
+4894 = "Æthelburg"
+
+# Lower Acadia
+
+982 = "Beornham"
+984 = "Wælstow"
+2568 = "Æscwudu"
+2569 = "Isenbyrig"
+4891 = "Hreodford"
+
+# Lower Canada
+
+993 = "Hæethwic"
+2584 = "Wudgripa"
+4895 = "Feldburna"
+
+# Newfoundland
+
+980 = "Hrothwic"
+981 = "Æscwara"
+2573 = "Wæstmere"
+
+# Ottawa Valley
+
+4890 = "Wulfricstow"
+4892 = "Aldenwic"
+4897 = "Hæthelholm"
+
+# Québec
+
+986 = "Fæstanwudu"
+994 = "Brynstow"
+995 = "Hæthelsceat"
+2582 = "Hrothburg"
+2583 = "Eadwigstun"
+
+# St John's Valley
+
+2570 = "Wulfherestun"
+2571 = "Ælfwaldham"
+4896 = "Beornwic"
+
+# Trois-Rivieres
+
+990 = "Hildenhall"
+2012 = "Thunorford"
+2580 = "Ashenby"
+4893 = "Winfridham"
+
+# Upper Acadia
+
+983 = "Wælwudu"
+985 = "Æthelburna"
+2572 = "Eormenscyr"
+
+# Upper Canada
+
+987 = "Cynewulfham"
+2586 = "Eoforwicceaster"
+2587 = "Winfridford"
+
+# Upper Ontario
+
+991 = "Æthelburghtun"
+1001 = "Hrothgardstead"
+1007 = "Cynricton"
+2015 = "Wælwulfbyrig"
+2671 = "Æthelgifuthorp"

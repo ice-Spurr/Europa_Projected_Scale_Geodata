@@ -1,0 +1,1814 @@
+### EUROPEAN REGIONS
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = "Holmestrande"
+4122 = "Skovkær"
+4256 = "Solvikegod"
+4257 = "Mæsund"
+
+# Beloozero
+
+312 = "Hvidsø"
+4259 = "Velsted"
+4261 = "Østby"
+
+# Moscow
+
+295 = "Mosborg"
+4251 = "Mossted"
+4252 = "Kolostad"
+
+# North Karelia
+
+32 = "Hasselborg"
+309 = "Olonæs"
+4124 = "Karelen"
+
+# Novgorod
+
+310 = "Nyborg"
+311 = "Hulm"
+1959 = "Torgborg"
+2749 = "Tikhvind"
+4260 = "Væshøj Volok"
+
+# Oka
+
+296 = "Kalborg"
+300 = "Tylov"
+4116 = "Okeby"
+
+# Pomorye
+
+313 = "Sorogård"
+1776 = "Hvidkarelmark"
+1958 = "Kærgård"
+4258 = "Onegård"
+
+# Pskov
+
+274 = "Pskovborg"
+275 = "Polock"
+1960 = "Østerholm"
+4148 = "Løgby"
+
+# Ryazan
+
+301 = "Rye"
+1778 = "Kasimov"
+4255 = "Pronsby"
+
+# South Karelia
+
+30 = "Viborg"
+33 = "Nævafjord"
+34 = "Ingermanland"
+1961 = "Ladoga"
+
+# Suzdal
+
+1754 = "Murov"
+1956 = "Søsdal"
+4254 = "Stjernedub"
+
+# Tambov
+
+302 = "Tåmborg"
+304 = "Pense"
+2415 = "Etkara"
+
+# Tver
+
+294 = "Tver"
+1752 = "Ræv"
+4243 = "Tårp"
+4248 = "Kæsby"
+4249 = "Zubtsov"
+
+# Vladimir
+
+307 = "Vladborg"
+4147 = "Rostov"
+4253 = "Jurby"
+
+# Vologda
+
+314 = "Voldgård"
+4262 = "Tottma"
+4263 = "Sol Galitsby"
+
+# Yaroslavl
+
+308 = "Jarlsborg"
+1753 = "Kostroma"
+4117 = "Beztø"
+4250 = "Mølø"
+
+## BRITAIN
+
+# Connaught
+
+375 = {"Limrik" "Limrik"}
+376 = {"Konnakt" "Gallevej"}
+4119 = {"Sligå" "Sligå"}
+
+# East Anglia
+
+238 = {"Østseks" "Kælmærsfjord"}
+1860 = {"Nordfolke" "Nordvik"}
+4370 = {"Bedefjordshær" "Grantebro"}
+
+# East Midlands
+
+243 = {"Lindkolnshær" "Lindkoln"}
+1861 = {"Dyrbø" "Dyrbø"}
+4376 = {"Ligster" "Ligster"}
+
+# Highlands
+
+250 = {"Peirt" "Peirt"}
+252 = {"Indnæs" "Indnæs"} # or Indernæs
+369 = {"Ørkenøerne" "Kirkevå"}
+4110 = {"Sydland" "Dornok"}
+4363 = {"Arghæl" "Lokåv"}
+
+# Leinster
+
+373 = {"Pål" "Dyblind"}
+374 = {"Lejnstad" "Vejsfjord"}
+4120 = {"Kildara" "Nås"}
+4379 = {"Midtland" "Anlø"}
+
+# London
+
+235 = {"Kent" "Kantwærborg"}
+236 = {"Lunden" "Lunden"}
+237 = {"Oksfjord" "Oksfjord"}
+4371 = {"Søsseks" "Hæsting"}
+
+# Lowlands
+
+248 = {"Ludun" "Ejdanborg"}
+249 = {"Ersjær" "Ers"}
+251 = {"Abærden" "Abærden"}
+4361 = {"Roksborgshær" "Jedbørg"}
+4362 = {"Dumfris" "Dumfris"}
+
+# Munster
+
+4118 = {"Kork" "Kork"}
+4377 = {"Ormon" "Lætirken"}
+4378 = {"Desmun" "Kilarn"}
+
+# Northern England
+
+244 = {"Lånkeshær" "Lankekø"}
+246 = {"Nordymbraland" "Nytborg"}
+247 = {"Kumbraland" "Karlesø"}
+4375 = {"Kester" "Kester"}
+
+# The Isles
+
+253 = {"Ydre Hebrider" "Stjernavå"}
+4364 = {"Indre Hebrider" "Sky"}
+4365 = {"Øen Manø" "Slotby"}
+
+# Ulster
+
+372 = {"Tyrøn" "Dugån"}
+4121 = {"Uladstir" "Karlsfjord"}
+4380 = {"Dunagal" "Dunagal"}
+
+# Wales
+
+241 = {"Glømmern" "Svendø"}
+242 = {"Gvined" "Karnarfon"}
+4366 = {"Povis" "Gomrig"} # Powys?
+4369 = {"Karfirdin" "Karfirdin"}
+
+# Wessex
+
+233 = {"Kornval" "Pernrin"}
+234 = {"Hamtunskir" "Sorborg"}
+4373 = {"Defen" "Plymun"}
+4130 = {"Sumersæt" "Bathan"}
+4374 = {"Dornvarc" "Vejmund"}
+
+# West Midlands
+
+239 = {"Gloster" "Bryggestø"}
+240 = {"Skrobesborg" "Skrobesborg"}
+4372 = {"Køtrige" "Køtrige"} # or Køntrige
+
+# Yorkshire
+
+245 = {"Jórvík" "Jórvík"}
+4367 = {"Hull" "Hull"}
+4368 = {"Skarborg" "Skarborg"}
+4785 = {"Skjoldbjerg" "Skjoldbjerg"}
+
+## BALTICS
+
+# Curonia
+
+35 = {"Øsel" "Arnsborg"}
+39 = {"Gulding" "Gulding"}
+1935 = {"Mitau" "Mitau"}
+
+# East Prussia
+
+40 = {"Mimel" "Mimel"}
+41 = {"Kongensbjerg" "Kongensbjerg"}
+42 = {"Ermeland" "Allesten"}
+767 = {"Ortelsborg" "Ortelsborg"}
+2958 = {"Østerod" "Østerod"}
+
+# Estonia
+
+36 = {"Lyndanisse" "Lyndanisse"}
+1834 = {"Dorpat" "Dorpat"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livland" "Felin"}
+38 = {"Riga" "Riga"}
+273 = {"Letgallen" "Dønaborg"}
+4241 = {"Venden" "Venden"}
+
+# West Prussia
+
+43 = {"Dansig" "Dansig"}
+1841 = {"Marienborg" "Marienborg"}
+2997 = {"Tugel" "Tugel"}
+
+### NORTH AMERICA
+
+## CALIFORNIA
+
+# ALTA CALIFORNIA
+
+868 = "Kæmpe" 
+869 = "Fyrrodde" 
+2021 = "Helsingbakke" 
+2476 = "Ramstedt" 
+4637 = "Fredericia" 
+
+# APACHERIA
+
+879 = "Treveje" 
+2492 = "Rødsten" 
+4634 = "Sviksland" 
+
+# ARIZONA
+
+867 = "Røde Søjler" 
+876 = "Fønix" 
+877 = "Nyborg" 
+2491 = "Engørken" 
+4633 = "Degerby" 
+
+# BAJA CALIFORNIA
+
+865 = "Skarhuld" 
+866 = "Svenstorp" 
+2620 = "Ny Hjemkirke" 
+4639 = "Citronlund" 
+
+# CENTRAL VALLEY
+
+870 = "Kongensflod" 
+2478 = "Nørtorp" 
+4635 = "Ny Ejby" 
+4636 = "Karlebo" 
+
+# COLORADO PLATEU
+
+875 = "Sankt Kristoffer" 
+878 = "Hvidsten" 
+2493 = "Flagstang" 
+2494 = "Birkerød" 
+
+# NEW MEXICO
+
+880 = "Thyborøn" 
+881 = "Fort av Månen" 
+2495 = "Roepstorff" 
+4631 = "Leofdagskirke" 
+4632 = "Nibe" 
+
+# NORTH CALIFORNIA
+
+871 = "Ensteg" 
+2477 = "Tegnerby" 
+2479 = "Ny-Hørning" 
+2480 = "Sponneckby" 
+4638 = "Nørre" 
+
+# SONORA
+
+862 = "Kirke Hvakso" 
+2616 = "Andræsland" 
+4577 = "Christiansborg" 
+4649 = "Fuglsby" 
+4650 = "Ny Malmø" 
+
+## CANADA
+
+# COTE NORD
+
+996 = "Skrælingjarland" 
+2576 = "Grenaavik" 
+2577 = "Syvøer" 
+2578 = "Frischlant" 
+2579 = "Dyrehave" 
+
+# GREENLAND
+
+1104 = "Eiriksfjord" 
+1105 = "Vestbygden" 
+
+# HURONIA
+
+988 = "Ny Rødding" 
+989 = "Oxholm" 
+2585 = "Højriis" 
+2670 = "Skive" 
+
+# LABRADOR
+
+997 = "Markland" 
+2574 = "Helleland" 
+2575 = "Erikssonbugt" 
+
+# LAURENTIA
+
+992 = "Petersdorff" 
+2581 = "Frijsenborg" 
+4894 = "Lemvig" 
+
+# LOWER ACADIA
+
+982 = "Hedehusene" 
+984 = "Neergaard" 
+2568 = "Dronningmølle" 
+2569 = "Egelund" 
+4891 = "Tolbøl" 
+
+# LOWER CANADA
+
+993 = "Kongeligebjerg" 
+2584 = "Gavnøslot" 
+4895 = "Fjaltring" 
+
+# NEWFOUNDLAND
+
+980 = "Vínland" 
+981 = "Michaelkaap" 
+2573 = "Stokkerup" 
+
+# OTTAWA VALLEY
+
+4890 = "Lyngby" 
+4892 = "Vestervig" 
+4897 = "Lystbæk" 
+
+# QUEBEC
+
+986 = "Ny Løsning" 
+994 = "Plessen" 
+995 = "Pogwisch" 
+2582 = "Harridsby" 
+2583 = "Pandrup" 
+
+# ST. JOHN'S VALLEY
+
+2570 = "Ny Hammershus" 
+2571 = "Jægersborg" 
+4896 = "Herredstoft" 
+
+# TROIS_RIVIERES
+
+990 = "Tre Floder" 
+2012 = "Ostensk" 
+2580 = "Eremitby" 
+2580 = "Eremitby" 
+
+# UPPER ACADIA
+
+983 = "Odderby" 
+985 = "Østergaard" 
+2572 = "Straumfjörd" 
+
+# UPPER CANADA
+
+987 = "Niagara" 
+2586 = "Avernæs" 
+2587 = "Gisselfeld" 
+
+# UPPER ONTARIO
+
+991 = "Haslev" 
+1001 = "Ny Struer" 
+1007 = "Tordenbugt" 
+2015 = "Rabenby" 
+2671 = "Rønde" 
+
+## CARIBBEANS
+
+# DOMINICA
+
+490 = "Hvalsø " 
+2658 = "Absalon" 
+2659 = "Sølvby" 
+4620 = "Struer" 
+4621 = "Femø" 
+
+# EAST CUBA
+
+486 = "Bundstrøm" 
+2654 = "Honningbugt" 
+2655 = "Østkirke" 
+2656 = "Kongens Have" 
+
+# GREATER ANTILLES
+
+481 = "Funning" 
+487 = "Tainøen" 
+491 = "Hjerte" 
+492 = "Ull" 
+
+# HAITI
+
+488 = "Grímurbugt" 
+489 = "Skildpadde Amt" 
+4618 = "Prinsenshavn" 
+4619 = "Grenen" 
+
+# LEEWARD ISLANDS
+
+493 = "Tyr" 
+494 = "Thor" 
+495 = "Sif" 
+496 = "Odin" 
+1881 = "Vidar" 
+
+# LUCAYAN ARCHIPELAGO
+
+482 = "Gryfhavn" 
+483 = "Tyrkiske Øer" 
+
+# WEST CUBA
+
+484 = "Havneby" 
+485 = "Bjørnfæstning" 
+4622 = "Malmø" 
+4623 = "Samsøby" 
+4624 = "Flodenfyrretræet" 
+
+# WINDWARD ISLANDS
+
+497 = "Loke" 
+498 = "Idun" 
+499 = "Høder" 
+500 = "Hejmdal" 
+501 = "Frigg " 
+
+## CASCADIA
+
+# ALASKA PANHANDLE
+
+976 = "Kronprins Ø" 
+977 = "Reedtzbjerg" 
+2613 = "Horsens" 
+
+# COLUMBIA RIVER
+
+873 = "Aalelev" 
+2486 = "Skovklædtebjerge" 
+2487 = "Stibolt" 
+2488 = "Stiernholm" 
+
+# HECATE STRAIT
+
+975 = "Kongens Ø" 
+2022 = "Eskilsøen" 
+2609 = "Prins Christian" 
+
+# INTERIOR PLATEAU
+
+2003 = "Zeuthen" 
+2604 = "Bernstorff" 
+2605 = "Hielmstierne" 
+2606 = "Svenskaborg" 
+2607 = "Sommerland" 
+
+# OREGON
+
+872 = "Karlshavn" 
+2481 = "Englænderhalvøen" 
+2482 = "Flønghavn" 
+2483 = "Asnæs" 
+
+# PUGET SOUND
+
+874 = "Glücksbierg " 
+2484 = "Carlsberg" 
+2485 = "Olympia" 
+
+# SNAKE RIVER
+
+2019 = "Ny Farum" 
+2020 = "Slangeflod" 
+2489 = "Solrød" 
+2490 = "Saltsø" 
+2506 = "Juelby" 
+
+# STRAITS OF GEORGIA
+
+972 = "Fløng" 
+973 = "Ølgod" 
+974 = "Ekkofjord" 
+2610 = "Grevenhule" 
+
+# WESTERN ALASKA
+
+978 = "Anker" 
+979 = "Aleuterne" 
+2611 = "Ny Egeskov" 
+2612 = "Havnevik" 
+
+## CENTRAL AMERICA
+
+# CAMPECHE
+
+845 = "Lindholm" 
+2632 = "Lykkehavn" 
+2650 = "Karmelfort" 
+
+# CHIAPAS
+
+2635 = "Tyskkirke" 
+2638 = "Kjerby" 
+2649 = "Østervik" 
+4585 = "Svanefort" 
+4586 = "Sejr" 
+
+# COSTA RICA
+
+836 = "Sankt Josef" 
+2663 = "Ny Fløng" 
+4597 = "Horslunde" 
+
+# EAST YUCATAN
+
+2634 = "Ipsendal" 
+2652 = "Nordhavn" 
+4588 = "Fjends" 
+4591 = "Lunersøre" 
+
+# GUATEMALA
+
+839 = "Perssonby" 
+841 = "Grønneskove" 
+2653 = "Boberg" 
+4587 = "Grenaaby" 
+
+# GUATEMALA LOWLANDS
+
+842 = "Ny Holbæk" 
+843 = "Ny Svenstorp" 
+2636 = "Minernebakker" 
+4589 = "Hjemkirke" 
+4594 = "Blomsthav" 
+
+# HONDURAS
+
+840 = "Lavbugt" 
+2637 = "Midtdjurs" 
+2640 = "Trige" 
+2662 = "Dannemølle" 
+4593 = "Ny Brønderslev" 
+
+# NICARAGUA
+
+837 = "Stjernefelt" 
+838 = "Blåfelt" 
+2660 = "Ny Slagelse" 
+2661 = "Ringkobing" 
+4592 = "Nakskov" 
+
+# WEST YUCATAN
+
+846 = "Spabad" 
+2633 = "Fuglsang" 
+2651 = "Kungenssalt" 
+4590 = "Store Forbund" 
+
+## COLOMBIA
+
+# PANAMA
+
+835 = "Sommerfugl" 
+2664 = "Hammershøi" 
+2819 = "Forbundby" 
+4595 = "Maribo" 
+
+## GREAT LAKES
+
+# ILLINOIS
+
+915 = "Egede" 
+916 = "Rødding" 
+917 = "Valdeskog" 
+4903 = "Nymindegab" 
+
+# INDIANA
+
+942 = "Blåspringvand" 
+943 = "Dannemand" 
+2523 = "Høje Jord" 
+2524 = "Venskab" 
+4922 = "Skovengene" 
+
+# LAKE SUPERIOR
+
+910 = "Hurup" 
+911 = "Øvre Halvø" 
+2517 = "Rønneby" 
+2518 = "Skandia" 
+4898 = "Bøndergårde" 
+
+# MICHIGAN
+
+944 = "Samsø" 
+945 = "Daaby" 
+2521 = "Stuer" 
+2522 = "Store Strømfald" 
+
+# OHIO
+
+946 = "Svanenhielm" 
+947 = "Klovland" 
+948 = "Foghby" 
+2525 = "Nakskovia" 
+4907 = "Skovbølling" 
+
+# SOUTHERN ILLINOIS
+
+2519 = "Späthsted" 
+2520 = "Løsning" 
+4904 = "Lønnestak" 
+
+# WISCONSIN
+
+912 = "Rentvand" 
+913 = "Prærien af Hunde" 
+914 = "Ansgarvik" 
+4899 = "Årgab" 
+
+## GREAT PLAINS
+
+# BADLANDS
+
+1809 = "Schackenborg" 
+2504 = "Strøby" 
+2505 = "Nykirke" 
+
+# Central Plains
+
+901 = "Kjeldskirke" 
+903 = "Ny Viborg" 
+2009 = "Rosenvingeborg" 
+2508 = "Muckadell" 
+4915 = "Hedegård" 
+
+# HIGH PLAINS
+
+889 = "Magnhildskirke" 
+2507 = "Ny Grenaa" 
+2625 = "Eggeslevmagle" 
+
+# IOWA
+
+905 = "Elsinore" 
+2513 = "Ringsted" 
+4900 = "Haurvig" 
+4905 = "Blåvand" 
+
+# KANSAS
+890 = "Valhal" 
+898 = "Lillesten" 
+2672 = "Christiansby" 
+4914 = "Hjortsvang" 
+
+# MINNESOTA
+
+904 = "Padborg" 
+908 = "Tyvflod" 
+2512 = "Ikast" 
+4901 = "Bjerregård" 
+
+# NORTH DAKOTA
+
+906 = "Ny Tørring" 
+909 = "Kapel" 
+2510 = "Prinzfort" 
+4918 = "Spøttrup" 
+
+# SOUTH DAKOTA
+
+907 = "Nysted" 
+2007 = "Løvenfeldt" 
+2008 = "Ingeborg" 
+4916 = "Nørreholm" 
+
+# SOUTHERN PLAINS
+
+891 = "Vestbjerg" 
+892 = "Stege" 
+896 = "Aalestrup" 
+4908 = "Tyrstrup" 
+
+# UPPER MISSOURI
+
+2006 = "Stenløse" 
+2501 = "Aarsballe" 
+2502 = "Danicum" 
+2503 = "Stavekirke" 
+4917 = "Alstrup" 
+
+## HUDSON BAY
+
+# ABITIBI
+
+1002 = "Ræderby" 
+2588 = "Klokkebjerge" 
+2589 = "Gråstenflod" 
+2590 = "Røgfyldte Vandfald" 
+2591 = "Sommerbæver" 
+
+# ALBERTA
+
+2004 = "Kråkens Nesedal" 
+2017 = "Sankt Anna" 
+2018 = "Aaby" 
+2602 = "Rød Hjort" 
+
+# ASSINIBOIA
+
+2005 = "Sperlingby" 
+2596 = "Slotby" 
+2598 = "Skanderby" 
+4920 = "Røgind"
+
+# ATHABASCA
+
+2599 = "Ny Gamleborg " 
+2600 = "Fredflod" 
+2601 = "Lavere Sø" 
+2603 = "Larvard" 
+
+# HUDSON BAY
+
+1005 = "Bjæverskov" 
+1006 = "Danskflod" 
+1009 = "Købing" 
+2592 = "Holbæk" 
+2594 = "Sø Amt" 
+
+# JAMES BAY
+
+998 = "Lystrup" 
+999 = "Ny Søften" 
+1000 = "Rosenørn" 
+1003 = "Skeelenby" 
+1004 = "Nye Bjarmaland" 
+
+# MANITOBA
+
+1008 = "Jyllinge" 
+1010 = "Sankt Klemens" 
+1011 = "Grindsted" 
+2593 = "Sø i Skoven" 
+4919 = "Brunbjerg"
+
+# RED RIVER OF THE NORTH
+
+2016 = "Storgaffel" 
+2511 = "Djævelens Sø" 
+4902 = "Hvingelby"
+
+# SASKATCHEWAN
+
+1813 = "Schulin" 
+2595 = "Klarsø" 
+2597 = "Enenborg" 
+
+## MEXICO
+
+#DURANGO
+
+860 = "Købmandby" 
+4646 = "Broager" 
+4647 = "Ny Måbjerg" 
+4648 = "Bordingby" 
+
+# GRAN CHICHIMECA
+
+857 = "Sankt Ludvig" 
+2642 = "Spangsfeldt" 
+4642 = "Otterup" 
+
+# GUANAJUATO
+
+853 = "Osbyholm" 
+2615 = "Undallby" 
+4640 = "Støvede Bakker" 
+4641 = "Køgeby" 
+
+# GUERRERO
+
+2627 = "Brundlund" 
+2645 = "Ny Helsingør" 
+2648 = "Stort Kors" 
+
+# HUASTECA
+
+848 = "Kaninhavn" 
+2641 = "Pilmark" 
+4598 = "Ny Børkop" 
+
+# JALISCO
+
+854 = "Kongensby" 
+2617 = "Gudhjem" 
+2621 = "Støvring" 
+2657 = "Brøndby" 
+4576 = "Ny-Glostrup" 
+
+# MEXICO
+
+852 = "Meksiko" 
+2626 = "Grunwald" 
+4570 = "Ramsø" 
+4571 = "Ny Fredericia" 
+4572 = "Egtved" 
+
+# MICHOAVAN
+
+2622 = "Waldau" 
+2623 = "Varmjord" 
+2624 = "Ny Roskilde" 
+4573 = "Brovstkirke" 
+4574 = "Rønne" 
+
+# MIXTECA
+
+847 = "Ærø" 
+849 = "Soldats Koloni" 
+2646 = "Byland" 
+4581 = "Gedved" 
+
+# NAYARIT
+
+855 = "Hundflod" 
+859 = "Råbelöv" 
+4578 = "Purhus" 
+
+# Oaxaca
+
+844 = "Elverhøj" 
+2629 = "Postenby" 
+4584 = "Kvindelejren" 
+
+# PUEBLA
+
+850 = "Guldborg" 
+2628 = "Ridderstad" 
+2644 = "Kjærholm" 
+4582 = "Ny Nakskov" 
+4583 = "Tønderby" 
+
+# TIERRA CALIENTE
+
+851 = "Dannebrog" 
+2643 = "Søllested" 
+4575 = "Brøndsted" 
+4579 = "Humble" 
+4580 = "Palmested" 
+
+# VERACRUZ
+
+2630 = "Skagen" 
+2631 = "Blochby" 
+2647 = "Vejkryds" 
+
+# ZACATECAS
+
+856 = "Månstorp" 
+4643 = "Ørbæk" 
+4645 = "Boyamt" 
+
+## MISSISSIPPI
+
+# ALABAMA
+
+924 = "Stockfleth" 
+925 = "Skanør" 
+2531 = "Jagtby" 
+2532 = "Ny Stockfleth" 
+4883 = "Ryomgård" 
+
+# ARKANSAS
+
+894 = "Mårslet" 
+895 = "Ullerslev" 
+897 = "Storflod" 
+4885 = "Kratbanke"
+4923 = "Valsgård" 
+
+# KENTUCKY
+
+941 = "Saltlejligheder" 
+2526 = "Undall" 
+4888 = "Klitmøller" 
+
+# LOUISIANA
+
+893 = "Ny-Ålborg" 
+2014 = "Skørping" 
+2516 = "Frederiksværk" 
+
+# MISSISSIPPI
+
+919 = "Sankt Olav" 
+920 = "Rudkøbing" 
+2528 = "Koldtvand" 
+2529 = "Hedensted" 
+4884 = "Frøstrup" 
+
+# OZARKS
+
+899 = "Odense" 
+2509 = "Stampeby" 
+2515 = "Sehested" 
+4886 = "Vesløs" 
+
+# TENNESSEE
+
+918 = "Svejbæk" 
+934 = "Nythjem" 
+939 = "Auning" 
+4913 = "Stakroge"
+
+# UPPER LOUISIANA
+
+900 = "Sankt-Ludvig" 
+902 = "Ørnby" 
+2514 = "Dragørløse" 
+4906 = "Simmersted" 
+
+# VANDALIA
+
+951 = "Sabro" 
+2551 = "Wichfeld" 
+4889 = "Vangså" 
+
+# WESTERN KENTUCKY
+
+940 = "Ludviksby" 
+4887 = "Hovsør" 
+4921 = "Halvrimmen" 
+
+# WEST FLORIDA
+
+921 = "Haraldsby" 
+922 = "Charlottenborg" 
+923 = "Kendtensburg" 
+2530 = "Tillischhavn" 
+2533 = "Brønderslev" 
+
+## NORTHEAST
+
+# ALLEGHENIES
+
+954 = "Ny Tengnagel" 
+2555 = "Borgeby" 
+4875 = "Drøsselbjerg" 
+
+# CONNECTICUT
+
+967 = "Juelsminde" 
+2010 = "Flodkolomi" 
+2560 = "Nyehavn" 
+
+# DELAWARE VALLEY
+
+956 = "Borgmesterby" 
+957 = "Ganløse" 
+962 = "Henrikyst" 
+2023 = "Smørumdal" 
+
+# EASTERN MAINE
+
+971 = "Nyheim" 
+2566 = "Amalienborg" 
+2567 = "Hagenskov" 
+
+# HUDSON VALLEY
+
+961 = "Trigamt" 
+963 = "Lindencrone" 
+964 = "Hedemannby" 
+2559 = "Tørring" 
+4912 = "Frydenborg" 
+
+# IRIQUOISIA
+
+958 = "Roskilde" 
+959 = "Gyldenfeldt" 
+960 = "Høeg" 
+4872 = "Tranderup" 
+
+# LAKE CHAMPLAIN
+
+969 = "Præstøborg" 
+2563 = "Grønnebakker" 
+4871 = "Båslunde" 
+
+# MAINE
+
+2013 = "Simmershavn" 
+2565 = "Egeløkke" 
+4873 = "Halsskov" 
+
+# MARYLAND
+
+953 = "Æbelholt" 
+2553 = "Rosenvinge" 
+2554 = "Bollerby" 
+
+# MASSACHUSETTS
+
+966 = "Jermiinby" 
+968 = "Løvenkap" 
+2561 = "Dronningby" 
+4874 = "Kelstrup" 
+
+# NEW HAMPSHIRE
+
+970 = "Der Maase Amt" 
+2562 = "Kalundborg" 
+2564 = "Hvidebjerge" 
+
+# NEW YORK
+
+965 = { "Ny Odense" "Ny Odense" }
+2558 = "Ny Clausholm" 
+2639 = "Melsingslot" 
+
+# WESTYLVANIA
+
+955 = "Fønss" 
+2556 = "Svenskedal" 
+2557 = "Charlottenlund" 
+4876 = "Jorløse" 
+
+## RIO GRANDE
+
+# CHIHUAHUA
+
+863 = "Thurø" 
+864 = "Ny Langå" 
+2618 = "Ribestein" 
+4644 = "Gramamt" 
+
+# COAHUILA
+
+861 = "Flodbøjning" 
+864 = "Ny Langå" 
+2666 = "Tvillingbyer" 
+2667 = "Nymølle" 
+4606 = "Blåbjerg" 
+
+# COASTAL PRARIE
+
+884 = "Ludvigstbugt" 
+888 = "Bugtby" 
+2665 = "Gråstenby" 
+2669 = "Langvisning" 
+
+# LLANO ESTACADO
+
+882 = "Hvidesande" 
+885 = "Hedeamt" 
+2496 = "Falsterby" 
+2497 = "Mellemland" 
+4630 = "Hashøj" 
+
+# PECOS
+
+2498 = "Store Nebel" 
+4628 = "Borrby" 
+4629 = "Rasmussby" 
+
+# TAMAULIPAS
+
+858 = "Bernerborg" 
+2499 = "Brændt Bjerg" 
+2614 = "Estridsby" 
+2668 = "Bollerfold" 
+
+# TEXAS
+
+883 = "Nielskilde" 
+887 = "Ny Hvalsø" 
+4627 = "Nazareth" 
+4911 = "Varmark" 
+
+# TEXAS PLAINS
+
+886 = "Blommigbakke" 
+2500 = "Slagelse" 
+4909 = "Grønninghoved" 
+4910 = "Sjølund" 
+
+## SOUTHEAST
+
+# EAST FLORIDA
+
+927 = "Høng" 
+928 = "Falsterbo" 
+2534 = "Friggerocken" 
+
+# FLORIDA
+
+926 = "Frejlev" 
+2535 = "Vordingborg" 
+2536 = "Flodlysning" 
+4625 = "Syddjurs" 
+4626 = "Rødovre" 
+
+# GEORGIA
+
+929 = "Asnæshavn" 
+2537 = "Schmettau" 
+2538 = "Troskaby" 
+2539 = "Wadenstierna" 
+4880 = "Østrup" 
+
+# GREAT VALLEY
+
+949 = "Falkenskiold" 
+2011 = "Kolderup" 
+2548 = "Nyflod" 
+2552 = "Helligt Hjerte" 
+
+# NORTH CAROLINA
+
+937 = "Gamlefort" 
+938 = "Nytland" 
+2546 = "Lillerød" 
+2547 = "Arresødal" 
+
+# OVERMOUNTAIN
+
+935 = "Karlsflod" 
+936 = "Overbjerget" 
+2527 = "Ny Odder" 
+4879 = "Årby" 
+
+# PIEDMONT PLATEAU
+
+2544 = "Heerland" 
+2545 = "Antvorskov" 
+4878 = "Værslev" 
+
+# SOUTH CAROLINA
+
+932 = "Karlsfæstning" 
+2542 = "Nivå" 
+2543 = "Langbugt" 
+
+# SOUTH CAROLINA PIEDMONT
+
+933 = "Katedralby" 
+2541 = "Nådeby" 
+4882 = "Hornsyld" 
+
+# UPPER GEORGIA
+
+930 = "Brejning" 
+931 = "Ferskentræ" 
+2540 = "Præstø" 
+4881 = "Ågerup" 
+
+# VIRGINIA
+
+950 = "Thøgersbukt" 
+952 = "Ysted" 
+2549 = "Ny Kalundborg" 
+2550 = "Søften" 
+4877 = "Ærtebjerg" 
+
+### SOUTH AMERICA
+
+## BRAZIL
+
+# AMAPA
+
+747 = "Æblerflod" 
+2935 = "Smalkalden" 
+2938 = "Vinderup" 
+
+# AMAZON
+
+2889 = "Faxe" 
+2930 = "Aarup" 
+2933 = "Allehelgen" 
+2934 = "Tårnby" 
+
+# BAHIA
+
+756 = "Alle Helgener" 
+757 = "Overamt" 
+760 = "Storbugt" 
+2914 = "Ny Skagen" 
+2916 = "Jorviksby" 
+
+# CEARA
+
+750 = "Sankt Jørgen" 
+751 = "Karlsevne" 
+753 = "Brahebakke" 
+
+# DIAMANTINA
+
+759 = "Diamantfort" 
+2891 = "Tyskby" 
+2898 = "Langå" 
+
+# GOIAS
+
+758 = "Hvidekirke" 
+2906 = "Lunderskov" 
+2907 = "Wendelsberg" 
+2908 = "Helsingør" 
+2919 = "Viskinge" 
+
+# GRAO PARA
+
+748 = "Betlehem" 
+2890 = "Ladeplads" 
+2928 = "Ny Vejle" 
+2929 = "Slutsten" 
+
+# GUAPORE
+
+2900 = "Rågetårn" 
+2901 = "Sindal" 
+2902 = "Høedal" 
+
+# GUAYRA
+
+768 = "Berritzgaard" 
+2895 = "Ny Skive" 
+2897 = "Løgesby" 
+
+# MARANHAO
+
+749 = "Brattahlid " 
+2923 = "Løvenskiold" 
+2924 = "Ejby" 
+2926 = "Hvambjerg" 
+2927 = "Holbækslot" 
+
+# MATO GROSSO
+
+2888 = "Egholm" 
+2903 = "Arbejdet" 
+2904 = "Størreby" 
+2905 = "Mindreby" 
+
+# MINAS GERAIS
+
+765 = "Statsminer" 
+2892 = "Parsonnby" 
+2894 = "Svinninge" 
+2899 = "Kvosted" 
+
+# OFAIE
+
+2881 = "Kongeligby" 
+2893 = "Henningby" 
+2920 = "Kungens Ribe" 
+
+# PERNAMBUCO
+
+754 = "Nye Viborg" 
+755 = "Hellige Kors" 
+2912 = "Kirkemølle" 
+2921 = "Stor-Ko" 
+2922 = "Sorgerbjerg" 
+
+# PIAUI
+752 = "Hvide Skove" 
+2886 = "Væringia" 
+2925 = "Ny Næstved" 
+
+# PONTAL
+
+2909 = "Falsled" 
+2910 = "Svebølle" 
+2911 = "Fødselby" 
+
+# RIO DE JANEIRO
+
+761 = "Aldershvile" 
+762 = "Pløn" 
+763 = "Gottorp" 
+764 = "Højby" 
+
+# RIO GRANDE DO SUL
+
+2857 = "Kjærstad" 
+2879 = "Helgenslot" 
+2884 = "Allested" 
+2887 = "Trebugter" 
+
+# SAO FRANCISCO
+
+2885 = "Oksbøl" 
+2913 = "Holsted" 
+2915 = "Lille Graested" 
+2917 = "Skærbæk" 
+2918 = "Ny Søndergaard" 
+
+# SAO PAULO
+
+766 = "Midtbyen" 
+769 = "Blomstamt" 
+2896 = "Klokkerdal" 
+
+## COLOMBIA
+
+# BOGOTA
+
+825 = "Damebro" 
+832 = "Møborg" 
+4602 = "Laurvigen" 
+4603 = "Jakobsby" 
+
+# CENTRAL LLANOS
+
+834 = "Dragsholm" 
+2810 = "Fårvang" 
+2813 = "Mølsted" 
+4613 = "Griner Måge" 
+4614 = "Errindlev" 
+
+# COLOMBIAN AMAZONAS
+
+822 = "Johannes Døperen" 
+2816 = "Smidthby" 
+4605 = "Dragør" 
+
+# COQUIVACOA
+
+828 = "Bispensborg" 
+829 = "Magdalene" 
+2806 = "Kirkeby" 
+4599 = "Rødby" 
+4601 = "Ny Estridsby" 
+
+# CORDILLERA OCCIDENTAL
+
+824 = "Kavalerernehvilested" 
+827 = "Estiskfæstning" 
+2817 = "Ny Kolding" 
+4600 = "Ny Søllested" 
+4607 = "Blåtand" 
+
+# EASTERN LLANOS
+
+2805 = "Sørensborg" 
+2809 = "Løgstrup" 
+2939 = "Kobingby" 
+4615 = "Roerslev" 
+
+# GUYANA
+
+502 = "Balder" 
+743 = "Ny Esbjerg" 
+744 = "Grønborg" 
+2803 = "Iversby" 
+
+# MARACAIBO
+
+830 = "Dannemare" 
+2807 = "Gudme" 
+4609 = "Vissenbjerg" 
+4610 = "Borgvold" 
+4611 = "Duborg" 
+
+# POPAYAN
+
+823 = "Hvidby" 
+826 = "Jungleborg" 
+2818 = "Garberg" 
+4596 = "Vindeby" 
+4604 = "Langgaard" 
+
+# SURINAME
+
+745 = "Søbygård" 
+746 = "Ahlefeldt" 
+2937 = "Ny Dyrehave" 
+
+# UPPER GUYANA
+
+742 = "Lodby" 
+2804 = "Nyfossing" 
+2811 = "Bogense" 
+2931 = "Hallensted" 
+4617 = "Fjerby" 
+
+# VENEZUELA
+
+741 = "Aalby" 
+831 = "Prinsby" 
+2808 = "Næstved" 
+4612 = "Stokkemarke" 
+4616 = "Grinsted" 
+
+# WESTERN LLANOS
+
+2812 = "Sankt Anders" 
+2814 = "Sandnelund" 
+2815 = "Søndergaard" 
+4608 = "Måbjerg" 
+
+## LA PLATA
+
+# BAHIA BLANCA
+
+780 = "Snorrifæstning" 
+786 = "Sortflod" 
+2868 = "Mølleby" 
+
+# BANDA ORIENTAL
+
+772 = "Clausholm" 
+773 = "Egeskov" 
+2850 = "Stubber" 
+2851 = "Hansenby" 
+2852 = "Kielland" 
+
+# BUENOS AIRES
+
+778 = "Gode Vinde" 
+2846 = "Alshus" 
+2848 = "Ny Rudkøbing" 
+2849 = "Bregninge" 
+
+# CENTRAL CHILE
+
+784 = "Vilhelmfæstning" 
+787 = "Grønnegræsgange" 
+2862 = "Norskerby" 
+
+# CUYO
+
+2843 = "Østligby" 
+2844 = "Ny Brundlund" 
+2845 = "Sankt Johannes" 
+2847 = "Fuglsangby" 
+2877 = "Flagstad" 
+
+# MESOPOTAMIA
+
+777 = "Fredensborg" 
+2853 = "Hammershus" 
+2855 = "Missionærsby" 
+2858 = "Biskops Kolding" 
+2859 = "Olavsby" 
+
+# NEHEUNKEN
+
+785 = "Friedrichsborg" 
+2867 = "Tølløse" 
+2871 = "Romkirke" 
+2872 = "Skamby" 
+
+# PATAGONIA
+
+781 = "Ønskehavn" 
+782 = "Brandjord" 
+2869 = "Mosebogby" 
+
+# PATAGONIAN ANDES
+
+2863 = "Igelsø" 
+2870 = "Hellesby" 
+2875 = "Ny Ringkobing" 
+2876 = "Panibjerg" 
+
+# SOUTH ATLANTIC ISLANDS
+
+1095 = "Bornholmøerne" 
+2025 = "Sydbornholm" 
+
+# SOUTHERN CHILE
+
+783 = "Fugslang" 
+2873 = "Godflod" 
+2874 = "Dommerby" 
+
+# SOUTHERN PAMPAS
+
+779 = "Skævesten" 
+2860 = "Ørn" 
+2861 = "Frunberg" 
+2865 = "Smukkedal" 
+2866 = "Ny Rønne" 
+
+## PERU
+
+# ANTISUYU
+
+802 = "Fred" 
+804 = "Søbredden" 
+2831 = "Lavereby" 
+2947 = "Kildesborg" 
+
+# CAJAMARCA
+
+813 = "Gamleborg " 
+2824 = "Vejlamt" 
+2825 = "Aagard" 
+2943 = "Ny Fuglsang" 
+
+# CHIMOR
+
+812 = "Biskopslot" 
+2002 = "Ny Hjaltland" 
+2821 = "Falkberg" 
+2822 = "Pyramiden" 
+2826 = "Gintberg" 
+
+# HUANUCO
+
+809 = "Gråsten" 
+810 = "Liselund" 
+811 = "Travendal" 
+814 = "Rønningesøgård" 
+2827 = "Egtved" 
+
+# IQUITOS
+
+815 = "Laurbær" 
+818 = "Ny Korsør" 
+821 = "Augustenborg" 
+
+# KUNTISUYU
+
+807 = "Landsby" 
+808 = "Cusco" 
+2829 = "Ringnistrand" 
+2830 = "Pedersburg" 
+
+# PERUAN COAST
+
+805 = "Ny Gavnø" 
+806 = "Gjorslev" 
+2828 = "Ustaberg" 
+
+# QUITO
+
+816 = "Selsø" 
+817 = "Skrøbelevgaard" 
+819 = "Amelienby" 
+820 = "Reinfeld" 
+2820 = "Syberg" 
+
+# UCAYALI
+
+2823 = "Otte Dale" 
+2944 = "Ny Horsens" 
+2945 = "Ny Ribe" 
+
+## UPPER PERU
+
+# BENI
+
+800 = "Dværgby" 
+801 = "Ny-Jorvik" 
+2834 = "Flensborg" 
+
+# CHACO
+
+790 = "Jagtområde" 
+2854 = "Middelsjacko" 
+2878 = "Aabenraa" 
+
+# JUJUY
+
+794 = "Kronstad" 
+2837 = "Katharina" 
+2839 = "Rødtsand" 
+
+# MOXOS
+
+803 = "Ahrensbök " 
+2832 = "Lindberg" 
+2833 = "Guds Mor" 
+
+# NORTHERN CHILE
+
+792 = "Kobberbakke" 
+793 = "Sejren" 
+796 = "Sankt Markus" 
+2840 = "Dronningsby" 
+2841 = "Højgaard" 
+
+# PARAGUAY
+
+775 = "Mariaskirke" 
+776 = "Undfangelse" 
+799 = "Bygholm" 
+2882 = "Tinglev" 
+2883 = "Melodi" 
+
+# POTOSI
+
+795 = "Gyldnebakke" 
+797 = "Dynæsvold" 
+2940 = "Grønlykke" 
+2946 = "Odder" 
+
+# TUCUMAN
+
+791 = "Ahrensbök" 
+2836 = "Kongensbro" 
+2842 = "Tønder" 
+
+# UPPER PERU
+
+2835 = "Jagtslot" 
+2838 = "Løgismose" 
+2941 = "Kjærby" 
+2942 = "Søndersø" 
+
+### OCEANIA
+
+## Australia
+
+# BRISBANE
+
+4851 = "Lundtofte" 
+4852 = "Taarbæk" 
+4853 = "Vallerød" 
+4854 = "Dageløkke" 
+
+# CAPRICORNIA
+
+2730 = "Kragelund" 
+2731 = "Guldager" 
+2732 = "Tobøl" 
+4848 = "Charlottenlund" 
+4849 = "Skovshoved" 
+
+# ILLAWARA
+
+1090 = "Lyngså" 
+4857 = "Hornsved" 
+4858 = "Ålsgårde" 
+4859 = "Borsholm" 
+4860 = "Asmindrup" 
+
+# NEW SOUTH WALES
+
+1091 = "Kraghede" 
+1092 = "Tylstrup" 
+4855 = "Nygård" 
+4856 = "Snekkersten" 
+
+# PERTH
+
+1084 = {"Søndbjerg" "Søndbjerg"} 
+2727 = "Dragsbæk" 
+4863 = "Vindbyholt" 
+4864 = "Hårbølle" 
+
+# PILBARA
+
+2726 = "Tømmerby" 
+4865 = "Gedser" 
+4866 = "Viemose" 
+4867 = "Kalvehave" 
+
+# PRINCELAND
+
+1086 = "Frederikshavn" 
+2735 = "Havervad" 
+2736 = "Kærbølling" 
+4862 = "Tappernøje" 
+
+# QUEENSLAND
+
+1093 = "Nørhalne" 
+1094 = "Aggersund" 
+2733 = "Hjerting" 
+4850 = "Klampenborg" 
+
+# TASMANIA
+
+1085 = "Vendsyssel" 
+4868 = "Rekkende" 
+4869 = "Kærgård" 
+
+# TOP END
+
+2728 = "Grønbjerg" 
+2729 = "Muldbjerg" 
+4846 = "Rejsby" 
+4847 = "Vesterbæk" 
+
+# VICTORIA
+
+1087 = "Trøderup" 
+1088 = "Sæsing" 
+1089 = "Østervrå" 
+2734 = "Oksby" 
+4861 = "Skælskør" 
+
+## OCEANIA
+
+# EASTERN POLYNESIA
+
+#N/A
+#N/A
+#N/A
+
+# EAST MICRONESIA
+
+#N/A
+#N/A
+#N/A
+#N/A
+
+# FIJI
+
+#N/A
+#N/A
+#N/A
+
+# MELANESIA
+
+#N/A
+#N/A
+#N/A
+#N/A
+
+# NORTHERN POLYNESIA
+
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+
+# POLYNESIA
+
+#N/A
+#N/A
+#N/A
+#N/A
+
+# TE IKA A MAUI HAUAURU
+
+1106 = "Dyssegård" 
+1107 = "Vendsyssel" 
+2739 = "Raklev" 
+
+# TE IKA A MAUI WAHO
+
+1108 = "Gåsetofte" 
+2737 = "Dønnevælde" 
+4939 = "Brokkebjerg" 
+
+# TE WAIPOUNAMU
+
+1109 = "Frølunde" 
+1246 = "Svenstrup" 
+2738 = "Herslev" 
+
+# WEST MICRONESIA
+
+#N/A
+#N/A
+#N/A

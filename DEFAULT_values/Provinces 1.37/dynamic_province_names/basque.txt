@@ -1,0 +1,236 @@
+### EUROPE
+
+## FRANCE
+
+# Auvergne
+
+190 = "Barbona"
+195 = "Limotxo"
+199 = "Aubernea"
+4697 = "Martxa"
+4777 = "Forzeta"
+
+# Brittany
+
+169 = "Armorea"
+170 = "Finisterre"
+171 = "Banneta"
+172 = "Nantza"
+4384 = "Renne"
+
+# Champagne
+
+181 = "Erretemi"
+186 = "Reme"
+4390 = "Troi"
+
+# Eastern Burgundy
+
+192 = "Dijonnoa"
+193 = "Franko-Komtea"
+4764 = "Salinakoa"
+
+# Gascony
+
+173 = "Laburdi"
+175 = "Armagnaca"
+176 = "Bearne"
+4694 = "Fois"
+
+# Guyenne
+
+174 = "Bordele"
+194 = "Perigordia"
+198 = "Roga"
+4112 = "Kertze"
+
+# Île-de-France
+
+182 = "Baloia"
+183 = "Parisia"
+185 = "Nemurs"
+4388 = "Karratea"
+
+# Languedoc
+
+196 = "Tolosa"
+200 = "Montpelhiar"
+2753 = "Naronia"
+4391 = "Bibarra"
+4695 = "Karrikonda"
+
+# Loire Valley
+
+177 = "Maia"
+178 = "Anjoua"
+4389 = "Turonia"
+
+# Lorraine
+
+187 = "Barroia"
+188 = "Metz"
+189 = "Lorena"
+4766 = "Berdun"
+
+# Normandy
+
+167 = "Kauxa"
+168 = "Kaina"
+1879 = "Alansona"
+4385 = "Kotentina"
+
+# OrlÃ©anais
+
+179 = "Berria"
+184 = "Orlenea"
+4776 = "Bloys"
+
+# Picardy
+
+87 = "Kalai"
+88 = "Artoua"
+89 = "Pikardia"
+1743 = "Kanbrai"
+
+# Poitou
+
+180 = "Poitougo Gaina"
+4111 = "Santhonia"
+4386 = "Poitougo Beherea"
+4387 = "Angoumua"
+
+# Provence
+
+201 = "Aikoa"
+202 = "Abin"
+2991 = "Forcalquera"
+4696 = "Tolon"
+
+# Savoy
+
+203 = "Lionna"
+204 = "Delfina"
+205 = "Txamberi"
+4719 = "Bressa"
+
+# Western Burgundy
+
+191 = "Niberna"
+1877 = "Txarloa"
+4392 = "Autseroa"
+
+## IBERIA
+
+# Macaronesia
+
+366 = {"Kanaria Handia" "Palmondoak"}
+367 = {"Azoreak" "Lorategi-Hiria"}
+368 = {"Egurra" "Mihilual"}
+4565 = {"Teide Uhartea" "Teide Uhartea"}
+
+# Alentejo
+
+227 = {"Lisboa" "Lisboa"}
+229 = {"Haratajo Beherea" "Peja"} # Doubts for the name Alentejo: Além do Tejo. Name from Beja: Inherited from Old Galician-Portuguese Beja, from Arabic baja, from Visigothic Paca, from Pacem (Juliam) (the ancient Roman town).
+230 = {"Algarbe" "Faro"} # Faro 
+4150 = {"Alentejoko Garaia" "Ebora"} # probably Évora
+4787 = {"Ripatajo" "Santirune"} # Riba + Tejo; Santarém comes from Saint Irene (Santa Irene)
+
+# Beiras
+
+228 = {"Ertza" "Biseu"} # Viseu comes from the latin name Vissaium, Vissaieigobor
+231 = {"Portua" "Portua"}
+232 = {"Haratajo Atzean" "Bragantsa"} # Bragança: Latin Brigantia, Proto-Celtic *Briganti,  Proto-Indo-European *b?ér??onts (“high”), from the root *b?er??- (“to rise”) + *-onts (adjective-forming suffix)
+1851 = {"Koimbra" "Koimbra"} # Latin Conimbriga, after the Conii people, second element from Proto-Celtic *briga
+4556 = {"Abeiro" "Abeiro"} # There is in Medieval Latin the form Alavarius, but it is discarded by some (as if made up to account for some long initial A), who prefer Latin Averius, from Celtic *adberos (“estuary”).
+
+# Aragon
+
+211 = {"Oska" "Oska"}
+214 = {"Zarautza" "Zarautza"}
+2990 = {"Teruel" "Teruel"} # The area around Teruel has been populated since the times of the Celtiberians, who called it Turboleta.
+4557 = {"Kalataihub" "Kalataihub"} # Took a lot of personal freedom
+
+# Asturias
+
+207 = {"Asturias" "Ohiedu"} # Probably makes sense
+1745 = {"Kantabria" "Sanandere"}
+1746 = {"Barduria" "Barduria"}
+4552 = {"Palentzia" "Palentzia"}
+
+# Baleares
+
+333 = {"Mallorca" "Palmaka"} # Probably Palmaka?
+4559 = {"Menorca" "Maó"}
+4560 = {"Eibitza" "Eibitza"} # I think it works
+
+# Castille
+
+215 = {"Baileolit" "Baileolit"} # Took a lot of personal freedom here
+217 = {"Madril" "Madril"}
+2755 = {"Soria" "Soria"} # probably?
+4551 = {"Áviul" "Áviul"} # I think it works
+4789 = {"Zegoia" "Zegoia"}
+
+# Catalonia
+
+197 = {"Rossilhão" "Perpinyà"} # Roussilon: From Latin Ruscinonem; Perpinhão: 
+212 = {"Girona" "Girona"} # probably?
+213 = {"Bartzelona" "Bartzelona"}
+2987 = {"Urgell" "Tarreka"} # probably?
+2988 = {"Taragona " "Taragona"} # probably?
+
+# Extremadura
+
+218 = {"Bajóz" "Bajóz"}
+1747 = {"Kazere" "Kazere"}
+4788 = {"Plazentzia" "Plazentzia"} # idk
+
+# Galicia
+
+206 = {"Koroa" "Koroa"} # literally "Crown" in Basque
+4554 = {"Lugo" "Lugo"} # idk
+4555 = {"Zubizarra" "Zubizarra"} # corruption from "Old Bridge", 
+4558 = {"Orenze" "Orenze"} # I think it fits
+
+# Leon
+
+208 = {"Lehoia" "Lehoia"}
+216 = {"Saramanka" "Saramanka"} # Probably?
+4553 = {"Zamurra" "Zamurra"} # I think
+
+# Lower Andalucia
+
+224 = {"Sibirija" "Sibirija"}
+225 = {"Kordoba" "Kordoba"}
+1748 = {"Jaen" "Jaen"}
+1749 = {"Karize" "Karize"}
+4548 = {"Oeva" "Oeva"}
+
+# Toledo
+
+219 = {"Toledo" "Toledo"} # I think it can stay the same
+221 = {"Murzia" "Murzia"} # Probably?
+2751 = {"Kunka" "Kunka"}
+2754 = {"Mantza" "Mantza"} # ?
+4547 = {"Abazet" "Abazet"} # ?
+
+# Upper Andalucia
+
+222 = {"Almera" "Almera"} # ?
+223 = {"Garanda" "Garanda"} # idk
+226 = {"Gibaral" "Gibaral"} # idk
+4546 = {"Malaka" "Malaka"}
+
+# Valencia
+
+220 = {"Balezea" "Balezea"}
+1750 = {"Elacant" "Elacant"}
+4549 = {"Xativa" "Xativa"} # idk
+4550 = {"Gazteló" "Gazteló"}
+
+# Vasconia
+
+209 = {"Bizkaia" "Bilbo"}
+210 = {"Nafarroa" "Iruña"}
+2989 = {"Errioxa" "Logroño"}

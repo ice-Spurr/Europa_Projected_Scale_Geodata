@@ -1,0 +1,28 @@
+### EUROPE
+
+## IRELAND
+
+# Ulster
+
+372 = {"Tír Eoghain" "Dún Geanainn"}
+4121 = {"Ulaidh" "Carraig Fhearghais"}
+4380 = {"Dún na nGall" "Dún na nGall"}
+
+# Connacht
+
+375 = {"Tuadhmhumhain" "Luimneach"}
+376 = {"Cúige Chonnacht" "Cúige Chonnacht"}
+4119 = {"Sligeach" "Sligeach"}
+
+# Leinster
+
+373 = {"An Pháil" "Baile Átha Cliath"}
+4379 = {"Uíbh Fhailí" "Annaly"}
+4120 = {"Cili Dara" "Nás na Ríogh"}
+374 = {"Laighin" "Loch Garman"}
+
+# Munster
+
+4118 = {"Corcaigh" "Corcaigh"}
+4377 = {"Urmumhain" "Cill Chainnigh"}
+4378 = {"Deasmhumhain" "Cill Airne"}

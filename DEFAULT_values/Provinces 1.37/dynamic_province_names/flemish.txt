@@ -1,0 +1,50 @@
+### EUROPE
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brugge" "Brugge"}
+1865 = {"Gent" "Gent"}
+4769 = {"Rysel" "Rysel"}
+
+# Frisia
+
+99 = {"Gelre" "Gelre"}
+100 = {"Friesland" "Leewaddn"}
+1931 = {"Osten Friesland" "Emdeen"}
+4381 = {"Overyssel" "Zwolle"}
+4382 = {"Groningn" "Groningn"}
+
+# Holland
+
+96 = {"Zêeland" "Middelburg"}
+97 = {"Amsterdam" "Amsterdam"}
+98 = {"Utrecht" "Utrecht"}
+4383 = {"'s-Gravenhage" "'s-Gravenhage"}
+
+# North Brabant
+
+95 = {"Breda" "Breda"}
+1742 = {"Opper-Gelre" "Roermond"}
+4770 = {"'s-Hertogenbosch" "'s-Hertogenbosch"}
+
+# South Brabant
+
+92 = {"Brabant" "Brussel"}
+1744 = {"Antwerpn" "Antwerpn"}
+2974 = {"Loon" "Loon"}
+
+# Wallonia
+
+91 = {"Enegouwn" "Bergn"}
+93 = {"Luuk" "Luuk"}
+94 = {"Luxemburg" "Luxemburg"}
+1866 = {"Noamn" "Noamn"}
+
+## FRANCE
+
+# Picardy
+
+87 = {"Kales" "Kales"}
+88 = {"Atrecht" "Atrecht"}

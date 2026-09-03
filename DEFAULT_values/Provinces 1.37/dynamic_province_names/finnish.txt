@@ -1,0 +1,333 @@
+### EUROPE
+
+## MAGHREB
+
+# Macaronesia
+
+366 = "Kultaranta"
+367 = "Sinivuokko"
+368 = "Kultaranta"
+4565 = "Tulitikku"
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = "Khomolgora"
+4122 = "Senkurssi"
+4256 = "Solvikekko"
+4257 = "Meesinki"
+
+# Beloozero
+
+312 = "Valkojarvi"
+4259 = "Velski"
+4261 = "Utsjuuri"
+
+# Moscow
+
+295 = {"Moscova" "Moscova"}
+4251 = "Mosaiski"
+4252 = "Kolomna"
+
+# North Karelia
+
+32 = "Kakisalmi"
+309 = "Aunus"
+4124 = "Karjala"
+
+# Novgorod
+
+310 = "Nevanlinna"
+311 = "Holma"
+1959 = "Torsakka"
+2749 = "Tikkaharju"
+4260 = "Volotshokki"
+
+# Oka
+
+296 = "Kalliojarvi"
+300 = "Tulivuori"
+4116 = "Okalampi"
+
+# Pomorye
+
+313 = "Hiidensalmi"
+1776 = "Valko-Karjala"
+1958 = "Karsikko"
+4258 = "Onekka"
+
+# Pskov
+
+274 = "Pikhova"
+275 = "Polotski"
+1960 = "Ostromaa"
+4148 = "Lukki"
+
+# Ryazan
+
+301 = "Rjazaani"
+1778 = "Kasimova"
+4255 = "Pronskijarvi"
+
+# South Karelia
+
+30 = "Viipuri"
+33 = "Nevaranta"
+34 = "Inkeri"
+1961 = "Laatokka"
+
+# Suzdal
+
+1754 = "Muromi"
+1956 = "Suuslia"
+4254 = "Starotupi"
+
+# Tambov
+
+302 = "Tamputti"
+303 = "Penntsi"
+2415 = "Etkarat"
+
+# Tver
+
+294 = "Tverila"
+1752 = "Rasho"
+4243 = "Toropaa"
+4248 = "Kaasina"
+4249 = "Tsubstovski"
+
+# Vladimir
+
+307 = "Vladiimira"
+4147 = "Rostuva"
+4253 = "Jyrieva"
+
+# Vologda
+
+314 = "Volokka"
+4262 = "Tottikyla"
+4263 = "Sohlan Galitii"
+
+# Yaroslavl
+
+308 = "Jaroislaavi"
+1753 = "Kostromi"
+4117 = "Bezetskki"
+4250 = "Molokka"
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = "Seelanti"
+14 = "Vaana"
+1981 = "Kiviranta"
+1983 = "Pajusaari"
+
+# Finland
+
+27 = "Turku"
+28 = "Uusimaa"
+29 = "Häme"
+31 = "Savo"
+4123 = "Pirkanmaa"
+
+# Laponia
+
+315 = "Koutokeino"
+1777 = "Kolatunturi"
+4151 = "Enarvuono"
+
+# Norrland
+
+9 = "Kultavaara"
+11 = "Overtjarn"
+18 = "Talvivaara"
+4114 = "Kukkolankoski"
+
+# North Atlantic Islands
+
+370 = "Reikava"
+371 = "Akurey"
+1978 = "Setlanti"
+1979 = "Farsaaret"
+
+# North Jutland
+
+15 = "Hiekkaranta"
+1984 = "Merenkurkku"
+4142 = "Vuorijyllanti"
+4149 = "Koldinga"
+
+# Ostlandet
+
+17 = "Akkervik"
+22 = "Oppivuori"
+4143 = "Smolanniemi"
+4144 = "Brattila"
+
+# Ostra Gotaland
+
+2 = "Gotlahti"
+3 = "Kalmaari"
+25 = "Gotlanti"
+4166 = "Kymmenmaki"
+
+# Ostra Svealand
+
+1 = "Tukholma"
+4 = "Vuorilaki"
+1930 = "Ahvenanmaa"
+
+# Ostrobothnia
+
+19 = "Pietarsaari"
+4113 = "Rovaniemi"
+4152 = "Kainuu"
+
+# Skaneland
+
+6 = "Lundinjoki"
+26 = "Hallanniemmi"
+1982 = "Blekinki"
+4165 = "Goingekyla"
+
+# Trondelag
+
+10 = "Kalliovuoristo"
+20 = "Trondhjem"
+21 = "Pohjoisrantavaltio"
+
+# Vastra Gotland
+
+7 = "Skara"
+16 = "Lysekil"
+4163 = "Herrljunga"
+4164 = "Falun"
+
+# Vastra Svealand
+
+5 = "Karhulanlahti"
+8 = "Korpilaakso"
+1985 = "Nareikko"
+
+# Vestlandet
+
+23 = "Vuorenlinna"
+24 = "Satamakallio"
+2752 = "Kultakuru"
+4145 = "Merirannikko"
+
+## URAL
+
+# Bashkiria
+
+475 = "Kaskorsto"
+1965 = "Busulukki"
+1966 = "Tsheljabinsk"
+2420 = "Ajdil"
+2444 = "Kaskirtti"
+
+# Galich
+
+306 = "Alahelmi"
+1079 = "Viavuori"
+1083 = "Vetlakyla"
+1957 = "Galijarvi"
+
+# Kama
+
+305 = "Permiharju"
+1962 = "Kudympuro"
+1972 = "Udmurtikaupunki"
+4266 = "Izhkarpuro"
+
+# Kazan
+
+1082 = "Kyyrola"
+2422 = "Vaahterakoski"
+4264 = "Turpeenpelto"
+
+# Perm
+
+1077 = "Solikkavaara"
+1755 = "Ustojoki"
+1963 = "Tserdunen"
+1964 = "Sysolskivaara"
+4129 = "Vymijarvi"
+
+# Samara
+
+473 = "Saamari"
+1081 = "Simalampi"
+2423 = "Alatunturi"
+
+# Saratov
+
+303 = "Saratovikko"
+2418 = "Ukekkila"
+2419 = "Kanadeyvesi"
+
+# Ural
+
+1078 = "Tuvamaki"
+1080 = "Polkky"
+1780 = "Komimaki"
+2427 = "Oslamaki"
+2441 = "Isolampi"
+
+# Volga
+
+2421 = "Juketavaara"
+4265 = "Arjankalli"
+4267 = "Bolgari"
+
+## BALTIC
+
+# Aukstaitija
+
+272 = "Vilnaa"
+770 = "Braslava"
+4535 = "Viljamiira"
+4536 = "Lidaa"
+
+# Curonia
+
+35 = "Oseli"
+39 = "Kultaisten"
+1935 = "Mitaava"
+
+# East Prussia
+
+40 = "Memeli"
+41 = "Kuninkaankivi"
+42 = "Varminki"
+767 = "Ortelvuori"
+2958 = "Osteroda"
+
+# Estonia
+
+36 = "Revala"
+1834 = "Torppa"
+1842 = "Narvi"
+
+# Livonia
+
+37 = "Lijava"
+38 = "Riiha"
+273 = "Latkava"
+4241 = "Vento"
+
+# Samogitia
+
+270 = "Tarkka"
+271 = "Samegitja"
+1936 = "Kovniemi"
+4534 = "Upilanen"
+
+# West Prussia
+
+43 = "Dansegard"
+1841 = "Marienlinna"
+2997 = "Tucholanen"

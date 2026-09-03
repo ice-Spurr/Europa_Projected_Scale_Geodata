@@ -1,0 +1,227 @@
+## BALTICS
+
+# Aukstaitija
+
+272 = {"Vilnius" "Vilnius"}
+770 = {"Breslauja" "Breslauja"}
+4535 = {"Vilkmerge" "Vilkmerge"}
+4536 = {"Lyda" "Lyda"}
+
+# Curonia
+
+35 = {"Sarema" "Kùresare"}
+39 = {"Kuldyga" "Kuldyga"}
+1935 = {"Mintauja" "Mintauja"}
+
+# East Prussia
+
+40 = {"Klaipeda" "Klaipeda"}
+41 = {"Karaliaucius" "Karaliaucius"}
+42 = {"Varme" "Olštynas"}
+767 = {"Šcytnas" "Šcytnas"}
+2958 = {"Ostruda" "Ostruda"}
+
+# Estonia
+
+36 = {"Talinas" "Talinas"}
+1834 = {"Tartu" "Tartu"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livonija" "Viljandis"}
+38 = {"Ryga" "Ryga"}
+273 = {"Latgala" "Daugpilis"}
+4241 = {"Kesys" "Kesys"}
+
+# Samogitia
+
+270 = {"Trakai" "Trakai"}
+271 = {"Zemaitija" "Varniai"}
+1936 = {"Kaunas" "Kaunas"}
+4534 = {"Upyte" "Upyte"}
+
+# West Prussia
+
+43 = {"Gdanskas" "Gdanskas"}
+1841 = {"Malborkas" "Malborkas"}
+2997 = {"Tucholia" "Tucholia"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Cernihivas" "Cernihivas"}
+1945 = {"Severšcina" "Naugardas Sievierskas"}
+4543 = {"Rylskas" "Rylskas"}
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Perejaslav" "Perejaslav"}
+4542 = {"Lubnai" "Lubnai"}
+
+# Minsk
+
+276 = {"Minskas" "Minskas"}
+4115 = {"Mozyrius" "Mozyrius"}
+4242 = {"Ulas" "Ulas"}
+4544 = {"Babrùiskas" "Babrùiskas"}
+
+# Podlasie
+
+269 = {"Palenke" "Drogicinas"}
+277 = {"Brasta" "Lietuvos Brasta"}
+1937 = {"Gardinas" "Gardinas"}
+
+# Podolia
+
+281 = {"Podole" "Podoles Kamenecas"}
+1943 = {"Braclavas" "Braclavas"}
+4540 = {"Vinica" "Vinica"}
+
+# Pripyat
+
+278 = {"Pinskas" "Pinskas"}
+1941 = {"Turava" "Turava"}
+4537 = {"Naugardukas" "Naugardukas"}
+4545 = {"Sluckas" "Sluckas"}
+
+# Sloboda Ukraine
+
+291 = {"Charkovas" "Charkovas"}
+298 = {"Kurskas" "Kurskas"}
+299 = {"Voronežas" "Voronežas"}
+2408 = {"Jelecas" "Jelecas"}
+
+# Smolensk
+
+293 = {"Smolenskas" "Smolenskas"}
+297 = {"Brianskas" "Brianskas"}
+4244 = {"Trubcevskas" "Trubcevskas"}
+4245 = {"Viazma" "Viazma"}
+
+# Volhynia
+
+279 = {"Voluine" "Vladimiras"}
+2962 = {"Rovnas" "Rovnas"}
+4538 = {"Chelmas" "Chelmas"}
+4539 = {"Kremenecas" "Kremenecas"}
+
+# West Dniepr
+
+280 = {"Kyjivas" "Kyjivas"}
+1942 = {"Žitomyras" "Žitomyras"}
+1944 = {"Cerkasai" "Cerkasai"}
+4247 = {"Ovrucas" "Ovrucas"}
+
+# White Ruthenia
+
+292 = {"Mogiliovas" "Mogiliovas"}
+771 = {"Vitebskas" "Vitebskas"}
+4246 = {"Mstislãvas" "Mstislãvas"}
+
+## RUSSIA
+
+275 = {"Polockas" "Polockas"}
+4243 = {"Toropecas" "Toropecas"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrachane" "Astrachane"}
+466 = {"Kamyšinas" "Kamyšinas"}
+468 = {"Manycius" "Volgodonskas"}
+2416 = {"Stavropolis" "Stavropolis"}
+2417 = {"Kuma" "Elista"}
+
+# Azov
+
+286 = {"Azovas" "Azovas"}
+287 = {"Kubanšcina" "Antonodaras"} # Reference to the noble Antanas Tyzenhaus
+2413 = {"Novocerkaskas" "Naujasis Cerkaskas"}
+2414 = {"Tihorekas" "Tihorekas"}
+
+# Crimea
+
+284 = {"Krymas" "Eupatorija"}
+285 = {"Kerce" "Kerce"}
+2410 = {"Sevastopolis" "Sevastopolis"}
+2447 = {"Tamane" "Tamane"}
+
+# Lower Don
+
+288 = {"Cerkaskas" "Cerkaskas"}
+467 = {"Borisoglebskas" "Borisoglebskas"}
+1971 = {"Caricynas" "Caricynas"}
+2409 = {"Bachmutas" "Bachmutas"}
+
+# Yedisan
+
+282 = {"Ocakivas" "Ocakivas"}
+1974 = {"Chersònas" "Chersònas"}
+2406 = {"Mykolajivas" "Mykolajivas"}
+
+# Zaporizhia
+
+283 = {"Zaporože" "Zaporože"}
+2411 = {"Antonišlovas" "Antonišlovas"} # Reference to the noble Antanas Tyzenhaus
+2412 = {"Mariupolis" "Mariupolis"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Sèradzas" "Sèradzas"}
+1939 = {"Lencýca" "Lencýca"}
+4533 = {"Vèliunis" "Vèliunis"}
+
+# Kuyavia
+
+1859 = {"Kulmas" "Kulmas"}
+4523 = {"Inovroclavas" "Inovroclavas"}
+4524 = {"Dobre" "Dobre ant Vyslos"}
+4528 = {"Kujavija" "Kujavijos Brestas"}
+
+# Malopolska
+
+262 = {"Krokuva" "Krokuva"}
+2960 = {"Naujasis Soncas" "Naujasis Soncas"}
+4527 = {"Cencinai" "Cencinai"}
+
+# Mazovia
+
+256 = {"Plockas" "Plockas"}
+257 = {"Váršuva" "Váršuva"}
+1938 = {"Vizna" "Vizna"}
+4525 = {"Ravà" "Mazòvijos Ravà"}
+
+# Red Ruthenia
+
+261 = {"Halicas" "Halicas"}
+1940 = {"Belzas" "Belzas"}
+2424 = {"Peremislis" "Peremislis"}
+2961 = {"Lvivas" "Lvivas"}
+4541 = {"Drohobycas" "Drohobycas"}
+
+# Sandomierz
+
+259 = {"Sandomèžas" "Sandomèžas"}
+260 = {"Liùblinas" "Liùblinas"}
+2959 = {"Tarnuvas" "Tarnuvas"}
+
+# Silesia
+
+263 = {"Racibužas" "Racibužas"}
+264 = {"Vroclavas" "Vroclavas"}
+2966 = {"Gloguvas" "Gloguvas"}
+4238 = {"Legnica" "Legnica"}
+4723 = {"Opòle" "Opòle"}
+
+# Wielkopolska
+
+254 = {"Poznãne" "Poznãne"}
+255 = {"Kãlišas" "Kãlišas"}
+2963 = {"Notece" "Nakas prie Notecios"}
+4526 = {"Gnieznas" "Gnieznas"}

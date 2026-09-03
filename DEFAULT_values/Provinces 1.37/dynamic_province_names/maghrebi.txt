@@ -1,0 +1,1647 @@
+### EUROPE
+
+## IBERIA
+
+# Alentejo
+
+227 = {"Lishbuna" "Lishbuna"}
+229 = {"Baja" "Baja"}
+230 = {"Al-Gharb" "Laghus"}
+4150 = {"Yabira" "Yabira"}
+4787 = {"Shantarin" "Shantarin"}
+
+# Aragon
+
+211 = {"Washqa" "Washqa"}
+214 = {"Saragossa" "Saragossa"}
+2990 = {"Tarwil" "Tarwil"}
+4557 = {"Qal'at Ayyub" "Qal'at Ayyub"}
+
+# Asturias
+
+207 = {"Ashturiya" "Abit"}
+1745 = {"Qantabiriya" "Qantabiriya"}
+1746 = {"Barghash" "Barghash"}
+4552 = {"Balinsiya" "Balinsiya"}
+
+# Beiras
+
+228 = {"Bazo" "Bazo"}
+231 = {"Burtuqal" "Burtuqal"}
+232 = {"Burgansa" "Burgansa"}
+1851 = {"Qalamriya" "Qalamriya"}
+4556 = {"Aweyro" "Aweyro"}
+
+# Baleares
+
+333 = {"Mayurqa" "Madinat Mayurqa"}
+4559 = {"Munawraqa" "Mahun"}
+4560 = {"Ibiza" "Ibiza"}
+
+# Castille
+
+215 = {"Balad al-Walid" "Balad al-Walid"}
+217 = {"Madrid" "Madrid"}
+2755 = {"Shuriya" "Shuriya"}
+4551 = {"Abla" "Abla"}
+4789 = {"Shaqubiya" "Shaqubiya"}
+
+# Catalonia
+
+197 = {"Rusyun" "Barbiniya"}
+212 = {"Jirunda" "Jirunda"}
+213 = {"Barshaluna" "Barshaluna"}
+2987 = {"Arqila" "Arqila"}
+2988 = {"Tarquna" "Tarquna"}
+
+# Extremadura
+
+218 = {"Butleyus" "Butleyus"}
+1747 = {"Qasrish" "Qasrish"}
+4788 = {"Balinsiya" "Balinsiya"}
+
+# Galicia
+
+206 = {"Qurjita" "Qurjita"}
+4554 = {"Lac" "Lac"}
+4555 = {"Buntifidra" "Buntifidra"}
+4558 = {"Waransh" "Waransh"} # the only made up name
+
+# Leon
+
+208 = {"Liyun" "Liyun"}
+216 = {"Shalmuniqa" "Shalmuniqa"}
+4553 = {"Samura" "Samura"}
+
+# Lower Andalucia
+
+224 = {"Ishbiliya" "Ishbiliya"}
+225 = {"Qurtuba" "Qurtuba"}
+1748 = {"Jiyan" "Jiyan"}
+1749 = {"Qadis" "Qadis"}
+4548 = {"Wulba" "Wulba"}
+
+# Toledo
+
+219 = {"Tulaytila" "Tulaytila"}
+221 = {"Mursiya" "Mursiya"}
+2751 = {"Qunqa" "Qunqa"}
+2754 = {"Madinat al-Riyal" "Madinat al-Riyal"}
+4547 = {"Al-Basit" "Al-Basit"}
+
+# Upper Andalucia
+
+222 = {"Al-Muriya" "Al-Muriya"}
+223 = {"Gharnata" "Gharnata"}
+226 = {"Jabal Tariq" "Jabal Tariq"}
+4546 = {"Malqt" "Malqt"}
+
+# Valencia
+
+220 = {"Balansiya" "Balansiya"}
+1750 = {"Luqant" "Luqant"}
+4549 = {"Shatiba" "Shatiba"}
+4550 = {"Qastaluna" "Baldiyat Qastaluna"}
+
+# Vasconia
+
+209 = {"Baskaya" "Baskaya"}
+210 = {"Nabra" "Bunbuluna"}
+2989 = {"Al-Riyyukha" "Al-Kuruni"}
+
+## FRANCE
+
+# Auvergne
+
+190 = "Burbonawiyya"
+195 = "Limusin"
+199 = "Awrjanna"
+4697 = "Al-Marcha"
+4777 = "Fawrayyiz"
+
+# Brittany
+
+169 = "Al-Ramur"
+170 = "Funistayr"
+171 = "Banattayr"
+172 = "Nuntayr"
+4384 = "Rinnayr"
+
+# Champagne
+
+181 = "Rithal"
+186 = "Rims"
+4390 = "Turwayyiz"
+
+# Eastern Burgundy
+
+192 = "Dijuniyya"
+193 = "Fransh-Kumtah"
+4764 = "Salinah"
+
+# Gascony
+
+173 = "Labur"
+175 = "Armanyaq"
+176 = "Biyarn"
+4694 = "Al-Foytah"
+
+# Guyenne
+
+174 = "Burdilun"
+194 = "Parijur"
+198 = "Ruwayriq"
+4112 = "Qirsi"
+
+# Île-de-France
+
+182 = "Balawis"
+183 = "Barish"
+185 = "Nimur"
+4388 = "Shartr"
+
+# Languedoc
+
+196 = "Tulush"
+200 = "Munabilir"
+2753 = "Narbuna"
+4391 = "Biwarayya"
+4695 = "Qarsasuna"
+
+# Loire Valley
+
+177 = "Mayn"
+178 = "Al-Anju"
+4389 = "Turrayna"
+
+# Lorraine
+
+187 = "Barrawiyya"
+188 = "Mitziya"
+189 = "Lawtarinja"
+4766 = "Firdawn"
+
+# Normandy
+
+167 = "Qaw"
+168 = "Qaan"
+1879 = "Al-Ansun"
+4385 = "Kutintan"
+
+# Orléanais
+
+179 = "Biriyya"
+184 = "Arliyaniyya"
+4776 = "Biliyya"
+
+# Picardy
+
+87 = "Qalay"
+88 = "Ar-Tuwa"
+89 = "Bikhariyya"
+1743 = "Kambarayya"
+
+# Poitou
+
+180 = "Fawtu"
+4111 = "Sintuniyya"
+4386 = "Bustu"
+4387 = "Angumus"
+
+# Provence
+
+201 = "Ayyis"
+202 = "Abinyun"
+2991 = "Furkalqiyya"
+4696 = "Tulin"
+
+# Savoy
+
+203 = "Liyuniyya"
+204 = "Dawfina"
+205 = "Al-Shambiri"
+4719 = "Bariss"
+
+# Western Burgundy
+
+191 = "Nibrniyya"
+1877 = "Sharlwiyya"
+4392 = "Uksirwiyya"
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA
+
+868 = "Alamut"   
+869 = "Abu Bakr"   
+2021 = "Ghar Malika"   
+2476 = "Zawiyat Armala"   
+4637 = "Hamirah"   
+     
+# APACHERIA    
+     
+879 = "Habash"   
+2492 = "Hajr al-Ahmar"   
+4634 = "Amzab"   
+     
+# ARIZONA    
+     
+867 = "Nahr as-Sahra"   
+876 = "Ar-Rimal"   
+877 = "Banu Tayy"   
+2491 = "Sahra al-Gharbiyya"   
+4633 = "Nazra al-Khuza'i"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Qalandariyyah"   
+866 = "Ras al-Fuqara"   
+2620 = "Bayt Mellat"   
+4639 = "Baybars"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Wadi al-Markazi"   
+2478 = "Aynata"   
+4635 = "Wadi Rum"   
+4636 = "Jabal Alawi"   
+     
+# COLORADO PLATEU   
+     
+875 = "Wadi al-Arab"   
+878 = "Nafahu"   
+2493 = "Nujayd"   
+2494 = "Khurr Ubayd"   
+     
+# NEW MEXICO   
+     
+880 = "Bawablus"   
+881 = "Biru"   
+2495 = "Maymum"   
+4631 = "Ibn Tumart"   
+4632 = "Al-Hinna"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Al-Buma"   
+2477 = "Murid"   
+2479 = "Masbut"   
+2480 = "Jabal Qaf"   
+4638 = "Oundhym"   
+     
+# SONORA    
+     
+862 = "Dhul Tamr"   
+2616 = "Mina' Yunan"   
+4577 = "Ghar Musqati"   
+4649 = "Khartum"   
+4650 = "Bani Otaiba"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Humusiyya"   
+2576 = "Maadi"   
+2577 = "Saba'a Juzur"   
+2578 = "Sidi Umar"   
+2579 = "Awlad Yaqub"   
+     
+# GREENLAND    
+     
+1104 = "Qasr Ahmad"   
+1105 = "Sahl ad-Dab"   
+     
+# HURONIA    
+     
+988 = "Ras Harun"   
+989 = "Untaryu"   
+2585 = "Burj Otawa"   
+2670 = "Turant"   
+     
+# LABRADOR    
+     
+997 = "Abu Asad"   
+2574 = "Amidan"   
+2575 = "Abu Muhammad"   
+     
+# LAURENTIA    
+     
+992 = "Al-Gonaqeen"   
+2581 = "Wadi Dhahab"   
+4894 = "Utabuh"   
+     
+# LOWER ACADIA   
+     
+982 = "Kishk"   
+984 = "Khalij al-Khaliq"   
+2568 = "Masjid al-Majid"   
+2569 = "Khulafa'"   
+#N/A
+     
+# LOWER CANADA   
+     
+993 = "Baghdad al-Jadid"   
+2584 = "Dar as-Sultan"   
+4895 = "Al Batisah"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Fatima Zahra"   
+981 = "Tarf al-Malika"   
+2573 = "Shahran"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Kibiri"   
+4892 = "Iroqatiya"   
+4897 = "Kinuyi"   
+     
+# QUEBEC    
+     
+986 = "Rada' ash-Shuhada'"   
+994 = "Khabaq"   
+995 = "Adrar"   
+2582 = "Meknes al-Jadid"   
+2583 = "Sayyida Khadija"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Sidi Yahya"   
+2571 = "Junayd al-Marhum"   
+4896 = "Al Midukhiq"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Thalath Anhar"   
+2012 = "Ribat"   
+2580 = "Banu Lam"   
+2580 = "Banu Lam"   
+     
+# UPPER ACADIA   
+     
+983 = "Jazirat Abu Muslim"   
+985 = "Arbat A'lam"   
+2572 = "Qaynuqa"   
+     
+# UPPER CANADA   
+     
+987 = "Nijarrah"   
+2586 = "Nutawsaja"   
+2587 = "Anmar"   
+     
+# UPPER ONTARIO   
+     
+991 = "Faysaliyya"   
+1001 = "Shallal Maryam"   
+1007 = "Khalij al-Bayt"   
+2015 = "Ghar Faranji"   
+2671 = "Azzaba"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Bani Taynah"   
+2658 = "Hazrat Umar"   
+2659 = "Qalat Ayyub"   
+4620 = "Tarf al-Akhdar"   
+4621 = "Al-Jubbai"   
+     
+# EAST CUBA   
+     
+486 = "Rihiyya"   
+2654 = "Bahr al-Asl"   
+2655 = "Qatras"   
+2656 = "Abu Ghrayb"   
+     
+# GREATER ANTILLES   
+     
+481 = "Wasitiyya"   
+487 = "Shumayqa"   
+491 = "Badr"   
+492 = "Qasr al-Ghani"   
+     
+# HAITI    
+     
+488 = "Ras Lusus"   
+489 = "Jazirat al-Sulhafa"   
+4618 = "Bahr al-Amir"   
+4619 = "Shukr"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Sidi Junayd"   
+494 = "Mar Girgis"   
+495 = "Qadimah"   
+496 = "Suq al-Kindi"   
+1881 = "Jazirat ash-Shams"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Al-Buhayma"   
+483 = "Juzur al-Atrak"   
+     
+# WEST CUBA   
+     
+484 = "Najah"   
+485 = "Zubayr"   
+4622 = "Bahr al-Sukr"   
+4623 = "As-Siri"   
+4624 = "Shatil Awliya"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Jazirat Sultan"   
+498 = "Antarah"   
+499 = "Sayyida Fatima"   
+500 = "Qasr Musa"   
+501 = "Juzayr"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Anwar"   
+977 = "Daylam"   
+2613 = "Sitka"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Nahr ash-Sha'ban"   
+2486 = "Al-Kisa'"   
+2487 = "Zagazig"   
+2488 = "Murtafa'at"   
+     
+# HECATE STRAIT   
+     
+975 = "Simsim"   
+2022 = "Hidaya"   
+2609 = "Ghazi Husayn"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Ibn Abbas"   
+2604 = "Difla"   
+2605 = "Shuswab"   
+2606 = "Jabal Ibn Arabi"   
+2607 = "Masif"   
+     
+# OREGON    
+     
+872 = "Marsa Sfax"   
+2481 = "Buhayrat Fawha"   
+2482 = "Bab at-Tufah"   
+2483 = "Al-Nuzul"   
+     
+# PUGET SOUND   
+     
+874 = "Balad al-Walid"   
+2484 = "Rada' al-Lusus"   
+2485 = "Akradiyya"   
+     
+# SNAKE RIVER   
+     
+2019 = "Hujaraat"   
+2020 = "Hijaz al-Sharqi"   
+2489 = "Hijaz al-Gharbi"   
+2490 = "Buhayrat Maliha"   
+2506 = "Jabal Mahzuz"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Jazirat al-Amtar"   
+973 = "Abbasiyyah"   
+974 = "Khalij Asda'"   
+2610 = "Kuf Shirazi"   
+     
+# WESTERN ALASKA   
+     
+978 = "Munufiyya"   
+979 = "Juzur al-Yut"   
+2611 = "Banha"   
+2612 = "Riyadh az-Zaytun"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Kambaysh"   
+2632 = "Hayy ar-Rahma"   
+2650 = "Tanis"   
+     
+# CHIAPAS    
+     
+2635 = "Abadan"   
+2638 = "Salaka"   
+2649 = "Al-Maqna"   
+4585 = "Ramshi"   
+4586 = "Al-Falah"   
+     
+# COSTA RICA   
+     
+836 = "Khaybar"   
+2663 = "Shumus"   
+4597 = "Ubuk"   
+     
+# EAST YUCATAN   
+     
+2634 = "Anbiyya"   
+2652 = "Lalish"   
+4588 = "Humran"   
+4591 = "Ibn Layth"   
+     
+# GUATEMALA    
+     
+839 = "Babil"   
+841 = "Qasr Libi"   
+2653 = "Tamtam"   
+4587 = "Qufas"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Jubur"   
+843 = "Biliz"   
+2636 = "Rumaytha"   
+4589 = "Idlis"   
+4594 = "Az-Zuhayr"   
+     
+# HONDURAS    
+     
+840 = "Hunduris"   
+2637 = "Ar-Rahabi"   
+2640 = "Nabati"   
+2662 = "Qubur"   
+4593 = "Habus"   
+     
+# NICARAGUA    
+     
+837 = "Ras al-Ayn"   
+838 = "Musqayt"   
+2660 = "Kassab"   
+2661 = "Samarra'"   
+4592 = "Ayn Sukhna"   
+     
+# WEST YUCATAN   
+     
+846 = "Rajab"   
+2633 = "Dhakir"   
+2651 = "Satif"   
+4590 = "Shuma"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Bannama"   
+2664 = "Laja as-Salik"   
+2819 = "Ardh an-Nur"   
+4595 = "Abaan"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Zulfiqar"   
+916 = "Shaduna"   
+917 = "Abu Bakr al-Siddiq"   
+4903 = "Tikagah"   
+     
+# INDIANA    
+     
+942 = "Wadi Amal"   
+943 = "Ibn Qahtan"   
+2523 = "Hadhba"   
+2524 = "Malak Israfil"   
+4922 = "Bekoyah"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Buhayrat al-Hamra"   
+911 = "Yad al-'Ala"   
+2517 = "Alf Bihayrat"   
+2518 = "Dhul Hadid"   
+4898 = "Noqetiya"   
+     
+# MICHIGAN    
+     
+944 = "Turab Hunud"   
+945 = "Makinak"   
+2521 = "Khumm an-Nabi"   
+2522 = "Jisr ash-Shallal"   
+     
+# OHIO    
+     
+946 = "Ahbab ar-Rasul"   
+947 = "Khurr Dakhn"   
+948 = "Qalma"   
+2525 = "Nasira"   
+4907 = "Yesmiq"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Sawad"   
+2520 = "Musayr"   
+#N/A
+     
+# WISCONSIN    
+     
+912 = "Khanqa ash-Sharif"   
+913 = "Jannat al-Junud"   
+914 = "Bahr al-Akhdar"   
+4899 = "Maqetah"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Juthman"   
+2504 = "Kinanah"   
+2505 = "Ighrem Maghreb"   
+     
+# Central Plains   
+     
+901 = "Bani Mellal"   
+903 = "Ummaha"   
+2009 = "Ahmad al-Rifa'i"   
+2508 = "Haql as-Salihin"   
+4915 = "Bitah"   
+     
+# HIGH PLAINS   
+     
+889 = "Nabi Hud"   
+2507 = "Tawaf"   
+#N/A
+     
+# IOWA    
+     
+905 = "Ibn Tijani"   
+2513 = "Qadisiyya"   
+4900 = "Utuh"   
+4905 = "Tabuh"   
+     
+# KANSAS    
+890 = "Balad Kiwa"   
+898 = "Shinqit"   
+2672 = "Shatayr"   
+4914 = "Niudah"   
+     
+# MINNESOTA    
+     
+904 = "Fuqara"   
+908 = "Turab Yahud"   
+2512 = "Qinnasrin"   
+4901 = "Sawun"   
+     
+# NORTH DAKOTA   
+     
+906 = "Hazmiyya"   
+909 = "Ardh as-Sud"   
+2510 = "Dar Azd"   
+4918 = "Hunsah"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Qasr as-Siyah"   
+2007 = "Hisn Naqshbandi"   
+2008 = "Muraqabat"   
+4916 = "Banq"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Naisha"   
+892 = "Sheikh Qunawi"   
+896 = "Fujayra"   
+4908 = "Tawah"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Abraj al-Asfar"   
+2501 = "Hisn Suri"   
+2502 = "Shuyukh"   
+2503 = "Tal Aswad"   
+4917 = "Sellah"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Abu Tayyib"   
+2588 = "Abu Jaras"   
+2589 = "Al-Muqbali"   
+2590 = "Shallal al-Dakhn"   
+2591 = "Hisn al-Amal"   
+     
+# ALBERTA    
+     
+2004 = "Wadi al-Mawt"   
+2017 = "Harazim"   
+2018 = "Miraj"   
+2602 = "Ya Sin"   
+     
+# ASSINIBOIA    
+     
+2005 = "Zaynab al-Kubra"   
+2596 = "Masjid Sali"   
+2598 = "Awshan"   
+4920 = "Yahuba"   
+     
+# ATHABASCA    
+     
+2599 = "Ibn Hibban"   
+2600 = "Qasr al-Bukhari"   
+2601 = "Saf"   
+2603 = "Awlad Hawa'"   
+     
+# HUDSON BAY   
+     
+1005 = "Nahr al-Andalusi"   
+1006 = "Balad ath-Thalaj"   
+1009 = "Al-Mu'tasim "   
+2592 = "Zurayq"   
+2594 = "Suhul"   
+     
+# JAMES BAY   
+     
+998 = "Toshka"   
+999 = "Qarn Sharqi"   
+1000 = "Ha'il"   
+1003 = "Qutbiyya"   
+1004 = "Imam Hanbal"   
+     
+# MANITOBA    
+     
+1008 = "Askar al-Mahdi"   
+1010 = "Sumayya"   
+1011 = "Ishraq"   
+2593 = "Buhayrat ash-Shawwal"   
+4919 = "Sihabi"   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Suyuf"   
+2511 = "Mustamarat al-Berber"   
+4902 = "Maqah"   
+     
+# SASKATCHEWAN    
+     
+1813 = "Al-Hafsh"   
+2595 = "Jazirat al-Mi'dhana"   
+2597 = "Armala"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Ash-Shafi'i"   
+4646 = "Khafaja"   
+4647 = "Al-Wakra"   
+4648 = "Suq as-Sudan"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Jundishabur"   
+2642 = "Hada'iq"   
+4642 = "Zakkar"   
+     
+# GUANAJUATO    
+     
+853 = "Sultaniyya"   
+2615 = "Dumaym"   
+4640 = "Tal Tawil"   
+4641 = "Hajar al-Aswad"   
+     
+# GUERRERO    
+     
+2627 = "Anbar"   
+2645 = "Harran"   
+2648 = "Qattina"   
+     
+# HUASTECA    
+     
+848 = "Zawiyat Abu Hashim"   
+2641 = "Iktishaf"   
+4598 = "Mada'in Ilyas"   
+     
+# JALISCO    
+     
+854 = "Ras al-Khaima"   
+2617 = "Jisr ash-Sheikh"   
+2621 = "Anazzah"   
+2657 = "Ibn Taymiyya"   
+4576 = "Ruwallah"   
+     
+# MEXICO    
+     
+852 = "Meksik"   
+2626 = "Mawsil al-Jadid"   
+4570 = "Fayyum al-Jadid"   
+4571 = "Ayn ash-Shuhada"   
+4572 = "Sidi Bin Abbas"   
+     
+# MICHOAVAN    
+     
+2622 = "Sayyida Aisha"   
+2623 = "Hisn Kurdi"   
+2624 = "Mazhar al-Quddus"   
+4573 = "Bi'r Turk"   
+4574 = "Wargla"   
+     
+# MIXTECA    
+     
+847 = "Bayt Jala"   
+849 = "Al-Yamun"   
+2646 = "Gamaliya"   
+4581 = "Rasulullah"   
+     
+# NAYARIT    
+     
+855 = "Marsa Nayrit"   
+859 = "Ayyubi"   
+4578 = "Nahr al-Kalb"   
+     
+# Oaxaca    
+     
+844 = "Abu Hanifa"   
+2629 = "Hayy as-Salam"   
+4584 = "Bint Ujrud"   
+     
+# PUEBLA    
+     
+850 = "Azzaba"   
+2628 = "Mahmudiyya"   
+2644 = "Shululah"   
+4582 = "Mutayr"   
+4583 = "Fustat"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Ruh al-Aqdas"   
+2643 = "Abraj Abi Bakr"   
+4575 = "Ghadir"   
+4579 = "Jadwal Hurr"   
+4580 = "Nakhil"   
+     
+# VERACRUZ    
+     
+2630 = "Asyut"   
+2631 = "Dhuba"   
+2647 = "Nabi Lut"   
+     
+# ZACATECAS    
+     
+856 = "Bukhariyya"   
+4643 = "Malik bin Anas"   
+4645 = "Salamayn"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Al-Abma"   
+925 = "Dhul Afa'i"   
+2531 = "Ghabat Bayda"   
+2532 = "Jisr Ghatafan"   
+4883 = "Nabotah"   
+     
+# ARKANSAS    
+     
+894 = "Muhammarah"   
+895 = "Sheikh ash-Shadhili"   
+897 = "Hujayr"   
+4885 = "Yabah"   
+4923 = "Baqaha"   
+     
+# KENTUCKY    
+     
+941 = "Sidi Ismail"   
+2526 = "Naqada"   
+4888 = "Taterah"   
+     
+# LOUISIANA    
+     
+893 = "Iskandariyya al-Jadida"   
+2014 = "Dar al-Anhar"   
+2516 = "Buhayrat al-Qadi"   
+     
+# MISSISSIPPI    
+     
+919 = "Shadhiliyya"   
+920 = "Khurr al-Anwar"   
+2528 = "Halat"   
+2529 = "Buk Nakir"   
+4884 = "Humah"   
+     
+# OZARKS    
+     
+899 = "Draa"   
+2509 = "Bistan Bilal"   
+2515 = "Baladat Misriyya"   
+4886 = "Naqah"   
+     
+# TENNESSEE    
+     
+918 = "Al-Uqsur"   
+934 = "Dhul Thaqalayn"   
+939 = "Dayr Giza"   
+4913 = "Aniyutsi"   
+     
+# UPPER LOUISIANA   
+     
+900 = "Kut al-Arab"   
+902 = "Musurri"   
+2514 = "Ayn al-Junud"   
+4906 = "Qarah"   
+     
+# VANDALIA    
+     
+951 = "Mamalik"   
+2551 = "Maqil Zarkashi"   
+4889 = "Mortah"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Kentagi"   
+4887 = "Kotaq"   
+4921 = "Kentuq"   
+     
+# WEST FLORIDA   
+     
+921 = "Abu Timsah"   
+922 = "Khurr al-Hunud"   
+923 = "Dhul Berber"   
+2530 = "Burj al-Burnawi"   
+2533 = "Tinduf"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Masjid Abbas"   
+2555 = "Agadez"   
+4875 = "Khanah"   
+     
+# CONNECTICUT    
+     
+967 = "Razzaq"   
+2010 = "Mu'allim"   
+2560 = "Thamud"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Khurr al-Anwar"   
+957 = "Dhul Ward"   
+962 = "Bustan"   
+2023 = "Wadi al-Awliya"   
+     
+# EASTERN MAINE   
+     
+971 = "Karama"   
+2566 = "Aws"   
+2567 = "Ar-Rustuq"   
+     
+# HUDSON VALLEY   
+     
+961 = "Kut Quraysh"   
+963 = "Albaniyya"   
+964 = "Hayy ath-Thani"   
+2559 = "Ibn Furak"   
+4912 = "Kaniyat"   
+     
+# IRIQUOISIA    
+     
+958 = "Abu Fil"   
+959 = "Bani Mellal"   
+960 = "Qayyim"   
+4872 = "Besroh"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Ayn al-Maktum"   
+2563 = "Abdulaziz"   
+4871 = "Al Kowasuq"   
+     
+# MAINE    
+     
+2013 = "Kaskuh"   
+2565 = "Umm al-Mu'minin"   
+4873 = "Al Bewak"   
+     
+# MARYLAND    
+     
+953 = "Sindawi"   
+2553 = "Fath al-Azim"   
+2554 = "Tarf at-Tin"   
+     
+# MASSACHUSETTS    
+     
+966 = "Al-Maysar"   
+968 = "Muhammadiyya"   
+2561 = "Shuhada"   
+4874 = "Algharbiya"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Bur Hamza"   
+2562 = "Hula"   
+2564 = "Jibal al-Ihram"   
+     
+# NEW YORK   
+     
+965 = "Feziyya"   
+2558 = "Mursalin"   
+2639 = "Ma'adhin"   
+     
+# WESTYLVANIA    
+     
+955 = "Sheikh al-Jazuli"   
+2556 = "Muhaddith"   
+2557 = "Ibn Tufayl"   
+4876 = "Sanentah"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Al-Mamar"   
+864 = "Dhu Badu"   
+2618 = "Damas"   
+4644 = "Banu Ifran"   
+     
+# COAHUILA    
+     
+861 = "Jinjala"   
+864 = "Dhu Badu"   
+2666 = "Nahar al-Muharram"   
+2667 = "Mustamarat al-Jadida"   
+4606 = "Yafa"   
+     
+# COASTAL PRARIE   
+     
+884 = "Azamor"   
+888 = "At-Takaba"   
+2665 = "Baggara"   
+2669 = "Husnayn"   
+     
+# LLANO ESTACADO   
+     
+882 = "Rimal Bayda"   
+885 = "Tekzas"   
+2496 = "Rimah"   
+2497 = "Tuwat"   
+4630 = "Ras Wali"   
+     
+# PECOS    
+     
+2498 = "Asqalan"   
+4628 = "Hisn Zuayb"   
+4629 = "Waliullah"   
+     
+# TAMAULIPAS    
+     
+858 = "Khansa'i"   
+2499 = "Ibn Suhayb"   
+2614 = "Imam Zayd"   
+2668 = "Mustaghanam"   
+     
+# TEXAS    
+     
+883 = "Lubnayn"   
+887 = "Israa"   
+4627 = "Izeh"   
+4911 = "Nabaqah"   
+     
+# TEXAS PLAINS   
+     
+886 = "Qoresh"   
+2500 = "Manzala"   
+4909 = "Qitah"   
+4910 = "Tabaqah"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+#N/A
+928 = "Abu Lashi"   
+2534 = "Tarus"   
+     
+# FLORIDA    
+     
+926 = "Sahliyya"   
+2535 = "Qasr al-Malik"   
+2536 = "Mina' al-Amin"   
+4625 = "Ras Wazir"   
+4626 = "Al-Jilani"   
+     
+# GEORGIA    
+     
+929 = "Safana"   
+2537 = "Rizq al-Jadid"   
+2538 = "Firdaws"   
+2539 = "Jamalayn"   
+4880 = "Kumbawah"   
+     
+# GREAT VALLEY   
+     
+949 = "Wadi Mawt"   
+2011 = "Nabi Nuh"   
+2548 = "Hurr"   
+2552 = "Jibal Ibn Sina"   
+     
+# NORTH CAROLINA   
+     
+937 = "Thaqalayn"   
+938 = "Sala al-Jadid"   
+2546 = "Sheherezad"   
+2547 = "Tarf al-Ishq"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Wadi Fars"   
+936 = "Muhajirun"   
+2527 = "Oranah"   
+4879 = "Kituhaq"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Rif at-Tuyur"   
+2545 = "Qusayrah"   
+4878 = "Yenah"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Al-Sakakah"   
+2542 = "Ibn Bajjah"   
+2543 = "Bayt al-Mu'min"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Imam Malik"   
+2541 = "Sheikh al-Akbar"   
+4882 = "Yetah"   
+     
+# UPPER GEORGIA   
+     
+930 = "Ayn al-Qudat"   
+931 = "Khawkh"   
+2540 = "Al-Baja'u"   
+4881 = "Sawokah"   
+     
+# VIRGINIA    
+     
+950 = "Ward Sharif"   
+952 = "Abi Waqqas"   
+2549 = "Ibb"   
+2550 = "Rabbahunuq"   
+4877 = "Butah"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Sahl al-Hunud"   
+2935 = "Bab as-Salam"   
+2938 = "Abu Hurayra"   
+     
+# AMAZON    
+     
+2889 = "Al-Qasabi"   
+2930 = "Hisn al-Mukhfi"   
+2933 = "Tulal"   
+2934 = "Azbat al-Miyah"   
+     
+# BAHIA    
+     
+756 = "Suq al-Azbak"   
+757 = "Hazrat Fatima"   
+760 = "Mina' as-Salim"   
+2914 = "Ighrem Ibrim"   
+2916 = "Dhu Akrad"   
+     
+# CEARA    
+     
+750 = "Nekur"   
+751 = "Ibn Tashfin"   
+753 = "Bab al-Hujaj"   
+     
+# DIAMANTINA    
+     
+759 = "Masawiyya"   
+2891 = "Mishmish"   
+2898 = "Al-Birah"   
+     
+# GOIAS    
+     
+758 = "Ibn Qahtan"   
+2906 = "Afragha"   
+2907 = "Tayy"   
+2908 = "Bu'inania"   
+2919 = "Nistas"   
+     
+# GRAO PARA   
+     
+748 = "Bayt Lahm"   
+2890 = "Ibn Bajja"   
+2928 = "Ibn Tumart"   
+2929 = "Ibn Ikram"   
+     
+# GUAPORE    
+     
+2900 = "Qasr al-Hakam"   
+2901 = "Manasir"   
+2902 = "Baltim"   
+     
+# GUAYRA    
+     
+768 = "Ghirah"   
+2895 = "Mansuriyya"   
+2897 = "Ramshir"   
+     
+# MARANHAO    
+     
+749 = "Sayfiyyah"   
+2923 = "Kahlan"   
+2924 = "Al-Qaa"   
+2926 = "Shayban"   
+2927 = "Mahmara"   
+     
+# MATO GROSSO   
+     
+2888 = "Samayda"   
+2903 = "Aghmat"   
+2904 = "Ras Mas"   
+2905 = "Dayr Ammar"   
+     
+# MINAS GERAIS   
+     
+765 = "Umm al-Aghlam"   
+2892 = "Banu Ghaniya"   
+2894 = "Murabitun"   
+2899 = "Sijilmasa"   
+     
+# OFAIE    
+     
+2881 = "Al-Hawd"   
+2893 = "Runda"   
+2920 = "Abda"   
+     
+# PERNAMBUCO    
+     
+754 = "Khatt"   
+755 = "Al-Umara"   
+2912 = "Sij"   
+2921 = "Temsaman"   
+2922 = "Abu Inan"   
+     
+# PIAUI    
+752 = "Bayt al-Ahzan"   
+2886 = "Ghazawan"   
+2925 = "Juhaynah"   
+     
+# PONTAL    
+     
+2909 = "Kafr al-Amir"   
+2910 = "Qantara"   
+2911 = "Buzayma"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Malak Jibril"   
+762 = "Rabha"   
+763 = "Mazharallah"   
+764 = "Jalilah"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Ashbuna as-Sughra"   
+2879 = "Haql al-Maktum"   
+2884 = "Kawthar"   
+2887 = "Adawiyya"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Tirwal"   
+2913 = "Al-Khansa"   
+2915 = "Tiznit"   
+2917 = "Burj Alia"   
+2918 = "Ait Bin Ahmad"   
+     
+# SAO PAULO   
+     
+766 = "Salahuddin"   
+769 = "Shabwat"   
+2896 = "Andarash"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Garnatah al-Jadidah"   
+832 = "Haydar"   
+4602 = "Khazraj"   
+4603 = "Nizawiyyah"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Ibn Muslim"   
+2810 = "Wilaverstan"   
+2813 = "Bani Guil"   
+4613 = "Nuris adh-Dhahik"   
+4614 = "Najaf al-Jadid"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Ardhallah"   
+2816 = "Awamir"   
+4605 = "Meni'ah"   
+     
+# COQUIVACOA    
+     
+828 = "Tunis al-Jadid"   
+829 = "Lutfullah"   
+2806 = "Tarf al-Hurr"   
+4599 = "Sijilmasa"   
+4601 = "Dhi Qar"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Berberiyya"   
+827 = "Antakya al-Jadida"   
+2817 = "Nablus"   
+4600 = "Nizamiyya"   
+4607 = "Duwis"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Al-Nuwaymi"   
+2809 = "Daraksa"   
+2939 = "Dakhla"   
+4615 = "Khafji"   
+     
+# GUYANA    
+     
+502 = "Ittihad"   
+743 = "Qulayb"   
+744 = "Tibaza"   
+2803 = "Qarib"   
+     
+# MARACAIBO    
+     
+830 = "Burj Ahwaz"   
+2807 = "Asad"   
+4609 = "Imbaba"   
+4610 = "Khulayj"   
+4611 = "Abu Aisha"   
+     
+# POPAYAN    
+     
+823 = "Laqant"   
+826 = "Balad al-Harr"   
+2818 = "Zimamra"   
+4596 = "Ayn al-Balushi"   
+4604 = "Taqatu' Turuq"   
+     
+# SURINAME    
+     
+745 = "Wardah"   
+746 = "Areyha"   
+2937 = "Surinam"   
+     
+# UPPER GUYANA   
+     
+742 = "Ghabat al-Khidr"   
+2804 = "Lahiq bin Malik"   
+2811 = "Ayn Madhi"   
+2931 = "Dhawahir"   
+4617 = "Nekor"   
+     
+# VENEZUELA    
+     
+741 = "Qasr Hajjaj"   
+831 = "Suran"   
+2808 = "Ghazaliyyah"   
+4612 = "Abwab"   
+4616 = "Kalba'"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Qaryat Khudra"   
+2814 = "Mawqif"   
+2815 = "Mahallat al-Hamra"   
+4608 = "Madrasa Junayd"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Shama'iyya"   
+786 = "Qiftah"   
+2868 = "Darb al-Darqawiyin"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Tarablus"   
+773 = "Sahl as-Sud"   
+2850 = "Hyayna"   
+2851 = "Mustamara"   
+2852 = "Abu Umar"   
+     
+# BUENOS AIRES   
+     
+778 = "Ayn ar-Riyah"   
+2846 = "Al-Gara"   
+2848 = "Kut al-Wazir"   
+2849 = "Zahriyya"   
+     
+# CENTRAL CHILE   
+     
+784 = "Duris"   
+787 = "Kafr al-Bawab"   
+2862 = "Qalbayn"   
+     
+# CUYO    
+     
+2843 = "Hayzuq"   
+2844 = "Abbara"   
+2845 = "Umm Anas"   
+2847 = "Al-Ghardaqa"   
+2877 = "Imlil"   
+     
+# MESOPOTAMIA    
+     
+777 = "Tukh"   
+2853 = "Habibti"   
+2855 = "Ighrem Ismail"   
+2858 = "Ayt Buhu"   
+2859 = "Laja at-Tajir"   
+     
+# NEHEUNKEN    
+     
+785 = "Ghosta"   
+2867 = "Azwafit"   
+2871 = "Hisn Yashkur"   
+2872 = "Al-Mutanabbi"   
+     
+# PATAGONIA    
+     
+781 = "Bur Mahbub"   
+782 = "Balad an-Nar"   
+2869 = "Mahdid"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Sheikh Zayed"   
+2870 = "Umm al-Qurra"   
+2875 = "Zarruq"   
+2876 = "Daws"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Tahlab"   
+2025 = "Munazila"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Qasr Hamud"   
+2873 = "Al-Hammam"   
+2874 = "Kunud"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Qalat Bekaa"   
+2860 = "Haql Numayr"   
+2861 = "Humaythara"   
+2865 = "Tal Burtuqal"   
+2866 = "Basatin"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Rasul as-Salam"   
+804 = "Salkhad"   
+2831 = "Jabal Druze"   
+2947 = "Mazraq"   
+     
+# CAJAMARCA    
+     
+813 = "Kafr Ghufr"   
+2824 = "Zaab"   
+2825 = "Dar Suleyman"   
+2943 = "Nukha"   
+     
+# CHIMOR    
+     
+812 = "Hisn Isma'ili"   
+2002 = "Asafir"   
+2821 = "Ghar Mahdi"   
+2822 = "Al-Hajj Mahmud"   
+2826 = "Dhurays al-Qaysi"   
+     
+# HUANUCO    
+     
+809 = "Lima"   
+810 = "Al-Hamam"   
+811 = "Abu Kamal"   
+814 = "Tawhid"   
+2827 = "Masjid ar-Rahman"   
+     
+# IQUITOS    
+     
+815 = "Amid"   
+818 = "Al-Mulk"   
+821 = "Bani Salim"   
+     
+# KUNTISUYU    
+     
+807 = "Madinat al-Waqf"   
+808 = "Mazhar al-Mahdi"   
+2829 = "Kazimayn"   
+2830 = "Farhash"   
+     
+# PERUAN COAST   
+     
+805 = "Sidi Dawud"   
+806 = "Nazka"   
+2828 = "Shush"   
+     
+# QUITO    
+     
+816 = "Kut al-Sindi"   
+817 = "Awlaki"   
+819 = "Mahmudiyya"   
+820 = "Najarrah"   
+2820 = "Saba'a 'Ayun"   
+     
+# UCAYALI    
+     
+2823 = "Thamanyat Widyan"   
+2944 = "Usran"   
+2945 = "Muhammad al-Hafiz"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Dayr al-Ghaba"   
+801 = "Ibn Rushd"   
+2834 = "Abu Lama"   
+     
+# CHACO    
+     
+790 = "Haql al-Janubi"   
+2854 = "Haql al-Markazi"   
+2878 = "Safa"   
+     
+# JUJUY    
+     
+794 = "Hudayda"   
+2837 = "Sant Katrin"   
+2839 = "Jabal Sama'un"   
+     
+# MOXOS    
+     
+803 = "Shirbin"   
+2832 = "Sidi Baba"   
+2833 = "Sayyida Maryam"   
+     
+# NORTHERN CHILE   
+     
+792 = "Ras Nahas"   
+793 = "Suq Shilay"   
+796 = "Ma'rib"   
+2840 = "Yaqubiyya"   
+2841 = "Hajji Ahmad"   
+     
+# PARAGUAY    
+     
+775 = "Sheikh Ubayd"   
+776 = "Marsa Kubra"   
+799 = "Haql ash-Shamali"   
+2882 = "Abu Samra"   
+2883 = "Kasarnaba"   
+     
+# POTOSI    
+     
+795 = "Kafr Zaytim"   
+797 = "Khalwat al-Bayada"   
+2940 = "Darkhuwin"   
+2946 = "Lajat"   
+     
+# TUCUMAN    
+     
+791 = "Jabal Badu"   
+2836 = "Bu Hanzala"   
+2842 = "Nisibis"   
+     
+# UPPER PERU   
+     
+2835 = "Qurayza"   
+2838 = "Taraya"   
+2941 = "Abu Haddad"   
+2942 = "Murzuq"

@@ -1,0 +1,12 @@
+### FRANCONIAN CULTURE
+
+4718 = {"Aschebersch" "Aschebersch"}
+79 = {"Wörtzburch" "Wörtzburch"}
+4715 = {"Rothenburch" "Rothenburch ob der Tauber"}
+71 = {"Anschba" "Anschba"}
+4716 = {"Coburch" "Coburch"}
+66 = {"Bambärch" "Bambärch"}
+67 = {"Nämberch" "Nämberch"}
+4717 = {"Bareid" "Bareid"}
+4714 = {"Kallsruh" "Kallsruh"}
+2967 = {"Kallsbad" "Kallsbad"}

@@ -1,0 +1,1833 @@
+### EUROPE
+
+## CARPATHIANS
+
+# Alföld
+
+155 = {"Békés" "Gyula"}
+1953 = {"Szabolcs" "Debrecen"}
+1954 = {"Torontál" "Nagybecskerek"}
+4125 = {"Szolnok" "Szolnok"}
+
+# Moldova
+
+268 = {"Szucsáva" "Szucsáva"}
+1756 = {"Bazarábföld" "Kilija"}
+2405 = {"Teganyák" "Teganyák"}
+4529 = {"Jászvásár" "Jászvásár"}
+4530 = {"Barlád" "Barlád"}
+
+# Northern Transilvania
+
+157 = {"Bihar" "Nagyvárad"}
+158 = {"Maros" "Marosvásárhely"}
+1952 = {"Máramaros" "Huszt"}
+4127 = {"Torda" "Torda"}
+
+# Slovakia
+
+154 = {"Hont" "Hontnémeti"}
+162 = {"Zemplén" "Zemplén"}
+1318 = {"Szepesség" "Szepesség"}
+1772 = {"Pozsony" "Pozsony"}
+4236 = {"Trencsén" "Trencsén"}
+
+# Southern Transilvania
+
+156 = {"Temes" "Temesvár"}
+1951 = {"Hunyad" "Gyulafehérvár"}
+4128 = {"Királyföld" "Nagyszeben"}
+
+# Transdanubia
+
+135 = {"Sopron" "Sopron"}
+153 = {"Pest" "Buda"}
+1864 = {"Somogy" "Kaposvár"}
+4126 = {"Bács" "Bács"}
+4240 = {"Féjer" "Székesfehérvár"}
+
+# Wallachia
+
+160 = {"Kis-Oláhország" "Királyi"}
+161 = {"Tergovistye" "Tergovistye"}
+2998 = {"Bodza" "Bodza"}
+4531 = {"Fekete Gyergyó" "Fekete Gyergyó"}
+4532 = {"Szörénytornya" "Szörény"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Valóna" "Valóna"}
+4174 = {"Duránc" "Duránc"}
+4175 = {"Lezha" "Lezha"}
+4750 = {"Kruja" "Kruja"}
+
+# Bosnia
+
+139 = {"Halomfölde" "Mosztár"}
+140 = {"Ráma" "Grádina"}
+1831 = {"Hercegovina" "Trebinyi"}
+3002 = {"Viszóka" "Viszóka"}
+4755 = {"Drinavölgy" "Visegrád"}
+
+# Bulgaria
+
+150 = {"Nikápoly" "Nikápoly"}
+1765 = {"Szeredoc" "Szeredoc"}
+2746 = {"Bodony" "Bodony"}
+2750 = {"Filipápoly" "Filipápoly"}
+4703 = {"Válbosd" "Válbosd"}
+
+# Croatia
+
+131 = {"Zágráb" "Zágráb"}
+1826 = {"Lika" "Zengg"}
+1828 = {"Alföld" "Jacja"}
+4752 = {"Fiume" "Fiume"}
+
+# Dalmatia
+
+136 = {"Spalató" "Spalató"}
+137 = {"Raguza" "Raguza"}
+4753 = {"Zadár" "Zadár"}
+
+# Macedonia
+
+148 = {"Macedónia" "Szaloniki"}
+1853 = {"Kastória" "Kasztorvár"}
+3001 = {"Szkopje" "Szkopje"}
+4702 = {"Szerezs" "Szerezs"}
+4780 = {"Ohrid" "Ohrid"}
+
+# Morea
+
+145 = {"Lakonía" "Misztrász"}
+146 = {"Athén" "Athén"}
+163 = {"Kréta" "Iráklio"}
+1773 = {"Akhája" "Pátra"}
+4701 = {"Korinthosz" "Korinthosz"}
+
+# Northern Greece
+
+142 = {"Korfu" "Korfu"}
+144 = {"Epirusz" "Joánnia"}
+147 = {"Thesszália" "Lárisza"}
+4698 = {"Kefalónia" "Szent György"}
+4699 = {"Árta" "Nafpák"}
+
+# Rascia
+
+138 = {"Zéthy" "Zaplék"}
+1766 = {"Rigómezo" "Pristina"}
+1827 = {"Raskó" "Tordisz"}
+4754 = {"Kotó" "Kotó"}
+
+# Serbia
+
+141 = {"Szendro" "Szendro"}
+3000 = {"Nissa" "Nissa"}
+4176 = {"Baráncs" "Kúszov"}
+4239 = {"Nándorfehérvár" "Nándorfehérvár"}
+4757 = {"Kolbóra" "Macsóko"}
+
+# Silistria
+
+159 = {"Durosztol" "Durosztol"}
+4704 = {"Tövisvár" "Tövisvár"}
+4706 = {"Tulcsa" "Tulcsa"}
+
+# Slavonia
+
+152 = {"Varasd" "Varasd"}
+1767 = {"Szlavónia" "Eszék"}
+4173 = {"Szerém" "Dömötlak"}
+4756 = {"Belovár" "Belovár"}
+
+# Thrace
+
+149 = {"Drinápoly" "Drinápoly"}
+151 = {"Konstantinápoly" "Konstantinápoly"}
+1764 = {"Burgasz" "Burgasz"}
+4705 = {"Komotin" "Komotin"}
+4779 = {"Gyelepoly" "Gyelepoly"}
+
+## POLAND
+
+2960 = {"Újszandec" "Újszandec"}
+262 = {"Krakkó" "Krakkó"}
+2959 = {"Tarnó" "Tarnó"}
+259 = {"Szondamér" "Szondamér"}
+281 = {"Podólia" "Kováros-Podoli"}
+261 = {"Gácsország" "Gácsvaros"}
+2961 = {"Ilyvó" "Ilyvó"}
+4541 = {"Drohobics" "Drohobics"}
+2424 = {"Przemyisz" "Przemyisz"}
+1940 = {"Belc" "Belc"}
+4538 = {"Halomvár" "Halomvár"}
+260 = {"Lyubán" "Lyubán"}
+4527 = {"Csenciny" "Csenciny"}
+263 = {"Rabory" "Rabory"}
+4723 = {"Opoly" "Opoly"}
+264 = {"Boroszló" "Boroszló"}
+4238 = {"Legnyica" "Legnyica"}
+2966 = {"Glogú" "Glogú"}
+
+# Central Poland
+
+258 = {"Sierács" "Sierács"}
+1939 = {"Lencsica" "Lencsica"}
+4533 = {"Vielun" "Vielun"}
+
+# Kuyavia
+
+1859 = {"Helmnó" "Helmnó"} 
+4523 = {"Inoboroszló" "Inoboroszló"}
+4524 = {"Dobrény" "Dobrény"}
+4528 = {"Kujávia" "Kujáviai Szilfalva"}
+
+# Mazovia
+
+256 = {"Palacka" "Palacka"}
+257 = {"Varsó" "Varsó"}
+1938 = {"Vízna" "Vízna"}
+4525 = {"Ráva" "Ráva"}
+
+# Wielkopolska
+
+254 = {"Posány" "Posány"}
+255 = {"Kalis" "Kalis"}
+2963 = {"Nakló" "Nakló a Notec"}
+4526 = {"Gnieznó" "Gnieznó"}
+
+## BALTIC
+
+# East Prussia
+
+40 = {"Klaipéda" "Klaipéda"}
+41 = {"Királyhegy" "Királyhegy"}
+42 = {"Lenosztín" "Lenosztín"}
+767 = {"Sörtékyn" "Sörtékyn"}
+2958 = {"Osztráda" "Osztráda"}
+
+# West Prussia
+
+43 = {"Dancka" "Dancka"}
+1841 = {"Malbók" "Malbók"}
+2997 = {"Tuhola" "Tuhola"}
+
+## SOUTH GERMANY
+
+# Bohemia
+
+266 = {"Prága" "Prága"}
+2968 = {"Budavics" "Budavics"}
+2970 = {"Királyvárad" "Királyvárad"}
+4724 = {"Pardubica" "Pardubica"}
+4725 = {"Héderváralja" "Héderváralja"}
+
+# Erzgebirge
+
+267 = {"Plezsnó" "Plezsnó"}
+1771 = {"Litomérica" "Litomérice"}
+2967 = {"Egro" "Egro"}
+
+# Moravia
+
+265 = {"Börénvásár" "Börénvásár"}
+4237 = {"Alamóc" "Alamóc"}
+4726 = {"Osztravá" "Osztravá"}
+
+# Austria
+
+134 = {"Bécs" "Bécs"}
+1770 = {"Manhárthegy" "Kremsz a Dunán"}
+1863 = {"Grác" "Grác"}
+4759 = {"Felso-Korontályország" "Velác"}
+128 = {"Alsó-Korontályország" "Bánatvár"}
+4762 = {"Alsó-Ausztria" "Szentpöltény"}
+133 = {"Felso-Ausztria" "Linc"}
+4761 = {"Sztejr" "Sztejr"}
+132 = {"Stájerország" "Zsidóvár"}
+76 = {"Sóvár" "Sóvár"}
+1768 = {"Lienz" "Lienz"}
+4758 = {"Ecshtál" "Merán"}
+110 = {"Trentó" "Trentó"}
+73 = {"Innvölgy" "Innhíd"}
+4710 = {"Elottarlhegy" "Brigánia"}
+4760 = {"Innnegyed" "Braunó az Inn partján"}
+
+# Carniola
+
+130 = {"Isztria" "Póla"}
+129 = {"Krajna" "Lublyána"}
+1769 = {"Gorisza" "Gorisza"}
+4738 = {"Trieszt" "Trieszt"}
+4751 = {"Cille" "Cille"}
+
+# Baden
+
+72 = {"Breisga" "Freibárk"}
+74 = {"Báden" "Báden"}
+4714 = {"Durlák" "Durlák"}
+
+# East Bavaria
+
+4709 = {"Passzó" "Passzó"}
+
+# East Swabia
+
+68 = {"Meming" "Meming"}
+1868 = {"Ágosta" "Ágosta"}
+1872 = {"Ulm" "Ulm"}
+4711 = {"Dunaújváros" "Dunaújváros"}
+
+# Lower Franconia
+
+71 = {"Anszbác" "Anszbác"}
+79 = {"Vürcbúr" "Vürcbúr"}
+4715 = {"Vörösvár" "Vörösvár a Tabro"}
+4718 = {"Aszoffovár" "Aszoffovár"}
+
+# Lower Bavaria
+
+64 = {"Landszút" "Landszút"}
+1757 = {"Felso-Pfalz" "Amberka"}
+2956 = {"Stróbing" "Stróbing"}
+2957 = {"Regensza" "Regensza"}
+
+# Switzerland
+
+166 = {"Erdovárosok" "Svájc"}
+1869 = {"Cürich" "Cürich"}
+1870 = {"Szent Gálen" "Szent Gálen"}
+1873 = {"Kur" "Kur"}
+4722 = {"Ilánz" "Ilánz"}
+
+# Upper Bavaria
+
+65 = {"München" "München"}
+2955 = {"Ingoltá" "Ingoltá"}
+4707 = {"Víztározó" "Inn-i Víztározó"}
+4708 = {"Freszingy" "Freszingy"}
+
+# Upper Franconia
+
+66 = {"Bámberk" "Bámberk"}
+67 = {"Nürnberk" "Nürnberk"}
+4716 = {"Kobark" "Kobark"}
+4717 = {"Bayrúd" "Bayrúd"}
+
+# West Swabia
+
+70 = {"Sztutgárd" "Sztutgárd"}
+4712 = {"Konstanc" "Konstanc"}
+4713 = {"Urakh" "Rotlinga"}
+
+## NORTHERN GERMANY
+
+# Hinterpommern
+
+48 = {"Kólpart" "Kólpart"}
+2995 = {"Slupszk" "Slupszk"}
+4746 = {"Sztarvár" "Sztarvár"}
+
+# Lusatia
+
+60 = {"Budiszín" "Budiszín"}
+1763 = {"Alsó-Lusztácia" "Hosebusz"}
+4778 = {"Perhely" "Perhely"}
+
+# Mittelmark
+
+50 = {"Berlin" "Berlin-Kolonya"}
+51 = {"Újrupino" "Újrupino"}
+1759 = {"Pocdam" "Pocdam"}
+2993 = {"Prenzló" "Prenzló"}
+4748 = {"Bradenvár" "Bradenvár a Havelen"}
+
+# Neumark
+
+49 = {"Újmarva" "Gorzzó"}
+2969 = {"Torzsím" "Torzsím"}
+4747 = {"Drávska" "Drávska"}
+
+# Saxony
+
+59 = {"Vittenbérk" "Vittenbérk"}
+61 = {"Drezda" "Drezda"}
+62 = {"Lipcse" "Lipcse"}
+4744 = {"Zwikkó" "Zwikkó"}
+
+# Thuringia
+
+63 = {"Erford" "Erford"}
+2965 = {"Vogtó" "Pláen"}
+4743 = {"Veimár" "Veimár"}
+
+# Vorpommern
+
+47 = {"Sztálcund" "Sztálcund"}
+1858 = {"Szecsén" "Szecsén"}
+2994 = {"Volgász" "Volgász"}
+4745 = {"Rügéns" "Hegyek a Rügén"}
+
+## ITALY
+
+# Campania
+
+121 = {"Nápoly" "Nápoly"}
+
+# Lazio-Umbria
+
+118 = {"Róma" "Róma"}
+
+# Liguria
+
+101 = {"Génua" "Génua"}
+
+# Lombardy
+
+104 = {"Milánó" "Milánó"}
+1862 = {"Kremóna" "Kremóna"}
+2979 = {"Novára" "Novára"}
+4728 = {"Pávia" "Pávia"}
+4740 = {"Kómo" "Kómo"}
+
+# Venetia
+
+108 = {"Veróna" "Veróna"}
+111 = {"Friula" "Udin"}
+112 = {"Velence" "Velence"}
+1774 = {"Trevízó" "Trevízó"}
+4729 = {"Patua" "Patua"}
+
+### ASIA
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Náxosz" "Náxosz"}
+320 = {"Rodosz" "Rodosz"}
+2348 = {"Khíosz" "Khíosz"}
+3003 = {"Évia" "Halkída"}
+4700 = {"Leszbosz" "Mitillíni"}
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+
+# ALTA CALIFORNIA   
+
+868 = "Csumás"   
+869 = "Szalinda"   
+2021 = "Mivok"   
+2476 = "Köményes"   
+4637 = "Rozgovány"   
+     
+# APACHERIA    
+     
+879 = "Indel"   
+2492 = "Csiricság"   
+4634 = "Cserdi"   
+     
+# ARIZONA    
+     
+867 = "Köhida"   
+876 = "Jávorfalva"   
+877 = "Pima"   
+2491 = "Hajagoslapágy"   
+4633 = "Sobrák"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Kocsárd"   
+866 = "Bakurász"   
+2620 = "Nagykapos"   
+4639 = "Pápamindszent"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Jokuta"   
+2478 = "Técsö"   
+4635 = "Taktaharkány"   
+4636 = "Döbrököz"   
+     
+# COLORADO PLATEU   
+     
+875 = "Palotás"   
+878 = "Dinavásárhely"   
+2493 = "Hopolya"   
+2494 = "Zúgó"   
+     
+# NEW MEXICO   
+     
+880 = "Aszlár"   
+881 = "Pirosd"   
+2495 = "Akmár"   
+4631 = "Tóti"   
+4632 = "Salamontornya"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Pomáz"   
+2477 = "Jókaháza"   
+2479 = "Majoros"   
+2480 = "Sóstó"   
+4638 = "Ónod"   
+     
+# SONORA    
+     
+862 = "Jakabfalu"   
+2616 = "Szepsi"   
+4577 = "Dobroszló"   
+4649 = "Pázmándfalu"   
+4650 = "Szerecseny"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Iglinc"   
+2576 = "Minga"   
+2577 = "Magyarkanizsa"   
+2578 = "Antalbánya"   
+2579 = "Pincehely"   
+     
+# GREENLAND    
+     
+1104 = "Istvánföld"   
+1105 = "Nyugatvég"   
+     
+# HURONIA    
+     
+988 = "Húros"   
+989 = "Sikondár"   
+2585 = "Kisboroszló"   
+2670 = "Tordaszentlászló"   
+     
+# LABRADOR    
+     
+997 = "Csizér"   
+2574 = "Sziklavárhely"   
+2575 = "Nagykapu"   
+     
+# LAURENTIA    
+     
+992 = "Aldaróc"   
+2581 = "Temeskanizsa"   
+4894 = "Szerencs"   
+     
+# LOWER ACADIA   
+     
+982 = "Uszlony"   
+984 = "Sipek"   
+2568 = "Keresztes"   
+2569 = "Esküllö"   
+4891 = "Örményes"   
+     
+# LOWER CANADA   
+     
+993 = "Holcmány"   
+2584 = "Lovászi"   
+4895 = "Nyírtura"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Betlenfalva"   
+981 = "Takcsány"   
+2573 = "Palocsaújfalu"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Tiszatenyo"   
+4892 = "Kisújszállás"   
+4897 = "Legyesbénye"   
+     
+# QUEBEC    
+     
+986 = "Keszteg"   
+994 = "Szadakony"   
+995 = "Tálosfalva"   
+2582 = "Malomrét"   
+2583 = "Ecsed"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Váristók"   
+2571 = "Madarász"   
+4896 = "Tiszaladány"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Majlád"   
+2012 = "Araszlán"   
+2580 = "Almáshuta"   
+2580 = "Almáshuta"   
+     
+# UPPER ACADIA   
+     
+983 = "Eperjes"   
+985 = "Makóháza"   
+2572 = "Szikvíz"   
+     
+# UPPER CANADA   
+     
+987 = "Nagylók"   
+2586 = "Tarcaszentpéter"   
+2587 = "Odvasháza"   
+     
+# UPPER ONTARIO   
+     
+991 = "Mezöség"   
+1001 = "Szokol"   
+1007 = "Ókér"   
+2015 = "Nagykászon"   
+2671 = "Mirkvásár"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Bardóc"   
+2658 = "Magános"   
+2659 = "Magosfalu"   
+4620 = "Csibrák"   
+4621 = "Újpusztaszer"   
+     
+# EAST CUBA   
+     
+486 = "Nagyrév"   
+2654 = "Baracska"   
+2655 = "Bajaszombathely"   
+2656 = "Kámaháza"   
+     
+# GREATER ANTILLES   
+     
+481 = "Parmenius-sziget"   
+487 = "Királyvárad"   
+491 = "Ispotály-sziget"   
+492 = "Gazdagrév"   
+     
+# HAITI    
+     
+488 = "Kajánc"   
+489 = "Teknõsd"   
+4618 = "Fülek"   
+4619 = "Máriászállás"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Szenttamás"   
+494 = "Szentkristóf"   
+495 = "Szentgyörgy"   
+496 = "Szentmargit"   
+1881 = "Szentmárton"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Bahama-szigetek"   
+483 = "Türk-szigetek"   
+     
+# WEST CUBA   
+     
+484 = "Havanna"   
+485 = "Tengerfehérvár"   
+4622 = "Kalmár"   
+4623 = "Eszterháza"   
+4624 = "Latorcafö"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Szentdomonkos"   
+498 = "Szentlászló"   
+499 = "Szentluca"   
+500 = "Szentvince"   
+501 = "Szentistván"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Tilicske"   
+977 = "Jákó"   
+2613 = "Sitkamindszent"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Csinakháza"   
+2486 = "Jákfa"   
+2487 = "Sopornya"   
+2488 = "Pálos"   
+     
+# HECATE STRAIT   
+     
+975 = "Csimaszentgyörgy"   
+2022 = "Hajdajárás"   
+2609 = "Feketenyék"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Kunsziget"   
+2604 = "Dékány"   
+2605 = "Serbóc"   
+2606 = "Csíkszentmihály"   
+2607 = "Ókert"   
+     
+# OREGON    
+     
+872 = "Szaniszló"   
+2481 = "Kálmánd"   
+2482 = "Kalános"   
+2483 = "Újverbász"   
+     
+# PUGET SOUND   
+     
+874 = "Szalárd"   
+2484 = "Kurucvár"   
+2485 = "Cserdemic"   
+     
+# SNAKE RIVER   
+     
+2019 = "Nagypolány"   
+2020 = "Bánok"   
+2489 = "Boholc"   
+2490 = "Góshuta"   
+2506 = "Kurucfalva"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Noszoly"   
+973 = "Sövéte"   
+974 = "Kavocsán"   
+2610 = "Hámoros"   
+     
+# WESTERN ALASKA   
+     
+978 = "Kende"   
+979 = "Aldoboly"   
+2611 = "Kodolány"   
+2612 = "Etyek"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Kampács"   
+2632 = "Sziklabánya"   
+2650 = "Csalányos"   
+     
+# CHIAPAS    
+     
+2635 = "Csapószentgyörgy"   
+2638 = "Bihamér"   
+2649 = "Tenkeszéplak"   
+4585 = "Csomolya"   
+4586 = "Jákmindszent"   
+     
+# COSTA RICA   
+     
+836 = "Csorgó"   
+2663 = "Mihálydi"   
+4597 = "Talmács"   
+     
+# EAST YUCATAN   
+     
+2634 = "Vajlok"   
+2652 = "Ecel"   
+4588 = "Koboz"   
+4591 = "Sóhuta"   
+     
+# GUATEMALA    
+     
+839 = "Pinkóc"   
+841 = "Geberjén"   
+2653 = "Iklód"   
+4587 = "Kulcsárfalu"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Peténvár"   
+843 = "Belice"   
+2636 = "Csáktornya"   
+4589 = "Murányi"   
+4594 = "Csákfalva"   
+     
+# HONDURAS    
+     
+840 = "Újverecke"   
+2637 = "Csortosújvár"   
+2640 = "Lenka"   
+2662 = "Olcsva"   
+4593 = "Valpó"   
+     
+# NICARAGUA    
+     
+837 = "Nikla"   
+838 = "Moszkitó"   
+2660 = "Magyarimonostor"   
+2661 = "Újegyház"   
+4592 = "Túrszekeresd"   
+     
+# WEST YUCATAN   
+     
+846 = "Sustravásár"   
+2633 = "Mernye"   
+2651 = "Nagykalocsa"   
+4590 = "Szirák"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Panama"   
+2664 = "Verbász"   
+2819 = "Darnóháza"   
+4595 = "Györgyháza"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Illésháza"   
+916 = "Kassaújfalu"   
+917 = "Cahókfalva"   
+4903 = "Komjáti"   
+     
+# INDIANA    
+     
+942 = "Velemér"   
+943 = "Miklósháza"   
+2523 = "Pinkafö"   
+2524 = "Vadaspuszta"   
+4922 = "Tésa"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Mákófalva"   
+911 = "Ménhárd"   
+2517 = "Meggyesújfalu"   
+2518 = "Novaj"   
+4898 = "Prügy"   
+     
+# MICHIGAN    
+     
+944 = "Potony"   
+945 = "Micske"   
+2521 = "Ókeresztúr"   
+2522 = "Maszárfalva"   
+     
+# OHIO    
+     
+946 = "Vingárd"   
+947 = "Erdösurány"   
+948 = "Nagyfolyam"   
+2525 = "Cigánd"   
+4907 = "Kelemér"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Kisladány"   
+2520 = "Ménaság"   
+4904 = "Bódvaszilas"   
+     
+# WISCONSIN    
+     
+912 = "Sasvár"   
+913 = "Mozsgó"   
+914 = "Baglad"   
+4899 = "Hernádnémeti"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Sókút"   
+2504 = "Élesmart"   
+2505 = "Cirkmánd"   
+     
+# Central Plains   
+     
+901 = "Pónikvásár"   
+903 = "Ómajor"   
+2009 = "Olgya"   
+2508 = "Sirák"   
+4915 = "Piliny"   
+     
+# HIGH PLAINS   
+     
+889 = "Árdánfalva"   
+2507 = "Bácskeresztúr"   
+2625 = "Szentgál"   
+     
+# IOWA    
+     
+905 = "Árpádhalom"   
+2513 = "Móricföld"   
+4900 = "Gesztely"   
+4905 = "Jósvafo"   
+     
+# KANSAS    
+890 = "Királyhelmec"   
+898 = "Kanizsamonostor"   
+2672 = "Kisszalók"   
+4914 = "Kishartyán"   
+     
+# MINNESOTA    
+     
+904 = "Vasvörösvár"   
+908 = "Sziszek"   
+2512 = "Vajdaszentdemeter"   
+4901 = "Varbóc"   
+     
+# NORTH DAKOTA   
+     
+906 = "Jalóc"   
+909 = "Mándocs"   
+2510 = "Vághidas"   
+4918 = "Szügy"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Jánosfa"   
+2007 = "Aranyos"   
+2008 = "Lakota"   
+4916 = "Mihálygerge"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Nagyimréd"   
+892 = "Vicsita"   
+896 = "Iszkaszentpéter"   
+4908 = "Hét"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Abádszalók"   
+2501 = "Pográny"   
+2502 = "Handalháza"   
+2503 = "Aszóirtás"   
+4917 = "Csitár"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Tibolc"   
+2588 = "Pisztrángos"   
+2589 = "Keszegfalva"   
+2590 = "Ság"   
+2591 = "Ottomány"   
+     
+# ALBERTA    
+     
+2004 = "Nagyselmec"   
+2017 = "Nemeskutas"   
+2018 = "Csutafalva"   
+2602 = "Szikszó"   
+     
+# ASSINIBOIA    
+     
+2005 = "Nezsider"   
+2596 = "Magyarhidegkút"   
+2598 = "Hedrehely"   
+4920 = "Hajós"
+     
+# ATHABASCA    
+     
+2599 = "Avasújváros"   
+2600 = "Nemesócsa"   
+2601 = "Dánfalva"   
+2603 = "Sebestorony"   
+     
+# HUDSON BAY   
+     
+1005 = "Muzsnaháza"   
+1006 = "Csemölc"   
+1009 = "Árkosdombó"   
+2592 = "Ormánság"   
+2594 = "Királylak"   
+     
+# JAMES BAY   
+     
+998 = "Szentantal"   
+999 = "Kiscsiszár"   
+1000 = "Királyi"   
+1003 = "Mosonvár"   
+1004 = "Attalafüred"   
+     
+# MANITOBA    
+     
+1008 = "Viharos"   
+1010 = "Magyarkecel"   
+1011 = "Kispécs"   
+2593 = "Várad"   
+4919 = "Tengelic"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Bunkóc"   
+2511 = "Iványi"   
+4902 = "Alsóhídvég"
+     
+# SASKATCHEWAN    
+     
+1813 = "Szászrégen"   
+2595 = "Keserüviz"   
+2597 = "Sepsiszentkirály"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Teplaszéplak"   
+4646 = "Nagyszékely"   
+4647 = "Békés"   
+4648 = "Igmánd"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Nagycsicser"   
+2642 = "Mészvölgy"   
+4642 = "Kisvásárhely"   
+     
+# GUANAJUATO    
+     
+853 = "Huszárd"   
+2615 = "Gamás"   
+4640 = "Bajna"   
+4641 = "Sümegcsehi"   
+     
+# GUERRERO    
+     
+2627 = "Kiskatlan"   
+2645 = "Temesberény"   
+2648 = "Józsefhámor"   
+     
+# HUASTECA    
+     
+848 = "Hunyadvár"   
+2641 = "Cikmántor"   
+4598 = "Csenkeszabadja"   
+     
+# JALISCO    
+     
+854 = "Sajtény"   
+2617 = "Huszákfalva"   
+2621 = "Tizsény"   
+2657 = "Kolima"   
+4576 = "Tordaszentkirály"   
+     
+# MEXICO    
+     
+852 = "Mekszikó"   
+2626 = "Turócszentmárton"   
+4570 = "Kókaháza"   
+4571 = "Koppánd"   
+4572 = "Mányok"   
+     
+# MICHOAVAN    
+     
+2622 = "Kiscenk"   
+2623 = "Kuntapolca"   
+2624 = "Patca"   
+4573 = "Akali"   
+4574 = "Iharosvárad"   
+     
+# MIXTECA    
+     
+847 = "Miszták"   
+849 = "Topolcsány"   
+2646 = "Komlósújfalu"   
+4581 = "Jóháza"   
+     
+# NAYARIT    
+     
+855 = "Tótaháza"   
+859 = "Szinna"   
+4578 = "Szajol"   
+     
+# Oaxaca    
+     
+844 = "Zapoték"   
+2629 = "Kocsolád"   
+4584 = "Mitla"   
+     
+# PUEBLA    
+     
+850 = "Taktakál"   
+2628 = "Teplicska"   
+2644 = "Csortula"   
+4582 = "Titlán"   
+4583 = "Szokotra"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Zakatula"   
+2643 = "Apáti"   
+4575 = "Pácska"   
+4579 = "Komjátszeg"   
+4580 = "Taksony"   
+     
+# VERACRUZ    
+     
+2630 = "Tompaháza"   
+2631 = "Mikszát"   
+2647 = "Kuttorszentmihály"   
+     
+# ZACATECAS    
+     
+856 = "Zakatvárad"   
+4643 = "Szólád"   
+4645 = "Dalmand"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Alabama"   
+925 = "Tüskevár"   
+2531 = "Láposhidegkút"   
+2532 = "Tószerdahely"   
+4883 = "Nagykamond"   
+     
+# ARKANSAS    
+     
+894 = "Kadács"   
+895 = "Árokszállás"   
+897 = "Kupavár"   
+4885 = "Gyönk"
+4923 = "Németbánya"   
+     
+# KENTUCKY    
+     
+941 = "Csiszka"   
+2526 = "Sástelek"   
+4888 = "Partoskápolna"   
+     
+# LOUISIANA    
+     
+893 = "Csicsóújfalu"   
+2014 = "Nádszeg"   
+2516 = "Ada"   
+     
+# MISSISSIPPI    
+     
+919 = "Csikászó"   
+920 = "Csakóc"   
+2528 = "Jászómindszent"   
+2529 = "Nacság"   
+4884 = "Kemenespálfa"   
+     
+# OZARKS    
+     
+899 = "Paholc"   
+2509 = "Úrdomb"   
+2515 = "Sátorosbánya"   
+4886 = "Újszász"   
+     
+# TENNESSEE    
+     
+918 = "Teneszlár"   
+934 = "Juhos"   
+939 = "Kassamindszent"   
+4913 = "Keszohidegkút"
+     
+# UPPER LOUISIANA   
+     
+900 = "Szentandrás"   
+902 = "Magyarnádasd"   
+2514 = "Micske"   
+4906 = "Zádorfalva"   
+     
+# VANDALIA    
+     
+951 = "Kanalasd"   
+2551 = "Magyarpatak"   
+4889 = "Szolnok"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Kendermezö"   
+4887 = "Zagyvarékas"   
+4921 = "Ipolyvece"   
+     
+# WEST FLORIDA   
+     
+921 = "Bajmok"   
+922 = "Mogyoród"   
+923 = "Penészlek"   
+2530 = "Bikszád"   
+2533 = "Csatószeg"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Alfüged"   
+2555 = "Hontpázmány"   
+4875 = "Nagygeresd"   
+     
+# CONNECTICUT    
+     
+967 = "Nagyrákóc"   
+2010 = "Kanakháza"   
+2560 = "Kispiac"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Lépesd"   
+957 = "Újdévavár"   
+962 = "Unyad"   
+2023 = "Mundra"   
+     
+# EASTERN MAINE   
+     
+971 = "Péntekfalva"   
+2566 = "Patvaróc"   
+2567 = "Arnótfalva"   
+     
+# HUDSON VALLEY   
+     
+961 = "Ongaszepezd"   
+963 = "Mohikán"   
+964 = "Mohalyvárad"   
+2559 = "Abaszállás"   
+4912 = "Istenmezeje"   
+     
+# IRIQUOISIA    
+     
+958 = "Szeneka"   
+959 = "Kaluga"   
+960 = "Ongavásárhely"   
+4872 = "Mihályháza"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Pócstelke"   
+2563 = "Miszlice"   
+4871 = "Csehbánya"   
+     
+# MAINE    
+     
+2013 = "Andrásvára"   
+2565 = "Keményfok"   
+4873 = "Kemeneshogyész"   
+     
+# MARYLAND    
+     
+953 = "Csarnó"   
+2553 = "Pomogy"   
+2554 = "Nagydenk"   
+     
+# MASSACHUSETTS    
+     
+966 = "Nezsény"   
+968 = "Mosztaváralja"   
+2561 = "Vámosudvarhely"   
+4874 = "Kenyeri"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Merészpatak"   
+2562 = "Paripás"   
+2564 = "Soltészvárad"   
+     
+# NEW YORK   
+     
+965 = "Újbuda"   
+2558 = "Ecsehida"   
+2639 = "Rákosd"   
+     
+# WESTYLVANIA    
+     
+955 = "Sajkaszéplak"   
+2556 = "Jutas"   
+2557 = "Ajnácskö"   
+4876 = "Simaság"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Sormás"   
+864 = "Koncsó"   
+2618 = "Tobaj"   
+4644 = "Újvárfalva"   
+     
+# COAHUILA    
+     
+861 = "Csortovány"   
+864 = "Koncsó"   
+2666 = "Tüskeszer"   
+2667 = "Szászcsanád"   
+4606 = "Temesfehérvár"   
+     
+# COASTAL PRARIE   
+     
+884 = "Karánberek"   
+888 = "Attala"   
+2665 = "Egerszeg"   
+2669 = "Haraszti"   
+     
+# LLANO ESTACADO   
+     
+882 = "Mésztelek"   
+885 = "Teklács"   
+2496 = "Zsitkóc"   
+2497 = "Lipsány"   
+4630 = "Nagyhetény"   
+     
+# PECOS    
+     
+2498 = "Zsupánfalva"   
+4628 = "Nyírkeresztes"   
+4629 = "Tolnavásár"   
+     
+# TAMAULIPAS    
+     
+858 = "Tamásfalva"   
+2499 = "Pusztakohány"   
+2614 = "Kótliget"   
+2668 = "Borbánd"   
+     
+# TEXAS    
+     
+883 = "Nagylipány"   
+887 = "Tonkháza"   
+4627 = "Tárnok"   
+4911 = "Domaháza"   
+     
+# TEXAS PLAINS   
+     
+886 = "Vákó"   
+2500 = "Keremcse"   
+4909 = "Királd"   
+4910 = "Ózd"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Temesgyarmat"   
+928 = "Apalács"   
+2534 = "Feketelak"   
+     
+# FLORIDA    
+     
+926 = "Ajtony"   
+2535 = "Kalota"   
+2536 = "Majtény"   
+4625 = "Majdán"   
+4626 = "Porrogkút"   
+     
+# GEORGIA    
+     
+929 = "Gödre"   
+2537 = "Hidasliget"   
+2538 = "Radnót"   
+2539 = "Mocsolya"   
+4880 = "Bakonyszücs"   
+     
+# GREAT VALLEY   
+     
+949 = "Monostor"   
+2011 = "Sándorfa"   
+2548 = "Turzóvölgy"   
+2552 = "Marcalkeszi"   
+     
+# NORTH CAROLINA   
+     
+937 = "Tuszkaújfalu"   
+938 = "Pamlikó"   
+2546 = "Cikora"   
+2547 = "Rónafüzes"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Csiroki"   
+936 = "Csép"   
+2527 = "Csicser"   
+4879 = "Diósjeno"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Jánosgyarmat"   
+2545 = "Valkóvár"   
+4878 = "Gyöngyös"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Szenti"   
+2542 = "Kulcsárfalva"   
+2543 = "Vajkóc"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Katona"   
+2541 = "Szalonta"   
+4882 = "Kiscsosz"   
+     
+# UPPER GEORGIA   
+     
+930 = "Muskotány"   
+931 = "Kolossó"   
+2540 = "Kovászi"   
+4881 = "Hárskút"   
+     
+# VIRGINIA    
+     
+950 = "Cseszteudvarhely"   
+952 = "Pokloshetény"   
+2549 = "Mórahalom"   
+2550 = "Dózsa"   
+4877 = "Nyírszolos"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Alsóberek"   
+2935 = "Sánkfalva"   
+2938 = "Hartyán"   
+     
+# AMAZON    
+     
+2889 = "Erdömocsolya"   
+2930 = "Újkapos"   
+2933 = "Ugaros"   
+2934 = "Romhány"   
+     
+# BAHIA    
+     
+756 = "Bajánháza"   
+757 = "Szentilona"   
+760 = "Órév"   
+2914 = "Lörincvár"   
+2916 = "Keresztúr"   
+     
+# CEARA    
+     
+750 = "Károlyváros"   
+751 = "Keresztesvölgy"   
+753 = "Csermelyes"   
+     
+# DIAMANTINA    
+     
+759 = "Gyémántfalva"   
+2891 = "Szirmaújlak"   
+2898 = "Újszentes"   
+     
+# GOIAS    
+     
+758 = "Gulyás"   
+2906 = "Mésztemplom"   
+2907 = "Nemesapáti"   
+2908 = "Bozófalva"   
+2919 = "Galambos"   
+     
+# GRAO PARA   
+     
+748 = "Belém"   
+2890 = "Magyaregres"   
+2928 = "Komoróc"   
+2929 = "Bábaszék"   
+     
+# GUAPORE    
+     
+2900 = "Magaslak"   
+2901 = "Kékesfüred"   
+2902 = "Székelyhidegkút"   
+     
+# GUAYRA    
+     
+768 = "Gyulavarsánd"   
+2895 = "Hadikvég"   
+2897 = "Nagymaros"   
+     
+# MARANHAO    
+     
+749 = "Újpest"   
+2923 = "Palóchegy"   
+2924 = "Timony"   
+2926 = "Barátihegy"   
+2927 = "Öreghegy"   
+     
+# MATO GROSSO   
+     
+2888 = "Almásmalom"   
+2903 = "Harsháza"   
+2904 = "Bácsújlak"   
+2905 = "Kolcsómezö"   
+     
+# MINAS GERAIS   
+     
+765 = "Erdöbánya"   
+2892 = "Surány"   
+2894 = "Királyszentjános"   
+2899 = "Dobravásárhely"   
+     
+# OFAIE    
+     
+2881 = "Pádár"   
+2893 = "Paphalom"   
+2920 = "Korpád"   
+     
+# PERNAMBUCO    
+     
+754 = "Parragmonostor"   
+755 = "Szentkereszt"   
+2912 = "Szerdahely"   
+2921 = "Hunyadfalva"   
+2922 = "Nagyletenye"   
+     
+# PIAUI    
+752 = "Ökörmezö"   
+2886 = "Vörösvágás"   
+2925 = "Farkashida"   
+     
+# PONTAL    
+     
+2909 = "Váradszöllös"   
+2910 = "Olthéviz"   
+2911 = "Lándorgyarmat"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Erdömindszent"   
+762 = "Hercegszántó"   
+763 = "Újfehérvár"   
+764 = "Amádé"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Andráshida"   
+2879 = "Tajnasári"   
+2884 = "Sebesváralja"   
+2887 = "Kaplony"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Bátka"   
+2913 = "Zsolna"   
+2915 = "Dióspatak"   
+2917 = "Remeteszeg"   
+2918 = "Alsókápolna"   
+     
+# SAO PAULO   
+     
+766 = "Nagyfüzes"   
+769 = "Kövesliget"   
+2896 = "Tiszolc"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Bögöte"   
+832 = "Toporcsa"   
+4602 = "Pogányvölgy"   
+4603 = "Egres"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Jobbágyújfalu"   
+2810 = "Apátkeresztúr"   
+2813 = "Marótlaka"   
+4613 = "Gunaras"   
+4614 = "Tenkes"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Bátorhegy"   
+2816 = "Érkávás"   
+4605 = "Puttnok"   
+     
+# COQUIVACOA    
+     
+828 = "Fülpös"   
+829 = "Szentmagdolna"   
+2806 = "Gyaluszentkirály"   
+4599 = "Újszolnok"   
+4601 = "Csomaköz"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Magyarsólymos"   
+827 = "Pannonvárda"   
+2817 = "Návaszekeresd"   
+4600 = "Magyarsárd"   
+4607 = "Petróc"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Magyarújvár"   
+2809 = "Szálnok"   
+2939 = "Ludas"   
+4615 = "Nemeskisfalud"   
+     
+# GUYANA    
+     
+502 = "Szentháromság"   
+743 = "Eszeny"   
+744 = "Deményháza"   
+2803 = "Oricska"   
+     
+# MARACAIBO    
+     
+830 = "Máriavölgy"   
+2807 = "Gyertyános"   
+4609 = "Vámosgyörök"   
+4610 = "Bénymonostor"   
+4611 = "Varján"   
+     
+# POPAYAN    
+     
+823 = "Ligetvár"   
+826 = "Csókás"   
+2818 = "Poprádfalu"   
+4596 = "Kuna"   
+4604 = "Pásztorhegy"   
+     
+# SURINAME    
+     
+745 = "Parlagos"   
+746 = "Nagykács"   
+2937 = "Szuhapatak"   
+     
+# UPPER GUYANA   
+     
+742 = "Ábrahámfalva"   
+2804 = "Hetény"   
+2811 = "Töricske"   
+2931 = "Egyházmarót"   
+4617 = "Dálnok"   
+     
+# VENEZUELA    
+     
+741 = "Kumán"   
+831 = "Somosfalva"   
+2808 = "Bezeréd"   
+4612 = "Füred"   
+4616 = "Abonykövesd"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Pecsétszeg"   
+2814 = "Métapuszta"   
+2815 = "Karánmezö"   
+4608 = "Abaszéplak"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Kapocsány"   
+786 = "Doborján"   
+2868 = "Bibarc"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Udvarnok"   
+773 = "Bánpatak"   
+2850 = "Hegyrét"   
+2851 = "Káldosfa"   
+2852 = "Sántos"   
+     
+# BUENOS AIRES   
+     
+778 = "Szelesvárda"   
+2846 = "Madaras"   
+2848 = "Darányihegy"   
+2849 = "Rimasimonyi"   
+     
+# CENTRAL CHILE   
+     
+784 = "Istvánrév"   
+787 = "Borsaújfalu"   
+2862 = "Kókamindszent"   
+     
+# CUYO    
+     
+2843 = "Zimánd"   
+2844 = "Nagymegyer"   
+2845 = "Szabadhely"   
+2847 = "Ördögkút"   
+2877 = "Mendeföldvár"   
+     
+# MESOPOTAMIA    
+     
+777 = "Magyarhernád"   
+2853 = "Jeszenye"   
+2855 = "Újfegyvernek"   
+2858 = "Lövétebánya"   
+2859 = "Gorbómezö"   
+     
+# NEHEUNKEN    
+     
+785 = "Pélmonostor"   
+2867 = "Pusztakovácsi"   
+2871 = "Rónafüred"   
+2872 = "Szarvaskö"   
+     
+# PATAGONIA    
+     
+781 = "Árpádrév"   
+782 = "Tüzföld"   
+2869 = "Hétház"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Somlókeszi"   
+2870 = "Tasnádszántó"   
+2875 = "Korbovány"   
+2876 = "Abaújnádasd"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Károly Róbert-sziget"   
+2025 = "Dér-sziget"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Salamonvár"   
+2873 = "Irtványos"   
+2874 = "Fintaháza"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Hegyescsaba"   
+2860 = "Falkosány"   
+2861 = "Gálosd"   
+2865 = "Gemjén"   
+2866 = "Vidrátszeg"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Gyimes"   
+804 = "Szabadegyház"   
+2831 = "Normafa"   
+2947 = "Vázsony"   
+     
+# CAJAMARCA    
+     
+813 = "Döbrög"   
+2824 = "Sárosbérc"   
+2825 = "Piszkaudvarhely"   
+2943 = "Komlósd"   
+     
+# CHIMOR    
+     
+812 = "Csertöudvari"   
+2002 = "Szeles-szigetek"   
+2821 = "Purdány"   
+2822 = "Csiklász"   
+2826 = "Kinizsihegy"   
+     
+# HUANUCO    
+     
+809 = "Lima"   
+810 = "Halmágy"   
+811 = "Jajca"   
+814 = "Egreshát"   
+2827 = "Hunfalva"   
+     
+# IQUITOS    
+     
+815 = "Igréc"   
+818 = "Barátszabadi"   
+821 = "Bátorkeszi"   
+     
+# KUNTISUYU    
+     
+807 = "Királyfalva"   
+808 = "Komlóskér"   
+2829 = "Ajnád"   
+2830 = "Máriatölgyes"   
+     
+# PERUAN COAST   
+     
+805 = "Tompavágás"   
+806 = "Naszkaháza"   
+2828 = "Kemenes"   
+     
+# QUITO    
+     
+816 = "Répcekéthely"   
+817 = "Kövár"   
+819 = "Magyarirév"   
+820 = "Kolozs"   
+2820 = "Jolsvatapolca"   
+     
+# UCAYALI    
+     
+2823 = "Rákosvölgy"   
+2944 = "Iszkaszentmihály"   
+2945 = "Lendva"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Csík"   
+801 = "Körös"   
+2834 = "Hunyadszentkereszt"   
+     
+# CHACO    
+     
+790 = "Csákvár"   
+2854 = "Csépánfalva"   
+2878 = "Csanádszentgyörgy"   
+     
+# JUJUY    
+     
+794 = "Zaránd"   
+2837 = "Szentgellért"   
+2839 = "Homokos"   
+     
+# MOXOS    
+     
+803 = "Moksóc"   
+2832 = "Sebesorom"   
+2833 = "Vaskö"   
+     
+# NORTHERN CHILE   
+     
+792 = "Rézbánya"   
+793 = "Révkolostor"   
+796 = "Ajnácsdombó"   
+2840 = "Ecsehida"   
+2841 = "Grassó"   
+     
+# PARAGUAY    
+     
+775 = "Asztély"   
+776 = "Koncháza"   
+799 = "Muravárhely"   
+2882 = "Lukácsvásár"   
+2883 = "Mátyásdomb"   
+     
+# POTOSI    
+     
+795 = "Feketehegy"   
+797 = "Forgácskút"   
+2940 = "Molnárkálló"   
+2946 = "Kács"
+     
+# TUCUMAN    
+     
+791 = "Katlanos"   
+2836 = "Halmihegy"   
+2842 = "Fehérszék"   
+     
+# UPPER PERU   
+     
+2835 = "Budaszállás"   
+2838 = "Nagytormás"   
+2941 = "Galyakeresztúr"   
+2942 = "Borháza"

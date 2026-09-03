@@ -1,0 +1,1884 @@
+### EUROPE
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naksha" "Naksha"}
+320 = {"Rodos" "Rodos"}
+2348 = {"Sakiz" "Sakiz"} 
+3003 = {"Eghriboz" "Kara Baba"}
+4700 = {"Midilli" "Midilli"}
+
+# Ankara
+
+326 = {"Ankara" "Ankara"}
+4312 = {"Sultanönü" "Sultanönü"} 
+4313 = {"Çankiri" "Çankiri"}
+
+# Aydin
+
+318 = {"Sughla" "Izmir"}
+319 = {"Menteshe" "Söke"} 
+2297 = {"Saruhan" "Saruhan"}
+2298 = {"Teke" "Antalya"}
+4309 = {"Aydin" "Aydin"}
+
+# Çukurova
+
+321 = {"Kibris" "Lefkosha"}
+327 = {"Adana" "Adana"}
+2302 = {"Içel" "Içel"} 
+
+# Dulkadir
+
+332 = {"Marash" "Marash"} 
+2303 = {"Malatya" "Malatya"}
+2308 = {"Urfa" "Urfa"} 
+4310 = {"Divrigi" "Divrigi"} 
+
+# Erzurum
+
+330 = {"Trabzon" "Trabzon"}
+331 = {"Erzurum" "Erzurum"}
+2305 = {"Erzincan" "Erzincan"}
+
+# Germiyan
+
+322 = {"Kütahya" "Kütahya"} 
+1848 = {"Hamîd-ili" "Isparta"} 
+4308 = {"Tonguzlu" "Tonguzlu"} 
+4311 = {"Karahisar" "Karahisar"} 
+
+# Hüdavendigar
+
+316 = {"Izmit" "Izmit"}
+317 = {"Hudavendigar" "Bursa"}
+2296 = {"Biga" "Biga"}
+
+# Karadeniz
+
+325 = {"Kastamonu" "Kastamonu"}
+328 = {"Sinop" "Sinop"}
+2299 = {"Bolu" "Bolu"} 
+2304 = {"Canik" "Samsun"}
+
+# Karaman
+
+323 = {"Konya" "Konya"}
+324 = {"Karaman" "Karaman"}
+2301 = {"Kapadokya" "Kayseri"} 
+4307 = {"Aksaray" "Aksaray"}
+
+# Rum
+
+329 = {"Sivas" "Sivas"}
+1846 = {"Amasya" "Amasya"} 
+2300 = {"Bozok" "Yozgat"}
+4314 = {"Kirsehir" "Kirsehir"} 
+4315 = {"Tokat" "Tokat"}
+
+# Kurdistan
+
+418 = {"Diyar-i Bekr" "Diyar-i Bekr"}
+2306 = {"Mus" "Malazgirt"}
+2307 = {"Van" "Van"}
+4295 = {"Hasankeyf" "Hasankeyf"} 
+4296 = {"Bitlis" "Bitlis"}
+
+## BALKANS (go over them)
+
+# Albania
+
+143 = {"Avlonya" "Avlonya"} 
+4174 = {"Diraç" "Diraç"}
+4175 = {"Ishkodra" "Ishkodra"}
+4750 = {"Akçahisar" "Akçahisar"}
+
+# Bosnia
+
+139 = {"Hum" "Köprü Hisar"}
+140 = {"Bosna" "Doboya"}
+1831 = {"Hersek" "Trebin"}
+3002 = {"Vizoka" "Vizoka"} 
+4755 = {"Drina" "Viçgrad"}
+
+# Bulgaria
+
+150 = {"Nigbolu" "Nigbolu"}
+1765 = {"Sofya" "Sofya"}
+2746 = {"Vidin" "Vidin"}
+2750 = {"Filibe" "Filibe"}
+4703 = {"Köstendil" "Köstendil"}
+
+# Croatia
+
+131 = {"Zagrep" "Zagrep"} 
+1826 = {"Sanyaba" "Sanyaba"}
+1828 = {"Yayça" "Yayça"}
+4752 = {"Riyeka" "Riyeka"}
+
+# Dalmatia
+
+136 = {"Ispelet" "Ispelet"} 
+137 = {"Raguza" "Raguza"}
+4753 = {"Zadire" "Zadire"}
+
+# Macedonia
+
+148 = {"Selânik" "Selânik"} 
+1853 = {"Kesriye" "Kesriye"}
+3001 = {"Üsküp" "Üsküp"}
+4702 = {"Serez" "Serez"}
+4780 = {"Ohri" "Ohri"}
+
+# Morea
+
+145 = {"Anabolu" "Mezistre"}
+146 = {"Atina" "Atina"}
+163 = {"Girit" "Kandiye"}
+1773 = {"Ballibadra" "Ballibadra"}
+4701 = {"Gördüs" "Gördüs"}
+
+# Northern Greece
+
+142 = {"Körfüz" "Körfüz"} 
+144 = {"Yanya" "Yanya"}
+147 = {"Tirhala" "Tirhala"} 
+4698 = {"Kefalonya" "Yorgi"}
+4699 = {"Narda" "Narda"}
+
+# Rascia
+
+138 = {"Karadagh" "Yablak"}
+1766 = {"Kosova" "Prishtine"}
+1827 = {"Yeni Pazar" "Yeni Pazar"}
+4754 = {"Kotur" "Kotur"}
+
+# Serbia
+
+141 = {"Semendire" "Semendire"}
+3000 = {"Nish" "Nish"}
+4176 = {"Pasarofça" "Pasarofça"}
+4239 = {"Belighrad" "Belighrad"}
+4757 = {"Lozniçe" "Lozniçe"}
+
+# Silistria
+
+159 = {"Silistre" "Silistre"}
+4704 = {"Tirnova" "Tirnova"}
+4706 = {"Tulça" "Tulça"}
+
+# Slavonia
+
+152 = {"Varazdin" "Varazdin"}
+1767 = {"Slavonya" "Ösek"}
+4173 = {"Siremiyye" "Dimitrofça"}
+4756 = {"Belovar" "Belovar"}
+
+# Thrace
+
+149 = {"Edirne" "Edirne"}
+151 = {"Konstantiniyye" "Konstantiniyye"}
+1764 = {"Kirkkilise" "Burgaz"} 
+4705 = {"Rodop" "Gumulcine"}
+4779 = {"Gelibolu" "Gelibolu"}
+
+## CARPATHIA 
+
+135 = {"Subruna" "Subruna"}
+153 = {"Peshte" "Peshte"}
+154 = {"Uyvar" "Uyvar"}
+155 = {"Küle" "Küle"}
+156 = {"Timishvar" "Timishvar"}
+157 = {"Varat" "Varat"}
+158 = {"Muresh" "Targu Muresh"}
+160 = {"Oltenya" "Küçük Eflak"}
+161 = {"Targoviste" "Eflak"}
+162 = {"Yukari Macaristan" "Kasha"}
+268 = {"Boghdan" "Sucava"}
+1318 = {"Sipesh" "Sipesh"}
+1756 = {"Besarabya" "Akkerman"}
+1772 = {"Pojun" "Pojun"}
+1864 = {"Kanije" "Pecuv"}
+1951 = {"Hünyad" "Zemlin"}
+1952 = {"Maramuresh" "Husht"}
+1953 = {"Debrecen" "Tokaj"}
+1954 = {"Banat" "Beckerek"}
+2405 = {"Bender" "Bender"}
+2998 = {"Boza" "Boza"}
+4125 = {"Sonluk" "Sonluk"}
+4126 = {"Bachka" "Bachka"}
+4127 = {"Kaloshvar" "Kaloshvar"}
+4128 = {"Sibin" "Sibin"}
+4236 = {"Trenilik" "Trenilik"}
+4240 = {"Fehervar" "Istolni Belgrad"}
+4529 = {"Yash" "Yash"}
+4530 = {"Barlat" "Barlat"}
+4531 = {"Yergöghu" "Yergöghu"}
+4532 = {"Reshche" "Reshche"}
+
+### NORTH AMERICA
+
+## Canada
+
+# Cote Nord
+
+996 = "Guneysehir"
+2576 = "Kuzeykent"
+2577 = "Batiyagiz"
+2578 = "Dogusari"
+2579 = "Ortabeyaz"
+
+# Greenland
+
+1104 = "Buzluva"
+1105 = "Kuzeykent"
+
+# Huronia
+
+988 = "Yenisehir"
+989 = "Guneskent"
+2585 = "Denizkoyu"
+2670 = "Dagkiran"
+
+# Labrador
+
+997 = "Karasakal"
+2574 = "Isiklar"
+2575 = "Nehirli"
+
+# Laurentia
+
+992 = "Bayirkoy"
+2581 = "Yeldegirmeni"
+4894 = "Ormanlik"
+
+# Lower Acadia
+
+982 = "Aygunsehir"
+984 = "Altinkaya"
+2568 = "Yesilkoy"
+2569 = "Kirlangic"
+4891 = "Gumushane"
+
+# Lower Canada
+
+993 = "Demirkent"
+2584 = "Altinyayla"
+4895 = "Kardelenkoy"
+
+# Newfoundland
+
+980 = "Alemtepe"
+981 = "Bozkirdag"
+2573 = "Cinartepe"
+
+# Ottawa Valley
+
+4890 = "Damlarca"
+4892 = "Essizcam"
+4897 = "Findikpinar"
+
+# Quebec
+
+986 = "Golbasi"
+994 = "Haciyusuf"
+995 = "Isikliova"
+2582 = "Jandarmaarlani"
+2583 = "Kuzeyyildizi"
+
+# St John's Valley
+
+2570 = "Lavantasehri"
+2571 = "Masmavisehir"
+4896 = "Nefescenneti"
+
+# Trois-Riviers
+
+990 = "Oylumtepe"
+2012 = "Pinarcik"
+2580 = "Ruzgarliliman"
+4893 = "Sahinbeyli"
+
+# Upper Acadia
+
+983 = "Taskuyu"
+985 = "Ucurumtepe"
+2572 = "Vadisehir"
+
+# Upper Canada
+
+987 = "Yildizdere"
+2586 = "Zeytintepesi"
+2587 = "Altinorman"
+
+# Upper Ontario
+
+991 = "Buzdaglari"
+1001 = "Cennetgolu"
+1007 = "Dagbasi"
+2015 = "Enginardic"
+2671 = "Firtinadag"
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Melekkent"   
+869 = "Çamliman"   
+2021 = "Örlemis"   
+2476 = "Ispanyol Mesasi"   
+4637 = "Kaliforniya"   
+     
+# APACHERIA    
+     
+879 = "Doyran"   
+2492 = "Kizil Kaya"   
+4634 = "Büyükhusun"   
+     
+# ARIZONA    
+     
+867 = "Kizildeste"   
+876 = "Anka"   
+877 = "Pelitköy"   
+2491 = "Çölova"   
+4633 = "Aritasi"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Botanya Yarimadasi"   
+866 = "Hollandali'nin Koyu"   
+2620 = "Koyuneli"   
+4639 = "Limon Agaçligi"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Yaniklar Dagi"   
+2478 = "Ayaskent"   
+4635 = "Egiller"   
+4636 = "Kaleardi"   
+     
+# COLORADO PLATEU   
+     
+875 = "Pinarca"   
+878 = "Beyaztas"   
+2493 = "Bayraktepe"   
+2494 = "Kiliselikaya"   
+     
+# NEW MEXICO   
+     
+880 = "Yaka"   
+881 = "Aykale"   
+2495 = "Beldibi"   
+4631 = "Beyhan"   
+4632 = "Kizlan"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Tütünliman"   
+2477 = "Temmuz Burnu"   
+2479 = "Yenisakran"   
+2480 = "Vaizler"   
+4638 = "Kutsalsehir"   
+     
+# SONORA    
+     
+862 = "Avsallar"   
+2616 = "Adrasan"   
+4577 = "Karaayit"   
+4649 = "Güme"   
+4650 = "Finike"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Kurt Körfezi"   
+2576 = "Donukadalar"   
+2577 = "Eskikara"   
+2578 = "Zeybek Ada"   
+2579 = "Imamgölü"   
+     
+# GREENLAND    
+     
+1104 = "Sultan Fjordu"   
+1105 = "Kuzeykent"   
+     
+# HURONIA    
+     
+988 = "Huron Korusu"   
+989 = "Berrakköy"   
+2585 = "Yeni Viyana"   
+2670 = "Yeni Moskova"   
+     
+# LABRADOR    
+     
+997 = "Donuk Körfez"   
+2574 = "Britanya Fjordu"   
+2575 = "Buzul Körfez"   
+     
+# LAURENTIA    
+     
+992 = "Kabuktepe"   
+2581 = "Günkorusu"   
+4894 = "Osmanköy"   
+     
+# LOWER ACADIA   
+     
+982 = "Brenton Burnu"   
+984 = "Kürkkoyu"   
+2568 = "Kum Burnu"   
+2569 = "Berber Körfezi"   
+4891 = "Yeni Galler"   
+     
+# LOWER CANADA   
+     
+993 = "Asil Dag"   
+2584 = "Erdogdu"   
+4895 = "Dillioglu"
+     
+# NEWFOUNDLAND    
+     
+980 = "Beyaz Ada"   
+981 = "Vatoz Burnu"   
+2573 = "Morina Körfezi"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Güzpinar"   
+4892 = "Tütünova"   
+4897 = "Tüccarova"   
+     
+# QUEBEC    
+     
+986 = "Kizilsakal Koyu"   
+994 = "Kebek"   
+995 = "Karköy"   
+2582 = "Çatalkaya"   
+2583 = "Alacik"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Dilektasi"   
+2571 = "Asmakaya"   
+4896 = "Kozalakdibi"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Üç Nehir"   
+2012 = "Mehmetpasa"   
+2580 = "Oyuklu"   
+2580 = "Oyuklu"   
+     
+# UPPER ACADIA   
+     
+983 = "Süleymanada"   
+985 = "Yeni Brunsvik"   
+2572 = "Yeniyazi"   
+     
+# UPPER CANADA   
+     
+987 = "Niyagara"   
+2586 = "Notali"   
+2587 = "Mirhima Sultan"   
+     
+# UPPER ONTARIO   
+     
+991 = "Niyazipasa"   
+1001 = "Karamahmut"
+1007 = "Yildirim Körfezi"   
+2015 = "Yarimada Körfezi"   
+2671 = "Gökpinar"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Dominik"   
+2658 = "Adem'in Kayasi"   
+2659 = "Gümüscennet"   
+4620 = "Kizilçesme"   
+4621 = "Lügatli"   
+     
+# EAST CUBA   
+     
+486 = "Rüzgârüstü"   
+2654 = "Bal Körfezi"   
+2655 = "Dogukilise"   
+2656 = "Hünkar Bahçesi"   
+     
+# GREATER ANTILLES   
+     
+481 = "Bermuda"   
+487 = "Jamaika"   
+491 = "Flemenkada"   
+492 = "Altin Liman"   
+     
+# HAITI    
+     
+488 = "Tamliman"   
+489 = "Kaplumbaga Adasi"   
+4618 = "Yakamoz"   
+4619 = "Meryemada"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Ezgi Adasi"   
+494 = "Özgür Ada"   
+495 = "Macar Ada"   
+496 = "Kozalak Adasi"   
+1881 = "Bulgar Ada"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Bahamalar"   
+483 = "Türk Adalari"   
+     
+# WEST CUBA   
+     
+484 = "Sema Limani"   
+485 = "Seker Körfezi"   
+4622 = "Karamolla"   
+4623 = "Iskanbey"   
+4624 = "Devletkuyu"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Alman Adasi"   
+498 = "Yesil Ada"   
+499 = "Marisya"   
+500 = "Yeni Endelüs"   
+501 = "Barbaros Adasi"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Yunus Adasi"   
+977 = "Logan Dagi"   
+2613 = "Yeni Köstendil"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Kaskadya"   
+2486 = "Agaçlidag"   
+2487 = "Köpekligöl"   
+2488 = "Eminmehmet"   
+     
+# HECATE STRAIT   
+     
+975 = "Hünkar Adasi"   
+2022 = "Pasli Ada"   
+2609 = "Kule Daglari"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Kutun Dagi"   
+2604 = "Serap Dagi"   
+2605 = "Abalar"   
+2606 = "Iskenderiye Hisari"   
+2607 = "Okantepe"   
+     
+# OREGON    
+     
+872 = "Limankent"   
+2481 = "Krater Gölü"   
+2482 = "Elmaliman"   
+2483 = "Tuz Daglari"   
+     
+# PUGET SOUND   
+     
+874 = "Sayalar"   
+2484 = "Dalkavuk Burnu"   
+2485 = "Olimpiyat Daglari"   
+     
+# SNAKE RIVER   
+     
+2019 = "Konseysehir"   
+2020 = "Timsahlinehir"   
+2489 = "Yilanlidere"   
+2490 = "Tuz Gölü"   
+2506 = "Kurtulusköy"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Gürcüada"   
+973 = "Gürcügeçidi"   
+974 = "Yanki Körfezi"   
+2610 = "Irlandali'nin Koyu"   
+     
+# WESTERN ALASKA   
+     
+978 = "Çapaköy"   
+979 = "Aleut Adalari"   
+2611 = "Kule Körfezi"   
+2612 = "Yeni Pernik"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Kampeke"   
+2632 = "Canpolat"   
+2650 = "Çitdibi"   
+     
+# CHIAPAS    
+     
+2635 = "Günerli"   
+2638 = "Sadrazamköy"   
+2649 = "Bahtilli"   
+4585 = "Beyazitli"   
+4586 = "Birgi"   
+     
+# COSTA RICA   
+     
+836 = "Derebeyli"   
+2663 = "Yeni Kirim"   
+4597 = "Saimdede"   
+     
+# EAST YUCATAN   
+     
+2634 = "Sinan Pasa"   
+2652 = "Begis"   
+4588 = "Kabakli"   
+4591 = "Karbonhisar"   
+     
+# GUATEMALA    
+     
+839 = "Mesihiye"   
+841 = "Yesilorman"   
+2653 = "Bozhöyük"   
+4587 = "Nohutalan"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Süzbeyli"   
+843 = "Belezya"   
+2636 = "Cantas"   
+4589 = "Tepeboz"   
+4594 = "Musalla"   
+     
+# HONDURAS    
+     
+840 = "Kurnazköy"   
+2637 = "Kozbeyli"   
+2640 = "Mevlevi"   
+2662 = "Katakomblar"   
+4593 = "Horozgedigi"   
+     
+# NICARAGUA    
+     
+837 = "Esenli"   
+838 = "Mavikir"   
+2660 = "Arikaya"   
+2661 = "Ibecik"   
+4592 = "Üzümlü"   
+     
+# WEST YUCATAN   
+     
+846 = "Dönenkörfez"   
+2633 = "Yeni Çesme"   
+2651 = "Kuzca"   
+4590 = "Yeni Kergit"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Cihangeçidi"   
+2664 = "Hizirsah"   
+2819 = "Iskoçkent"   
+4595 = "Sulhiye"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Imparator Dagi"   
+916 = "Sakalköy"   
+917 = "Monmont"   
+4903 = "Shikago"   
+     
+# INDIANA    
+     
+942 = "Yagmakent"   
+943 = "Zirvekent"   
+2523 = "Yüksektepe"   
+2524 = "Yeni Versay"   
+4922 = "Hinditepe"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Kizilgöl"   
+911 = "Üstyarimada"   
+2517 = "Bingöller"   
+2518 = "Nokta"   
+4898 = "Nükhet"   
+     
+# MICHIGAN    
+     
+944 = "Bogazkent"   
+945 = "Mishigan"   
+2521 = "Çakmaktas"   
+2522 = "Küçük Hollanda"   
+     
+# OHIO    
+     
+946 = "Kumlutepe"   
+947 = "Imparatorluk Ormani"   
+948 = "Güzelnehir"   
+2525 = "Sinsiköy"   
+4907 = "Mosulpark"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Asilköy"   
+2520 = "Küçük Kahire"   
+4904 = "Esenköy"   
+     
+# WISCONSIN    
+     
+912 = "Karaselaler"   
+913 = "Asker Agaçligi"   
+914 = "Yesil Körfez"   
+4899 = "Karakoru"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Örümcekkale"   
+2504 = "Kayipköy"   
+2505 = "Hizlikasaba"   
+     
+# Central Plains   
+     
+901 = "Yedisehir"   
+903 = "Kolombus"   
+2009 = "Iskoçtepe"   
+2508 = "Nehirkent"   
+4915 = "Merkezova"   
+     
+# HIGH PLAINS   
+     
+889 = "Ingiliz Hisari"   
+2507 = "Kutsalpinar"   
+2625 = "Güngören"   
+     
+# IOWA    
+     
+905 = "Konseytepe"   
+2513 = "Çayirgeçidi"   
+4900 = "Ayova"   
+4905 = "Revan Ovasi"   
+     
+# KANSAS    
+890 = "Selinya"   
+898 = "Küçüktepe"   
+2672 = "Meselik"   
+4914 = "Neoz Ormani"   
+     
+# MINNESOTA    
+     
+904 = "Yeni Kordoba"   
+908 = "Yavuz Selim Nehri"   
+2512 = "Çaprazköy"   
+4901 = "Sayo Ovasi"   
+     
+# NORTH DAKOTA   
+     
+906 = "Çayirbiçak"   
+909 = "Sapeller"   
+2510 = "Doganköy"   
+4918 = "Hunpasha"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Altiköy"   
+2007 = "Sedirler"   
+2008 = "Lakon Stepleri"   
+4916 = "Güney Dakota"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Morova"   
+892 = "Severya"   
+896 = "Kizilkus"   
+4908 = "Tave Çatali"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Saritas"   
+2501 = "Hayalet Hirsiz"   
+2502 = "Iskoç'un Düzlügü"   
+2503 = "Ayilidere"   
+4917 = "Misori Nehri"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Orhanpasa"   
+2588 = "Çan Daglari"   
+2589 = "Samurludere"   
+2590 = "Dumanli Selaleler"   
+2591 = "Umut Hisari"   
+     
+# ALBERTA    
+     
+2004 = "Kargayuvasi Geçidi"   
+2017 = "Havvakurusu"   
+2018 = "Tütsü Daglari"   
+2602 = "Yeni Kizilcahamam"   
+     
+# ASSINIBOIA    
+     
+2005 = "Beyazvilateyler"   
+2596 = "Hancili"   
+2598 = "Çevikdere"   
+4920 = "Vadonçiftligi"   
+     
+# ATHABASCA    
+     
+2599 = "Koyunbaba"   
+2600 = "Sümerköy"   
+2601 = "Babilköy"   
+2603 = "Babaeksi"   
+     
+# HUDSON BAY   
+     
+1005 = "Batak Körfez"   
+1006 = "Danimarkali Nehri"   
+1009 = "Sultanlar Nehri"   
+2592 = "Karamürsel"   
+2594 = "Germece"   
+     
+# JAMES BAY   
+     
+998 = "Sultanlar Koyu"   
+999 = "Kuzeyköy"   
+1000 = "Buzul Delta"   
+1003 = "Geyikli"   
+1004 = "Arnavut Hisari"   
+     
+# MANITOBA    
+     
+1008 = "Kizil Nehir"   
+1010 = "Yunusköy"   
+1011 = "Bariskent"   
+2593 = "Ormangöl"   
+4919 = "Yunusova"   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Büyük Yabalar"   
+2511 = "Seytan Gölü"   
+4902 = "Makada Düzlügü"   
+     
+# SASKATCHEWAN    
+     
+1813 = "Kishisar"   
+2595 = "Temiz Göl"   
+2597 = "Güney Çayi"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Akören"   
+4646 = "Distas"   
+4647 = "Beylerbeyi"   
+4648 = "Akimam"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Ladifli"   
+2642 = "Sahinler"   
+4642 = "Çinçila"   
+     
+# GUANAJUATO    
+     
+853 = "Huastek"   
+2615 = "Yeni Hasköy"   
+4640 = "Tozlu Tepeler"   
+4641 = "Eceören"   
+     
+# GUERRERO    
+     
+2627 = "Agillar"   
+2645 = "Çakallar"   
+2648 = "Duaci"   
+     
+# HUASTECA    
+     
+848 = "Aztek Limani"   
+2641 = "Doganci"   
+4598 = "Kamçiköy"   
+     
+# JALISCO    
+     
+854 = "Tepik"   
+2617 = "Piyadeli"   
+2621 = "Tirpanli"   
+2657 = "Katircilar"   
+4576 = "Tashane"   
+     
+# MEXICO    
+     
+852 = "Meksika Vilayeti"   
+2626 = "Yeni Brasov"   
+4570 = "Baharatli"   
+4571 = "Yeniyaka"   
+4572 = "Yeni Sera"   
+     
+# MICHOAVAN    
+     
+2622 = "Ulacaali"   
+2623 = "Sirvansah"   
+2624 = "Yeni Tiflis"   
+4573 = "Aldere"   
+4574 = "Çeyildag"   
+     
+# MIXTECA    
+     
+847 = "Mikstek"   
+849 = "Savasçikoloni"   
+2646 = "Degirmenli"   
+4581 = "Selçuklar"   
+     
+# NAYARIT    
+     
+855 = "Köpeklidere"   
+859 = "Bekirli"   
+4578 = "Mesudiye"   
+     
+# Oaxaca    
+     
+844 = "Zapotek"   
+2629 = "Pasaköy"   
+4584 = "Mükevverköy"   
+     
+# PUEBLA    
+     
+850 = "Baharkent"   
+2628 = "Tersali"   
+2644 = "Karcalar"   
+4582 = "Taközköy"   
+4583 = "Kahveli"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Penhasko"   
+2643 = "Astartepe"   
+4575 = "Hünkar Sehri"   
+4579 = "Katipli"   
+4580 = "Palmiyekent"   
+     
+# VERACRUZ    
+     
+2630 = "Vadili"   
+2631 = "Kafatas"   
+2647 = "Çaprazyol"   
+     
+# ZACATECAS    
+     
+856 = "Zakate"   
+4643 = "Pastelli"   
+4645 = "Koçelyan"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Hayalkent"   
+925 = "Yeni Manisa"   
+2531 = "Avciköy"   
+2532 = "Keltli'nin Köyü"   
+4883 = "Naneliorman"   
+     
+# ARKANSAS    
+     
+894 = "Kado Ovasi"   
+895 = "Çamtepe"   
+897 = "Büyüknehir"   
+4885 = "Yeni Avalonya"   
+4923 = "Paçangali"   
+     
+# KENTUCKY    
+     
+941 = "Eskiköy"   
+2526 = "Ziftliköy"   
+4888 = "Tunuskorusu"   
+     
+# LOUISIANA    
+     
+893 = "Hilalkent"   
+2014 = "Natchi Ormani"   
+2516 = "Hilal Sahili"   
+     
+# MISSISSIPPI    
+     
+919 = "Yeni Arnavutluk"   
+920 = "Meridyendere"   
+2528 = "Sogukdere"   
+2529 = "Marangozköy"   
+4884 = "Hocali"   
+     
+# OZARKS    
+     
+899 = "Baharyaylasi"   
+2509 = "Tophane"   
+2515 = "Ozark Daglari"   
+4886 = "Ozark Ovalari"   
+     
+# TENNESSEE    
+     
+918 = "Blöf Kent"   
+934 = "Güney Atina"   
+939 = "Paduka"   
+4913 = "Aniyaka"   
+     
+# UPPER LOUISIANA   
+     
+900 = "Latifiye"   
+902 = "Kartalköy"   
+2514 = "Yeni Adana"   
+4906 = "Luis Ovalari"   
+     
+# VANDALIA    
+     
+951 = "Kefalli"   
+2551 = "Geçitköy"   
+4889 = "Alghen Geçidi"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Selalekent"   
+4887 = "Coskunali"   
+4921 = "Kutluova"   
+     
+# WEST FLORIDA   
+     
+921 = "Kizilsopa"   
+922 = "Osman Pasa"   
+923 = "Eskambia"   
+2530 = "Kahramanlar"   
+2533 = "Kiyiköy"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Mücehversehir"   
+2555 = "Çelikkent"   
+4875 = "Alghen Sirti"   
+     
+# CONNECTICUT    
+     
+967 = "Ayasofya Körfezi"   
+2010 = "Dalgalidere"   
+2560 = "Yeni Cennet"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Yeni Atina"   
+957 = "Elmasvilayet"   
+962 = "Mayisburnu"   
+2023 = "Krallar Vadisi"   
+     
+# EASTERN MAINE   
+     
+971 = "Yeni Edirne"   
+2566 = "Flemenk Kampi"   
+2567 = "Eralani"   
+     
+# HUDSON VALLEY   
+     
+961 = "Yeni Roma"   
+963 = "Birlikbesigi"   
+964 = "Çamötesi"   
+2559 = "Bes Gölet"   
+4912 = "Ontario Deltasi"   
+     
+# IRIQUOISIA    
+     
+958 = "Nikelsehir"   
+959 = "Çiçeksehir"   
+960 = "Gölkent"   
+4872 = "Çiçero"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Yeni Bursa"   
+2563 = "Sari Daglar"   
+4871 = "Kiziltas"   
+     
+# MAINE    
+     
+2013 = "Yeni Antalya"   
+2565 = "Mavihaç"   
+4873 = "Baharova"   
+     
+# MARYLAND    
+     
+953 = "Ufak Amerika"   
+2553 = "Yesil Siradaglar"   
+2554 = "Cazipkent"   
+     
+# MASSACHUSETTS    
+     
+966 = "Yesildaglar"   
+968 = "Üçdaglar"   
+2561 = "Beyaz Burun"   
+4874 = "Findikhisar"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Granitvilayet"   
+2562 = "Yeni Gine"   
+2564 = "Ak Daglar"   
+     
+# NEW YORK   
+     
+965 = "Yeni Istanbul"   
+2558 = "Yeni Bükres"   
+2639 = "Gemikonagi"   
+     
+# WESTYLVANIA    
+     
+955 = "Anitli"   
+2556 = "Yeni Tiran"   
+2557 = "Yeni Bosna"   
+4876 = "Alghen Ovasi"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Beymelek"   
+864 = "Devrim Pasa"   
+2618 = "Agsu"   
+4644 = "Demre"   
+     
+# COAHUILA    
+     
+861 = "Sumbas"   
+864 = "Devrim Pasa"   
+2666 = "Mesudiye"   
+2667 = "Yenidegirmenler"   
+4606 = "Arslanköy"   
+     
+# COASTAL PRARIE   
+     
+884 = "Bahya Koyu"   
+888 = "Defneköy"   
+2665 = "Dizalan"   
+2669 = "Bozalan"   
+     
+# LLANO ESTACADO   
+     
+882 = "Kekova"   
+885 = "Düzova"   
+2496 = "Asikkent"   
+2497 = "Kaleüçagiz"   
+4630 = "Nata Köyü"   
+     
+# PECOS    
+     
+2498 = "Gözne"   
+4628 = "Yavrulu"   
+4629 = "Yeni Küdüs"   
+     
+# TAMAULIPAS    
+     
+858 = "Konuskanköy"   
+2499 = "Kralkent"   
+2614 = "Yeni Kircaali"   
+2668 = "Kalemova"   
+     
+# TEXAS    
+     
+883 = "Yeni Tehran"   
+887 = "Zerdali"   
+4627 = "Hatayhisar"   
+4911 = "Saz Nehirleri"   
+     
+# TEXAS PLAINS   
+     
+886 = "Trabzonlu Düzlügü"   
+2500 = "Dursunkoru"   
+4909 = "Teksaz"   
+4910 = "Temelova"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Atlantik Sahili"   
+928 = "Sheroke Deltasi"   
+2534 = "Oryon"   
+     
+# FLORIDA    
+     
+926 = "Hindidere"   
+2535 = "Yeni Selanik"   
+2536 = "Mayami"   
+4625 = "Yeni Izmir"   
+4626 = "Pota Sahili"   
+     
+# GEORGIA    
+     
+929 = "Savanlik"   
+2537 = "Italyan Vadisi"   
+2538 = "Alman Tarlasi"   
+2539 = "Küçük Vestfalya"   
+4880 = "Çobantepe"   
+     
+# GREAT VALLEY   
+     
+949 = "Mavi Tepe"   
+2011 = "Blokvadi"   
+2548 = "Yeni Nehir"   
+2552 = "Inciköy"   
+     
+# NORTH CAROLINA   
+     
+937 = "Eskikale"   
+938 = "Keskintepe"   
+2546 = "Korku Burnu"   
+2547 = "Kral Defnesi"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Sheroke"   
+936 = "Dagüstü"   
+2527 = "Gözlemtepe"   
+4879 = "Dumanova"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Ahsapköy"   
+2545 = "Çanliköy"   
+4878 = "Mustafa Saim Pasa"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Azizova"   
+2542 = "Yeni Sofya"   
+2543 = "Uzun Körfez"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Yesilköy"   
+2541 = "Yeni Varna"   
+4882 = "Edirnekale"   
+     
+# UPPER GEORGIA   
+     
+930 = "Kalekent"   
+931 = "Seftalitepe"   
+2540 = "Müsavirkent"   
+4881 = "Sheroke Nehri"   
+     
+# VIRGINIA    
+     
+950 = "Osman Gazi Nehri"   
+952 = "Orhan Gazi Nehri"   
+2549 = "Baliklinehir"   
+2550 = "Büyüköy"   
+4877 = "Notayolu"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Bitniya"   
+2935 = "Ahsapkent"   
+2938 = "Ahyazmali"   
+     
+# AMAZON    
+     
+2889 = "Darili"   
+2930 = "Büyükhan"   
+2933 = "Küçük Kastilya"   
+2934 = "Küçük Portekiz"   
+     
+# BAHIA    
+     
+756 = "Sultanlar Koyu"   
+757 = "Sariyahsi"   
+760 = "Eskiliman"   
+2914 = "Altas"   
+2916 = "Çaglayik"   
+     
+# CEARA    
+     
+750 = "Navlühun"   
+751 = "Yenihisar"   
+753 = "Büyük Kuzey Nehri"   
+     
+# DIAMANTINA    
+     
+759 = "Elmassehir"   
+2891 = "Hemsin"   
+2898 = "Agilli"   
+     
+# GOIAS    
+     
+758 = "Çölnehri"   
+2906 = "Anaçli"   
+2907 = "Baykent"   
+2908 = "Demirdöven"   
+2919 = "Samandöken"   
+     
+# GRAO PARA   
+     
+748 = "Askanya"   
+2890 = "Amazon Deltasi"   
+2928 = "Kadikedi"   
+2929 = "Katmerci"   
+     
+# GUAPORE    
+     
+2900 = "Erenler"   
+2901 = "Civan"   
+2902 = "Maralköy"   
+     
+# GUAYRA    
+     
+768 = "Sekergören"   
+2895 = "Narlik"   
+2897 = "Akumuslar"   
+     
+# MARANHAO    
+     
+749 = "Cebeci"   
+2923 = "Britanya Hisari"   
+2924 = "Cesurköy"   
+2926 = "Tunçkent"   
+2927 = "Güney Limani"   
+     
+# MATO GROSSO   
+     
+2888 = "Findikoba"   
+2903 = "Yanikli"   
+2904 = "Alaköy"   
+2905 = "Incilli"   
+     
+# MINAS GERAIS   
+     
+765 = "Deliçoban"   
+2892 = "Tunca"   
+2894 = "Biçakçilar"   
+2899 = "Sakalar"   
+     
+# OFAIE    
+     
+2881 = "Çanakçi"   
+2893 = "Ardesen"   
+2920 = "Samanli"   
+     
+# PERNAMBUCO    
+     
+754 = "Karaköy"   
+755 = "Mecidiye"   
+2912 = "Serinkuyu"   
+2921 = "Mecidiye Hisari"   
+2922 = "Sefalet Dagi"   
+     
+# PIAUI    
+752 = "Beyaz Orman"   
+2886 = "Halilli"   
+2925 = "Kurtköy"   
+     
+# PONTAL    
+     
+2909 = "Türkgözü"   
+2910 = "Süngülü"   
+2911 = "Damal"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Turunculiman"   
+762 = "Körsansahili"   
+763 = "Ocak Irmagi"   
+764 = "Altinköy"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Baykonur"   
+2879 = "Arpacik"   
+2884 = "Sayvan"   
+2887 = "Muratli"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Dolayli"   
+2913 = "Binbasak"   
+2915 = "Lehimli"   
+2917 = "Yanatli"   
+2918 = "Yavuzlar"   
+     
+# SAO PAULO   
+     
+766 = "Hisaralan"   
+769 = "Isikkent"   
+2896 = "Esendal"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Kanuniyye"   
+832 = "Tuna"   
+4602 = "Tunaköy"   
+4603 = "Misrali"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Barna Ovasi"   
+2810 = "Asmaköy"   
+2813 = "Kursak"   
+4613 = "Kayack"
+4614 = "Limontepe"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Seferdag"   
+2816 = "Yagcilar"   
+4605 = "Erikli"
+     
+# COQUIVACOA    
+     
+828 = "Kartaca"   
+829 = "Magdelya"   
+2806 = "Kazikli"   
+4599 = "Salli"   
+4601 = "Sandra"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Sövalyeevi"   
+827 = "Yeni Antakya"   
+2817 = "Demircili"   
+4600 = "Merveli"   
+4607 = "Sairli"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Bozbük"   
+2809 = "Doganbey"   
+2939 = "Alahaci"   
+4615 = "Galyali"   
+     
+# GUYANA    
+     
+502 = "Üçlü Ada"   
+743 = "Uzun Liman"   
+744 = "Seyhan "   
+2803 = "Güvercinlik"   
+     
+# MARACAIBO    
+     
+830 = "Marakaya"   
+2807 = "Akköy"   
+4609 = "Vahdettinköy"   
+4610 = "Yukan Vilayeti"   
+4611 = "Valili"   
+     
+# POPAYAN    
+     
+823 = "Kalfaköy"   
+826 = "Ormanhisar"   
+2818 = "Bilhanli"   
+4596 = "Iskanli"   
+4604 = "Pasali"   
+     
+# SURINAME    
+     
+745 = "Aran"   
+746 = "Engürlü"   
+2937 = "Flemenk Sahili"   
+     
+# UPPER GUYANA   
+     
+742 = "Kara Fundalik"   
+2804 = "Güllük"   
+2811 = "Avanti"   
+2931 = "Müftüköy"   
+4617 = "Pargali"   
+     
+# VENEZUELA    
+     
+741 = "Yeni Sugla"   
+831 = "Sehzadeköy"   
+2808 = "Serçin"   
+4612 = "Tinaztepe"   
+4616 = "Arikent"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Yamanlar"   
+2814 = "Orhanli"   
+2815 = "Kizilfunda"   
+4608 = "Davutlar"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Beybas"   
+786 = "Kara Nehir"   
+2868 = "Karatal"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Gümüsdere"   
+773 = "Edremit"   
+2850 = "Uzunkol"   
+2851 = "Atbasar"   
+2852 = "Koksay"   
+     
+# BUENOS AIRES   
+     
+778 = "Büyükova"   
+2846 = "Karacaoba"   
+2848 = "Gümüsova"   
+2849 = "Abay"   
+     
+# CENTRAL CHILE   
+     
+784 = "Yeni Tekirdag"   
+787 = "Tuz Sahilleri"   
+2862 = "Sayram"   
+     
+# CUYO    
+     
+2843 = "Karaoglan"   
+2844 = "Badirga"   
+2845 = "Rokali "   
+2847 = "Nura"   
+2877 = "Ilit"   
+     
+# MESOPOTAMIA    
+     
+777 = "Açkale"   
+2853 = "Tasokel"   
+2855 = "Turgay"   
+2858 = "Koskol"   
+2859 = "Lenger"   
+     
+# NEHEUNKEN    
+     
+785 = "Inka Çölü"   
+2867 = "Temir"   
+2871 = "Akçaabat"   
+2872 = "Tonya"   
+     
+# PATAGONIA    
+     
+781 = "Istekliman"   
+782 = "Fetihli"   
+2869 = "Karaoy"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Karabulak"   
+2870 = "Görele"   
+2875 = "Espiye"   
+2876 = "Kasdibi"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Topkapi Adalari"   
+2025 = "Güney Gürcistan"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Cennetliman"   
+2873 = "Salpazari"   
+2874 = "Tirebolu"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Bigali"   
+2860 = "Baytal"   
+2861 = "Karatan"   
+2865 = "Aksukent"   
+2866 = "Kuyulu"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Bariskent"   
+804 = "Yigilca"   
+2831 = "Kuruova"   
+2947 = "Zincirli"   
+     
+# CAJAMARCA    
+     
+813 = "Yelli"   
+2824 = "Güre"   
+2825 = "Kalkim"   
+2943 = "Toklu"   
+     
+# CHIMOR    
+     
+812 = "Tasören"   
+2002 = "Vezir Adalari"   
+2821 = "Irlandali'nin Burnu"   
+2822 = "Piramitli"   
+2826 = "Kumtepe"   
+     
+# HUANUCO    
+     
+809 = "Nallihan"   
+810 = "Yakapinar"   
+811 = "Kabaca"   
+814 = "Yanlizkörfez"   
+2827 = "Dalyan"   
+     
+# IQUITOS    
+     
+815 = "Yeni Lidya"   
+818 = "Baraka"   
+821 = "Servet Dagi"   
+     
+# KUNTISUYU    
+     
+807 = "Sultanköy"   
+808 = "Kusko"   
+2829 = "Köseli"   
+2830 = "Koyunevi"   
+     
+# PERUAN COAST   
+     
+805 = "Gözecik"   
+806 = "Tuglali"   
+2828 = "Tavakli"   
+     
+# QUITO    
+     
+816 = "Tümbe"   
+817 = "Karlist"   
+819 = "Kemerler"   
+820 = "Okluk"   
+2820 = "Hamdibey"   
+     
+# UCAYALI    
+     
+2823 = "Sekiz Vadi"   
+2944 = "Karalar"   
+2945 = "Yiginli"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Saimbeyli"   
+801 = "Sultansehir"   
+2834 = "Kumarlar"   
+     
+# CHACO    
+     
+790 = "Avhisar"   
+2854 = "Gomyak"   
+2878 = "Güce"   
+     
+# JUJUY    
+     
+794 = "Hacikisla"   
+2837 = "Kizaksa"   
+2839 = "Gürcü Çölü"   
+     
+# MOXOS    
+     
+803 = "Gökçeören"   
+2832 = "Yasova"   
+2833 = "Derenti"   
+     
+# NORTHERN CHILE   
+     
+792 = "Bakirtepe"   
+793 = "Zafertepe"   
+796 = "Tuncurlu"   
+2840 = "Haciosman"   
+2841 = "Haciorhan"   
+     
+# PARAGUAY    
+     
+775 = "Göcek"   
+776 = "Fikirkent"   
+799 = "Tufanbeyli"   
+2882 = "Inanca"   
+2883 = "Ikisu"   
+     
+# POTOSI    
+     
+795 = "Ihsaniye"   
+797 = "Kaplumbaghisar"   
+2940 = "Orhanoglu"   
+2946 = "Acaroba"   
+     
+# TUCUMAN    
+     
+791 = "Katamarka"   
+2836 = "Idriskoru"   
+2842 = "Osmankadi"   
+     
+# UPPER PERU   
+     
+2835 = "Kahvetepe"   
+2838 = "Süleymanli"   
+2941 = "Hacihalil"   
+2942 = "Kutluca"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Dadak"   
+4852 = "Tasoluk"   
+4853 = "Kocagöl"   
+4854 = "Bastepe"   
+     
+# CAPRICORNIA    
+     
+2730 = "Yesiltepe"   
+2731 = "Ayçukuru"   
+2732 = "Köseyolu"   
+4848 = "Sahinkaya"   
+4849 = "Göktas"   
+     
+# ILLAWARA    
+     
+1090 = "Çikrikli"   
+4857 = "Düzkisla"   
+4858 = "Resadiye"   
+4859 = "Efendiköprüsü"   
+4860 = "Ömerfaki"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Rizekent"   
+1092 = "Aziziye"   
+4855 = "Örencik"   
+4856 = "Yesilhisar"   
+     
+# PERTH    
+     
+1084 = "Gölören"   
+2727 = "Çayirbasi"   
+4863 = "Ikibasli"   
+4864 = "Üyücek"   
+     
+# PILBARA    
+     
+2726 = "Leylekköy"   
+4865 = "Kayaarasi"   
+4866 = "Nursatlar"   
+4867 = "Yesilyurt"   
+     
+# PRINCELAND    
+     
+1086 = "Mezrea"   
+2735 = "Çayirözü"   
+2736 = "Karsigeçit"   
+4862 = "Sariayak"   
+     
+# QUEENSLAND    
+     
+1093 = "Üçköse"   
+1094 = "Akdag"   
+2733 = "Bayindir"   
+4850 = "Cakirözü"   
+     
+# TASMANIA    
+     
+1085 = "Kosapinar"   
+4868 = "Belenören"   
+4869 = "Durhasan"   
+     
+# TOP END   
+     
+2728 = "Atürküten"   
+2729 = "Degirmendere"   
+4846 = "Demirli"   
+4847 = "Taskiran"   
+     
+# VICTORIA    
+     
+1087 = "Eskipolat"   
+1088 = "Sorkunlu"   
+1089 = "Egerti"   
+2734 = "Yanikçam"   
+4861 = "Gürpinar"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+#N/A
+#N/A
+#N/A
+     
+# EAST MICRONESIA   
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# FIJI    
+     
+#N/A
+#N/A
+#N/A
+     
+# MELANESIA    
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# NORTHERN POLYNESIA   
+     
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# POLYNESIA    
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Köknar"   
+1107 = "Harmanören"   
+2739 = "Günebakan"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Sürmene"   
+2737 = "Egirdir"   
+4939 = "Agilköy"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Bagören"   
+1246 = "Oynagan"   
+2738 = "Pembeli"

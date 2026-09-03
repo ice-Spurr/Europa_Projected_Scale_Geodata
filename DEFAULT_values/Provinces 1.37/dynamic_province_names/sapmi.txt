@@ -1,0 +1,24 @@
+### EUROPE
+
+## SCANDINAVIA
+
+# Laponia
+
+315 = {"Finnmárku" "Várggát"} # Finnmark, Vardø
+1777 = {"Koola" "Gáddeluokta"} # Kola, Kandalaksha
+4151 = {"Aanaar" "Suádigil"} # Inari, Sodankylä
+
+# Norrland
+
+11 = {"Ubmi" "Ubmi"} # Umeå
+18 = {"Árvehávvre" "Árvehávvre"} # Arvidsjaur
+4114 = {"Johkamohkki" "Johkamohkki"} # Jokkmokk
+
+# Ostrobothnia
+
+4113 = {"Roavvenjárga" "Roavvenjárga"} # Rovaniemi
+
+# Trondelag
+
+20 = {"Trööndelage" "Tråante"} # Trøndelag, Trondheim
+21 = {"Áhkánjárga" "Áhkánjárga"} # Narvik

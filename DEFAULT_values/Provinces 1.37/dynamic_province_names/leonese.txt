@@ -1,0 +1,29 @@
+### EUROPE
+
+## IBERIA
+
+# Extremadura
+
+218 = {"Badayoz" "Badayoz"}
+1747 = {"Caçris" "Caçris"}
+4788 = {"Prasencia" "Prasencia"}
+
+# Galicia
+
+206 = {"A Coruña" "A Coruña"}
+4554 = {"Lugo" "Lugo"}
+4555 = {"Pontevedra" "Pontevedra"}
+4558 = {"Ourense" "Ourense"}
+
+# León
+
+207 = {"Asturias" "Uviéu"}
+208 = {"Llión" "Llión"}
+216 = {"Salamanca" "Salamanca"}
+4553 = {"Zamora" "Zamora"}
+
+215 = {"Valladolís" "Valladolís"}
+219 = {"Toleu" "Toleu"}
+232 = {"Bergancia" "Bergancia"}
+217 = {"Madrid" "Madrid"}
+4551 = {"Ávila" "Ávila"}

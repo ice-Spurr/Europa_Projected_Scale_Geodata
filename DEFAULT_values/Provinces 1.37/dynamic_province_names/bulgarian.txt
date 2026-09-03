@@ -1,0 +1,175 @@
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naksos" "Naksos"}
+320 = {"Rodos" "Rodos"}
+2348 = {"Hios" "Hios"}
+3003 = {"Evbeja" "Halkida"}
+4700 = {"Lesbos" "Mitilini"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Vlora" "Vlora"}
+4174 = {"Drac" "Drac"}
+4175 = {"Leža" "Leža"}
+4750 = {"Kruja" "Kruja"}
+
+# Bosnia
+
+139 = {"Zahumlie" "Mostar"}
+140 = {"Bosna" "Doboj"}
+1831 = {"Hercegovina" "Trebine"}
+3002 = {"Visoki" "Visoki"}
+4755 = {"Podrine" "Višegrad"}
+
+# Bulgaria
+
+150 = {"Nikopol" "Nikopol"}
+1765 = {"Sofija" "Sofija"}
+2746 = {"Vidin" "Vidin"}
+2750 = {"Plovdiv" "Plovdiv"}
+4703 = {"Kyustendil" "Velbzhd"}
+
+# Croatia
+
+131 = {"Zagreb" "Zagreb"}
+1826 = {"Lika" "Gospic"}
+1828 = {"Dolni kraj" "Jajce"}
+4752 = {"Rieka" "Rieka"}
+
+# Dalmatia
+
+136 = {"Split" "Split"}
+137 = {"Dubrovnik" "Dubrovnik"}
+4753 = {"Zadar" "Zadar"}
+
+# Macedonia
+
+148 = {"Solun" "Solun"}
+1853 = {"Kostur" "Kostur"}
+3001 = {"Skopie" "Skopie"} 
+4702 = {"Sjar" "Sjar"}
+4780 = {"Ohrid" "Ohrid"}
+
+# Morea
+
+145 = {"Lakonija" "Mistra"}
+146 = {"Atina" "Atina"}
+163 = {"Krit" "Iraklio"}
+1773 = {"Ahaja" "Patra"}
+4701 = {"Korint" "Korint"}
+
+# Northern Greece
+
+142 = {"Korfu" "Grad Korfu"}
+144 = {"Epir" "Joanina"}
+147 = {"Tesalija" "Larisa"}
+4698 = {"Kefalonija" "Sveti Georgi"}
+4699 = {"Arta" "Arta"}
+
+# Rascia
+
+138 = {"Zeta" "Žabljak"}
+1766 = {"Kosovo" "Priština"}
+1827 = {"Raška" "Targovište"}
+4754 = {"Kotor" "Kotor"}
+
+# Serbia
+
+141 = {"Semendrija" "Semendrija"}
+3000 = {"Niš" "Niš"}
+4176 = {"Branicevo" "Branicevo"}
+4239 = {"Belgrad" "Belgrad"}
+4757 = {"Kolubara" "Loznica"}
+
+# Silistria
+
+159 = {"Silistra" "Silìstra"}
+4704 = {"Tarnovo" "Velìko Tàrnovo"}
+4706 = {"Tulca" "Tulca"}
+
+# Slavonia
+
+152 = {"Varaždin" "Varaždin"}
+1767 = {"Slavonija" "Osiek"}
+4173 = {"Srem" "Ruma"}
+4756 = {"Belovar" "Belovar"}
+	
+# Thrace
+
+149 = {"Odrin" "Odrin"}
+151 = {"Carigrad" "Carigrad"}
+1764 = {"Burgas" "Burgas"}
+4705 = {"Gjumjurdžina" "Gjumjurdžina"}
+4779 = {"Galipol" "Galipol"}
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Bekeš" "Bekeš"}
+1953 = {"Sabolc" "Debrecen"}
+1954 = {"Banat" "Zrenjanin"}
+4125 = {"Solnograd" "Solnograd"}
+
+# Moldavia
+
+268 = {"Sucava" "Sucava"}
+1756 = {"Besarabija" "Kilija"}
+2405 = {"Bendery" "Bendery"}
+4529 = {"Jaš" "Jaš"}
+4530 = {"Barlad" "Barlad"}
+
+# Northern Transylvania
+
+157 = {"Oradja" "Oradja"}
+158 = {"Mureš" "Targu Mureš"}
+1952 = {"Maramureš" "Baja Mare"}
+4127 = {"Turda" "Turda"}
+
+# Slovakia
+
+154 = {"Niemce" "Niemce"}
+162 = {"Zemplin" "Zemplin"}
+1318 = {"Poprad" "Poprad"}
+1772 = {"Bratislava" "Bratislava"}
+4236 = {"Trencin" "Trencin"} 
+
+# Southern Transylvania
+
+156 = {"Temishvár" "Temishvár"}
+1951 = {"Deva" "Deva"}
+4128 = {"Sibiu" "Sibiu"}
+
+# Transdanubia
+
+135 = {"Šopron" "Šopron"}
+153 = {"Pešta" "Buda"}
+1864 = {"Šomod" "Šomod"}
+4126 = {"Bac" "Bac"}
+4240 = {"Stoni Belgrad" "Stoni Belgrad"}
+
+# Wallachia
+
+160 = {"Oltenija" "Krajova"}
+161 = {"Targovište" "Targovište"}
+2998 = {"Buzau" "Buzau"}
+4531 = {"Gjurgevo" "Gjurgevo"}
+4532 = {"Severin" "Drobeta"}
+
+## SOUTH GERMANY
+
+# Carniola
+
+129 = {"Kranska" "Ljubljana"}
+130 = {"Istrija" "Pula"}
+1769 = {"Goricija" "Gorìcija"}
+4738 = {"Triest" "Triest"}
+4751 = {"Cele" "Cele"}
+
+## ITALY
+
+4734 = {"Alcekgrod" "Alcekgrod"} # Thanks u/fazbearfravium

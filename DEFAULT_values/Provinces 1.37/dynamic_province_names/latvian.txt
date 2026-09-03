@@ -1,0 +1,133 @@
+### EUROPE
+
+## BALTICS
+
+# Aukstaitija
+
+272 = {"Vilna" "Vilna"}
+770 = {"Braslava" "Braslava"}
+4535 = {"Vilkmerge" "Vilkmerge"}
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Samsala" "Kuresare"}
+39 = {"Kuldiga" "Kuldiga"}
+1935 = {"Mitava" "Mitava"}
+
+# East Prussia
+
+40 = {"Klaipeda" "Klaipeda"}
+41 = {"Karalauci" "Karalauci"}
+42 = {"Varme" "Olština"}
+767 = {"Šcitno" "Šcitno"}
+2958 = {"Ostruda" "Ostruda"}
+
+# Estonia
+
+36 = {"Revele" "Revele"}
+1834 = {"Terbata" "Terbata"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livzeme" "Vilande"}
+38 = {"Riga" "Riga"}
+273 = {"Latgale" "Daugavpils"}
+4241 = {"Cesis" "Cesis"}
+
+# Samogitia
+
+270 = {"Traki" "Traki"}
+271 = {"Žemaitija" "Varni"}
+1936 = {"Kauna" "Kauna"}
+4534 = {"Poneveži" "Poneveži"}
+
+# West Prussia
+
+43 = {"Gdanska" "Gdanska"}
+1841 = {"Malborka" "Malborka"}
+2997 = {"Tuhola" "Tuhola"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Cernihiva" "Cernihiva"}
+1945 = {"Severija" "Novhoroda-Siverska"}
+4543 = {"Rilska" "Rilska"}
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Perejaslava" "Perejaslava"}
+4542 = {"Lublina" "Lublina"}
+
+# Minsk
+
+276 = {"Minska" "Minska"}
+4115 = {"Mazira" "Mazira"}
+4242 = {"Ula" "Ula"}
+4544 = {"Babruiska" "Babruiska"}
+
+# Podolia
+
+281 = {"Podolija" "Kamjaneca-Podilska"}
+1943 = {"Braclava" "Braclava"}
+4540 = {"Vinnica" "Vinnica"}
+
+# Podlasie
+
+269 = {"Podlahija" "Drohicina"}
+277 = {"Bresta" "Bresta"}
+1937 = {"Grodna" "Grodna"}
+
+# Pripyat
+
+278 = {"Pinska" "Pinska"}
+1941 = {"Turava" "Turava"}
+4537 = {"Navahradaka" "Navahradaka"}
+4545 = {"Slucka" "Slucka"}
+
+# Sloboda Ukraine
+
+291 = {"Harkiva" "Harkiva"}
+298 = {"Kurska" "Kurska"}
+299 = {"Voroneža" "Voroneža"}
+2408 = {"Jeleca" "Jeleca"}
+
+# Smolensk
+
+293 = {"Smolenska" "Smolenska"}
+297 = {"Brjanska" "Brjanska"}
+4244 = {"Trubcevska" "Trubcevska"}
+4245 = {"Viazma" "Viazma"}
+
+# Volhynia
+
+279 = {"Volinija" "Volodimira"}
+2962 = {"Rivne" "Rivne"}
+4538 = {"Helma" "Helma"}
+4539 = {"Kremeneca" "Kremeneca"}
+
+# West Dniepr
+
+280 = {"Kijiva" "Kijiva"}
+1942 = {"Žitomira" "Žitomira"}
+1944 = {"Cerkasi" "Cerkasi"}
+4247 = {"Ovruca" "Ovruca"}
+
+# White Ruthenia
+
+292 = {"Mahilova" "Mahilova"}
+771 = {"Vicjebska" "Vicjebska"}
+4246 = {"Mscislava" "Mscislava"}
+
+## SOUTH GERMANY
+
+# Inner Austria
+
+128 = {"Lejaskarintija" "Klagenfurte"}
+132 = {"Štirija" "Judenburga"}
+4759 = {"Augškarintija" "Fillaha"}
+1863 = {"Graca" "Graca"}

@@ -1,0 +1,120 @@
+############################################# FRANCE ###################################################
+
+# Auvergne
+ 
+190 = {"Borbonnois" "Moulinis"}
+195 = {"Lymosin" "Lemoges"}
+199 = {"Alverne" "Clermont"}
+4697 = {"La Marche" "Garet"}
+4777 = {"Forez" "Montbrisoun"}
+ 
+# Brittany
+ 
+169 = {"Armor" "Saint Brieul"}
+170 = {"Finisterre" "Breste"}
+171 = {"Vennedois" "Vennes"}
+172 = {"Nantois" "Nantes"}
+4384 = {"Rennois" "Renes"}
+ 
+# Champagne
+ 
+181 = {"Ardenne" "Rethel"} 
+186 = {"Rems" "Rems"}
+4390 = {"Champaine" "Troys"}
+ 
+# Eastern Burgundy
+ 
+192 = {"Divionnois" "Divione"}
+193 = {"France-Conté" "Besançon"}
+4764 = {"Salinois" "Salins"}
+ 
+# Gascony
+ 
+173 = {"Lapourd" "Baione"}
+175 = {"Armagnac" "Auch"} ## see later
+176 = {"Biarn" "Sant Martii de Pau"}
+4694 = {"Fus" "Fus"}
+ 
+# Guyenne
+ 
+174 = {"Bordeaulx" "Bordeaulx"}
+194 = {"Pétrigord" "Bragueyrac"}
+198 = {"Rouerque" "Ruteni"}
+4112 = {"Caourcin" "Caortz"}
+ 
+# Île-de-France
+ 
+182 = {"Valois" "Soyssons"}
+183 = {"Paris" "Paris"}
+185 = {"Nemaurs" "Nemaurs"}
+4388 = {"Chartres" "Chartres"}
+ 
+# Languedoc
+ 
+196 = {"Tholose" "Tholose"}
+200 = {"Monspisler" "Monspisler"}
+2753 = {"Nerbonne" "Nerbonne"}
+4391 = {"Vivarois" "Viviers"}
+4695 = {"Carcassione" "Carcassione"} ## name used during the Muslim conquests
+ 
+# Loire Valley
+ 
+177 = {"Maine" "Celamans"}
+178 = {"Angou" "Angiers"}
+4389 = {"Toraine" "Tors"}
+ 
+# Lorraine
+ 
+187 = {"Barrois" "Barroduce"}
+188 = {"Mets" "Mets"}
+189 = {"Lorrene" "Nanci"}
+4766 = {"Verden" "Verdun"} ## confirmed
+ 
+# Normandy
+ 
+167 = {"Câos" "Roüan"}
+168 = {"Kaem" "Kaem"}
+1879 = {"Alençoun" "Alençoun"}
+4385 = {"Cotentîn" "Chèrbourg"}
+ 
+# Orléanais
+ 
+179 = {"Berri" "Bourges"}
+184 = {"Orliens" "Orliens"}
+4776 = {"Bleis" "Bleis"}
+
+# Picardy
+ 
+87 = {"Callès" "Callès"}
+88 = {"Athrebate" "Aarras"}
+89 = {"Piccardie" "Amiens"}
+1743 = {"Chamberais" "Chamberais"}
+ 
+# Poitou
+ 
+180 = {"Hault-Poictou" "Poictiers"}
+4111 = {"Xainctonge" "Xainctes"}
+4386 = {"Bas-Poictou" "Lucio"}
+4387 = {"Engomois" "Angelome"}
+ 
+# Provence
+ 
+201 = {"Ais" "Ais-en-Provence"}
+202 = {"Avignon" "Avignon"}
+2991 = {"Haute Provence" "Fornchalcerii"}
+4696 = {"Tholonnais" "Tholon"}
+ 
+# Savoy
+ 
+203 = {"Lugdonnais" "Lugon"}
+204 = {"Delphiné" "Grelibre"}
+205 = {"Sauvoie" "Chamberi"}
+4719 = {"Breysse" "Bourg en Breysse"}
+ 
+# Western Burgundy
+ 
+191 = {"Nivernois" "Nivers"}
+1877 = {"Kadrelois" "Kadrelas"}
+4392 = {"Auxois" "Siemur"}
+ 
+102 = {"Nisse" "Nisse"}

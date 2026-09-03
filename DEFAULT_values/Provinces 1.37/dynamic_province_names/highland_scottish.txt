@@ -1,0 +1,1518 @@
+### EUROPE
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Luimneach" "Luimneach"} # Limerick
+376 = {"Connacht" "Gaillimh"} # Connaught; Galway
+4119 = {"Sligeach" "Sligeach"} # Sligo
+
+# East Anglia
+
+238 = {"Sagsainn an ear" "Àth Cailmhear"} # Essex; Chelmsford
+1860 = {"Norfoclann" "Baile Tuath"} # Norfolk; Norwich
+4370 = {"Bruach nam Beann" "Drochaid Cham"} # Bedfordshire; Cambridge
+
+# East Midlands
+
+243 = {"Siorrachd Lincainn" "Lincainn"} # Lincolnshire; Lincoln
+1861 = {"Dearabh" "Dearabh"} # Derby; Derby
+4376 = {"Leicestar" "Leicestar"} # Leicester; Leicester
+
+# Highlands
+
+250 = {"Peairt" "Peairt"} # Perth (There isn't any settlement called Johnstown in this province)
+252 = {"Inbhir Nis" "Inbhir Nis"} # Inverness
+369 = {"Arcaibh" "Baile na h-Eaglaise"} # Orkney; Kirkwall
+4110 = {"Cataibh" "Dòrnach"} # Sutherland; Dornach
+4363 = {"Earra-Ghaidheal" "Loch Obha"} # Argyle; Lochagh
+
+# Leinster
+
+373 = {"An Paíl" "Baile Átha Cliath"} # Pale; Dublin
+374 = {"Laighean" "Loch Garman"} # Leinster; Wexford
+4120 = {"Cill Dara" "Nás na Ríogh"} # Kildare; Naas
+4379 = {"Meadhan-there" "An Anaíle"} # King's County (Midlands); Annaly
+
+# London
+
+235 = {"Ceann Tere" "Dùn nan Ceanntair"} # Kent; Canterbury
+236 = {"Lunnainn" "Lunnainn"} # London
+237 = {"Àth nan Damh" "Àth nan Damh"} # Oxford
+4371 = {"Sasainn Theas" "Phlàstair"} # Sussex; Hastings
+
+# Lowlands
+
+248 = {"Lodainn" "Dùn Èideann"} # Lothian; Edinburgh
+249 = {"Siorrachd Àir" "Inbhir Àir"} # Ayrshire; Ayr
+251 = {"Obar Dheathain" "Obar Dheathain"} # Aberdeen
+4361 = {"Siorrachd Rosbroig" "Deadard"} # Roxburgshire; Jedburgh
+4362 = {"Dùn Phris" "Dùn Phris"} # Dumfries
+
+# Munster
+
+4118 = {"Corcaigh" "Corcaigh"} # Cork
+4377 = {"Ormhan" "Cill Chainnigh"} # Ormond; Kilkenny
+4378 = {"Deas-Mhumhan" "Cill Airne"} # Demond; Killarney
+
+# Northern England
+
+244 = {"Siorrachd Lanncastaìr" "Lanncastaìr"} # Lancashire; Lancaster
+246 = {"Tamhnach Thuath" "An Caisteal Nuadh"} # Northumberland; Newcastle upon Tyne
+247 = {"Comraig" "Cathair Luail"} # Cumbria; Carlisle
+4375 = {"Cèistear" "Cèistear"} # Chester
+
+# The Isles
+
+253 = {"Na h-Eileanan Siar" "Steòrnabhagh"} # Outer Hebrides; Stornoway 
+4364 = {"Na h-Eileanan a-staigh" "An t-Eilean Sgitheanach"} # Inner Hebrides; Skye
+4365 = {"Eilean Mhanainn" "Balley Chashtal"} # Isle of Man; Castletown
+
+# Ulster
+
+372 = {"Tir Eoghain" "Dùn Geanainn"} # (London)Derry; Dungannon
+4121 = {"Ulaidh" "Carraig Fhearghais"} # Ulster; Carrickfergus
+4380 = {"Dun nan Gall" "Dùn nan Gall"} # Donegal; Donegal
+
+# Wales
+
+241 = {"Morgannwg" "Cladach an Eòin"} # Glamorgan; Swansea
+4366 = {"Pòis" "Trefaldwyn"} # Powys; Montgomery
+242 = {"Siorrachd Dùn Narabhain" "Dùn Narabhain"} # Carnarvonshire; Carnarvon
+4369 = {"Siorrachd Caerfyrddin" "Caerfyrddin"} # Carmarthenshire; Carmarthen
+
+# Wessex
+
+233 = {"A Chòrn" "Bàgh Libhair"} # Cornwall; Treliver
+234 = {"Tòrr na Dùthcha" "Dùn Salas"} # Hampshire; Salisbury
+4130 = {"Tòrr Samhraidh" "Naiseach"} # Somerset; Bath
+4373 = {"Siorrachd Dumhnan" "Inbhir Plym"} # Devonshire; Plymouth
+4374 = {"Siorrachd Dorchaidh" "Inbhir Slighe"} # Dorset; Weymouth
+
+# West Midlands
+
+239 = {"Caerloyw" "Àite na Drochaid"} # Gloucester; Bristol
+240 = {"Amwythig" "Amwythig"} # Shrewsbury
+4372 = {"Cuimhir" "Cuimhir"} # Coventry
+
+# Yorkshire
+
+245 = {"Eabh" "Eabhraig"} # York
+4367 = {"Chuil" "Chuil"} # Hull
+4368 = {"Sgarbhair" "Sgarbhair"} # Scarborough
+4785 = {"Sìobheilld" "Sìobheilld"} # Sheffield
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Traigh Shethiche"   
+869 = "Tuathanach a' Mhuilleir"   
+2021 = "Traigh Muir"   
+2476 = "Bearraidhean Dol Fodha na Grcine"   
+4637 = "Mucan-Mara Port"   
+     
+# APACHERIA    
+     
+879 = "Apache Giuthais"   
+2492 = "Donnchadh"   
+4634 = "Baile Mor Cainneon"   
+     
+# ARIZONA    
+     
+867 = "Campa Fasaich"   
+876 = "Gleann Dail"   
+877 = "Abhainn Uilebheist"   
+2491 = "Beanntan Hopi"   
+4633 = "Tir Nam Adóibe"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Maide Glas"   
+866 = "Seann Uamhan"   
+2620 = "Ulaidh Falaichte"   
+4639 = "Gleann na Pailme"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Aiseag Raibeart"   
+2478 = "Beanntan a' Bhainne"   
+4635 = "Ceathramh"   
+4636 = "Feon-Lann"   
+     
+# COLORADO PLATEU   
+     
+875 = "Baile Airgid"   
+878 = "Gleann Ncibhi"   
+2493 = "Uamh Innseanach"   
+2494 = "Ceithir Oisinnibh"   
+     
+# NEW MEXICO   
+     
+880 = "Soitheach Creag"   
+881 = "Gainmheach Geal"   
+2495 = "Eoin-Uisge"   
+4631 = "Creag Eaglais"   
+4632 = "Caolan Cloimhe"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Creag a' Bhradain"   
+2477 = "Gleann Dearcag"   
+2479 = "Dun Camshron"   
+2480 = "Sliabh MacDouall"   
+4638 = "Airne"   
+     
+# SONORA    
+     
+862 = "Traigh a' Mhadaidh"   
+2616 = "Naomh Anna"   
+4577 = "Gleann am Pathadh"   
+4649 = "Maigh Eo"   
+4650 = "Deagh Shealladh"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Seann Ghearasdan"   
+2576 = "Loch an t-Salainn"   
+2577 = "Bagh na Trianaid"   
+2578 = "Caladh Caldair"   
+2579 = "Loch Ceann a' Bhais"   
+     
+# GREENLAND    
+     
+1104 = "Bagh an Dearg"   
+1105 = "Ter na h-Oighe"   
+     
+# HURONIA    
+     
+988 = "Dunedin"   
+989 = "McCrae"   
+2585 = "MacTier"   
+2670 = "Dun Mhic Mhathain"   
+     
+# LABRADOR    
+     
+997 = "Cala Mhoire"   
+2574 = "Dochas"   
+2575 = "Bagh nan Gcadh"   
+     
+# LAURENTIA    
+     
+992 = "Baile Mhanainn"   
+2581 = "Ar Baintighearna mu Thuath"   
+4894 = "Loch Mhic Moffat"   
+     
+# LOWER ACADIA   
+     
+982 = "Eilean Cheap Breatainn"   
+984 = "Ros Nuadh"   
+2568 = "An Caolas Leathann"   
+2569 = "Halafacs"   
+4891 = "Am Baile Mor"   
+     
+# LOWER CANADA   
+     
+993 = "Gleann Air An Abhainn"   
+2584 = "Baile Mhic Mhaighstir"   
+4895 = "Carnarvon Ur"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Taigh an Roid"   
+981 = "Loch Leven"   
+2573 = "Talamh an Cisg"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Gleann Garadh a Tuath"   
+4892 = " Glen Buell"   
+4897 = "Traigh na h-Eoin"   
+     
+# QUEBEC    
+     
+986 = "Abhainn Mhor"   
+994 = "Beinn Stiubhart"   
+995 = "Loch Naomh Ludan"   
+2582 = "Naomh Uilleam Pheairt"   
+2583 = "Naomh Petroc na Coirn"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Baile Bhoid"   
+2571 = "Peairt-Andover"   
+4896 = "Dun Phris"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Loch Naomh Conran"   
+2012 = "Lennox Ur"   
+2580 = "Geal Luath"   
+4893 = "Truru Ur"   
+     
+# UPPER ACADIA   
+     
+983 = "Eilean a'Phrionnsa"   
+985 = "Cill Remhinn"   
+2572 = "Dalhousie"   
+     
+# UPPER CANADA   
+     
+987 = "Doon"   
+2586 = "Oisean MhicDhomhnaill"   
+2587 = "Siorrachd Bhrus"   
+     
+# UPPER ONTARIO   
+     
+991 = "Craobh Teine"   
+1001 = "Brus Mcinnean"   
+1007 = "Creag Dheirg"   
+2015 = "Abhainn Gheal"   
+2671 = "Fuaim MhicAmhlaidh"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Naomh Calum Cille a Dál Riata"   
+2658 = "Cnoc sa Mheadhan"   
+2659 = "Sliabh Chriosd"   
+4620 = "Baile Dhomhnuill"   
+4621 = "Bagh nam measan"   
+     
+# EAST CUBA   
+     
+486 = "Naomh Aidan a Hen Ogledd"   
+2654 = "A' Tighinn Air Ter"   
+2655 = "Bagh Leth-Ghealach"   
+2656 = "Naomh Blaan Bhoid"   
+     
+# GREATER ANTILLES   
+     
+481 = "Eilean Nam Muc"   
+487 = "Naomh Anndra"   
+491 = "Eilean Raghnaill"   
+492 = "Barraigh Ur"   
+     
+# HAITI    
+     
+488 = "Cala a' Phrionnsa"   
+489 = "Tcarmann Spuinneadair"   
+4618 = "Creag Chomhnard"   
+4619 = "Ceap Liath"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Naomh Constantine Shrath Chluaidh"   
+494 = "Easbaig Cathróe na h-Alba"   
+495 = "Eilean Ban"   
+496 = "Eilean Naomh Moire"   
+1881 = "Naomh Mairead na h-Alba"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Gearastan Anns a 'Mhuir"   
+483 = "Eilean nan Snagairean"   
+     
+# WEST CUBA   
+     
+484 = "Port Choinnich"   
+485 = "Gleann Tombaca"   
+4622 = "Murt Port"   
+4623 = "Naomh Fionnbarra Chorca"   
+4624 = "Bagh Gaoithe"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Sgitheanach Ur"   
+498 = "Eilean mac Ailpín"   
+499 = "Eilean mac Fhionnlaigh"   
+500 = "Naomh Anndra an t-Abstol"   
+501 = "Magh Meall"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Eileanan Cuimris"   
+977 = "Bagh Eigh-Shruth"   
+2613 = "Eilean Chcith"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Dún Mhic Ghobhainn"   
+2486 = "Loch Logan"   
+2487 = "Macaladair"   
+2488 = "Talamh Peitseach"   
+     
+# HECATE STRAIT   
+     
+975 = "Beinn Tairneanaich"   
+2022 = "Eileanan Snaidheadair"   
+2609 = "Eileanan Broch"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Gairdean a' Bhradain"   
+2604 = "Mac Griogair"   
+2605 = "Eun-Coille"   
+2606 = "Dún Naomh Seumas"   
+2607 = "Margaidh nam Fiadh Muile"   
+     
+# OREGON    
+     
+872 = "Dún Mhic a' Mhuinn"   
+2481 = "Beinn Maoilsheachlainn"   
+2482 = "Dún Mac Goill"   
+2483 = "Loch Teth"   
+     
+# PUGET SOUND   
+     
+874 = "Gleann Falaichte"   
+2484 = "Gleann Mac Cléirigh"   
+2485 = "Campa Moireach"   
+     
+# SNAKE RIVER   
+     
+2019 = "Gleann Ubhal"   
+2020 = "Cnoc an Regh"   
+2489 = "Beanntan Darach"   
+2490 = "Loch an t-Salainn"   
+2506 = "Caisteal Dail"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Eilean nam Fitheach"   
+973 = "Mac Coinnich"   
+974 = "Eileanan Ruaidh"   
+2610 = "Abhainn Chaimbeul"   
+     
+# WESTERN ALASKA   
+     
+978 = "Abhainn Alasdair"   
+979 = "Eileanan Dobhrain"   
+2611 = "Regh Bradan"   
+2612 = "Dún Ghordain"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Aite nan Nathraichean"   
+2632 = "Gleann Mayach"   
+2650 = "Campa Fogarraich"   
+     
+# CHIAPAS    
+     
+2635 = "An Diungail"   
+2638 = "Cactas Searbh"   
+2649 = "Marcaid Tehuana"   
+4585 = "Clann a' Bhata"   
+4586 = "Baile Leacan Creige"   
+     
+# COSTA RICA   
+     
+836 = "Dun Dc"   
+2663 = "Cartago"   
+4597 = "Raon Bheanntan Muir"   
+     
+# EAST YUCATAN   
+     
+2634 = "Altair Mhor"   
+2652 = "Tir a' Cheannaird"   
+4588 = "Innis Ur"   
+4591 = "Pailteachd"   
+     
+# GUATEMALA    
+     
+839 = "Traigh Mhuc"   
+841 = "Cathair Eanraig"   
+2653 = "Craobh Arbhair"   
+4587 = "Seann Lachan"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Baile-Mor an Deaguar"   
+843 = "Beleos"   
+2636 = "An Caolas Leathann"   
+4589 = "Bruach Copair"   
+4594 = "Geansaidh Coin"   
+     
+# HONDURAS    
+     
+840 = "Doimhneachd Mor"   
+2637 = "Coille Mayach"   
+2640 = "Beanntan Leomhann"   
+2662 = "Uamh nan Claigeann Glormhor"   
+4593 = "Naomh Ethernan na Eilean Mhaigh"   
+     
+# NICARAGUA    
+     
+837 = "Mic Niocara"   
+838 = "Mosgaid"   
+2660 = "Loch Maree"   
+2661 = "Puisteal Dubh"   
+4592 = "Ru Muncaidh"   
+     
+# WEST YUCATAN   
+     
+846 = "Pioramaid Draoidh"   
+2633 = "Gleann Doig"   
+2651 = "Deonadair"   
+4590 = "Mayach Cairdeil"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Moran Iasg"   
+2664 = "Ceard-Or"   
+2819 = "Daraidh"   
+4595 = "Geansaidh Balbh"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Gleann Comhann"   
+916 = "Gleann Fann"   
+917 = "Sliabh Steirling"   
+4903 = "Garadh Eilc"   
+     
+# INDIANA    
+     
+942 = "Naomh Moire na Coille"   
+943 = "Loch Blathach"   
+2523 = "Co-Sheirm Ur"   
+2524 = "Drochaid Frangach"   
+4922 = "Cala Innseanach"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Foraoise na Fionlainne"   
+911 = "Cidhe Copair"   
+2517 = "Abhainn Iarainn"   
+2518 = "Eileanan nan Abstol"   
+4898 = "Loch Lochran"   
+     
+# MICHIGAN    
+     
+944 = "Darach Reoghail"   
+945 = "Loch Feobha"   
+2521 = "Port Dochais"   
+2522 = "Tri Daraich"   
+     
+# OHIO    
+     
+946 = "Taigh Geal"   
+947 = "Coille Traigh"   
+948 = "MacConaill a' Bhaile"   
+2525 = "Obar-Dheathain air an Abhainn"   
+4907 = "Faire na Grcine"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Cathair-Crcadha"   
+2520 = "MhicGilleathainborgh"   
+4904 = "Drochaid MhicFhionghain"   
+     
+# WISCONSIN    
+     
+912 = "Achadh Boglaich"   
+913 = "Pradhaidh de na Coin"   
+914 = "Cathair a' Chaoil"   
+4899 = "Gaidhealtachd a Tuath"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+2504 = "Clach-bhuidhe"   
+2505 = "Tur nan Diabhal"   
+     
+# Central Plains   
+     
+901 = "Naomh Moire"   
+903 = "Loch Meala"   
+2009 = "Creag nan Each"   
+2508 = "Dún MhicCeilbhe"   
+4915 = "Clar Cloiche"   
+     
+# HIGH PLAINS   
+     
+889 = "Baile Glas"   
+2507 = "Ceann-Saighde"   
+2625 = "Stor-Tasgaidh McClave"   
+     
+# IOWA    
+     
+905 = "Campa Doghlais"   
+2513 = "Baile Ailean"   
+4900 = "Cinn Tere"   
+4905 = "Feur Gorm"   
+     
+# KANSAS    
+890 = "Gleann Cheienne"   
+898 = "Gleann Camshron"   
+2672 = "Gleann Naomh Frangan"   
+4914 = "Baile Cruithneach"   
+     
+# MINNESOTA    
+     
+904 = "Dún Mac Ai"   
+908 = "Loch Madadh-Allaidh"   
+2512 = "Tir Nan Iomadh Loch"   
+4901 = "Clach Pheobaire"   
+     
+# NORTH DAKOTA   
+     
+906 = "Gleann Lacota"   
+909 = "Creag Sheasamh"   
+2510 = "Ter Nam Fineachan Arphl"   
+4918 = "Boghadair"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Gleann Mac an Toisich"   
+2007 = "Clach Silidh"   
+2008 = "Beanntan Dubha"   
+4916 = "Baile Shona"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Ter Mor"   
+892 = "Dún MhicIlleathain"   
+896 = "Dún MhicAlasdair"   
+4908 = "Dún Tormod"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Beinn Laoigh"   
+2501 = "Ulbhag"   
+2502 = "Gleann Friseal"   
+2503 = "Gleann Feannag"   
+4917 = "Fiodh Mor"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Cochrane"   
+2588 = "Dun Mhathghamhuin"   
+2589 = "Abhainn Dobhrain"   
+2590 = "Uisge eu-Domhainn"   
+2591 = "Dún MhicDhiarmaid"   
+     
+# ALBERTA    
+     
+2004 = "Each Fiadhaich"   
+2017 = "Barrhead"   
+2018 = "Abhainn Smocaidh"   
+2602 = "Sliabh na Cloiche"   
+     
+# ASSINIBOIA    
+     
+2005 = "Loch-Cogaidh"   
+2596 = "Baile Broc"   
+2598 = "Sruth Cisg"   
+4920 = "Baileail Aonghas"   
+     
+# ATHABASCA    
+     
+2599 = "Dún Mhic Mhurchaidh"   
+2600 = "Abhainn nan Traillean"   
+2601 = "Loch Bogha-frois"   
+2603 = "Abhainn Guail"   
+     
+# HUDSON BAY   
+     
+1005 = "Gleann Criath"   
+1006 = "Dun Mathan Geal"   
+1009 = "Docg Giuthais"   
+2592 = "Bagh Cearc"   
+2594 = "Loch Sgoltadh"   
+     
+# JAMES BAY   
+     
+998 = "Seumas Bagh"   
+999 = "Bothan a Tuath"   
+1000 = "Rubha Beobhair"   
+1003 = "Móna Chattan"   
+1004 = "Dun Albany"   
+     
+# MANITOBA    
+     
+1008 = "Abhainn Dheirg"   
+1010 = "Loch Coin"   
+1011 = "Loch Uisge-Beatha"   
+2593 = "Rubha Buabhall"   
+4919 = "Dun Dubhghlas"   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Forc Mor"   
+2511 = "Dún MhicCumhais"   
+4902 = "Earra-Ghaidheal Ur"   
+     
+# SASKATCHEWAN    
+     
+2595 = "Fearann ??Fedhleir"   
+2597 = "Indermey"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Nathair-Ghleadhrach"   
+4646 = "Monadh an Ruitheadair"   
+4647 = "Sealladh an Fhasaich"   
+4648 = "Cnoc a' Ghairnealair"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Naomh Ceiseag"   
+2642 = "Cathair Iniltear"   
+4642 = "Fir Sgulan"   
+     
+# GUANAJUATO    
+     
+853 = "Ionnlad Aite"   
+2615 = "Beinn na Cloinne"   
+4640 = "Clach chruaidh"   
+4641 = "Beanntan Tlathanaich"   
+     
+# GUERRERO    
+     
+2627 = "Aite nam Ban"   
+2645 = "Na Puballan"   
+2648 = "Gleann Iopi"   
+     
+# HUASTECA    
+     
+848 = "Loch Phiobar"   
+2641 = "Coin Uisge"   
+4598 = "Seann Teampall"   
+     
+# JALISCO    
+     
+854 = "Leargaidh Paracait"   
+2617 = "Fear Leigheis"   
+2621 = "Ter Chalc"   
+2657 = "Bolcano Mhor"   
+4576 = "Aite Fcidh Agus Nathraichean"   
+     
+# MEXICO    
+     
+852 = "Cathair Mheagsago"   
+2626 = "Comraich nan Traillean"   
+4570 = "Loch Azteceach"   
+4571 = "Aite Slat"   
+4572 = "Dachaigh an Fhluir Dia"   
+     
+# MICHOAVAN    
+     
+2622 = "Loch Pailme"   
+2623 = "Dun Leslie"   
+2624 = "Aite nam Bunaitean"   
+4573 = "Monadh Agabh"   
+4574 = "Loch Cadhóit"   
+     
+# MIXTECA    
+     
+847 = "Measeach"   
+849 = "Oirthir Oir"   
+2646 = "Mac Atonail"   
+4581 = "Baile Astaraiche"   
+     
+# NAYARIT    
+     
+855 = "Cuilc"   
+859 = "Piorra Subhag-Lair"   
+4578 = "Feusta Arbhar"   
+     
+# Oaxaca    
+     
+844 = "Tir Nam Measan Donn"   
+2629 = "Baile an t-Searmonaiche"   
+4584 = "Fo-Thalamh"   
+     
+# PUEBLA    
+     
+850 = "Gaidhealtachd Azteceach"   
+2628 = "Mullach"   
+2644 = "Tearnadh"   
+4582 = "Beinn na Nathrach Iteach"   
+4583 = "Ubhal-Ghort am Pailteas"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Cupar an Oir"   
+2643 = "Gleann Sgaraidh"   
+4575 = "Gleann Basaille"   
+4579 = "Gleann Saideal"   
+4580 = "Cala Liomaideag"   
+     
+# VERACRUZ    
+     
+2630 = "Uisge For"   
+2631 = "Beanntan Measgaich"   
+2647 = "Baile Reubaltaich"   
+     
+# ZACATECAS    
+     
+856 = "Feur Oir"   
+4643 = "Baile Sealgair"   
+4645 = "Aite Fluraichean Uasal"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Pairc Mhic an Toisich"   
+925 = "Coille-choill"   
+2531 = "Fyffe"   
+2532 = "Eabh"   
+4883 = "Naomh Fionnbarra Chorca"   
+     
+# ARKANSAS    
+     
+894 = "Cnoc an Fhuaran"   
+895 = "Neach-Siubhail"   
+897 = "Dún MhicGille"   
+4885 = "Crios Cotain"   
+4923 = "Boglach Luaidhe"   
+     
+# KENTUCKY    
+     
+941 = "Snaidhm Giuthais"   
+2526 = "Garradh Peitseagan"   
+4888 = "Baile Mcinneadair"   
+     
+# LOUISIANA    
+     
+893 = "Cala air a' Bhoglach"   
+2014 = "Duilleach Fada"   
+2516 = "Orains"   
+     
+# MISSISSIPPI    
+     
+919 = "Coilltean Cuilinn"   
+920 = "Balla Cloiche"   
+2528 = "Charnegie"   
+2529 = "Dún MacComb"   
+4884 = "Dun nan Gall"   
+     
+# OZARKS    
+     
+899 = "Earrach"   
+2509 = "Celtica"   
+2515 = "Mac Curtain"   
+4886 = "Smeur-Craoibhe"   
+     
+# TENNESSEE    
+     
+918 = "Friseal"   
+934 = "Port a' Cheannaird"   
+939 = "Baile MhicLeoid"   
+4913 = "Ailbhinn"   
+     
+# UPPER LOUISIANA   
+     
+900 = "Tur Mor"   
+902 = "Sabhanna"   
+2514 = "Na Muinntir"   
+4906 = "Garadh a' Bheobaill"   
+     
+# VANDALIA    
+     
+951 = "Gleann Ruadh"   
+2551 = "Baile Mhic Illeathain"   
+4889 = "Beanntan Uladh"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Loch Mhic Dhomhnaill Aontroma"   
+4887 = "Dunmor"   
+4921 = "Ceardach"   
+     
+# WEST FLORIDA   
+     
+921 = "Dún Mac Eanraig"   
+922 = "Bagh Meadhanach"   
+923 = "Bagh an Uisge Dhuibh"   
+2530 = "Rubha Coinnich"   
+2533 = "Loch Kerr"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Coille Locha"   
+2555 = "Boglach Mónóg"   
+4875 = "Cnoc Mhic Caraidh"   
+     
+# CONNECTICUT    
+     
+967 = "Dún Mhic an Toisich"   
+2010 = "Drochaid-Choille"   
+2560 = "Beinn Mhathain"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Glaschu"   
+957 = "Traigh Mharbh"   
+962 = "Cumbria  Ur"   
+2023 = "Gleann Lionn"   
+     
+# EASTERN MAINE   
+     
+971 = "Glennburn"   
+2566 = "Droch Eas Beag"   
+2567 = "Luimneach Ur"   
+     
+# HUDSON VALLEY   
+     
+961 = "Cuan Tri Mile"   
+963 = "Circin Ur"   
+964 = "Cnoc na Treibhe"   
+2559 = "Tir Nan Iomadh Loch"   
+4912 = "Drumaire Gearastan"   
+     
+# IRIQUOISIA    
+     
+958 = "Coille Maple"   
+959 = "Tearmann Cothromach"   
+960 = "Coinneach"   
+4872 = "Eas Mhic an Aba"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Lochan Meoir"   
+2563 = "Baile Naomh Alban"   
+4871 = "Naomh Eoin"   
+     
+# MAINE    
+     
+2013 = "Bagh Brog"   
+2565 = "Chuimrigh"   
+4873 = "Abhainn Maoth"   
+     
+# MARYLAND    
+     
+953 = "Loch Éireann"   
+2553 = "Baile Ceobair"   
+2554 = "Talla Creige"   
+     
+# MASSACHUSETTS    
+     
+966 = "Braemore"   
+968 = "Inbhir Ghordain"   
+2561 = "Cluaidh Ur"   
+4874 = "Colrain"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Dun Barra"   
+2562 = "Coilltean Beinne Geala"   
+2564 = "Loch Uallas"   
+     
+# NEW YORK   
+     
+965 = "Dun Cideann Ur"   
+2558 = "Siudnaidh"   
+2639 = "Bundearg"   
+     
+# WESTYLVANIA    
+     
+955 = "Cathair Luail"   
+2556 = "Mac Ealhattan"   
+2557 = "Baile nan Gaidheal"   
+4876 = "Tuineachadh Naomh Anndrais"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Gleann Falamh"   
+864 = "Bhean Bhoidheach"   
+2618 = "Ubhal-Ghort Marbh"   
+4644 = "Gleann Kellas"   
+     
+# COAHUILA    
+     
+861 = "Eadar Craobhan"   
+864 = "Bhean Bhoidheach"   
+2666 = "Naomh Rufus"   
+2667 = "Tuathanas a' Chardinail"   
+4606 = "Beanntan Fliuch"   
+     
+# COASTAL PRARIE   
+     
+884 = "Baile Nan Seillean"   
+888 = "Talamh an t-Siucair"   
+2665 = "Mag Meall"   
+2669 = "Cille Ghoire"   
+     
+# LLANO ESTACADO   
+     
+882 = "Baile Anndra"   
+885 = "Ruith Muile"   
+2496 = "Fear-Sleagh"   
+2497 = "Cnoc Leigheis"   
+4630 = "Sruth nApáitseach"   
+     
+# PECOS    
+     
+2498 = "Seada Chruidh"   
+4628 = "Achadh an Damh"   
+4629 = "Empireachd"   
+     
+# TAMAULIPAS    
+     
+858 = "Dún MhicAilein"   
+2499 = "Coisir Chriosd"   
+2614 = "Gleann Ebonaidh"   
+2668 = "Na Duintean Gainmhich"   
+     
+# TEXAS    
+     
+883 = "Loch Anns na Beanntan"   
+887 = "Fuar-gheal"   
+4627 = "Caimbeulton"   
+4911 = "Diadhachd"   
+     
+# TEXAS PLAINS   
+     
+886 = "Tha Wichita a  Tuiteam"   
+2500 = "Gleann Tairbh"   
+4909 = "Loch Alba"   
+4910 = "Carbad Mor"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Naomh Augustine"   
+928 = "Naomh Marc"   
+2534 = "Cathair a' Chuain"   
+     
+# FLORIDA    
+     
+926 = "Bagh na Pailme"   
+2535 = "Baile a' Mhorair"   
+2536 = "Glaisean Seor"   
+4625 = "An Gearasdan Nollaig"   
+4626 = "Dun Cideann Air a  Bhagh"   
+     
+# GEORGIA    
+     
+929 = "Boglach Bhan"   
+2537 = "Mac Gearailt"   
+2538 = "Mac an t-Saoir"   
+2539 = "Cait"   
+4880 = "Druchd Ros"   
+     
+# GREAT VALLEY   
+     
+949 = "Gleann Pluma"   
+2011 = "Dún Mac Aoidh"   
+2548 = "Gaidhealtachd nan Innseachan"   
+2552 = "Tuineachadh Mhic Bheathain"   
+     
+# NORTH CAROLINA   
+     
+937 = "Cnoc a' Chaibeil"   
+938 = "Cala Mhanainn"   
+2546 = "Sail Tearr"   
+2547 = "Traigh Ur"   
+     
+# OVERMOUNTAIN    
+     
+935 = "A' Scideadh Creige"   
+936 = "Beanntan Dubha"   
+2527 = "Sliabh Smocach"   
+4879 = "Gleann Seiricise"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Crois Dheirg"   
+2545 = "Iasg Creige"   
+4878 = "Talla Duthchail"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Baile Sheumais"   
+2542 = "Ceap Nan Sligean"   
+2543 = "Casruisgte"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Baile an Easbuig"   
+2541 = "Mac Cormaic"   
+4882 = "Seiricise Coille"   
+     
+# UPPER GEORGIA   
+     
+930 = "Trianaid Naoimh"   
+931 = "Cnuic nan Druidhean"   
+2540 = "Curach Mor"   
+4881 = "Muileann-Smuid"   
+     
+# VIRGINIA    
+     
+950 = "Tighinn Air Ter"   
+952 = "Lodainn Nuadh"   
+2549 = "Loch Fiodha"   
+2550 = "Oisean Uallas"   
+4877 = "Braithreachas"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Port Neamh"   
+2935 = "Beul na h-Aibhne"   
+2938 = "Abhainn Creochan"   
+     
+# AMAZON    
+     
+2889 = "Mabu"   
+2930 = "Naomh Antonaidh"   
+2933 = "Crann-Bacaidh"   
+2934 = "Mathair"   
+     
+# BAHIA    
+     
+756 = "Slanaighear"   
+757 = "Diungail Air a' Chladach"   
+760 = "Cala Sabhailte"   
+2914 = "Ait nam Páirtíní"   
+2916 = " Abhainn Caomhantach"   
+     
+# CEARA    
+     
+750 = "Iarann Bod"   
+751 = "Crois Álainn"   
+753 = "Lagun Rusg"   
+     
+# DIAMANTINA    
+     
+759 = "Abhainn Raibeart"   
+2891 = "Dunfermline Ur"   
+2898 = "Sabh"   
+     
+# GOIAS    
+     
+758 = "Spiorad Naomh"   
+2906 = "Aite Uisgeachaidh"   
+2907 = "Baile Deatamach"   
+2908 = "Campa Leathar"   
+2919 = "Taigh Oilbhreis"   
+     
+# GRAO PARA   
+     
+748 = "Cathair Ghorm"   
+2890 = "An t-Sron"   
+2928 = "Abhainn nan Seangan"   
+2929 = "Cluaran Cailleannach"   
+     
+# GUAPORE    
+     
+2900 = "Diungail Guaránach "   
+2901 = "Pairc na Geanais"   
+2902 = "Guireag"   
+     
+# GUAYRA    
+     
+768 = "Gleann Brodaidh"   
+2895 = "Dún Morgan"   
+2897 = "Baile Pioraid"   
+     
+# MARANHAO    
+     
+749 = "Naomh Mungo an Glaschu"   
+2923 = "Deagh Ionaltradh"   
+2924 = "Ailm"   
+2926 = "Srath Lachlainn"   
+2927 = "Bagh na Drochaide"   
+     
+# MATO GROSSO   
+     
+2888 = "Muirgheadh"   
+2903 = "Torr-Chathair"   
+2904 = "Seudag"   
+2905 = "Abhainn a' Bhais"   
+     
+# MINAS GERAIS   
+     
+765 = "Mcinnean Anns Na Craobhan"   
+2892 = "Mcinn Chon"   
+2894 = "Naomh Tannach Lodainn"   
+2899 = "Baile Beairteach"   
+     
+# OFAIE    
+     
+2881 = "Bad an Para"   
+2893 = "Iasg a' Leum"   
+2920 = "Cuisean"   
+     
+# PERNAMBUCO    
+     
+754 = "Traigh Chlaidheamh"   
+755 = "Naomh Eoin Baiste"   
+2912 = "Abhainn Tarpan"   
+2921 = "Loch a Deas"   
+2922 = "Bealadair"   
+     
+# PIAUI    
+752 = "Gleann nan Tuathanach"   
+2886 = "Achadh na Traghad"   
+2925 = "Muir Cruinn"   
+     
+# PONTAL    
+     
+2909 = "Bhaistidh"   
+2910 = "Athair Naomh"   
+2911 = "La-Breith"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Gleann Mac a' Phearsain"   
+762 = "Abhainn Eisirean"   
+763 = "Abhainn Gheamhraidh"   
+764 = "Naomh Himelin an Taistealaich"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Inbhir Naomh"   
+2879 = "Luchrach Naomh"   
+2884 = "Naomh Ninian nan Cruithneach"   
+2887 = "Naomh Cuthbert an Arcaibh"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Achadh nan Allt"   
+2913 = "Coille Gheal"   
+2915 = "Gleann Truka"   
+2917 = "Aite Tupi"   
+2918 = "Raon Mor"   
+     
+# SAO PAULO   
+     
+766 = "Naomh Cathan"   
+769 = "Raon Mor"   
+2896 = "Cluaintean"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Naomh Fionnán a Lindisfarne"   
+832 = "Beanntan Iraca"   
+4602 = "Beinn Coirneach"   
+4603 = "Taigh-Failcidh"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Boglach Ghaothach"   
+2810 = "Traoghadh"   
+2813 = "Taigh-Sgoile"   
+4613 = "Boglach an Eoin"   
+4614 = "Baile Moine"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Seacaid"   
+2816 = "Ter Nukak"   
+4605 = "Stealladh Abhann"   
+     
+# COQUIVACOA    
+     
+828 = "Bangour"   
+829 = "Barra Cheann"   
+2806 = "An Ceap Seoladair"   
+4599 = "Canal Innseanach"   
+4601 = "Monadh mor"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Daolag-Bhreac"   
+827 = "lerusalem"   
+2817 = "Sneachda"   
+4600 = "Cathair nan Aibhnichean"   
+4607 = "Cnuic mango"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Madainn"   
+2809 = "Prciridh"   
+2939 = "Sneomhan"   
+4615 = "Gleann Ghaisgich"   
+     
+# GUYANA    
+     
+743 = "Tuineachadh a  Chnoic Dheirg"   
+744 = "Rubha Grianach"   
+2803 = "Gobhlan"   
+     
+# MARACAIBO    
+     
+830 = "Mac Mara"   
+2807 = "Bata Ola"   
+4609 = "Abhainn Luaithre"   
+4610 = "Gleann MacGilleathain"   
+4611 = "Muile Ur"   
+     
+# POPAYAN    
+     
+823 = "Feasan Craoibhe"   
+826 = "A' Bualadh Uisge"   
+2818 = "Fion-Lios a Deas"   
+4596 = "Gaoth an t-Samhraidh"   
+4604 = "Na Feuraibh"   
+     
+# SURINAME    
+     
+745 = "Caidreachas"   
+746 = "Rocabarraigh"   
+2937 = "Sruth an Marasglaiche"   
+     
+# UPPER GUYANA   
+     
+742 = "Na Rosan"   
+2804 = "Laogh Locha"   
+2811 = "Iasg Teine"   
+2931 = "Pioraid"   
+4617 = "Iasg Mor"   
+     
+# VENEZUELA    
+     
+741 = "Baile Eaglais"   
+831 = "Naomh Anndra na Gaidhealtachd"   
+2808 = "Coisir"   
+4612 = "Naomh Sebastian"   
+4616 = "Traigh Neamhnaid"   
+     
+# WESTERN LLANOS   
+     
+2812 = "An Eaglais Bhreac"   
+2814 = "Creochnaich"   
+2815 = "A' Bhruaich"   
+4608 = "Naomh Conval"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Taisbeanadh"   
+786 = "Port Cuimrigh"   
+2868 = "Port Crodh"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Eoin air am Peantadh"   
+773 = "Gleann Calmain"   
+2850 = "Raon-Eorna"   
+2851 = "Ruaimh Uaine"   
+2852 = "Leum Abhainn"   
+     
+# BUENOS AIRES   
+     
+778 = "Abhainn Airgid"   
+2846 = "Nighean Ruadh"   
+2848 = "Creideamh Naomh"   
+2849 = "Conail"   
+     
+# CENTRAL CHILE   
+     
+784 = "Nan Aingeal"   
+787 = "Beanntan Reche"   
+2862 = "Beanntan Seothamh"   
+     
+# CUYO    
+     
+2843 = "An Clo"   
+2844 = "Dun Rothach"   
+2845 = "Naomh Gillebrede Mhoireibh"   
+2847 = "Naomh Peadar"   
+2877 = "Mac Beinne"   
+     
+# MESOPOTAMIA    
+     
+777 = "Boglach Tonn"   
+2853 = "Measan Aibidh"   
+2855 = "Cairdineal Beaton"   
+2858 = "Manus"   
+2859 = "Feol-Ghabhail"   
+     
+# NEHEUNKEN    
+     
+785 = "Beanntan Brus"   
+2867 = "Drisleach"   
+2871 = "Caoraich Arda"   
+2872 = "Baile nan Cat"   
+     
+# PATAGONIA    
+     
+781 = "Port Miannaichte"   
+782 = "Ter an Teine"   
+2869 = "Grualan"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Abhainn Dubh"   
+2870 = "Gleann Plaide"   
+2875 = "Criostalach"   
+2876 = "Gleann Duraichd"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+2025 = "Eilean Reota"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Ru Gainmheach"   
+2873 = "Ceithir Monadh"   
+2874 = "Cinn Tere"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Naomh Mirin"   
+2860 = "Gleann Mcith"   
+2861 = "Dún MacCoinnich"   
+2865 = "Fir an Ear"   
+2866 = "Ceardach Gobhainn Ur"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Loch nan Draoidh"   
+804 = "Loch Oir"   
+2831 = "Cloiche sa Buillsgean"   
+2947 = "Macá"   
+     
+# CAJAMARCA    
+     
+813 = "Dachaigh na Grcine"   
+2824 = "Beinn Mac Ghrian"   
+2825 = "Inceach"   
+2943 = "Coille Neoil"   
+     
+# CHIMOR    
+     
+812 = "Ballachan Snaighte"   
+2002 = "Eileanan Turuis"   
+2821 = "Abhainn Slanachaidh"   
+2822 = "Naomh Marnock"   
+2826 = "Ponair Mhoir"   
+     
+# HUANUCO    
+     
+809 = "Gleann an Luchd-Labhairt"   
+810 = "Cathair nam Manach Geal"   
+811 = "Dun Grannd"   
+814 = "Flur na h-Aibhne"   
+2827 = "Rionnag na Maidne"   
+     
+# IQUITOS    
+     
+815 = "Margadh na h-Aibhne"   
+818 = "Coille Caineal"   
+821 = "Naomh Daibhidh na h-Alba"   
+     
+# KUNTISUYU    
+     
+807 = "Aite Fighe"   
+808 = "Creag a' Chomhachag"   
+2829 = "Fearsaid"   
+2830 = "Miann"   
+     
+# PERUAN COAST   
+     
+805 = "Cladach Tioram"   
+806 = "Na Ballachan"   
+2828 = "Tur Chluig"   
+     
+# QUITO    
+     
+816 = "Splad"   
+817 = "Carn Eige Ur"   
+819 = "Éirí Gréine"   
+820 = "Rathad Mor"   
+2820 = "Leagsaidh"   
+     
+# UCAYALI    
+     
+2823 = "Cearcall Ubhal-Ghort"   
+2944 = "Abhainn Orains"   
+2945 = "Neamhnaid an Diungail"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Measan Cactas"   
+801 = "Ard-Bhaile"   
+2834 = "Naomh Constantine Shrath Chluaidh"   
+     
+# CHACO    
+     
+790 = "Gleann a Deas"   
+2854 = "Gleann Meadhanach"   
+2878 = "Gleann Marbhtach"   
+     
+# JUJUY    
+     
+794 = "Naomh Oda na h-Alba"   
+2837 = "Naomh Moloc"   
+2839 = "Mullach Lachan Dubh"   
+     
+# MOXOS    
+     
+803 = "Naomh Ierome"   
+2832 = "Naomh Salmodius"   
+2833 = "Mathair Dhc"   
+     
+# NORTHERN CHILE   
+     
+792 = "Mcinnean Beairteach"   
+793 = "A 'Crathadh Salachar"   
+796 = "Fasach Cladach"   
+2840 = "Taigh na Bruaich"   
+2841 = "Geata Grcine"   
+     
+# PARAGUAY    
+     
+775 = "La Fcill Moire"   
+776 = "Aingeal Gabriel"   
+799 = "Coloinidh Ter Ur"   
+2882 = "Dun Gunn"   
+2883 = "Cionar"   
+     
+# POTOSI    
+     
+795 = "Dun Druiminn"   
+797 = "Beanntan Oruro"   
+2940 = "Grudairean Arbhair"   
+2946 = "Comhan Ard"   
+     
+# TUCUMAN    
+     
+791 = "Bata Geal"   
+2836 = "Grunn Aibhnichean"   
+2842 = "Naomh MaRuibhe"   
+     
+# UPPER PERU   
+     
+2835 = "Ealasaid"   
+2838 = "Achadh an t-Sabhail"   
+2941 = "Naomh Colmán"   
+2942 = "Beinn an Lochain"

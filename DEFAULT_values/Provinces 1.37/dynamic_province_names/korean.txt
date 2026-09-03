@@ -1,0 +1,1567 @@
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Pyeongsan"   
+869 = "Chunghwa"   
+2021 = "Gwanmin"   
+2476 = "Gangseong"   
+4637 = "Jeongdong"   
+     
+# APACHERIA    
+     
+879 = "Changjon"   
+2492 = "Sanseong"   
+4634 = "Aseog"   
+     
+# ARIZONA    
+     
+867 = "Baegju"   
+876 = "Gangbyeon"   
+877 = "Deogju"   
+2491 = "An-og"   
+4633 = "Gam-ju"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Bu-ju"   
+866 = "Yeondong"   
+2620 = "Dongbaeg"   
+4639 = "Paam"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Sangseo"   
+2478 = "Seosong"   
+4635 = "Dong-yog"   
+4636 = "Gyodong"   
+     
+# COLORADO PLATEU   
+     
+875 = "Bongju"   
+878 = "Yeonjeong"   
+2493 = "Daegyo"   
+2494 = "Chihyang"   
+     
+# NEW MEXICO   
+     
+880 = "Ian"   
+881 = "Wonbong"   
+2495 = "Ucheong"   
+4631 = "Won-o"   
+4632 = "Seonghae"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Cheol-won"   
+2477 = "Sohoe"   
+2479 = "Gwangdo"   
+2480 = "Pyeongmog"   
+4638 = "Cheonseo"   
+     
+# SONORA    
+     
+862 = "Yumyeong"   
+2616 = "Dosin"   
+4577 = "Jangdam"   
+4649 = "Gangbu"   
+4650 = "Lamjin"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Sa-seong"   
+2576 = "Jeosu"   
+2577 = "Leungnyeong"   
+2578 = "Osi"   
+2579 = "Seong-i"   
+     
+# GREENLAND    
+     
+1104 = "Deogdong"   
+1105 = "Won'ju"   
+     
+# HURONIA    
+     
+988 = "Yongnyeong"   
+989 = "Guncheon"   
+2585 = "Seongjin"   
+2670 = "Danjwa"   
+     
+# LABRADOR    
+     
+997 = "Gun-cheon"   
+2574 = "Jangho"   
+2575 = "Jin-jeong"   
+     
+# LAURENTIA    
+     
+992 = "Geumjeong"   
+2581 = "Jeon-won"   
+4894 = "Gangseog"   
+     
+# LOWER ACADIA   
+     
+982 = "Gyoyang"   
+984 = "Gwangjeong"   
+2568 = "Gibang"   
+2569 = "Abmun"   
+4891 = "Haedae"   
+     
+# LOWER CANADA   
+     
+993 = "Eon-yang"   
+2584 = "Namdae"   
+4895 = "Gadae"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Sin-an"   
+981 = "Jasan"   
+2573 = "Chigog"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Deogsi"   
+4892 = "Nagheung"   
+4897 = "Goggang"   
+     
+# QUEBEC    
+     
+986 = "Songju"   
+994 = "Gyeongsan"   
+995 = "Geoan"   
+2582 = "Wongwan"   
+2583 = "Taesug"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Chungye"   
+2571 = "Heungmae"   
+4896 = "Nanghyeong"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Gacheon"   
+2012 = "Lim-won"   
+2580 = "Wiha"   
+2580 = "Wiha"   
+     
+# UPPER ACADIA   
+     
+983 = "Sogcheon"   
+985 = "Pyeongang"   
+2572 = "Jongbu"   
+     
+# UPPER CANADA   
+     
+987 = "Angmu"   
+2586 = "Ulyeo"   
+2587 = "Sanho"   
+     
+# UPPER ONTARIO   
+     
+991 = "Gwang-ju"   
+1001 = "Hyeongu"   
+1007 = "Suheon"   
+2015 = "Dan-an"   
+2671 = "Lyeolpung"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Hyeonju"   
+2658 = "Nyeongbu"   
+2659 = "Geomseong"   
+4620 = "Heungcheon"   
+4621 = "Yangje"   
+     
+# EAST CUBA   
+     
+486 = "Dam-yang"   
+2654 = "Sunlim"   
+2655 = "Sinsan"   
+2656 = "Sonpyeong"   
+     
+# GREATER ANTILLES   
+     
+481 = "Wonseo Do"   
+487 = "Seohae Do"   
+491 = "Gimhwa Do"   
+492 = "Pyeonghae Do"   
+     
+# HAITI    
+     
+488 = "Taesan"   
+489 = "Sang-yeong"   
+4618 = "Dongmin"   
+4619 = "Bongtae"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Dol Do"   
+494 = "Dog Do"   
+495 = "Ye Do"   
+496 = "An Do"   
+1881 = "Cho Do"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Jindeog Gundo"   
+483 = "Deogjeog Gundo"   
+     
+# WEST CUBA   
+     
+484 = "Pungsu"   
+485 = "Goyeong"   
+4622 = "Jinsan"   
+4623 = "Pyeongbu"   
+4624 = "Wonjin"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Hui Do"   
+498 = "Ma Do"   
+499 = "Sa Do"   
+500 = "Bo Do"   
+501 = "Po Do"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Unheung"   
+977 = "Won-ju"   
+2613 = "Ganghae"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Heung-ag"   
+2486 = "Seong-gu"   
+2487 = "Suui"   
+2488 = "Simgu"   
+     
+# HECATE STRAIT   
+     
+975 = "Sunju"   
+2022 = "Jeol-yeong Do"   
+2609 = "Leungseon"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Wicheon"   
+2604 = "Mogjeong"   
+2605 = "Seosan"   
+2606 = "Sando"   
+2607 = "Deoggo"   
+     
+# OREGON    
+     
+872 = "Gang-wa"   
+2481 = "Chegyeong"   
+2482 = "Seodae"   
+2483 = "Nalyeong"   
+     
+# PUGET SOUND   
+     
+874 = "Dalyeong"   
+2484 = "Daebu"   
+2485 = "Sinbeom"   
+     
+# SNAKE RIVER   
+     
+2019 = "Geon-yang"   
+2020 = "Sago"   
+2489 = "Poui"   
+2490 = "Doju"   
+2506 = "Anlae"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Oncheon"   
+973 = "Sang'ju"   
+974 = "Yeongnyeong"   
+2610 = "Hongno"   
+     
+# WESTERN ALASKA   
+     
+978 = "Songcheon"   
+979 = "Binghae Gundo"   
+2611 = "Soma"   
+2612 = "Bancheong"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Yeongheung"   
+2632 = "Pyeong-an"   
+2650 = "Suhoe"   
+     
+# CHIAPAS    
+     
+2635 = "Lyejin"   
+2638 = "Wonseong"   
+2649 = "Jeongi"   
+4585 = "Og-yo"   
+4586 = "Gongnyeong"   
+     
+# COSTA RICA   
+     
+836 = "Jeong-gyeol"   
+2663 = "Hoenyeong"   
+4597 = "Muju"   
+     
+# EAST YUCATAN   
+     
+2634 = "Baeg-a"   
+2652 = "Seong-gae"   
+4588 = "Gwang-u"   
+4591 = "Hwimun"   
+     
+# GUATEMALA    
+     
+839 = "Changlim"   
+841 = "Dong-ju"   
+2653 = "Doya"   
+4587 = "Wonbog"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Jeong-ju"   
+843 = "Cheonglim"   
+2636 = "Cheonjeong"   
+4589 = "Yeomhwang"   
+4594 = "Suheung"   
+     
+# HONDURAS    
+     
+840 = "Samsu"   
+2637 = "Hwalyo"   
+2640 = "Namjeong"   
+2662 = "Lyudong"   
+4593 = "Yang-geon"   
+     
+# NICARAGUA    
+     
+837 = "Gwangju"   
+838 = "Sinju"   
+2660 = "Gangju"   
+2661 = "Heunglim"   
+4592 = "Lang-won"   
+     
+# WEST YUCATAN   
+     
+846 = "Seolim"   
+2633 = "Yang-geum"   
+2651 = "Yeonseong"   
+4590 = "Bongcheon"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Tongsu"   
+2664 = "Posan"   
+2819 = "Lyuhan"   
+4595 = "Galyong"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "No-ju"   
+916 = "Cheongpyeon"   
+917 = "Hongju"   
+4903 = "Seong-geon"   
+     
+# INDIANA    
+     
+942 = "Hogye"   
+943 = "Nangmi"   
+2523 = "Donam"   
+2524 = "Goleung"   
+4922 = "Sanmang"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Yangdeog"   
+911 = "Og-ju"   
+2517 = "Nyeongseong"   
+2518 = "Uisan"   
+4898 = "Namdeog"   
+     
+# MICHIGAN    
+     
+944 = "Wiug"   
+945 = "Muncheong"   
+2521 = "Anson"   
+2522 = "Seobaeg"   
+     
+# OHIO    
+     
+946 = "Angdeog"   
+947 = "Yangseong"   
+948 = "Pyeonseog"   
+2525 = "Cheonhwang"   
+4907 = "San-mu"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Limu"   
+2520 = "Chunpyeong"   
+4904 = "Gugwang"   
+     
+# WISCONSIN    
+     
+912 = "Sang-won"   
+913 = "Socheon"   
+914 = "Dahwa"   
+4899 = "Sodo"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Yeongsin"   
+2504 = "Anjang"   
+2505 = "Yangsan"   
+     
+# Central Plains   
+     
+901 = "Dacheon"   
+903 = "Bo-nyeong"   
+2009 = "Cheolbu"   
+2508 = "Gwanlo"   
+4915 = "Won-gang"   
+     
+# HIGH PLAINS   
+     
+889 = "Bunyeong"   
+2507 = "Paan"   
+2625 = "Jeon-ju"   
+     
+# IOWA    
+     
+905 = "Geumcheon"   
+2513 = "Hayang"   
+4900 = "Pyeonglim"   
+4905 = "Gangsu"   
+     
+# KANSAS    
+890 = "Geochang"   
+898 = "Cheongpung"   
+2672 = "Buhae"   
+4914 = "Dangyeong"   
+     
+# MINNESOTA    
+     
+904 = "Dachang"   
+908 = "Maeg-won"   
+2512 = "Jogog"   
+4901 = "Susung"   
+     
+# NORTH DAKOTA   
+     
+906 = "Cheongsu"   
+909 = "Jeongpyeon"   
+2510 = "Geonlyeong"   
+4918 = "Chungo"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Bugwon"   
+2007 = "Jolag"   
+2008 = "Yanghae"   
+4916 = "Buham"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Gon-yang"   
+892 = "Musan"   
+896 = "Naheung"   
+4908 = "Ugye"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Odong"   
+2501 = "Gwang-yang"   
+2502 = "Seongsu"   
+2503 = "Sung-gi"   
+4917 = "Hwaseog"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Lyecheon"   
+2588 = "Dangju"   
+2589 = "Chang-wi"   
+2590 = "Seognam"   
+2591 = "Seogbin"   
+     
+# ALBERTA    
+     
+2004 = "Minga"   
+2017 = "Gyejib"   
+2018 = "Seoga"   
+2602 = "Yeong-won"   
+     
+# ASSINIBOIA    
+     
+2005 = "Hamsu"   
+2596 = "Nam-an"   
+2598 = "Simmu"   
+4920 = "Yeongchi"   
+     
+# ATHABASCA    
+     
+2599 = "Janan"   
+2600 = "Ansu"   
+2601 = "Bongneung"   
+2603 = "Sang-go"   
+     
+# HUDSON BAY   
+     
+1005 = "Munsan"   
+1006 = "Gwang-eun"   
+1009 = "Sehyeon"   
+2592 = "Lyongnag"   
+2594 = "Mudong"   
+     
+# JAMES BAY   
+     
+998 = "Jisan"   
+999 = "Asan"   
+1000 = "Jingil"   
+1003 = "I-an"   
+1004 = "Nan-o"   
+     
+# MANITOBA    
+     
+1008 = "Geo-jin"   
+1010 = "Pyeon'cheon"   
+1011 = "Chang'do"   
+2593 = "Lyonghang"   
+4919 = "Binlyo"   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Chang-yang"   
+2511 = "Saha"   
+4902 = "Jeong-gyeong"   
+     
+# SASKATCHEWAN    
+     
+1813 = "Naehwa"   
+2595 = "Gangso"   
+2597 = "Mucheon"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Sangchang"   
+4646 = "Jin'ju"   
+4647 = "Bodong"   
+4648 = "Heungchon"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Ogju"   
+2642 = "Sanmu"   
+4642 = "Anseo"   
+     
+# GUANAJUATO    
+     
+853 = "Gong-ju"   
+2615 = "Seoyu"   
+4640 = "Limgo"   
+4641 = "Baeg-ui"   
+     
+# GUERRERO    
+     
+2627 = "Cheongjeon"   
+2645 = "Dong-eon"   
+2648 = "Gaban"   
+     
+# HUASTECA    
+     
+848 = "Gobu"   
+2641 = "Hyeob-ag"   
+4598 = "Minbo"   
+     
+# JALISCO    
+     
+854 = "Chogye"   
+2617 = "Goglyeong"   
+2621 = "Jeong-won"   
+2657 = "Seong-won"   
+4576 = "Janglim"   
+     
+# MEXICO    
+     
+852 = "Geumdo"   
+2626 = "Sinpa"   
+4570 = "Yang-eo"   
+4571 = "Boggwan"   
+4572 = "Leungmong"   
+     
+# MICHOAVAN    
+     
+2622 = "Hwaan"   
+2623 = "Hyewon"   
+2624 = "Songseong"   
+4573 = "Yuseob"   
+4574 = "Lyeoo"   
+     
+# MIXTECA    
+     
+847 = "Wanju"   
+849 = "Junchang"   
+2646 = "Yeosu"   
+4581 = "A-ju"   
+     
+# NAYARIT    
+     
+855 = "Igju"   
+859 = "Gyeong an"   
+4578 = "Hyeoncheong"   
+     
+# Oaxaca    
+     
+844 = "Bagju"   
+2629 = "Jinbong"   
+4584 = "Gangseon"   
+     
+# PUEBLA    
+     
+850 = "Anseong"   
+2628 = "Eung-yang"   
+2644 = "Jangsang"   
+4582 = "Guheung"   
+4583 = "Pyeong-gan"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Pyeonchang"   
+2643 = "Suso"   
+4575 = "Jilju"   
+4579 = "Seong-ju"   
+4580 = "Uimun"   
+     
+# VERACRUZ    
+     
+2630 = "Hyangchun"   
+2631 = "Yangjo"   
+2647 = "Jangleung"   
+     
+# ZACATECAS    
+     
+856 = "Seonju"   
+4643 = "Hwaon"   
+4645 = "Jubu"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Beobdong"   
+925 = "Sinpyeong"   
+2531 = "Haedo"   
+2532 = "Cheon-yang"   
+4883 = "Limdo"   
+     
+# ARKANSAS    
+     
+894 = "Gag-won"   
+895 = "Gwangcheon"   
+897 = "Seoncheon"   
+4885 = "Pyeongpa"   
+4923 = "Leunglyeong"   
+     
+# KENTUCKY    
+     
+941 = "Oan"   
+2526 = "Bong-gae"   
+4888 = "Taesu"   
+     
+# LOUISIANA    
+     
+893 = "Bo-eun"   
+2014 = "Gogleung"   
+2516 = "Haeseog"   
+     
+# MISSISSIPPI    
+     
+919 = "Duwon"   
+920 = "Pyeoncheon"   
+2528 = "Wibo"   
+2529 = "Jungju"   
+4884 = "Jinnab"   
+     
+# OZARKS    
+     
+899 = "Lyongheung"   
+2509 = "Geuman"   
+2515 = "Seoglan"   
+4886 = "San-og"   
+     
+# TENNESSEE    
+     
+918 = "Gusan"   
+934 = "Tonglyeong"   
+939 = "Lyeongju"   
+4913 = "Hwangnam"   
+     
+# UPPER LOUISIANA   
+     
+900 = "Dongnae"   
+902 = "Nonju"   
+2514 = "Chang-yeon"   
+4906 = "Dongcheol"   
+     
+# VANDALIA    
+     
+951 = "Sinnyeong"   
+2551 = "Yang-yeong"   
+4889 = "Alyeongsan"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Mog-yang"   
+4887 = "Hoemun"   
+4921 = "Cheonmu"   
+     
+# WEST FLORIDA   
+     
+921 = "Jawol"   
+922 = "Inju"   
+923 = "Geumgang"   
+2530 = "Uigyu"   
+2533 = "Buneung"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Bongsan"   
+2555 = "Mog'yang"   
+4875 = "U-jeon"   
+     
+# CONNECTICUT    
+     
+967 = "Unsi"   
+2010 = "Jeongjung"   
+2560 = "Eumbong"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Deogseong"   
+957 = "Wiwon"   
+962 = "Mun-ag"   
+2023 = "Jeongang"   
+     
+# EASTERN MAINE   
+     
+971 = "Wajin"   
+2566 = "Sanchang"   
+2567 = "Nyeongsin"   
+     
+# HUDSON VALLEY   
+     
+961 = "Hwatae"   
+963 = "Gocheon"   
+964 = "Wolgyeon"   
+2559 = "Laggog"   
+4912 = "Doan"   
+     
+# IRIQUOISIA    
+     
+958 = "Samgeum"   
+959 = "Heungdong"   
+960 = "Liwon"   
+4872 = "Nongji"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Gyeong-an"   
+2563 = "Namjang"   
+4871 = "Hoebong"   
+     
+# MAINE    
+     
+2013 = "Sinso"   
+2565 = "Gaelyong"   
+4873 = "Pyeongpi"   
+     
+# MARYLAND    
+     
+953 = "Sangnong"   
+2553 = "Gaggae"   
+2554 = "Gagye"   
+     
+# MASSACHUSETTS    
+     
+966 = "Habong"   
+968 = "Changseong"   
+2561 = "Jindu"   
+4874 = "Cheonhyeon"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Hong-won"   
+2562 = "Daelyeon"   
+2564 = "Long-geon"   
+     
+# NEW YORK   
+     
+965 = "Bognyeong"   
+2558 = "Myeong-il"   
+2639 = "Lyongheum"   
+     
+# WESTYLVANIA    
+     
+955 = "Goin"   
+2556 = "Anmu"   
+2557 = "Pobo"   
+4876 = "Cheongjeong"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Seogang"   
+864 = "Sang-ju"   
+2618 = "Loui"   
+4644 = "Wihwa"   
+     
+# COAHUILA    
+     
+861 = "Dongdong"   
+864 = "Sang-ju"   
+2666 = "Lyeon-yang"   
+2667 = "Sucheon"   
+4606 = "Changho"   
+     
+# COASTAL PRARIE   
+     
+884 = "Chang-geum"   
+888 = "Gyeong-ju"   
+2665 = "Damnyeong"   
+2669 = "Daeyeom"   
+     
+# LLANO ESTACADO   
+     
+882 = "Chungseong"   
+885 = "Hamjeong"   
+2496 = "Hyangseong"   
+2497 = "Limha"   
+4630 = "Muwon"   
+     
+# PECOS    
+     
+2498 = "Geumgo"   
+4628 = "Gangneung"   
+4629 = "Nyeonglyun"   
+     
+# TAMAULIPAS    
+     
+858 = "Chungmyeong"   
+2499 = "Gung-gang"   
+2614 = "Heungbong"   
+2668 = "Munho"   
+     
+# TEXAS    
+     
+883 = "Gangheung"   
+887 = "Dong-gyeong"   
+4627 = "Yeopyeong"   
+4911 = "Seong-gye"   
+     
+# TEXAS PLAINS   
+     
+886 = "Myeongcheon"   
+2500 = "Uisug"   
+4909 = "Hongmyeong"   
+4910 = "Daeseong"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Geumga"   
+928 = "Toju"   
+2534 = "Payeon"   
+     
+# FLORIDA    
+     
+926 = "Geojin"   
+2535 = "Taegu"   
+2536 = "Hwahae"   
+4625 = "Bongseong"   
+4626 = "Haelim"   
+     
+# GEORGIA    
+     
+929 = "Sean"   
+2537 = "Chang-an"   
+2538 = "Sulhae"   
+2539 = "Yangbong"   
+4880 = "Munhwi"   
+     
+# GREAT VALLEY   
+     
+949 = "Lyungseo"   
+2011 = "Gilmu"   
+2548 = "Dobo"   
+2552 = "Gujang"   
+     
+# NORTH CAROLINA   
+     
+937 = "Buan"   
+938 = "Gwang-cheon"   
+2546 = "Yoseo"   
+2547 = "Saewon"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Sam-won"   
+936 = "Jeon-u"   
+2527 = "Paseog"   
+4879 = "Yogsinsan"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Dong-geon"   
+2545 = "Mowon"   
+4878 = "Hochang"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Sin-ju"   
+2542 = "Heunghye"   
+2543 = "Cheongnyeong"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Wagwan"   
+2541 = "Gwanbong"   
+4882 = "Oglyeong"   
+     
+# UPPER GEORGIA   
+     
+930 = "Lyung-wa"   
+931 = "Jugbyeon"   
+2540 = "Jeomdeung"   
+4881 = "Yao"   
+     
+# VIRGINIA    
+     
+950 = "Gun-wi"   
+952 = "Mil-yang"   
+2549 = "Sib-won"   
+2550 = "Cheon-og"   
+4877 = "Monyeong"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Jabi"   
+2935 = "Geumjo"   
+2938 = "Gangnam"   
+     
+# AMAZON    
+     
+2889 = "Jin-ju"   
+2930 = "Wonje"   
+2933 = "Gildae"   
+2934 = "Seogo"   
+     
+# BAHIA    
+     
+756 = "Milseong"   
+757 = "Han-yang"   
+760 = "Gilseong"   
+2914 = "Yeobog"   
+2916 = "Cheonmin"   
+     
+# CEARA    
+     
+750 = "Yang-wi"   
+751 = "Yung-gang"   
+753 = "Usu"   
+     
+# DIAMANTINA    
+     
+759 = "Inji"   
+2891 = "Ugang"   
+2898 = "Jungssang"   
+     
+# GOIAS    
+     
+758 = "Lyeong-gwang"   
+2906 = "Oggang"   
+2907 = "Bug-yang"   
+2908 = "Tongpyeong"   
+2919 = "Jangdong"   
+     
+# GRAO PARA   
+     
+748 = "Jangmyeong"   
+2890 = "Lyohwa"   
+2928 = "Yangpyeong"   
+2929 = "Suhwa"   
+     
+# GUAPORE    
+     
+2900 = "Hyeob-an"   
+2901 = "Lannyeong"   
+2902 = "Sonlyang"   
+     
+# GUAYRA    
+     
+768 = "Jihye"   
+2895 = "Seong-do"   
+2897 = "Yangnam"   
+     
+# MARANHAO    
+     
+749 = "Yomu"   
+2923 = "Labbong"   
+2924 = "Heunjeong"   
+2926 = "Hyanglyeo"   
+2927 = "Pung-yang"   
+     
+# MATO GROSSO   
+     
+2888 = "Gamdae"   
+2903 = "Lyugsun"   
+2904 = "Langdae"   
+2905 = "Geonhwa"   
+     
+# MINAS GERAIS   
+     
+765 = "Ang-yang"   
+2892 = "Yang-an"   
+2894 = "Liyeong"   
+2899 = "Jeong-eung"   
+     
+# OFAIE    
+     
+2881 = "Seoggal"   
+2893 = "Milgo"   
+2920 = "Yangha"   
+     
+# PERNAMBUCO    
+     
+754 = "Giye"   
+755 = "Impa"   
+2912 = "Yang-geo"   
+2921 = "Gogmin"   
+2922 = "Docheon"   
+     
+# PIAUI    
+752 = "Yangcheon"   
+2886 = "Chang-yeo"   
+2925 = "Haesang"   
+     
+# PONTAL    
+     
+2909 = "Posun"   
+2910 = "Sancheon"   
+2911 = "Yasang"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Onsu"   
+762 = "Uina"   
+763 = "Cheon-an"   
+764 = "Gyosu"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "An-yu"   
+2879 = "Hyeobsang"   
+2884 = "Hanju"   
+2887 = "Soag"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Jeongnang"   
+2913 = "An-ui"   
+2915 = "Sulgeum"   
+2917 = "Seongsin"   
+2918 = "Yeongmo"   
+     
+# SAO PAULO   
+     
+766 = "Gaenyeong"   
+769 = "Daheung"   
+2896 = "Geomgyeong"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Nyeongna"   
+832 = "Jangsu"   
+4602 = "Langcheong"   
+4603 = "Gangbong"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Ilyeong"   
+2810 = "Dangmu"   
+2813 = "Hwanglim"   
+4613 = "Jeom-i"   
+4614 = "Sulyu"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Pyeon-i"   
+2816 = "Seojag"   
+4605 = "Myeongju"   
+     
+# COQUIVACOA    
+     
+828 = "Gwagju"   
+829 = "Unlim"   
+2806 = "Leung-gyeong"   
+4599 = "Yangsung"   
+4601 = "Mogpa"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Jangjeong"   
+827 = "An-ju"   
+2817 = "Gabin"   
+4600 = "Haega"   
+4607 = "Geumheung"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Samlyeon"   
+2809 = "Tongbong"   
+2939 = "Sangpyeong"   
+4615 = "Ulim"   
+     
+# GUYANA    
+     
+502 = "Mi Do"   
+743 = "Goseong"   
+744 = "Gapyeong"   
+2803 = "Gyechung"   
+     
+# MARACAIBO    
+     
+830 = "Gim-yang"   
+2807 = "Hwihon"   
+4609 = "Hyeongnam"   
+4610 = "Gigang"   
+4611 = "Wigang"   
+     
+# POPAYAN    
+     
+823 = "Buju"   
+826 = "Nanju"   
+2818 = "Jang-o"   
+4596 = "Taeghwa"   
+4604 = "Subu"   
+     
+# SURINAME    
+     
+745 = "Bong-won"   
+746 = "Heunghwa"   
+2937 = "Lyeongmog"   
+     
+# UPPER GUYANA   
+     
+742 = "Sumil"   
+2804 = "Mango"   
+2811 = "Gusu"   
+2931 = "Wonjeon"   
+4617 = "Halam"   
+     
+# VENEZUELA    
+     
+741 = "An-yang"   
+831 = "Jang-yang"   
+2808 = "Sondong"   
+4612 = "Namso"   
+4616 = "Jang-lim"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Tasan"   
+2814 = "Yoman"   
+2815 = "Sanjang"   
+4608 = "Songbu"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Lyeong-am"   
+786 = "Hamnyeong"   
+2868 = "Pyeongnyeong"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Cheongdo"   
+773 = "Wijeong"   
+2850 = "Daegang"   
+2851 = "Gyeongseong"   
+2852 = "Hoenog"   
+     
+# BUENOS AIRES   
+     
+778 = "Gogseong"   
+2846 = "Nyeong-un"   
+2848 = "Lyehyang"   
+2849 = "Gyucheon"   
+     
+# CENTRAL CHILE   
+     
+784 = "Yeongdong"   
+787 = "Uiseong"   
+2862 = "Gwang-won"   
+     
+# CUYO    
+     
+2843 = "Jeoggo"   
+2844 = "Lyeogha"   
+2845 = "Pyeongnag"   
+2847 = "Mun-won"   
+2877 = "Jilbyeog"   
+     
+# MESOPOTAMIA    
+     
+777 = "Jangseong"   
+2853 = "Pago"   
+2855 = "Cheolha"   
+2858 = "Daenan"   
+2859 = "Geon-yeo"   
+     
+# NEHEUNKEN    
+     
+785 = "Galim"   
+2867 = "Gogsan"   
+2871 = "Wonha"   
+2872 = "Anlyu"   
+     
+# PATAGONIA    
+     
+781 = "Hyeobju"   
+782 = "Jeoju"   
+2869 = "Gangnag"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Seonhyang"   
+2870 = "Geonhwang"   
+2875 = "Taegeug"   
+2876 = "Sangwang"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Jeob Do"   
+2025 = "Namje Do"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Yeong'ju"   
+2873 = "Cheonchang"   
+2874 = "Hwabaeg"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Dogang"   
+2860 = "Lyeongseon"   
+2861 = "Yanghwa"   
+2865 = "Unsin"   
+2866 = "Sanmin"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Dongju"   
+804 = "Cheolmun"   
+2831 = "Nanam"   
+2947 = "Lyeongseo"   
+     
+# CAJAMARCA    
+     
+813 = "Myohyang"   
+2824 = "Bangbu"   
+2825 = "Muan"   
+2943 = "Daegyun"   
+     
+# CHIMOR    
+     
+812 = "Seungju"   
+2002 = "Dolsan Gundo"   
+2821 = "Punghyo"   
+2822 = "Geum-wi"   
+2826 = "An-o"   
+     
+# HUANUCO    
+     
+809 = "Tonghae"   
+810 = "Hamjong"   
+811 = "Sangpyeon"   
+814 = "Munju"   
+2827 = "Hwamin"   
+     
+# IQUITOS    
+     
+815 = "Hyeon'ju"   
+818 = "Yodeog"   
+821 = "Yeongcheong"   
+     
+# KUNTISUYU    
+     
+807 = "An-yung"   
+808 = "Jesan"   
+2829 = "Limjung"   
+2830 = "Jung-ag"   
+     
+# PERUAN COAST   
+     
+805 = "An-i"   
+806 = "Jaju"   
+2828 = "Hodae"   
+     
+# QUITO    
+     
+816 = "Yeongbong"   
+817 = "Jeonman"   
+819 = "Lyongjin"   
+820 = "Cheongbong"   
+2820 = "Heogae"   
+     
+# UCAYALI    
+     
+2823 = "Uigeum"   
+2944 = "Seongjeong"   
+2945 = "Sinjeong"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Cheolju"   
+801 = "Nyeongdeog"   
+2834 = "Dodeog"   
+     
+# CHACO    
+     
+790 = "Saju"   
+2854 = "Ban-an"   
+2878 = "Saon"   
+     
+# JUJUY    
+     
+794 = "Gugju"   
+2837 = "San-an"   
+2839 = "Gongjo"   
+     
+# MOXOS    
+     
+803 = "Gwiju"   
+2832 = "Dodong"   
+2833 = "Anjug"   
+     
+# NORTHERN CHILE   
+     
+792 = "Nyeong-wol"   
+793 = "Suju"   
+796 = "Nansan"   
+2840 = "Maha"   
+2841 = "Yuyang"   
+     
+# PARAGUAY    
+     
+775 = "Nag-an"   
+776 = "Hwang-won"   
+799 = "Lyungju"   
+2882 = "Lyuncheon"   
+2883 = "Jaehyang"   
+     
+# POTOSI    
+     
+795 = "Bogseong"   
+797 = "Bolyeong"   
+2940 = "Bono"   
+2946 = "Wangsan"   
+     
+# TUCUMAN    
+     
+791 = "Mun-i"   
+2836 = "Gyeongseon"   
+2842 = "Gil-yang"   
+     
+# UPPER PERU   
+     
+2835 = "Hyegae"   
+2838 = "Gyeha"   
+2941 = "Myeongnam"   
+2942 = "Daesi"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Uiyang"   
+4852 = "Yeon-ju"   
+4853 = "Geoheug"   
+4854 = "Pyeong-won"   
+     
+# CAPRICORNIA    
+     
+2730 = "Limnam"   
+2731 = "Jin-yeom"   
+2732 = "Hwacheon"   
+4848 = "Myeong-geum"   
+4849 = "Juan"   
+     
+# ILLAWARA    
+     
+1090 = "Changhae"   
+4857 = "Sibong"   
+4858 = "Gangsung"   
+4859 = "Cheolhwa"   
+4860 = "Jigang"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Goan"   
+1092 = "Ogpyeon"   
+4855 = "Jindong"   
+4856 = "Ban-dong"   
+     
+# PERTH    
+     
+1084 = "Yeon-yeong"   
+2727 = "Lanjeong"   
+4863 = "Seowon"   
+4864 = "Wonchang"   
+     
+# PILBARA    
+     
+2726 = "Seogwan"   
+4865 = "Yosu"   
+4866 = "Hyang-gye"   
+4867 = "Sang-an"   
+     
+# PRINCELAND    
+     
+1086 = "Gomyeong"   
+2735 = "Cheongu"   
+2736 = "Seonmun"   
+4862 = "Deungbug"   
+     
+# QUEENSLAND    
+     
+1093 = "Gyeonghwang"   
+1094 = "Chang-do"   
+2733 = "Chungbag"   
+4850 = "Jungil"   
+     
+# TASMANIA    
+     
+1085 = "Jugae"   
+4868 = "Lyongsu"   
+4869 = "Sujang"   
+     
+# TOP END   
+     
+2728 = "Hwalhyang"   
+2729 = "Deogtae"   
+4846 = "Sinheung"   
+4847 = "Gosu"   
+     
+# VICTORIA    
+     
+1087 = "Yangbaeg"   
+1088 = "Yeocheon"   
+1089 = "Lyongcheong"   
+2734 = "Myeong-gang"   
+4861 = "Seongnyeong"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1244 = "Soan Gundo"   
+1987 = "Namhae Gundo"   
+1988 = "Dongje Do"   
+     
+# EAST MICRONESIA   
+     
+1241 = "Pogil Gundo"   
+1991 = "Ganghwa Gundo"   
+1993 = "Gaui Gundo"   
+1994 = "Wan Do"   
+     
+# FIJI    
+     
+1242 = "Yeon Do"   
+4937 = "Yeonpyeong Gundo"   
+4938 = "Baeg-a Do"   
+     
+# MELANESIA    
+     
+1236 = "Lyeongheung Gundo"   
+1238 = "Nanji Gundo"   
+1239 = "Anmyeon Gundo"   
+1986 = "Bunam Gundo"   
+     
+# NORTHERN POLYNESIA   
+     
+1240 = "Jeonghae Do"   
+1997 = "Changmyeong-Gundo"   
+4934 = "Man Do"   
+4935 = "I Do"   
+4936 = "Seon Do"   
+     
+# POLYNESIA    
+     
+1243 = "Ja-eun Gundo"   
+1989 = "Heugsan Gundo"   
+1990 = "Gunsang Gundo"   
+1992 = "Tan Do"   
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Gyetae"   
+1107 = "Dong-go"   
+2739 = "Gujo"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Gugpo"   
+2737 = "Seong-gog"   
+4939 = "Su-seong"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Nanog"   
+1246 = "Seungpyeong"   
+2738 = "Og-ui"   
+     
+# WEST MICRONESIA   
+     
+1235 = "Baegheung Gundo"   
+1995 = "Geocha Gundo"   
+1996 = "Nano Gundo"

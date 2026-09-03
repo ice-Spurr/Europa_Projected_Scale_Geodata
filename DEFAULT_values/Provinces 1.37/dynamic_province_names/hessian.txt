@@ -1,0 +1,16 @@
+2975 = {"Kleff" "Kleff"}
+84 = {"Berg" "Düsseldörp"}
+85 = {"Kölle" "Kölle"}
+1878 = {"Oche" "Oche"}
+4768 = {"Jöllesch" "Jöllesch"}
+80 = {"Trier" "Trier"}
+1760 = {"Cobelenz" "Cobelenz"}
+4767 = {"Zweebrigge" "Zweebrigge"}
+1761 = {"Palz" "Worms"}
+83 = {"Nassau" "Nassau"}
+78 = {"Määnz" "Määnz"}
+77 = {"Heidlberg" "Heidlberg"}
+1876 = {"Frangford" "Frangford am Maa"}
+4774 = {"Fulda" "Fulda"}
+81 = {"Obenhächse" "Maborg"}
+1762 = {"Niderhächse" "Kastel"}

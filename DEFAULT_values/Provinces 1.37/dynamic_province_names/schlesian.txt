@@ -1,0 +1,7 @@
+# Silesian province names
+
+2966 = {"Gloguw" "Gloguw"}
+4238 = {"Lignica" "Lignica"}
+264 = {"Wroclaw" "Wroclaw"}
+4723 = {"Ôpole" "Ôpole"}
+263 = {"Raciborz" "Raciborz"}

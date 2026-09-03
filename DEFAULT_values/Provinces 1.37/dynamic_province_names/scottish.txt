@@ -1,0 +1,104 @@
+### EUROPE
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Limerick" "Limerick"}
+376 = {"Connacht" "Galway"}
+4119 = {"Sligo" "Sligo"}
+
+# East Anglia
+
+238 = {"Essex" "Chelmsford"}
+1860 = {"Norfowk" "Northwich"}
+4370 = {"Bedfordshire" "Cambrig"}
+
+# East Midlands
+
+243 = {"Lincolnshire" "Lincoln"}
+1861 = {"Derbyshire" "Derby"}
+4376 = {"Leicester" "Leicester"}
+
+# Highlands
+
+250 = {"Pairth" "Johnstoun"}
+252 = {"Innerness" "Innerness"}
+369 = {"Orkney" "Kirkwaa"}
+4110 = {"Sutherland" "Dornach"}
+4363 = {"Argyll" "Inverera"}
+
+# Leinster
+
+373 = {"Pale" "Dublin"}
+374 = {"Leinster" "Wexford"}
+4120 = {"Kildare" "Naas"}
+4379 = {"Keeng's Coonty" "Luansford"}
+
+# London
+
+235 = {"Kent" "Canterbury"}
+236 = {"Lunnon" "Lunnon"}
+237 = {"Oxford" "Oxford"}
+4371 = {"Sussex" "Hastings"}
+
+# Lowlands
+
+248 = {"Loudan" "Edinburgh"}
+249 = {"Ayrshire" "Ayr"}
+251 = {"Aiberdon" "Aiberdon"}
+4361 = {"Roxburgshire" "Jethart"}
+4362 = {"Dumfries" "Dumfries"}
+
+# Munster
+
+4118 = {"Cork" "Cork"}
+4377 = {"Ormond" "Kilkenny"}
+4378 = {"Desmond" "Killarney"}
+
+# Northern England
+
+244 = {"Lancashire" "Lancaster"}
+246 = {"Northumberland" "Newcastle upon Tyne"}
+247 = {"Cumbria" "Carlisle"}
+4375 = {"Chester" "Chester"}
+
+# The Isles
+
+253 = {"Ooter Hebrides" "Portree"}
+4364 = {"Inner Hebrides" "Stornowa"}
+4365 = {"Isle o Man" "Castletoun"}
+
+# Ulster
+
+372 = {"Derry" "Dungannon"}
+4121 = {"Ulster" "Carrickfergus"}
+4380 = {"Dunnygal" "Dunnygal"}
+
+# Wales
+
+241 = {"Glamorgan" "Glamorgan"}
+242 = {"Gwynedd" "Caernarfon"}
+4366 = {"Powys" "Montgomery"}
+4369 = {"Carmarthenshire" "Carmarthen"}
+
+# Wessex
+
+233 = {"Cornwall" "Truro"}
+234 = {"Hampshire" "Salisbury"}
+4130 = {"Somerset" "Bath"}
+4373 = {"Devonshire" "Plymouth"}
+4374 = {"Dorset" "Weymouth"}
+
+# West Midlands
+
+239 = {"Gloucester" "Bristol"}
+240 = {"Shrewsbury" "Shrewsbury"}
+4372 = {"Coventry" "Coventry"}
+
+# Yorkshire
+
+245 = {"York" "York"}
+4367 = {"Hull" "Hull"}
+4368 = {"Scarborough" "Scarborough"}
+4785 = {"Sheffield" "Sheffield"}

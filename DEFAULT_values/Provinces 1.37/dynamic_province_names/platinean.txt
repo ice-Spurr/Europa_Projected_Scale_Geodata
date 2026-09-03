@@ -1,0 +1,2001 @@
+### EUROPE
+
+## IBERIA
+
+# Alentejo
+
+227 = {"Lisboa" "Lisboa"}
+229 = {"Beja" "Beja"}
+230 = {"Algarve" "Faro"}
+4150 = {"Évora" "Évora"}
+4787 = {"Ribatejo" "Santarén"}
+
+# Aragon
+
+211 = {"Huesca" "Huesca"}
+214 = {"Zaragoza" "Zaragoza"}
+2990 = {"Teruel" "Teruel"}
+4557 = {"Calatayud" "Calatayud"}
+
+# Beiras
+
+228 = {"Beira" "Vicedo"}
+231 = {"Oporto" "Oporto"}
+232 = {"Braganza" "Braganza"}
+1851 = {"Coímbra" "Coímbra"}
+4556 = {"Aveiro" "Aveiro"}
+
+# Catalonia
+
+197 = {"Rosellón" "Perpiñán"}
+212 = {"Gerona" "Gerona"}
+213 = {"Barcelona" "Barcelona"}
+2987 = {"Urgell" "Tàrrega"}
+2988 = {"Tarragona" "Tarragona"}
+
+# Extremadura
+
+218 = {"Badajoz" "Badajoz"}
+1747 = {"Cáceres" "Cáceres"}
+4788 = {"Plasencia" "Plasencia"}
+
+# Galicia
+
+206 = {"La Coruña" "La Coruña"}
+4554 = {"Lugo" "Lugo"}
+4555 = {"Pontevedra" "Pontevedra"}
+4558 = {"Orense" "Orense"}
+
+# León
+
+207 = {"Astúrias" "Oviedo"}
+208 = {"León" "León"}
+216 = {"Salamanca" "Salamanca"}
+4553 = {"Zamora" "Zamora"}
+
+# Lower Andaluzia
+
+224 = {"Sevilla" "Sevilla"}
+225 = {"Córdoba" "Córdoba"}
+1748 = {"Jaén" "Jaén"}
+1749 = {"Cádiz" "Cádiz"}
+4548 = {"Huelva" "Huelva"}
+
+# North Castile
+
+215 = {"Valladolid" "Valladolid"}
+1745 = {"Cantabria" "Cantabria"}
+1746 = {"Burgos" "Burgos"}
+4552 = {"Palencia" "Palencia"}
+
+# South Castile
+
+217 = {"Madrid" "Madrid"}
+2755 = {"Soria" "Soria"}
+4551 = {"Ávila" "Ávila"}
+4789 = {"Segovia" "Segovia"}
+
+# Toledo
+
+219 = {"Toledo" "Toledo"}
+221 = {"Murcia" "Murcia"}
+2751 = {"Cuenca" "Cuenca"}
+2754 = {"La Mancha" "La Mancha"}
+4547 = {"Albacete" "Albacete"}
+
+# Upper Andalucia
+
+222 = {"Almería" "Almería"}
+223 = {"Granada" "Granada"}
+226 = {"Gibraltar" "Gibraltar"}
+4546 = {"Málaga" "Málaga"}
+
+# Valencia
+
+220 = {"Valencia" "Valencia"}
+1750 = {"Alicante" "Alicante"}
+4549 = {"Játiva" "Játiva"}
+4550 = {"Castelló" "Castelló"}
+
+# Vasconia
+
+209 = {"Vizcaya" "Vizcaya"}
+210 = {"Navarra" "Navarra"}
+2989 = {"Rioja" "Rioja"}
+
+# MAGHREB
+
+# Macaronesia (part of Europe)
+
+366 = "Gran Canaria"
+367 = "Azores"
+368 = "Madeira"
+4565 = "Tenerife"
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Borbona" "Moline"}
+195 = {"Limusino" "Limogia"}
+199 = {"Auvernia" "Montes Claros"}
+4697 = {"La Marcha" "Guerét"}
+4777 = {"Forés" "Forés"}
+
+# Brittany
+
+169 = {"Armoria" "Santo Maló"}
+170 = {"Finisterra" "Bresta"}
+171 = {"Vanetécia" "Vanes"}
+172 = {"Nantaia" "Nantes"}
+4384 = {"Rénia" "Rénia"}
+
+# Champagne
+
+181 = {"Retela" "Retela"}
+186 = {"Rémia" "Rémia"}
+4390 = {"Troia Franca" "Troia"}
+
+# Eastern Burgundy
+
+192 = {"Dejoncia" "Dejones"}
+193 = {"Franco-Condado" "Besansón"}
+4764 = {"Salinas" "Salinas"}
+
+# Gascony
+
+173 = {"Labort" "Bayona"}
+175 = {"Armañac" "Ajé"}
+176 = {"Bearne" "Prón"}
+4694 = {"Fóis" "Fóis"}
+
+# Guyenne
+
+174 = {"Burdeos" "Burdeos"}
+194 = {"Perigordo" "Beregardo"}
+198 = {"Ruerca" "Rodéz"}
+4112 = {"Quércia" "Cajores"}
+
+# Ile-de-France
+
+182 = {"Valoés" "La Sueneja"}
+183 = {"París" "París"}
+185 = {"Nemores" "Nemores"}
+4388 = {"Cartraia" "Cartraia"}
+
+# Languedoc
+
+196 = {"Tolosa" "Tolosa"}
+200 = {"Montepélia" "Montepélia"}
+2753 = {"Narbona" "Narbona"}
+4391 = {"Vivarés" "Viveria"}
+4695 = {"Carcasona" "Carcasona"}
+
+# Loire Valley
+
+177 = {"Maiena" "Los Mañes"}
+178 = {"Anjó" "Angevínia"}
+4389 = {"Torena" "Torén"}
+
+# Lorraine
+
+187 = {"Barécia" "Baro"}
+188 = {"Métis" "Métis"}
+189 = {"Lorena" "Nancia"}
+4766 = {"Verdún" "Verdún"}
+
+# Normandy
+
+167 = {"Caus" "Ruan"}
+168 = {"Caena" "Caena"}
+1879 = {"Alensón" "Alensón"}
+4385 = {"Cotentena" "Cherburgo"}
+
+# Orleanais
+
+179 = {"Bérria" "Bórjia"}
+184 = {"Orleanesado" "Orleans"}
+4776 = {"Blés" "Blés"}
+
+# Picardie
+
+87 = {"Calésia" "Calésia"}
+88 = {"Artésia" "Arrás"}
+89 = {"Picardía" "Amiena"}
+1743 = {"Cambraia" "Cambraia"}
+
+# Poitou
+
+180 = {"Alto Puató" "Piteos"}
+411 = {"Santón" "Santéjia"}
+4386 = {"Bajo Puató" "Luzón"}
+4387 = {"Angonémia" "Angoleme"}
+
+# Provence
+
+201 = {"Ais" "Ais en Provenza"}
+202 = {"Aviñón" "Aviñón"}
+2991 = {"Forcalquiera" "Forcalquiera"}
+4696 = {"Tolón" "Tolón"}
+
+# Savoy
+
+203 = {"León de Francia" "León de Francia"}
+204 = {"Delfinado" "Grenóbela"}
+205 = {"Chambéria" "Chambéria"}
+4719 = {"Bressa" "Bressa"}
+
+# Western Burgundy
+
+191 = {"Niverna" "Niverna"}
+1877 = {"Ciarola" "Ciarola"}
+4392 = {"Assera" "Assefra"}
+
+## BRITAIN
+
+# Connacht
+
+375 = "Limerique"
+376 = "Conagta"
+4119 = "Sligo"
+
+# East Anglia
+
+238 = "Esejas"
+1860 = "Norfolque"
+4370 = "Befórdia"
+
+# East Midlands
+
+243 = "Lencastre"
+1861 = "Dérbia"
+4376 = "Léster"
+
+# Highlands
+
+250 = "Perte"
+252 = "Invernes"
+369 = "Islas Orquénia"
+4110 = "Suterlándia"
+4363 = "Grenel"
+
+# Leinster
+
+373 = "Palle"
+374 = "Leinestra"
+4120 = "Quildare"
+4379 = "Tierra Média"
+
+# London
+
+235 = "Cente"
+236 = "Londres"
+237 = "Oxónia"
+4371 = "Selte"
+
+# Lowlands
+
+248 = "Lotina"
+249 = "Aréscia"
+251 = "Aberdina"
+4361 = "Roxeberga"
+4362 = "Dófris"
+
+# Munster
+
+4118 = "Corque"
+4377 = "Ormonde"
+4378 = "Demonde"
+
+# Northern England
+
+244 = "Lancasurgo"
+246 = "Nortumbria"
+247 = "Cumbria"
+4375 = "Cester"
+
+# The Isles
+
+253 = "Hébridas Exteriores"
+4364 = "Hébridas Interiores"
+4365 = "Isla Meniana"
+
+# Ulster
+
+372 = "Terón"
+4121 = "Ultera"
+4380 = "Donegalia"
+
+# Wales
+
+241 = "Glamorga"
+242 = "Guinede"
+4366 = "Montegória"
+4369 = "Carmátia"
+
+# Wessex
+
+233 = "Cornualles"
+234 = "Hamptania"
+4130 = "Somerseia"
+4373 = "Devone"
+4373 = "Dorsetia"
+
+# West Midlands
+
+239 = "Gloucestra"
+240 = "Sresbúria"
+4372 = "Coventria"
+
+# Yorkshire
+
+245 = "Iorque"
+4367 = "Hulípea"
+4368 = "Escarburgo"
+4785 = "Cefielde"
+
+## ITALY
+
+# Tuscany
+
+115 = "Pisa"
+116 = "Florencia"
+117 = "Siena"
+2978 = "Aretzo"
+2980 = "Luca"
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = "Brujas"
+1865 = "Gante"
+4769 = "Lila"
+
+# Frisia
+
+99 = "Gentia"
+100 = "Frísia"
+1931 = "Frísia Oriental"
+4381 = "Obrestina"
+4382 = "Groninga"
+
+# Holland
+
+96 = "Zelanda"
+97 = "Holanda"
+98 = "Utreque"
+4383 = {"La Haya" "Gravenhaya"}
+
+# North Brabant
+
+95 = "Bedoya"
+1742 = "Altagüeldres"
+4770 = "Bolduque"
+
+# South Brabant
+
+92 = "Bruselas"
+1744 = {"Amberes" "Amberes"}
+2974 = "Logron"
+
+# Wallonia
+
+91 = "Hainalta"
+93 = "Lille"
+94 = "Luxemburgo"
+1866 = "Nambria"
+
+## NORTH GERMANY
+
+265 = "Brum"
+4725 = "Jindecio"
+2968 = "Budejovar"
+
+## SOUTH GERMANY
+
+4710 = "Bragenta"
+4712 = "Constance"
+
+## Carpatia
+
+162 = "Zemplén"
+1318 = "Espejo"
+1772 = "Pozono"
+4236 = "Trencín"
+263 = "Ratibo"
+
+## Poland
+
+263 = "Ratibo"
+
+### AFRICA
+
+## Maghreb
+
+334 = "Tánger"
+4561 = "Tetuán"
+335 = "Melilla"
+343 = "Fez"
+4563 = "Salé"
+2465 = "Ojeda"
+4562 = "Merseque"
+336 = "Tremecén"
+337 = "Orán"
+2462 = "Ourensa"
+349 = "Figueras"
+346 = "Tafalla"
+2460 = "Saora"
+2466 = {"Daroca" "Drá"}
+342 = "Garbe"
+4564 = "Anfa"
+2469 = "Dukalón"
+2468 = "Taldal"
+344 = "Marraquexe"
+345 = "Abeda"
+2470 = "La Hala"
+2467 = "Mecnes"
+
+# Quelimane
+
+1183 = "Almabanza"
+
+## Guinea
+
+1096 = "Cabo Verde"
+1111 = "Arguín"
+498 = "Martinica"
+
+
+
+
+### NORTH AMERICA
+
+# ALTA CALIFORNIA
+
+868 = {"Los Ángeles" "Los Ángeles"}   
+869 = {"Monterrey" "Monterrey"}  
+2021 = "Suscol"   
+2476 = {"San Diego" "San Diego"}
+4637 = {"San Francisco" "San Francisco"}   
+     
+# APACHERIA    
+     
+879 = "San Manuel"   
+2492 = "Valle del Lago"   
+4634 = "Reducción San Carlos"   
+     
+# ARIZONA    
+     
+867 = "Cahuilla"   
+876 = {"Tucsón" "Tucsón"}
+877 = "Mesa"   
+2491 = "Las Vegas"   
+4633 = "Sierra Vista"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Baja California"   
+866 = {"Los Cabos" "San José del Cabo"}   
+2620 = "Valle de los Cirios"   
+4639 = "Ensenada"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Merced"   
+2478 = "Tierra Fages"   
+4635 = "San Bernadino"   
+4636 = "Mariposa"   
+     
+# COLORADO PLATEU   
+     
+875 = "Cortez"   
+878 = "Albuquerque"   
+2493 = "Jiménez"   
+2494 = "El Malpaís"   
+     
+# NEW MEXICO   
+     
+880 = "Alamosa"   
+881 = "Socorro"   
+2495 = "La Jara"   
+4631 = "Agua Negra Chiquita"   
+4632 = "Dulce"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Santa Rosa"   
+2477 = "La Santísima"   
+2479 = "Sacramento"   
+2480 = "Rio Fernando"   
+4638 = "Rancho Las Putas"   
+     
+# SONORA    
+     
+862 = "Guaymas de Zaragoza"   
+2616 = "Cucurpe"   
+4577 = "Golfo de Santa Clara"   
+4649 = "Santa Maria de Navojohua"   
+4650 = "Santísima Trinidad del Pitic"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Irún"   
+2576 = "El Archipiélago"   
+2577 = "Bahía de la Trinidade"   
+2578 = "Isla de la Asunción"   
+2579 = "San Jerónimo"   
+     
+# GREENLAND    
+     
+1104 = "Bazán"   
+1105 = "Tierra del Norte"   
+     
+# HURONIA    
+     
+988 = "Juarón"   
+989 = "Santa Águeda"   
+2585 = "Abundio"   
+2670 = "Compostela"   
+     
+# LABRADOR    
+     
+997 = "Cabo de Nada"   
+2574 = "Fuerte San Isidro"   
+2575 = "Bahía San Isidro"   
+     
+# LAURENTIA    
+     
+992 = "Alba de Tormes"   
+2581 = "Santa Laura"   
+4894 = "Berrondo"   
+     
+# LOWER ACADIA   
+     
+982 = "Isla Vizcaya"   
+984 = "Bahía de Minas"   
+2568 = "Cabo de Huelva"   
+2569 = "Pardo"   
+4891 = "Fuente la Lancha"   
+     
+# LOWER CANADA   
+     
+993 = "San Vital"   
+2584 = "San Perfecto"   
+4895 = "El Gordo"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Bahía Santa Clara"   
+981 = "Cabo Fernando"   
+2573 = "Isla Santa Clara"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Saceruela"   
+4892 = "Malena"   
+4897 = "Malladas"   
+     
+# QUEBEC    
+     
+986 = "Cabo Santiago"   
+994 = "Quebey"   
+995 = "San Sebastián"   
+2582 = "Santa Leticia"   
+2583 = "San Juan Bautista"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Sahagún"   
+2571 = "Ortega"   
+4896 = "Cáceres?"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Tres Ríos"   
+2012 = "San Benito"   
+2580 = "Juamontana"   
+4893 = "Cardona"   
+     
+# UPPER ACADIA   
+     
+983 = "Isla Granada"   
+985 = "Jicanica"   
+2572 = "San Julián"   
+     
+# UPPER CANADA   
+     
+987 = "Niágara"   
+2586 = "Santo Adolfo"   
+2587 = "Promontorio Real"   
+     
+# UPPER ONTARIO   
+     
+991 = "San Ricardo"   
+1001 = "Rápidos Sta María"   
+1007 = "Bahia del Trueno"   
+2015 = "Santa Natalia"   
+2671 = "Española"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Santo Domingo"   
+2658 = "Azua"   
+2659 = "Puerto Plata"   
+4620 = "Hato Grande"   
+4621 = "Higüey"   
+     
+# EAST CUBA   
+     
+486 = "Guantánamo"   
+2654 = "Baracoa"   
+2655 = "Las Delicias"   
+2656 = "Santa María"   
+     
+# GREATER ANTILLES   
+     
+481 = "Bermudas"   
+487 = "Santiago de la Vega"   
+491 = "Curación"   
+492 = {"Puerto Rico" "San Juan"}   
+     
+# HAITI    
+     
+488 = "La Sabana"   
+489 = "Tortuga"   
+4618 = "La Paz Verdadera"   
+4619 = "La Navidad"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Santo Tomás"   
+494 = "San Cristóbal"   
+495 = "Guadalupe"   
+496 = "Sta. María de Guadalupe"   
+1881 = "San Martín"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Nueva Providencia"   
+483 = "Gran Turca"   
+     
+# WEST CUBA   
+     
+484 = "La Habana"   
+485 = "Morón"   
+4622 = "Matanzas"   
+4623 = "Sancti Spiritus"   
+4624 = "Guane"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Dominica"   
+498 = "Martinica"   
+499 = "Santa Lucía"   
+500 = "San Vicente"   
+501 = "Barbados"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Príncipe de Asturias"   
+977 = "Monte Cristo"   
+2613 = "Santa Teresa"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Húmeda"   
+2486 = "El Gran"   
+2487 = "Perro Lago"   
+2488 = "San Luis Beltrán"   
+     
+# HECATE STRAIT   
+     
+975 = "Isla del Rey"   
+2022 = "Islas Malaspina"   
+2609 = "San Pedro Nolasco"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "San Carlos"   
+2604 = "Fuerte Santiago"   
+2605 = "Camloupes"   
+2606 = "Nazko"   
+2607 = "Tierra de Verano"   
+     
+# OREGON    
+     
+872 = "Corazón del Valle"   
+2481 = "Cabo Arago"   
+2482 = "San Marino Diácono"   
+2483 = "Cala Millor"   
+     
+# PUGET SOUND   
+     
+874 = "Fuca"   
+2484 = "Cabo Adulación"   
+2485 = "Olimpia"   
+     
+# SNAKE RIVER   
+     
+2019 = "Crespi"   
+2020 = "Río de Serpientes"   
+2489 = "Cascadas Gemelas"   
+2490 = "Chichipa"   
+2506 = "Librada"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Santa Cruz de Nuca"   
+973 = "Quadra"   
+974 = "Bahía de Eco"   
+2610 = "Cala del Conde"   
+     
+# WESTERN ALASKA   
+     
+978 = "Anclaje"   
+979 = "Islas Aleutianas"   
+2611 = "Cabo Piloto"   
+2612 = "Córdova"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "San Lázaro"   
+2632 = "Villahermosa"   
+2650 = "Ciudad del Carmen"   
+     
+# CHIAPAS    
+     
+2635 = "Montes Azules"   
+2638 = "Escuintla"   
+2649 = "Nueva Pamplona"   
+4585 = "San Marcos Tuxtla"   
+4586 = "La Concordia"   
+     
+# COSTA RICA   
+     
+836 = "Cartago"   
+2663 = "Nicoya"   
+4597 = "Matina"   
+     
+# EAST YUCATAN   
+     
+2634 = "Puerto Bravo"   
+2652 = "Puerto Morelos"   
+4588 = "Nuevo Bécal"   
+4591 = "Valladolid"   
+     
+# GUATEMALA    
+     
+839 = "San Salvador"   
+841 = "Guatemala"   
+2653 = "Sacatepéquez"   
+4587 = "San Mateo Ixtatán"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Flores"   
+843 = "Balis"   
+2636 = "Castillo San Felipe"   
+4589 = "Punta Placentia"   
+4594 = "Santo Domingo de Cobán"   
+     
+# HONDURAS    
+     
+840 = "Trujillo"   
+2637 = "San Pedro Sula"   
+2640 = "Tegucigalpa"   
+2662 = "Comayagua"   
+4593 = "Punta de Caxinas"   
+     
+# NICARAGUA    
+     
+837 = "Chinandega"   
+838 = "Mosquito"   
+2660 = "Managua"   
+2661 = "La Luz de Siuna"   
+4592 = "Punta Gorda"   
+     
+# WEST YUCATAN   
+     
+846 = "Malinche"   
+2633 = "Mérida de Yucatán"   
+2651 = "Real de Salinas"   
+4590 = "San Miguel de Maní"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Panamá"   
+2664 = "Veraguas"   
+2819 = "Darién"   
+4595 = "San José de David"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "La Reforma"   
+916 = "San Rafael"   
+917 = "Malaspina"   
+4903 = "Serón"   
+     
+# INDIANA    
+     
+942 = "Albarracín"   
+943 = "San Hermenegildo"   
+2523 = "Pueblo Príncipe"   
+2524 = "Amistad"   
+4922 = "Linares"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Dos Puertos"   
+911 = "Montaña de Hierro"   
+2517 = "Guarnición"   
+2518 = "Apóstol"   
+4898 = "Peloche"   
+     
+# MICHIGAN    
+     
+944 = "Nueva Oropesa"   
+945 = "Palencia"   
+2521 = "Juepoyga"   
+2522 = "Qualamasiu"   
+     
+# OHIO    
+     
+946 = "Toledo de Juahiya"   
+947 = "Juahiya"   
+948 = "Santa Clara"   
+2525 = "Cincinato"   
+4907 = "Ugíjar"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "San Telmo"   
+2520 = "Ciudad de Isabel"   
+4904 = "Alboraya"   
+     
+# WISCONSIN    
+     
+912 = "Cascadas Negras"   
+913 = "De Soto"   
+914 = "Pradera del Sol"   
+4899 = "Torrejón"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Fuerte de Arana"   
+2504 = "Hermano Pedro"   
+2505 = "Pueblo Rápidos"   
+     
+# Central Plains   
+     
+901 = "Siete Ciudades"   
+903 = "Corazón del Río"   
+2009 = "Imperio"   
+2508 = "Puente Viejo"   
+4915 = "Ibiza"   
+     
+# HIGH PLAINS   
+     
+889 = "Colorado"   
+2507 = "Centro Juárez"   
+2625 = "Alamosa"   
+     
+# IOWA    
+     
+905 = "Sagrado Corazon"   
+2513 = "El Arpa"   
+4900 = "Talaván"   
+4905 = "Lanteira"   
+     
+# KANSAS    
+890 = "Salina"   
+898 = "Agua Llorando"   
+2672 = "Santa Potenciana"   
+4914 = "Manacor"   
+     
+# MINNESOTA    
+     
+904 = "Minas de España"   
+908 = "Arellano"   
+2512 = "San Bernado"   
+4901 = "Hinojal"   
+     
+# NORTH DAKOTA   
+     
+906 = "Fuerte Lisa"   
+909 = "Las Lajas"   
+2510 = "Tioga"   
+4918 = "Valdeazogues"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Villa San Juan"   
+2007 = "San Amaro"   
+2008 = "San Augurio"   
+4916 = "Garcíez"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Villa López"   
+892 = "El Infante"   
+896 = "Pájaro Rojo"   
+4908 = "Darrícal"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Mixidaxi"   
+2501 = "Hipona"   
+2502 = "Punto de Lobo"   
+2503 = "Punta Alojar"   
+4917 = "Porcuna"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Fuerte Aguilar"   
+2588 = "Las Campanas"   
+2589 = "Río Nutrio"   
+2590 = "Cascadas Ahumadas"   
+2591 = "Castor de Verano"   
+     
+# ALBERTA    
+     
+2004 = "Beatifica"   
+2017 = "Santa Ana"   
+2018 = "Entrada"   
+2602 = "Ciervo Rojo"   
+     
+# ASSINIBOIA    
+     
+2005 = "San Lesmes"   
+2596 = "San Benildo"   
+2598 = "Corrientes Rápidas"   
+4920 = "Odina"
+     
+# ATHABASCA    
+     
+2599 = "Estanque Pedro"   
+2600 = "Río de la Paz"   
+2601 = "Torres Morales"   
+2603 = "Montaña Rosa"   
+     
+# HUDSON BAY   
+     
+1005 = "Fuerte Trastámara"   
+1006 = "Rio Danés"   
+1009 = "Río Bustamente"   
+2592 = "Manzanares"   
+2594 = "Distrito de Lagos"   
+     
+# JAMES BAY   
+     
+998 = "Chicimua"   
+999 = "Reducción Blanco"   
+1000 = "Fondo de la Bahía"   
+1003 = "Fuerte Vázquez"   
+1004 = "Fuerte Quadro"   
+     
+# MANITOBA    
+     
+1008 = "Río Rojo"   
+1010 = "Fuerte Asturias"   
+1011 = "Sta María de La Paz"   
+2593 = "Lago de los Bosques"   
+4919 = "Azuel"   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "El Tenedor"   
+2511 = "Lago del Diablo"   
+4902 = "Tondao"
+     
+# SASKATCHEWAN    
+     
+1813 = "Fuerte Pedral"   
+2595 = "Quis-Toq-Juan"   
+2597 = "Cervellón"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Papasquiaro"   
+4646 = "Sonora"   
+4647 = "Durango"   
+4648 = "Canelas"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "San Tiburcio"   
+2642 = "San José Carlos"   
+4642 = "Villanueva"   
+     
+# GUANAJUATO    
+     
+853 = "La Huasteca"   
+2615 = "Jesús María"   
+4640 = "Aguascalientes"   
+4641 = "Dolores"   
+     
+# GUERRERO    
+     
+2627 = "Acapulco"   
+2645 = "Zihuatanejo"   
+2648 = "Cruz Grande"   
+     
+# HUASTECA    
+     
+848 = "El Chote"   
+2641 = "San Luis Tampico"   
+4598 = "Jalapa"   
+     
+# JALISCO    
+     
+854 = "Tepic"   
+2617 = "Jerez"   
+2621 = "Guadalajara"   
+2657 = "Santiago de la Buena Esperanza"   
+4576 = "El Carrizal"   
+     
+# MEXICO    
+     
+852 = {"Valle de México" "Ciudad de México"}   
+2626 = "San Bartolo"   
+4570 = "San Martín Texmelucan"   
+4571 = "Cuernavaca"   
+4572 = "Toluca"   
+     
+# MICHOAVAN    
+     
+2622 = "Zamora"   
+2623 = "Huetamo"   
+2624 = "Zapotlan"   
+4573 = "San Francisco de Tecpatitlán"   
+4574 = "Mazamitla"   
+     
+# MIXTECA    
+     
+847 = "Bahías de Huatulco"   
+849 = "Guerrero"   
+2646 = "Putla"   
+4581 = "Chilpancingo"   
+     
+# NAYARIT    
+     
+855 = "Elota"   
+859 = "Nueva Galicia"   
+4578 = "Mazatlán"   
+     
+# Oaxaca    
+     
+844 = "Juchitán de Zaragoza"   
+2629 = "Nueva Antequera"   
+4584 = "Oaxaca"   
+     
+# PUEBLA    
+     
+850 = "Puebla de Zaragoza"   
+2628 = "Tepeaca"   
+2644 = "Puebla"   
+4582 = "Tehuacán"   
+4583 = "Nueva Zaragoza"   
+     
+# TIERRA CALIENTE   
+     
+851 = "La Unión"   
+2643 = "Ávalos"   
+4575 = "Los Reyes"   
+4579 = "Ameca"   
+4580 = "Colima"   
+     
+# VERACRUZ    
+     
+2630 = "Santiago Tuxtla"   
+2631 = "Acayucan"   
+2647 = {"Veracruz" "Veracruz"}   
+     
+# ZACATECAS    
+     
+856 = "Zacatecas"   
+4643 = "San Luís Potosí"   
+4645 = "Sombrerete"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Castaño"   
+925 = "Tasquiqui"   
+2531 = "Hermosa Mía"   
+2532 = "Desota"   
+4883 = "Illueca"   
+     
+# ARKANSAS    
+     
+894 = "Juachita"   
+895 = "Triana"   
+897 = "Cadrón"   
+4885 = "Zaros"
+4923 = "Fregenite"   
+     
+# KENTUCKY    
+     
+941 = "Salinas"   
+2526 = "Estación Sion"   
+4888 = "Villamayor"   
+     
+# LOUISIANA    
+     
+893 = "González"   
+2014 = "Isleños"   
+2516 = "Los Adaes"   
+     
+# MISSISSIPPI    
+     
+919 = "Tuapelho"   
+920 = "Gallinero"   
+2528 = "Aguafría"   
+2529 = "Los Nogales"   
+4884 = "Los Rábanos"   
+     
+# OZARKS    
+     
+899 = "Colina de Plomo"   
+2509 = "Topeka"   
+2515 = "San José Calasanz"   
+4886 = "Milagros"   
+     
+# TENNESSEE    
+     
+918 = "Barrancas"   
+934 = "Tejedor"   
+939 = "Padoucas"   
+4913 = "Tavimara"
+     
+# UPPER LOUISIANA   
+     
+900 = "San Luis del Norte"   
+902 = "Misuri"   
+2514 = "Nuevo Madrid"   
+4906 = "Graena"   
+     
+# VANDALIA    
+     
+951 = "Ciedo"   
+2551 = "Calzada"   
+4889 = "Burujón"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Luisvilla"   
+4887 = "Picones"   
+4921 = "Brazatortas"   
+     
+# WEST FLORIDA   
+     
+921 = "San Gabriel"   
+922 = "Fortaleza Carlota"   
+923 = "Escambia"   
+2530 = "Puerto San Luis"   
+2533 = "Ponce de León"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Jeriez"   
+2555 = "Santa Eulalia"   
+4875 = "Mequinenza"   
+     
+# CONNECTICUT    
+     
+967 = "Juicapau"   
+2010 = "Juenetico"   
+2560 = "Puerto San Vicente"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Río del Sur"   
+957 = "Delaguerra"   
+962 = "Nueva Santander"   
+2023 = "Juaiomina"   
+     
+# EASTERN MAINE   
+     
+971 = "Bahía de Gomez"   
+2566 = "Bahía Amplia"   
+2567 = "San Juan de Dios"   
+     
+# HUDSON VALLEY   
+     
+961 = "Cascada de León"   
+963 = "Molinos Orientales"   
+964 = "Lago Plateado"   
+2559 = "Cinco Estanques"   
+4912 = "Lleida"   
+     
+# IRIQUOISIA    
+     
+958 = "Lurma"   
+959 = "Nueva Coruña"   
+960 = "Montaje Justo"   
+4872 = "Villarreal"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Alhama"   
+2563 = "Montañas Verdes"   
+4871 = "Almazán"   
+     
+# MAINE    
+     
+2013 = "Nueva Nápoles"   
+2565 = "San Íñigo"   
+4873 = "Lozoya"   
+     
+# MARYLAND    
+     
+953 = "La Plata del Norte"   
+2553 = "San Roda"   
+2554 = "Santo de Silos"   
+     
+# MASSACHUSETTS    
+     
+966 = "Quipoqui"   
+968 = "Vista Alegre"   
+2561 = "Cabo Santa Flora"   
+4874 = "Mojácar"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Nova Abrantes"   
+2562 = "Sant Pere Sacama"   
+2564 = "Montserrat"   
+     
+# NEW YORK   
+     
+965 = "Nueva Barcelona"   
+2558 = "Fernando el Santo"   
+2639 = "San Olegario"   
+     
+# WESTYLVANIA    
+     
+955 = "Dos Rosas"   
+2556 = "Valle Flamenco"   
+2557 = "San Eulogio"   
+4876 = "Ávila"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Paso del Norte"   
+864 = "Chihuahua"   
+2618 = "Santa Bárbara"   
+4644 = "Nuevo Casas Grandes"   
+     
+# COAHUILA    
+     
+861 = "Coahuila"   
+864 = "Chihuahua"   
+2666 = "San Saba"   
+2667 = "Laredo"   
+4606 = "Coahuila del Norte"   
+     
+# COASTAL PRARIE   
+     
+884 = "La Bahía"   
+888 = {"Isla de Malhado" "Villa Gálvez"}   
+2665 = "Los Ais"   
+2669 = "Tejas de Este"   
+     
+# LLANO ESTACADO   
+     
+882 = "Alamogordo"   
+885 = "Llano Estacado"   
+2496 = "La Junta"   
+2497 = "Pecos"   
+4630 = "Corona"   
+     
+# PECOS    
+     
+2498 = "Terlingua"   
+4628 = {"El Paso" "El Paso"}   
+4629 = "Loma de Juárez"   
+     
+# TAMAULIPAS    
+     
+858 = "Tamaulipas"   
+2499 = "Rio Bravo"   
+2614 = "Nuevo León"   
+2668 = "Laguna Madre"   
+     
+# TEXAS    
+     
+883 = {"San Antonio" "San Antonio"}   
+887 = "Los Tejas"   
+4627 = "Estación de Collegio"   
+4911 = "Encinal"   
+     
+# TEXAS PLAINS   
+     
+886 = "Huaco"   
+2500 = "San Ángelo"   
+4909 = "Torvizcón"   
+4910 = "Náruna"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "San Agustin"   
+928 = "San Marcos"   
+2534 = "La Chua"   
+     
+# FLORIDA    
+     
+926 = "Mayaca"   
+2535 = "Pascua Florida"   
+2536 = "Tegesta"   
+4625 = "Nova Esmirna"   
+4626 = "Puerta Tanpa"   
+     
+# GEORGIA    
+     
+929 = "Gijón"   
+2537 = "Gracia Real"   
+2538 = "La Saguada"   
+2539 = "Trastámara"   
+4880 = "Peralta"   
+     
+# GREAT VALLEY   
+     
+949 = "Ichthys"   
+2011 = "Santa Oria"   
+2548 = "Nuevo Río"   
+2552 = "Eboncio"   
+     
+# NORTH CAROLINA   
+     
+937 = "Joara"   
+938 = "Neopatria"   
+2546 = "Santa Casilda"   
+2547 = "Bahía del Rey"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Río Grijalva"   
+936 = "Monte Salado"   
+2527 = "Colina Observación"   
+4879 = "Sahagún"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Hacienda Verde"   
+2545 = "Ochuse"   
+4878 = "Astorga"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Fortaleza Carlos"   
+2542 = "Santa Elena"   
+2543 = "Bahía Larga"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Nueva Palencia"   
+2541 = "Santa Columba"   
+4882 = "Cariñena"   
+     
+# UPPER GEORGIA   
+     
+930 = "Huesca"   
+931 = "Ponceria"   
+2540 = "Los Montículos"   
+4881 = "Villacañas"   
+     
+# VIRGINIA    
+     
+950 = "Figueroa"   
+952 = "Duero"   
+2549 = "San Diego Alcalá"   
+2550 = "Santo Dominguito"   
+4877 = "Riaza"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Cabo Norte"   
+2935 = "Roa"   
+2938 = "Bahabón"   
+     
+# AMAZON    
+     
+2889 = "Huelma"   
+2930 = "La Caridad"   
+2933 = "Ribadeo"   
+2934 = "Aranda"   
+     
+# BAHIA    
+     
+756 = "Bahía"   
+757 = "Fuerte Amérigo"   
+760 = "Puerto Segador"   
+2914 = "Quinto"   
+2916 = "Barbastro"   
+     
+# CEARA    
+     
+750 = "San Jorge de Guzmán"   
+751 = "Fuerte San Carlos"   
+753 = "Río Grande"   
+     
+# DIAMANTINA    
+     
+759 = "Diamantina"   
+2891 = "Toreno Villaflor"   
+2898 = "Nuevo Santo"   
+     
+# GOIAS    
+     
+758 = "Nueva Jaén"   
+2906 = "Canaveras"   
+2907 = "Garcinarro"   
+2908 = "Valhermoso"   
+2919 = "Santa Anastasia"   
+     
+# GRAO PARA   
+     
+748 = "Belén"   
+2890 = "Ribagorza"   
+2928 = "Luarca"   
+2929 = "Navia"   
+     
+# GUAPORE    
+     
+2900 = "San Felices"   
+2901 = "Casar del Rey"   
+2902 = "Miguelturra"   
+     
+# GUAYRA    
+     
+768 = "Guayra"   
+2895 = "El Burgo"   
+2897 = "Berlanga"   
+     
+# MARANHAO    
+     
+749 = "Nueva Toledo"   
+2923 = "Ribadesella"   
+2924 = "Selorio"   
+2926 = "Cudillero"   
+2927 = "Cadavedo"   
+     
+# MATO GROSSO   
+     
+2888 = "Guaqui"   
+2903 = "Las Labores"   
+2904 = "Campo de Criptana"   
+2905 = "Valdecabras"   
+     
+# MINAS GERAIS   
+     
+765 = "San Lorenzo"   
+2892 = "Santo Toribio"   
+2894 = "San Juan del Rey"   
+2899 = "Altas Torres"   
+     
+# OFAIE    
+     
+2881 = "Corumba"   
+2893 = "Revilla"   
+2920 = "Sos del Rey"   
+     
+# PERNAMBUCO    
+     
+754 = "Malnavegador"   
+755 = "Santa Cruz"   
+2912 = "Moneva"   
+2921 = "N. Sra. de la Victoria"   
+2922 = "Meseta de María"   
+     
+# PIAUI    
+752 = "Doradas"   
+2886 = "Mayalde"   
+2925 = "Castrillón"   
+     
+# PONTAL    
+     
+2909 = "Vindel"   
+2910 = "Alcantud"   
+2911 = "Zaorejas"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Espíritu Santo"   
+762 = "Costa Pirata"   
+763 = "Río de Enero"   
+764 = "San Pablo"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Rio Grande del Sur"   
+2879 = "Santa Tecla"   
+2884 = "Alba de Liste"   
+2887 = "La Conquista"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Nolasco"   
+2913 = "Caspe"   
+2915 = "Sastago"   
+2917 = "Lascuarre"   
+2918 = "Panillo"   
+     
+# SAO PAULO   
+     
+766 = "Nueva Santiago"   
+769 = "La Luz"   
+2896 = "San Esteban"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Bogota"   
+832 = "Tunja"   
+4602 = "Girón"   
+4603 = "Moniquirá"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Barinas"   
+2810 = "Apure"   
+2813 = "Mérida"   
+4613 = "Araure"   
+4614 = "Guasdualito"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Caqueta"   
+2816 = "Guaviare"   
+4605 = "Azuay"   
+     
+# COQUIVACOA    
+     
+828 = "Cartagena"   
+829 = "Magdalena"   
+2806 = "Guajira"   
+4599 = "Sinú"   
+4601 = "Valle de Upar"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Mariquita"   
+827 = "Antioquía"   
+2817 = "Huila"   
+4600 = "Aguachica"   
+4607 = "Santiago de Cali"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Maturín"   
+2809 = "Calabozo"   
+2939 = "Zaraza"   
+4615 = "Guanpia"   
+     
+# GUYANA    
+     
+502 = "Trinidad"   
+743 = "Esequibo"   
+744 = "Fuerte Isabel"   
+2803 = "Orinoco"   
+     
+# MARACAIBO    
+     
+830 = "Nueva Zamora"   
+2807 = "Altagracia"   
+4609 = "Barquisimeto"   
+4610 = "Santa Bárbara de Zulia"   
+4611 = "Valera"   
+     
+# POPAYAN    
+     
+823 = "Cauca"   
+826 = "Quibdó"   
+2818 = "Popayán"   
+4596 = "Riosucio"   
+4604 = "Pasto"   
+     
+# SURINAME    
+     
+745 = "Bahía de los Rojos"   
+746 = "Santiago de Cayena"   
+2937 = "Nueva Cáceres"   
+     
+# UPPER GUYANA   
+     
+742 = "Angostura"   
+2804 = "Guasipati"   
+2811 = "Atabapo"   
+2931 = "Casariego"   
+4617 = "San Custodio"   
+     
+# VENEZUELA    
+     
+741 = "Cumaná"   
+831 = "Caracas"   
+2808 = "Santa Ana de Coro"   
+4612 = "Nueva Valencia"   
+4616 = "Barcelona del Cerro Santo"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Pore"   
+2814 = "Meta"   
+2815 = "Puerto Carreno"   
+4608 = "Achaguas"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Candelaria"   
+786 = "Carmen"   
+2868 = "San Antonio"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Uruguay"   
+773 = "Banda Oriental"   
+2850 = "Montevideo"   
+2851 = "Fray Bentos"   
+2852 = "Salto"   
+     
+# BUENOS AIRES   
+     
+778 = "Buenos Aires"   
+2846 = "Quisquisacate"   
+2848 = "Santa Fe"   
+2849 = "Rosario"   
+     
+# CENTRAL CHILE   
+     
+784 = "San Pedro de la Paz"   
+787 = "Valparaíso"   
+2862 = "Coquimbo"   
+     
+# CUYO    
+     
+2843 = "La Rioja"   
+2844 = "Chepes"   
+2845 = "San Juan"   
+2847 = "San Luis"   
+2877 = "Mendoza"   
+     
+# MESOPOTAMIA    
+     
+777 = "San Justo"   
+2853 = "Corrientes"   
+2855 = "Misiones"   
+2858 = "Santiago"   
+2859 = "Itapúa"   
+     
+# NEHEUNKEN    
+     
+785 = "Desierto Pehuenia"   
+2867 = "Los Pampas"   
+2871 = "Poya"   
+2872 = "Chiquiyami"   
+     
+# PATAGONIA    
+     
+781 = "Puerto Deseado"   
+782 = "Tierra del Fuego"   
+2869 = "Florida Blanca"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Rio Negro"   
+2870 = "Tehuelmapu"   
+2875 = "Chubut"   
+2876 = "Alava"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Malvinas"   
+2025 = "Formentera del Sur"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Magallanes"   
+2873 = "Valdivia"   
+2874 = "Aisén"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Tandil"   
+2860 = "Querandi"   
+2861 = "Sauce"   
+2865 = "Puelches"   
+2866 = "Olavarria"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "La Paz"   
+804 = "Puno"   
+2831 = "Tihuanaco"   
+2947 = "Azángaro"   
+     
+# CAJAMARCA    
+     
+813 = "San Ignacio"   
+2824 = "Huancabamba"   
+2825 = "Piscobamba"   
+2943 = "Chachapoyas"   
+     
+# CHIMOR    
+     
+812 = "Cartavio"   
+2002 = "Islas Galápagos"   
+2821 = "Piura"   
+2822 = "Chiclayo"   
+2826 = "Los Chimus"   
+     
+# HUANUCO    
+     
+809 = "Lima"   
+810 = "Huancavelica"   
+811 = "Jauja"   
+814 = "Huánuco"   
+2827 = "Huaraz"   
+     
+# IQUITOS    
+     
+815 = "Loreto"   
+818 = "Barrancas"   
+821 = "Baeza"   
+     
+# KUNTISUYU    
+     
+807 = "Abancay"   
+808 = "Cuzco"   
+2829 = "Ayaviri"   
+2830 = "Auzangate"   
+     
+# PERUAN COAST   
+     
+805 = "Arequipa"   
+806 = "Nasca"   
+2828 = "Villa Hermosa"   
+     
+# QUITO    
+     
+816 = "Tumbes"   
+817 = "Nueva Cuenca"   
+819 = "Guayaquil"   
+820 = "Quito"   
+2820 = "Esmeraldas"   
+     
+# UCAYALI    
+     
+2823 = "Ocho Valles"   
+2944 = "Ucayali"   
+2945 = "Yurimaguas"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Chiquitos"   
+801 = "Oropesa"   
+2834 = "Santa Cruz de la Sierra"   
+     
+# CHACO    
+     
+790 = "Chaco Austral"   
+2854 = "Chaco Central"   
+2878 = "Salta"   
+     
+# JUJUY    
+     
+794 = "Jujuy"   
+2837 = "Santa Catalina"   
+2839 = "Puna de Atacama"   
+     
+# MOXOS    
+     
+803 = "Santísima Trinidad"   
+2832 = "San Joaquín"   
+2833 = "Madre de Dios"   
+     
+# NORTHERN CHILE   
+     
+792 = "Copiapo"   
+793 = "Iquique"   
+796 = "San Marcos de Arica"   
+2840 = "Calama"   
+2841 = "Antofagasta"   
+     
+# PARAGUAY    
+     
+775 = "Asunción"   
+776 = "Concepción"   
+799 = "Chaco Boreal"   
+2882 = "Fuerte Borbón"   
+2883 = "Melodia"   
+     
+# POTOSI    
+     
+795 = "Potosí"   
+797 = "Real Villa de Austria"   
+2940 = "Lipez"   
+2946 = "Quillacas"   
+     
+# TUCUMAN    
+     
+791 = "Catamarca"   
+2836 = "Tucumán"   
+2842 = "Santiago del Estero"   
+     
+# UPPER PERU   
+     
+2835 = "Toledo de Plata"   
+2838 = "Tarija"   
+2941 = "Santiago de Huari"   
+2942 = "Charcas"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Costa del Sol"   
+4852 = "Zurbarán"   
+4853 = "Miajadas"   
+4854 = "Almadén"   
+     
+# CAPRICORNIA    
+     
+2730 = "Mazagón"   
+2731 = "Islantilla"   
+2732 = "Urbasur"   
+4848 = "Olivenza"   
+4849 = "Badajoz"   
+     
+# ILLAWARA    
+     
+1090 = "Nueva Sevilla"   
+4857 = "Rosalejo"   
+4858 = "Muñico"   
+4859 = "Candelario"   
+4860 = "Hervás"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Oropesa"   
+1092 = "Puerto Serradilla"   
+4855 = "Talayuela"   
+4856 = "Palancoso"   
+     
+# PERTH    
+     
+1084 = "Zafra"   
+2727 = "Esperanza"   
+4863 = "Amavida"   
+4864 = "Padierna"   
+     
+# PILBARA    
+     
+2726 = "Siruela"   
+4865 = "Cillán"   
+4866 = "Santa Amalia"   
+4867 = "La Aulaga"   
+     
+# PRINCELAND    
+     
+1086 = "Rubiales"   
+2735 = "Patrás"   
+2736 = "Cañizo"   
+4862 = "Salvaleón"   
+     
+# QUEENSLAND    
+     
+1093 = "Brozas"   
+1094 = "Bahía Aliseda"   
+2733 = "Villablanca"   
+4850 = "Vivares"   
+     
+# TASMANIA    
+     
+1085 = "Barcarrota"   
+4868 = "Castuera"   
+4869 = "Cádiz"   
+     
+# TOP END   
+     
+2728 = "Salorino"   
+2729 = "Almagro"   
+4846 = "El Zumajo"   
+4847 = "Calamonte"   
+     
+# VICTORIA    
+     
+1087 = "Maguilla"   
+1088 = "Azuaga"   
+1089 = "Cortegana"   
+2734 = "Puerto Aroche"   
+4861 = "Casatejada"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1987 = "Islas de la Sociedad"   
+1988 = "Isla de Pascua"   
+     
+# EAST MICRONESIA   
+     
+1241 = "La Kiribati"
+1991 = "Islas Gilberto"   
+1993 = "Los Pintados"   
+1994 = "San Cristóbal"
+     
+# MELANESIA    
+
+1238 = "Islas Salomón"
+1986 = "Nueva Caledonia"   
+     
+# NORTHERN POLYNESIA   
+     
+1997 = "Isla de Pacífico Central"
+1240 = "Isla Grande"  
+4934 = "Mauí"  
+4935 = "Oajú"  
+4936 = "Cauái"  
+     
+# POLYNESIA    
+     
+1243 = "Samoa"  
+1989 = "Islas Tonganas"  
+1990 = "Islas Mendaña"  
+1992 = "Naurú"  
+
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Alcoba"   
+1107 = "Foncastín"   
+2739 = "Sonseca"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Navaluenga"   
+2737 = "Tiedra"   
+4939 = "Urueña"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Matapozuelos"   
+1246 = "Entrepinos"   
+2738 = "Aniago"

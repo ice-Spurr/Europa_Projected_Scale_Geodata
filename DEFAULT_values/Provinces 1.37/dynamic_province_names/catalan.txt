@@ -1,0 +1,267 @@
+### EUROPE
+
+## IBERIA
+
+# Alentejo
+
+227 = {"Lisbona" "Lisbona"}
+229 = {"Baix Alentejo" "Beja"}
+230 = {"Algarve" "Lagos"}
+4150 = {"Alt Alentejo" "Évora"}
+4787 = {"Santarém" "Santarém"}
+
+# Aragon
+
+211 = {"Osca" "Osca"}
+214 = {"Saragossa" "Saragossa"}
+2990 = {"Terol" "Terol"}
+4557 = {"Calatauit" "Calatauit"}
+
+# Beiras
+
+228 = {"Viseu" "Viseu"}
+231 = {"Port" "Port"}
+232 = {"Bragança" "Bragança"}
+1851 = {"Coïmbra" "Coïmbra"}
+4556 = {"Aveiro" "Aveiro"}
+
+# Baleares
+
+333 = {"Mallorca" "Palma"}
+4559 = {"Menorca" "Maó"}
+4560 = {"Eivissa" "Eivissa"}
+
+# Catalonia
+
+197 = {"Rosselló" "Perpinyà"}
+212 = {"Girona" "Girona"}
+213 = {"Barcelona" "Barcelona"}
+2987 = {"Urgell" "Baix Urgell"}
+2988 = {"Tarragona" "Tarragona"}
+
+# Extremadura
+
+218 = {"Badajoz" "Badajoz"}
+1747 = {"Càceres" "Càceres"}
+4788 = {"Plasència" "Plasència"}
+
+# Galicia
+
+206 = {"La Corunya" "La Corunya"}
+4554 = {"Lugo" "Lugo"}
+4555 = {"Pontevedra" "Pontevedra"}
+4558 = {"Ourense" "Ourense"}
+
+# León
+
+207 = {"Astúries" "Oviedo"}
+208 = {"Lleó" "Lleó"}
+216 = {"Salamanca" "Salamanca"}
+4553 = {"Zamora" "Zamora"}
+
+# Lower Andaluzia
+
+224 = {"Sibília" "Sibília"}
+225 = {"Còrdova" "Còrdova"}
+1748 = {"Jaén" "Jaén"}
+1749 = {"Cadis" "Cadis"}
+4548 = {"Huelva" "Huelva"}
+
+# North Castile
+
+215 = {"Valladolid" "Valladolid"}
+1745 = {"Cantàbria" "Cantàbria"}
+1746 = {"Burgos" "Burgos"}
+4552 = {"Palència" "Palència"}
+
+# South Castile
+
+217 = {"Madrid" "Madrid"}
+2755 = {"Sòria" "Sòria"}
+4551 = {"Àvila" "Àvila"}
+4789 = {"Segòvia" "Segòvia"}
+
+# Toledo
+
+219 = {"Tolèdol" "Tolèdol"}
+221 = {"Múrcia" "Múrcia"}
+2751 = {"Conca" "Conca"}
+2754 = {"Ciutat Reial" "Ciutat Reial"}
+4547 = {"Albacete" "Albacete"}
+
+# Upper Andalucia
+
+222 = {"Almeria" "Almeria"}
+223 = {"Granada" "Granada"}
+226 = {"Gibraltar" "Gibraltar"}
+4546 = {"Màlega" "Màlega"}
+
+# Valencia
+
+220 = {"València" "València"}
+1750 = {"Alacant" "Alacant"}
+4549 = {"Xàtiva" "Xàtiva"}
+4550 = {"Castelló" "Castelló de la Plana"}
+
+# Vasconia
+
+209 = {"Biscaia" "Biscaia"}
+210 = {"Navarra" "Pamplona"}
+2989 = {"La Rioja" "Alfaro"}
+
+## ITALY
+
+# Apulia
+
+122 = {"Salento" "Brandís"}
+1933 = {"Bari" "Bari"}
+2985 = {"Capitanata" "Foggia"}
+4733 = {"Molise" "Campobasso"}
+
+# Calabria
+
+123 = {"Calàbria" "Catanzaro"}
+1934 = {"Lucània" "Potenza"}
+2984 = {"Cosenza" "Cosenza"}
+
+# Campania
+
+121 = {"Nàpols" "Nàpols"}
+2983 = {"Salern" "Salern"}
+4734 = {"Avellino" "Avellino"}
+
+# Eastern Sicily
+
+124 = {"Messina" "Messina"}
+126 = {"Malta" "Medina"}
+2982 = {"Siracusa" "Siracusa"}
+
+# Emilia-Romagna
+
+105 = {"Parma" "Parma"}
+106 = {"Mòdena" "Mòdena"}
+113 = {"Ferrara" "Ferrara"}
+114 = {"Ravenna" "Ravenna"}
+4730 = {"Bolonya" "Bolonya"}
+
+# Lazio-Umbria
+
+118 = {"Roma" "Roma"}
+2976 = {"Perusa" "Perusa"}
+4731 = {"Spoleto" "Spoleto"}
+4732 = {"Terracina" "Terracina"}
+
+# Liguria
+
+101 = {"Gènova" "Gènova"}
+102 = {"Niça" "Niça"}
+2992 = {"Albenga" "Albenga"}
+
+# Lombardy
+
+104 = {"Milà" "Milà"}
+1862 = {"Cremona" "Cremona"}
+2979 = {"Novara" "Novara"}
+4728 = {"Pavia" "Pavia"}
+4740 = {"Como" "Como"}
+
+# Marche-Abruzzo
+
+119 = {"Ancona" "Ancona"}
+120 = {"Abruços" "Abruços"}
+2977 = {"Urbino" "Urbino"}
+
+# Piedmont
+
+103 = {"Torí" "Torí"}
+1875 = {"Cuneo" "Cuneo"}
+2981 = {"Monferràt" "Alessandria"}
+4727 = {"Saluça" "Saluça"}
+
+# Po Valley
+
+107 = {"Brescia" "Brescia"}
+109 = {"Màntua" "Màntua"}
+4739 = {"Bèrgam" "Bèrgam"}
+
+# Tuscany
+
+115 = {"Pisa" "Pisa"}
+116 = {"Florença" "Florença"}
+117 = {"Sena" "Sena"}
+2978 = {"Arezzo" "Arezzo"}
+2980 = {"Lucca" "Lucca"}
+
+# Tyrrhenian Isles
+
+127 = {"Sàsser" "Sàsser"}
+1247 = {"Còrsega" "Bastia"}
+2986 = {"Càller" "Càller"}
+4735 = {"Arborea" "Oristany"}
+
+# Venetia
+
+108 = {"Verona" "Verona"}
+111 = {"Friül" "Udine"}
+112 = {"Venècia" "Venècia"}
+1774 = {"Treviso" "Treviso"}
+4729 = {"Pàdua" "Pàdua"}
+
+# Western Sicily
+
+125 = {"Palerm" "Palerm"}
+4736 = {"Trapani" "Trapani"}
+4737 = {"Agrigent" "Agrigent"}
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Borbonès" "Molìn"}
+195 = {"Llemosí" "Llemotges"}
+199 = {"Alvèrnia" "Clarmont d'Alvèrnia"}
+4697 = {"Marca llemosina" "Garait"}
+4777 = {"Forez" "Montbrison"}
+
+# Gascony
+ 
+173 = {"Lapurdi" "Baiona"}
+175 = {"Armanyac" "Aush"}
+176 = {"Bearn" "Pau"}
+4694 = {"Foix" "Foix"}
+
+# Guyenne
+ 
+174 = {"Bordeu" "Bordeu"}
+194 = {"Perigord" "Brajairac"}
+198 = {"Roergue" "Rodés"}
+4112 = {"Carcí" "Caors"}
+
+# Languedoc
+ 
+196 = {"Tolosa" "Tolosa de Llenguadoc"}
+200 = {"Montpeller" "Montpeller"}
+2753 = {"Narbona" "Narbona"}
+4391 = {"Vivarès" "Vivièrs"}
+4695 = {"Carcassona" "Carcassona"}
+
+# Poitou
+ 
+180 = {"Alt Peitau" "Peiteu"}
+4111 = {"Santonja" "Santes"}
+4386 = {"Baix Peitau" "Luçon"}
+4387 = {"Angolemès" "Angulema"}
+
+# Provence
+
+201 = {"Ais" "Ais de Provença"}
+202 = {"Valclusa" "Avinyó"}
+2991 = {"Alt Provença" "Forcalquer"}
+4696 = {"Toló" "Toló"}
+ 
+# Savoy
+ 
+203 = {"Lió" "Lió"}
+204 = {"Delfinat" "Grenoble"}
+205 = {"Savoia" "Chambèri"}
+4719 = {"Bresse" "Burg-en-Bresse"}

@@ -1,0 +1,408 @@
+### EUROPE
+ 
+## FRANCE
+ 
+# Auvergne
+ 
+190 = "Burbon"
+195 = "Limuzinë"
+199 = "Auvenë"
+4697 = "Marseja"
+4777 = "Fores"
+ 
+# Brittany
+ 
+169 = "Armur"
+170 = "Finisterë"
+171 = "Vanetë"
+172 = "Nantë"
+4384 = "Rene"
+ 
+# Champagne
+ 
+181 = "Rethë"
+186 = "Remsë"
+4390 = "Trua"
+ 
+# Eastern Burgundy
+ 
+192 = "Dijonë"
+193 = "Frons Komte"
+4764 = "Salinë"
+ 
+# Gascony
+ 
+173 = "Labur"
+175 = "Armagnak"
+176 = "Bearnë"
+4694 = "Foskë"
+ 
+# Guyenne
+ 
+174 = "Bordo"
+194 = "Perigorda"
+198 = "Roergë"
+4112 = "Kersi"
+ 
+# ële-de-France
+ 
+182 = "Valo"
+183 = "Paris"
+185 = "Nemur"
+4388 = "Shartë"
+ 
+# Languedoc
+ 
+196 = "Tuluzë"
+200 = "Monpelje"
+2753 = "Narbonë"
+4391 = "Vivare"
+4695 = "Karkasonë"
+ 
+# Loire Valley
+ 
+177 = "Menë"
+178 = "Anzhu"
+4389 = "Turenë"
+ 
+# Lorraine
+ 
+187 = "Barro"
+188 = "Mecë"
+189 = "Lotaringa"
+4766 = "Verdun"
+ 
+# Normandy
+ 
+167 = "Kau"
+168 = "Kanë"
+1879 = "Alonsonë"
+4385 = "Kotentanë"
+ 
+# Orlëanais
+ 
+179 = "Berri"
+184 = "Orlean"
+4776 = "Blua"
+ 
+# Picardy
+ 
+87 = "Kalajë"
+88 = "Arto"
+89 = "Pikardi"
+1743 = "Kambrai"
+ 
+# Poitou
+ 
+180 = "Hopotu"
+4111 = "Santonzhë"
+4386 = "Baspotu"
+4387 = "Angumua"
+ 
+# Provence
+ 
+201 = "Eks"
+202 = "Avinjonë"
+2991 = "Forkelkjerë"
+4696 = "Tulonë"
+ 
+# Savoy
+ 
+203 = "Lion"
+204 = "Dofine"
+205 = "Shomberi"
+4719 = "Bresë"
+ 
+# Western Burgundy
+ 
+191 = "Niverne"
+1877 = "Shalorezë"
+4392 = "Userrua"
+ 
+ 
+# IBERIA
+197 = "Rusiljon"
+206 = "Koruna"
+207 = "Asturia"
+208 = "Leon"
+209 = "Vizkaja"
+210 = "Navarre"
+211 = "Hueska"
+212 = "Xhirona"
+213 = "Barcelona"
+214 = "Zaragoza"
+215 = "Valladolid"
+216 = "Sagunto"
+217 = "Madridi"
+218 = "Badahoz"
+219 = "Toledo"
+220 = "Valencia"
+221 = "Mursia"
+222 = "Almeria"
+224 = "Sevilja"
+225 = "Kordoba"
+226 = "Gjibraltari"
+227 = "Lizbonë"
+228 = "Beira"
+229 = "Bezha"
+230 = "Algarbë"
+231 = "Porto"
+333 = "Majorka"
+366 = "Kanaria"
+367 = "Azore"
+368 = "Madeira"
+1745 = "Kantabria"
+1746 = "Burgos"
+1747 = "Kakeres"
+1748 = "Hahen"
+1749 = "Kadiz"
+1750 = "Alikante"
+1751 = "Ceuta"
+1851 = "Kumbria"
+2751 = "Kuenka"
+2754 = "Mansha"
+2755 = "Soria"
+2987 = "Urzhelë"
+2988 = "Tarragona"
+2989 = "Rioha"
+2990 = "Teruel"
+4150 = "Evora"
+4546 = "Malaga"
+4547 = "Albaketë"
+4548 = "Huelva"
+4549 = "Shativa"
+4550 = "Kastelo"
+4551 = "Avilja"
+4552 = "Palienca"
+4554 = "Lugo"
+4555 = "Pontevedra"
+4556 = "Aveiro"
+4557 = "Katalajud"
+4558 = "Orens"
+4559 = "Menjorka"
+4560 = "Ibiza"
+4565 = "Tenerife"
+4787 = "Ribatezho"
+4788 = "Plasencia"
+4789 = "Segovia"
+ 
+## BRITAIN
+ 
+# Connacht
+ 
+375 = "Limerika"
+376 = "Conot"
+4119 = "Slaigo"
+ 
+# East Anglia
+ 
+238 = "Eseks"
+1860 = "Norfolk"
+4370 = "Bedforshajër"
+ 
+# East Midlands
+ 
+243 = "Linkolnshajër"
+1861 = "Derbi"
+4370 = "Laiçester"
+ 
+# Highlands
+ 
+250 = "Përth"
+252 = "Invërnes"
+369 = "Orkni"
+4110 = "Sudhërland"
+4363 = "Argajëll"
+ 
+# Leinster
+ 
+373 = "Pejëll"
+374 = "Lainster"
+4120 = "Killder"
+4379 = "Midllends"
+ 
+# London
+ 
+235 = "Kent"
+236 = "Londra"
+237 = "Oksfordi"
+4371 = "Saseks"
+ 
+# Lowlands
+ 
+248 = "Lotian"
+249 = "Eirshajër"
+251 = "Abërdin"
+4361 = "Roksburgshajër"
+4362 = "Dumfris"
+ 
+# Munster
+ 
+4118 = "Kork"
+4377 = "Ormond"
+4378 = "Desmond"
+ 
+# Northern England
+ 
+244 = "Lankashajër"
+246 = "Northambërlend"
+247 = "Kumbria"
+4375 = "Çester"
+ 
+# The Isles
+ 
+253 = "Hebridet e Jashtme"
+4364 = "Hebridet e Brëndshme"
+4365 = "Ishulli i Manit"
+ 
+# Ulster
+ 
+372 = "Tajron"
+4121 = "Ulster"
+4380 = "Donegall"
+ 
+# Wales
+ 
+241 = "Glamorgan"
+242 = "Guinët"
+4366 = "Montegomeri"
+4369 = "Karmarten"
+ 
+# Wessex
+ 
+233 = "Kornuall"
+234 = "Hampshajër"
+4130 = "Somerseti"
+4373 = "Devon"
+4374 = "Dorset"
+ 
+# West Midlands
+ 
+239 = "Gllauçester"
+240 = "Shrjusbëri"
+4372 = "Koventri"
+ 
+# Yorkshire
+ 
+245 = "Jork"
+4367 = "Hull"
+4368 = "Skarborou"
+4785 = "Shefilld"
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naksosi" "Naksosi"}
+320 = {"Rodosi" "Rodosi"}
+2348 = {"Hiosi" "Hiosi"}
+3003 = {"Agribozi" "Agribozi"}
+4700 = {"Lesbosi" "Mitilene"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Vlora" "Vlora"}
+4174 = {"Durrësi" "Durrësi"}
+4175 = {"Lezha" "Lezha"}
+4750 = {"Kruja" "Kruja"}
+
+# Bosnia
+
+139 = {"Humi" "Mostari"}
+140 = {"Bosnja" "Doboji"}
+1831 = {"Hercegovina" "Trebinja"}
+3002 = {"Visoki" "Visoki"}
+4755 = {"Lugina e Drinës" "Vishegradi"}
+
+# Bulgaria
+
+150 = {"Nikopoli" "Nikopoli"}
+1765 = {"Sofje" "Sofje"}
+2746 = {"Vidini" "Vidini"}
+2750 = {"Pllovdiv" "Pllovdiv"}
+4703 = {"Qystendili" "Qystendili"}
+
+# Croatia
+
+131 = {"Zagrebi" "Zagrebi"}
+1826 = {"Lica" "Gospiq"}
+1828 = {"Krahinat e Poshtme" "Jajce"}
+4752 = {"Rijeka" "Rijeka"}
+
+# Dalmatia
+
+136 = {"Spliti" "Spliti"}
+137 = {"Rush" "Rush"}
+4753 = {"Zara" "Zara"}
+
+# Macedonia
+
+148 = {"Selaniku" "Selaniku"}
+1853 = {"Kosturi" "Kosturi"}
+3001 = {"Shkupi" "Shkupi"} 
+4702 = {"Ser" "Ser"}
+4780 = {"Ohër" "Ohër"}
+
+# Morea
+
+145 = {"Laconja" "Mistras"}
+146 = {"Athinë" "Athinë"}
+163 = {"Gjiriti" "Kandije"}
+1773 = {"Aheia" "Patra"}
+4701 = {"Korinthi" "Korinthi"}
+
+# Northern Greece
+
+142 = {"Korfuzi" "Korfuzi"}
+144 = {"Epiri" "Janina"}
+147 = {"Thesali" "Larisa"}
+4698 = {"Qefalonia" "Shen Gjergji"}
+4699 = {"Narta" "Narta"}
+
+# Rascia
+
+138 = {"Lugina e Zetës" "Zhabjaku"}
+1766 = {"Kosova" "Prishtina"}
+1827 = {"Rasci" "Tërgovishtë"}
+4754 = {"Kotorri" "Kotorri"}
+
+# Serbia
+
+141 = {"Smedereva" "Smedereva"}
+3000 = {"Nishi" "Nishi"}
+4176 = {"Braniceva" "Braniceva"}
+4239 = {"Beogradi" "Beogradi"}
+4757 = {"Valeva" "Valeva"}
+
+# Silistria
+
+159 = {"Silistra" "Silistra"}
+4704 = {"Tirnova" "Tirnova"}
+4706 = {"Tulca" "Tulca"}
+
+# Slavonia
+
+152 = {"Varazhdin" "Varazhdin"}
+1767 = {"Sllavonia" "Osijek"}
+4173 = {"Sremi" "Ruma"}
+4756 = {"Bjelovar" "Bjelovar"}
+	
+# Thrace
+
+149 = {"Adrianopojë" "Adrianopojë"}
+151 = {"Kostandinopoja" "Kostandinopoja"}
+1764 = {"Bourga" "Bourga"}
+4705 = {"Gjymylxhine" "Gjymylxhine"}
+4779 = {"Galipoja" "Galipoja"}
+
+## SOUTH GERMANY
+
+# Carniola
+
+129 = {"Craina" "Lubjana"}
+130 = {"Istria" "Pula"}
+1769 = {"Gorixhia" "Gorixhia"}
+4738 = {"Triesta" "Triesta"}
+4751 = {"Celje" "Celje"}

@@ -1,0 +1,1962 @@
+### WIKIPEDIA OFFICIAL EXONYMS
+
+451 = "Kaburu"
+447 = "Kandaharu"
+2227 = "Kunduzu"
+134 = "Wiin"
+769 = "Kurichiba"
+763 = "Riodejaneiro" # (seriously)
+2380 = "Punonpen"
+1816 = "Pekin"
+679 = "Seito"
+680 = "Choshun"
+1840 = "Keirin"
+702 = "Fufuhoto"
+1821 = "Nankin"
+698 = "Neika"
+715 = "Urumuchi"
+700 = "Seian"
+266 = "Puragu"
+267 = "Puruzeni"
+358 = "Arekusandoria"
+361 = "Kairo"
+50 = "Berurin"
+85 = "Kerun"
+61 = "Doresuden"
+1876 = "Furankufuruto"
+44 = "Hanburuku"
+1758 = "Hanoba"
+65 = "Myunhen"
+146 = "Atene"
+4701 = "Korintosu"
+163 = "Kureta"
+147 = "Tessaroniki"
+370 = "Reikyabiku"
+631 = "Bari"
+2740 = "Boruneo"
+373 = "Daburin"
+379 = "Erusaremu"
+116 = "Furorensu"
+112 = "Benisu"
+461 = "Arumatoi"
+615 = "Ruanpaban"
+614 = "Bienchan"
+4813 = "Tojo-to"
+852 = "Mekishikoshiti"
+97 = "Amusuterudamu"
+4383 = "Den Hagu"
+1845 = "Heijo"
+17 = "Osuro"
+507 = "Rahoru"
+656 = "Manira"
+257 = "Waruso"
+227 = "Risubon"
+295 = "Mosukuwa"
+385 = "Mekka"
+384 = "Medina"
+2741 = "Ritain"
+213 = "Baruserona"
+217 = "Madorido"
+223 = "Guranada"
+224 = "Sebiria"
+220 = "Barenshia"
+1 = "Sutokkuhorumu"
+165 = "Berun"
+4720 = "Junebu"
+1869 = "Churihhi"
+738 = {"Tainan" "Tainan"}
+2154 = {"Taihoku" "Taihoku"}
+2155 = {"Taichu" "Taichu"}
+600 = "Ayutaya"
+4831 = "Bankoku"
+589 = "Chenmai"
+602 = "Chenrai"
+601 = "Sukotai"
+326 = "Ankara"
+151 = "Konsutantinopuru"
+237 = "Okkusufodo"
+1240 = "Hawai"
+2373 = "Fue"
+2741 = "Cheju"
+
+### ASIA
+
+## North China
+
+# East Gansu
+
+699 = "Ranshu"
+2180 = "Kasumi"
+2181 = "Rinsho"
+2183 = "Gekkai"
+
+# North Anhui
+
+1838 = "Hirai"
+2143 = "Fuyo"
+2144 = "Fuzaki"
+
+# North Hebei
+
+703 = "Miyori"
+2136 = "Genku"
+4194 = "Sora"
+
+# North Henan
+
+688 = "Kaifu"
+692 = "Kaien"
+1836 = "Rakuyo"
+
+# North Jiangsu
+
+2141 = "Joshu"
+2142 = "Arisu"
+4196 = "Hajiku"
+
+# Shaanxi
+
+689 = "Somei"
+2179 = "Enkan"
+4198 = "Eimei"
+
+# Shandong
+
+690 = "Kinshu"
+691 = "Seinan"
+2138 = "Enmei"
+2139 = "Raijou"
+2140 = "Kanmuri"
+
+# Shanxi
+
+693 = "Tahara"
+694 = "Hakuseki"
+697 = "Tsuchi"
+2177 = "Kanen"
+2178 = "Ruan"
+
+# South Hebei
+
+695 = "Karewaki"
+696 = "Sensai"
+2137 = "Daimei"
+4195 = "Sosei"
+
+# South Henan
+
+687 = "Gensho"
+2175 = "Ranningu"
+2176 = "Hokuden"
+
+# West Gansu
+
+707 = "Kikyoumei"
+708 = "Kazakura"
+2182 = "Ryouten"
+2184 = "Yasushi"
+
+
+## South China
+
+# East Guangdong
+
+667 = "Kananbu"
+668 = "Makao"
+2156 = "Kencho"
+2157 = "Kaijocho"
+2158 = "Kyoshukan"
+
+# Fujian
+
+669 = "Fujimoto"
+1829 = "Kenzo"
+2152 = "Kannin"
+2153 = "Choto"
+
+# Guangxi
+
+664 = "Meishun"
+2162 = "Karyuu"
+2163 = "Yoseki"
+2164 = "Kazuhira"
+
+# Hubei
+
+681 = "Yohang"
+682 = "Rokuchou"
+2171 = "Kosei"
+2172 = "Meichou"
+4197 = "Soeicho"
+
+# Hunan
+
+671 = "Kyosan"
+672 = "Meiryo"
+2173 = "Shunko"
+2174 = "Ankei"
+
+# Jiangxi
+
+670 = "Keitai"
+683 = "Nansho"
+1833 = "Hayo"
+2151 = "Koryuji"
+
+# South Anhui
+
+686 = "Wakamono"
+2146 = "Reikou"
+2147 = "Tessen"
+
+# South Jiangsu
+
+685 = "Ageshu"
+1822 = "Kogura"
+2145 = "Kansho"
+
+# Zhejiang
+
+684 = "Shunan"
+1824 = "Senju"
+2148 = "Raiten"
+2148 = "Meishin"
+2149 = "Ninpo"
+2150 = "Renjin"
+
+## Tibet
+
+# Amdo
+
+705 = "Jinza"
+706 = "Shisai"
+2134 = "Seiran"
+4204 = "Tenku"
+
+# Bhutan
+
+565 = "Sakurao"
+4481 = "Akanami"
+4482 = "Eisukei"
+
+# Kham
+
+678 = "Tanroku"
+2131 = "Enkou"
+2132 = "Maruka"
+2133 = "Tenkou"
+2135 = "Hakurei"
+
+# Ngari
+
+2128 = "Houshin"
+4516 = "Sairin"
+4520 = "Rokuda"
+
+# Tsang
+
+676 = "Shinku"
+4514 = "Hiryu"
+4515 = "Kurin"
+4518 = "Narumichi"
+
+# U
+
+677 = "Kokurei"
+2130 = "Meigura"
+4205 = "Nagumi"
+4517 = "Nedoki"
+4519 = "Danmaku"
+
+## East Siberia
+
+# Buryathia
+
+1055 = "Kiriyama"
+1056 = "Barugawa"
+1057 = "Udegawa"
+1058 = "Onangawa"
+2446 = "Charano"
+
+# Kamchatka
+
+1034 = "Hokushin"
+1035 = "Kuroyuri"
+1038 = "Suzumaru"
+1041 = "Yamaneko"
+2440 = "Koshiro"
+
+# Kolyma
+
+1036 = "Korumya"
+1037 = "Hokuyou"
+1039 = "Reisho"
+1040 = "Kitaon"
+2439 = "Kitahonu"
+
+# Okhotsk
+
+1043 = "Okhota"
+1044 = "Taisho"
+1047 = "Jugan"
+1052 = "Hoshu"
+
+# Sakha
+
+1042 = "Shimoza"
+1046 = "Yukan"
+2438 = "Karyu"
+
+# Yakutia
+
+1045 = "Yabumi"
+1051 = "Arutan"
+1054 = "Mukutsumi"
+2435 = "Nukutei"
+2437 = "Seigan"
+
+## MANCHURIA
+
+# Central Heilongjiang
+
+727 = {"Aiki" "Aiki"}
+728 = {"Tuva" "Tuva"}
+2185 = {"Nonko" "Nonko"}
+4200 = {"Koran" "Koran"}
+4660 = {"Suika" "Suika"}
+
+# East Heilongjiang
+
+1049 = {"Hairen" "Hairen"}
+2103 = {"Udusoku" "Udusoku"}
+2104 = {"Bureya" "Bureya"}
+4659 = {"Zurato" "Zurato"}
+4662 = {"Hurazu" "Hurazu"}
+
+# Furdan
+
+1850 = {"Pureobara" "Pureobara"}
+2106 = {"Urajio" "Urajio"}
+2186 = {"Semenoba" "Semenoba"}
+4655 = {"Kurefuka" "Kurefuka"}
+4656 = {"Techuke" "Techuke"}
+
+# Liaoning
+
+704 = {"Neien" "Neien"}
+704 = {"Chejima" "Chejima"}
+2112 = {"Antoshu" "Antoshu"}
+2113 = {"Gaishu" "Gaishu"}
+4652 = {"Kaisochi" "Kaisochi"}
+
+# Ningguta
+
+2107 = {"Neian" "Neian"}
+2108 = {"Konshun" "Konshun"}
+4653 = {"Waryu" "Waryu"}
+4654 = {"Tounei" "Tounei"}
+4661 = {"Anto" "Anto"}
+
+# North Ilin Hala
+
+1050 = {"Nikorai" "Nikorai"}
+1048 = {"Furetoku" "Deren"}
+4214 = {"Urichi" "Burava"}
+4215 = {"Fudai" "Fudai"}
+4216 = {"Orochi" "Urichi"}
+
+# Sakhalin
+
+1033 = {"Minami Karafuto" "Toyohara"}
+4658 = {"Kita Karafuto" "Shikuka"}
+
+# South Ilin Hala
+
+729 = {"Bohori" "Bohori"}
+731 = {"Yiran" "Yiran"}
+2105 = {"Sououzan" "Sououzan"}
+4217 = {"Furazemo" "Furazemo"}
+4663 = {"Botan" "Keisei"}
+
+# South Jilin
+
+730 = {"Kitsuri" "Kitsuri"}
+2110 = {"Nara" "Nara"}
+2111 = {"Shinkyo" "Shinkyo"}
+2188 = {"Ajou" "Ajou"}
+4201 = {"Kenshu" "Kenshu"}
+
+# West Heilongjiangord
+
+724 = {"Furunboirushi" "Furankufuruto"}
+1053 = {"Hodari" "Hodari"}
+2102 = {"Aruban" "Aruban"}
+4664 = {"Hokoro" "Hokoro"}
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Tottori"   
+869 = "Sanjo"   
+2021 = "Miwaku"   
+2476 = "Kumano"   
+4637 = "Kanakado"   
+     
+# APACHERIA    
+     
+879 = "Yaese"   
+2492 = "Shirakawa"   
+4634 = "Chino"   
+     
+# ARIZONA    
+     
+867 = "Chigami"   
+876 = "Katsuda"   
+877 = "Aira"   
+2491 = "Sakata"   
+4633 = "Monbetsu"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Imari"   
+866 = "Tsugaru"   
+2620 = "Miyahama"   
+4639 = "Tamano"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Joetsu"   
+2478 = "Ono"   
+4635 = "Takatama"   
+4636 = "Gokase"   
+     
+# COLORADO PLATEU   
+     
+875 = "Kitakawa"   
+878 = "Hino"   
+2493 = "Ito"   
+2494 = "Sumi"   
+     
+# NEW MEXICO   
+     
+880 = "Yakage"   
+881 = "Ome"   
+2495 = "Yonabare"   
+4631 = "Kagamihara"   
+4632 = "Sera"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Gifu"   
+2477 = "Yunaga"   
+2479 = "Morokata"   
+2480 = "Mogami"   
+4638 = "Maedo"   
+     
+# SONORA    
+     
+862 = "Hidaka"   
+2616 = "Yurashi"   
+4577 = "Tokushiki"   
+4649 = "Koryo"   
+4650 = "Kushimoto"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Inno"   
+2576 = "Mineki"   
+2577 = "Shichishima"   
+2578 = "Okajima"   
+2579 = "Funamachi"   
+     
+# GREENLAND    
+     
+1104 = "Kouda"   
+1105 = "Goshiki"   
+     
+# HURONIA    
+     
+988 = "Furumatsu"   
+989 = "Onmori"   
+2585 = "Shinkita"   
+2670 = "Nagano"   
+     
+# LABRADOR    
+     
+997 = "Tanba"   
+2574 = "Yumetani"   
+2575 = "Asaura"   
+     
+# LAURENTIA    
+     
+992 = "Kunigami"   
+2581 = "Kamikuni"   
+4894 = "Higashiarita"   
+     
+# LOWER ACADIA   
+     
+982 = "Inabashima"   
+984 = "Nikki"   
+2568 = "Shakunage"   
+2569 = "Toyone"   
+4891 = "Minamioguni"   
+     
+# LOWER CANADA   
+     
+993 = "Hokudo"   
+2584 = "Fushigi"   
+4895 = "Nishiarita"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Hokuto"   
+981 = "Tachimori"   
+2573 = "Hattori"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Genkai"   
+4892 = "Nakabaru"   
+4897 = "Ochiai"   
+     
+# QUEBEC    
+     
+986 = "Niihama"   
+994 = "Okura"   
+995 = "Tadoshaku"   
+2582 = "Tsuruga"   
+2583 = "Shosanbetsu"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Aezu"   
+2571 = "Roppongi"   
+4896 = "Hikosan"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Taneuchi"   
+2012 = "Yotani"   
+2580 = "Inabayama"   
+2580 = "Inabayama"   
+     
+# UPPER ACADIA   
+     
+983 = "Nagashima"   
+985 = "Ten'ei"   
+2572 = "Showa"   
+     
+# UPPER CANADA   
+     
+987 = "Suidachi"   
+2586 = "Shibetsu"   
+2587 = "Niwanotori"   
+     
+# UPPER ONTARIO   
+     
+991 = "Nishine"   
+1001 = "Ueno"   
+1007 = "Ojibara"   
+2015 = "Nishioto"   
+2671 = "Kuromori"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Chitose"   
+2658 = "Heimori"   
+2659 = "Sarasaki"   
+4620 = "Kouchi"   
+4621 = "Kanehama"   
+     
+# EAST CUBA   
+     
+486 = "Aogaki"   
+2654 = "Gishiki"   
+2655 = "Miyako"   
+2656 = "Kamasaki"   
+     
+# GREATER ANTILLES   
+     
+481 = "Kurojima"   
+487 = "Ominato"   
+491 = "Nakanoshima"   
+492 = "Fushima"   
+     
+# HAITI    
+     
+488 = "Miura"   
+489 = "Ishigame"   
+4618 = "Yuza"   
+4619 = "Hanahara"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Nijima"   
+494 = "Torishima"   
+495 = "Aogashima"   
+496 = "Toshima"   
+1881 = "Miyakeshima"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Shirojima"   
+483 = "Yushima"   
+     
+# WEST CUBA   
+     
+484 = "Shimizu"   
+485 = "Kaneda"   
+4622 = "Hyakuhi"   
+4623 = "Ohei"   
+4624 = "Hakugi"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Nichishima"   
+498 = "Aoshima"   
+499 = "Hatsushima"   
+500 = "Sakishima"   
+501 = "Shinshima"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Shimodate"   
+977 = "Yasuda"   
+2613 = "Amagasaki"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Akechi"   
+2486 = "Kiigawa"   
+2487 = "Komaki"   
+2488 = "Takahashi"   
+     
+# HECATE STRAIT   
+     
+975 = "Onomichi"   
+2022 = "Sadoshima"   
+2609 = "Otaru"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Kashihara"   
+2604 = "Nagao"   
+2605 = "Asahikawa"   
+2606 = "Nishinomiya"   
+2607 = "Okushiro"   
+     
+# OREGON    
+     
+872 = "Tsuneda"   
+2481 = "Kuramatsu"   
+2482 = "Akaishi"   
+2483 = "Sakurano"   
+     
+# PUGET SOUND   
+     
+874 = "Shin-Sendai"   
+2484 = "Ontake"   
+2485 = "Tokaido"   
+     
+# SNAKE RIVER   
+     
+2019 = "Atagi"   
+2020 = "Yamanai"   
+2489 = "Sekigahara"   
+2490 = "Ikenai"   
+2506 = "Shinshinotsu"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Innoshima"   
+973 = "Sakushu"   
+974 = "Urayasu"   
+2610 = "Kurume"   
+     
+# WESTERN ALASKA   
+     
+978 = "Yubari"   
+979 = "Fumoshima"   
+2611 = "Aizuwakamatsu"   
+2612 = "Rumoi"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Fuchu"   
+2632 = "Kudamatsu"   
+2650 = "Kokuji"   
+     
+# CHIAPAS    
+     
+2635 = "Kaname"   
+2638 = "Yamaoka"   
+2649 = "Tokuyama"   
+4585 = "Hiramori"   
+4586 = "Mizumaki"   
+     
+# COSTA RICA   
+     
+836 = "Hiroaki"   
+2663 = "Ishigaki"   
+4597 = "Shinhama"   
+     
+# EAST YUCATAN   
+     
+2634 = "Kodaira"   
+2652 = "Hamagi"   
+4588 = "Miyoshi"   
+4591 = "Matsushige"   
+     
+# GUATEMALA    
+     
+839 = "Gyoda"   
+841 = "Shigaraki"   
+2653 = "Hofu"   
+4587 = "Tachitani"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Hisasaki"   
+843 = "Tsurume"   
+2636 = "Chokujo"   
+4589 = "Mifune"   
+4594 = "Arita"   
+     
+# HONDURAS    
+     
+840 = "Mitaka"   
+2637 = "Kokonohe"   
+2640 = "Iruma"   
+2662 = "Ageo"   
+4593 = "Yatsushiro"   
+     
+# NICARAGUA    
+     
+837 = "Fukumoto"   
+838 = "Moriguchi"   
+2660 = "Koike"   
+2661 = "Furugawa"   
+4592 = "Hokuo"   
+     
+# WEST YUCATAN   
+     
+846 = "Machida"   
+2633 = "Marunai"   
+2651 = "Ukeoto"   
+4590 = "Imano"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Inumori"   
+2664 = "Anikawa"   
+2819 = "Hatsuka"   
+4595 = "Shiga"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Shin-Kamakura"   
+916 = "Miyanouchi"   
+917 = "Haruda"   
+4903 = "Saishoji"   
+     
+# INDIANA    
+     
+942 = "Obi"   
+943 = "Miyada"   
+2523 = "Shindori"   
+2524 = "Naganai"   
+4922 = "Motonosumi"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Inakadate"   
+911 = "Shimasaki"   
+2517 = "Mishima"   
+2518 = "Hokuso"   
+4898 = "Fukuoka"   
+     
+# MICHIGAN    
+     
+944 = "Asaba"   
+945 = "Yugata"   
+2521 = "Maemori"   
+2522 = "Furutama"   
+     
+# OHIO    
+     
+946 = "Tomoto"   
+947 = "Hachinohe"   
+948 = "Tachigami"   
+2525 = "Matsukoshi"   
+4907 = "Miyanoura"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Kirakita"   
+2520 = "Shakusai"   
+4904 = "Kawatsuki"   
+     
+# WISCONSIN    
+     
+912 = "Nara"   
+913 = "Honnai"   
+914 = "Kikuura"   
+4899 = "Kushigi"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Chikuhoku"   
+2504 = "Sagara"   
+2505 = "Tsutsui"   
+     
+# Central Plains   
+     
+901 = "Sonai"   
+903 = "Tamakawa"   
+2009 = "Ogawa"   
+2508 = "Hara"   
+4915 = "Okihonmachi"   
+     
+# HIGH PLAINS   
+     
+889 = "Hikone"   
+2507 = "Yamazoe"   
+2625 = "Abakacho"   
+     
+# IOWA    
+     
+905 = "Urugi"   
+2513 = "Tokachiki"   
+4900 = "Dazaifu"   
+4905 = "Nijokamifukae"   
+     
+# KANSAS    
+890 = "Kanuma"   
+898 = "Kurotaki"   
+2672 = "Kitahaka"   
+4914 = "Shiranoe"   
+     
+# MINNESOTA    
+     
+904 = "Geisei"   
+908 = "Ginza"   
+2512 = "Ikusaka"   
+4901 = "Onojo"   
+     
+# NORTH DAKOTA   
+     
+906 = "Kunohe"   
+909 = "Sakichi"   
+2510 = "Hidachi"   
+4918 = "Nagatago"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Nakiko"   
+2007 = "Yoshino"   
+2008 = "Rakuda"   
+4916 = "Kiyosuekurama"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Izena"   
+892 = "Yugawa"   
+896 = "Hiezu"   
+4908 = "Katsuma"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Ogasawara"   
+2501 = "Tenryu"   
+2502 = "Kijimadaira"   
+2503 = "Hinohara"   
+4917 = "Yoshimikami"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Itsuki"   
+2588 = "Katashina"   
+2589 = "Kasagaki"   
+2590 = "Satsugami"   
+2591 = "Tenkawa"   
+     
+# ALBERTA    
+     
+2004 = "Nichimae"   
+2017 = "Nishinai"   
+2018 = "Sugimatsu"   
+2602 = "Shichikawa"   
+     
+# ASSINIBOIA    
+     
+2005 = "Ashina"   
+2596 = "Higashiarakawa"   
+2598 = "Hebidachi"   
+4920 = "Kamihayashi"
+     
+# ATHABASCA    
+     
+2599 = "Arakawa"   
+2600 = "Nichitama"   
+2601 = "Tanezawa"   
+2603 = "Sekigawa"   
+     
+# HUDSON BAY   
+     
+1005 = "Matsuno"   
+1006 = "Hatsuhara"   
+1009 = "Tachimachi"   
+2592 = "Bakemori"   
+2594 = "Katsurao"   
+     
+# JAMES BAY   
+     
+998 = "Kikumae"   
+999 = "Hisashi"   
+1000 = "Kumagawa"   
+1003 = "Matsubara"   
+1004 = "Higashinaruse"   
+     
+# MANITOBA    
+     
+1008 = "Umaji"   
+1010 = "Adachi"   
+1011 = "Kimurazawa"   
+2593 = "Imabari"   
+4919 = "Nanagamaki"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Asuka"   
+2511 = "Ichiabanai"   
+4902 = "Higashiotaki"
+     
+# SASKATCHEWAN    
+     
+1813 = "Satsutama"   
+2595 = "Utsuno"   
+2597 = "Shichinohe"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Marugame"   
+4646 = "Sayo"   
+4647 = "Fukubetsu"   
+4648 = "Kamioka"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Kawachi"   
+2642 = "Nagaoka"   
+4642 = "Shikonaki"   
+     
+# GUANAJUATO    
+     
+853 = "Hirado"   
+2615 = "Kamagatsu"   
+4640 = "Shin-Shinano"   
+4641 = "Kawane"   
+     
+# GUERRERO    
+     
+2627 = "Kairiku"   
+2645 = "Toyama"   
+2648 = "Yonago"   
+     
+# HUASTECA    
+     
+848 = "Toriaki"   
+2641 = "Satsunaga"   
+4598 = "Haganeno"   
+     
+# JALISCO    
+     
+854 = "Morioka"   
+2617 = "Furubira"   
+2621 = "Chizapa"   
+2657 = "Yosano"   
+4576 = "Minamisaki"   
+     
+# MEXICO    
+     
+852 = "Tenriku"   
+2626 = "Yuasa"   
+4570 = "Nanoka"   
+4571 = "Noyama"   
+4572 = "Hebihara"   
+     
+# MICHOAVAN    
+     
+2622 = "Kaicho"   
+2623 = "Shimabara"   
+2624 = "Hita"   
+4573 = "Ibigawa"   
+4574 = "Kudoyama"   
+     
+# MIXTECA    
+     
+847 = "Ashikaga"   
+849 = "Asahara"   
+2646 = "Koriyama"   
+4581 = "Sakashi"   
+     
+# NAYARIT    
+     
+855 = "Chigasaki"   
+859 = "Warabi"   
+4578 = "Kawasaki"   
+     
+# Oaxaca    
+     
+844 = "Kokawa"   
+2629 = "Tachigawa"   
+4584 = "Nagamichi"   
+     
+# PUEBLA    
+     
+850 = "Takatsuki"   
+2628 = "Numazu"   
+2644 = "Suita"   
+4582 = "Hirao"   
+4583 = "Susami"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Okayama"   
+2643 = "Shin'onsen"   
+4575 = "Akashika"   
+4579 = "Maruoka"   
+4580 = "Komorebi"   
+     
+# VERACRUZ    
+     
+2630 = "Kumagaya"   
+2631 = "Asaka"   
+2647 = "Wakano"   
+     
+# ZACATECAS    
+     
+856 = "Matsuzaka"   
+4643 = "Sorachi"   
+4645 = "Honoka"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Kajitsu"   
+925 = "Heigyoku"   
+2531 = "Mita"   
+2532 = "Tokuzawa"   
+4883 = "Sekikawa"   
+     
+# ARKANSAS    
+     
+894 = "Honoki"   
+895 = "Sugioka"   
+897 = "Ishikawa"   
+4885 = "Hokushin"
+4923 = "Nijomasue"   
+     
+# KENTUCKY    
+     
+941 = "Asasaki"   
+2526 = "Sogata"   
+4888 = "Niseko"   
+     
+# LOUISIANA    
+     
+893 = "Shin-Nagoya"   
+2014 = "An'inmon"   
+2516 = "Sawano"   
+     
+# MISSISSIPPI    
+     
+919 = "Yurida"   
+920 = "Gekkei"   
+2528 = "Teramori"   
+2529 = "Matsue"   
+4884 = "Imakane"   
+     
+# OZARKS    
+     
+899 = "Togoku"   
+2509 = "Keikai"   
+2515 = "Hyogo"   
+4886 = "Kuromatsunai"   
+     
+# TENNESSEE    
+     
+918 = "Kawamon"   
+934 = "Shiroda"   
+939 = "Matsumori"   
+4913 = "Tomaruhei"
+     
+# UPPER LOUISIANA   
+     
+900 = "Kawae"   
+902 = "Doromizu"   
+2514 = "Michimagari"   
+4906 = "Shimamitoko"   
+     
+# VANDALIA    
+     
+951 = "Eboshi"   
+2551 = "Furano"   
+4889 = "Matsunomoto"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Kikuchi"   
+4887 = "Suttsu"   
+4921 = "Shirataki"   
+     
+# WEST FLORIDA   
+     
+921 = "Hirosui"   
+922 = "Hashida"   
+923 = "Hatsuoka"   
+2530 = "Hiroshi"   
+2533 = "Shiromachi"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Shigeno"   
+2555 = "Koseki"   
+4875 = "Hodatsushimizu"   
+     
+# CONNECTICUT    
+     
+967 = "Kiboko"   
+2010 = "Sakegawa"   
+2560 = "Shinbashi"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Yotsuoka"   
+957 = "Kondo"   
+962 = "Akagi"   
+2023 = "Murakami"   
+     
+# EASTERN MAINE   
+     
+971 = "Ishiji"   
+2566 = "Setsumae"   
+2567 = "Fuyuno"   
+     
+# HUDSON VALLEY   
+     
+961 = "Mizumura"   
+963 = "Rangatsu"   
+964 = "Furukojo"   
+2559 = "Shokosaten"   
+4912 = "Mutajiri"   
+     
+# IRIQUOISIA    
+     
+958 = "Odake"   
+959 = "Yubitani"   
+960 = "Kyokko"   
+4872 = "Kawakita"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Kusatsu"   
+2563 = "Mishikai"   
+4871 = "Eiheiji"   
+     
+# MAINE    
+     
+2013 = "Hakodate"   
+2565 = "Maruno"   
+4873 = "Nonoichi"   
+     
+# MARYLAND    
+     
+953 = "Urada"   
+2553 = "Ishihara"   
+2554 = "Toshi"   
+     
+# MASSACHUSETTS    
+     
+966 = "Akada"   
+968 = "Kanagawa"   
+2561 = "Omisaki"   
+4874 = "Tsubata"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Shoguchi"   
+2562 = "Hatoeda"   
+2564 = "Shiroyama"   
+     
+# NEW YORK   
+     
+965 = "Shin-Osaka"   
+2558 = "Akuno"   
+2639 = "Nagaeda"   
+     
+# WESTYLVANIA    
+     
+955 = "Asahi"   
+2556 = "Meimori"   
+2557 = "Taketera"   
+4876 = "Takaoka"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Misasa"   
+864 = "Konjo"   
+2618 = "Komatsu"   
+4644 = "Akagi"   
+     
+# COAHUILA    
+     
+861 = "Minamiise"   
+864 = "Konjo"   
+2666 = "Narita"   
+2667 = "Gamagori"   
+4606 = "Ujitawara"   
+     
+# COASTAL PRARIE   
+     
+884 = "Susano'o"   
+888 = "Urami"   
+2665 = "Utsuoka"   
+2669 = "Yokkamachi"   
+     
+# LLANO ESTACADO   
+     
+882 = "Satosho"   
+885 = "Sano"   
+2496 = "Hachioji"   
+2497 = "Okuizumo"   
+4630 = "Nakano"   
+     
+# PECOS    
+     
+2498 = "Tadaoka"   
+4628 = "Asatsu"   
+4629 = "Okue"   
+     
+# TAMAULIPAS    
+     
+858 = "Umikami"   
+2499 = "Akagawa"   
+2614 = "Wakkanai"   
+2668 = "Kada"   
+     
+# TEXAS    
+     
+883 = "Chiba"   
+887 = "Otokuni"   
+4627 = "Ryuo"   
+4911 = "Hokamaki"   
+     
+# TEXAS PLAINS   
+     
+886 = "Kachigi"   
+2500 = "Kurogi"   
+4909 = "Saitozaki"   
+4910 = "Gannosu"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Ebisu"   
+928 = "Jumon"   
+2534 = "Kessho"   
+     
+# FLORIDA    
+     
+926 = "Yashikawa"   
+2535 = "Sarasaki"   
+2536 = "Kishine"   
+4625 = "Usuki"   
+4626 = "Tetta"   
+     
+# GEORGIA    
+     
+929 = "Gingawa"   
+2537 = "Tsutsuji"   
+2538 = "Edachi"   
+2539 = "Tenno"   
+4880 = "Tsumagoi"   
+     
+# GREAT VALLEY   
+     
+949 = "Shimetani"   
+2011 = "Nagamoto"   
+2548 = "Kono"   
+2552 = "Okanai"   
+     
+# NORTH CAROLINA   
+     
+937 = "Iwayama"   
+938 = "Kashiwa"   
+2546 = "Gatsuda"   
+2547 = "Hachishima"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Yamajo"   
+936 = "Aoyama"   
+2527 = "Takamura"   
+4879 = "Myoko"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Takada"   
+2545 = "Murazawa"   
+4878 = "Nyuzen"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Sanchi"   
+2542 = "Utsugi"   
+2543 = "Enji"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Kataba"   
+2541 = "Hattsuki"   
+4882 = "Yuzawa"   
+     
+# UPPER GEORGIA   
+     
+930 = "Momogi"   
+931 = "Kusada"   
+2540 = "Tsuchimachi"   
+4881 = "Yamanochi"   
+     
+# VIRGINIA    
+     
+950 = "Uragawa"   
+952 = "Shin-Suruga"   
+2549 = "Omori"   
+2550 = "Hatano"   
+4877 = "Funahashi"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Hamana"   
+2935 = "Kudagori"   
+2938 = "Makinohara"   
+     
+# AMAZON    
+     
+2889 = "Kurosawa"   
+2930 = "Hiratsuka"   
+2933 = "Matsugaya"   
+2934 = "Atsugi"   
+     
+# BAHIA    
+     
+756 = "Azai"   
+757 = "Honbetsu"   
+760 = "Mizunami"   
+2914 = "Yuzen"   
+2916 = "Nirasaki"   
+     
+# CEARA    
+     
+750 = "Amago"   
+751 = "Miyazu"   
+753 = "Maibara"   
+     
+# DIAMANTINA    
+     
+759 = "Sotsuseki"   
+2891 = "Terazaki"   
+2898 = "Natori"   
+     
+# GOIAS    
+     
+758 = "Kokka"   
+2906 = "Wakabashi"   
+2907 = "Utsuka"   
+2908 = "Otamuro"   
+2919 = "Izuzawa"   
+     
+# GRAO PARA   
+     
+748 = "Fujioka"   
+2890 = "Iwata"   
+2928 = "Inadera"   
+2929 = "Kome"   
+     
+# GUAPORE    
+     
+2900 = "Yokohama"   
+2901 = "Sugisaki"   
+2902 = "Utsunomiya"   
+     
+# GUAYRA    
+     
+768 = "Kokonoe"   
+2895 = "Otani"   
+2897 = "Akitakata"   
+     
+# MARANHAO    
+     
+749 = "Takenaka"   
+2923 = "Mikkamachi"   
+2924 = "Kyotamba"   
+2926 = "Harada"   
+2927 = "Kasugano"   
+     
+# MATO GROSSO   
+     
+2888 = "Kobayashi"   
+2903 = "Amakusa"   
+2904 = "Kongoseki"   
+2905 = "Shikawa"   
+     
+# MINAS GERAIS   
+     
+765 = "Akaigawa"   
+2892 = "Kiboda"   
+2894 = "Tsukikata"   
+2899 = "Rankoshi"   
+     
+# OFAIE    
+     
+2881 = "Asagiri"   
+2893 = "San'ike"   
+2920 = "Kibi"   
+     
+# PERNAMBUCO    
+     
+754 = "Akaiwa"   
+755 = "Mimasaka"   
+2912 = "Inagawa"   
+2921 = "Kyotamba"   
+2922 = "Mikki"   
+     
+# PIAUI    
+752 = "Shiromori"   
+2886 = "Betsuoka"   
+2925 = "Takasaki"   
+     
+# PONTAL    
+     
+2909 = "Oshamambe"   
+2910 = "Imakani"   
+2911 = "Nodachi"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Hokuriku"   
+762 = "Takenoe"   
+763 = "Shin-Nagasaki"   
+764 = "Esashi"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Minamiogawa"   
+2879 = "Soshira"   
+2884 = "Hitoyoshi"   
+2887 = "Minamatsu"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Komono"   
+2913 = "Tokoname"   
+2915 = "Tsu"   
+2917 = "Saragawa"   
+2918 = "Oshironai"   
+     
+# SAO PAULO   
+     
+766 = "Koshimizu"   
+769 = "Nemuro"   
+2896 = "Shobara"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Oyama"   
+832 = "Tsuncha"   
+4602 = "Ayase"   
+4603 = "Ayase"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Kadosawa"   
+2810 = "Higashisoga"   
+2813 = "Heikawa"   
+4613 = "Niikawa"   
+4614 = "Tsukizawa"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Teragami"   
+2816 = "Ashikita"   
+4605 = "Tagawa"   
+     
+# COQUIVACOA    
+     
+828 = "Hiragawa"   
+829 = "Odawara"   
+2806 = "Kameoka"   
+4599 = "Harasaki"   
+4601 = "Hakumichi"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Tsuruma"   
+827 = "Kobuki"   
+2817 = "Kurokawa"   
+4600 = "Hikugi"   
+4607 = "Hakugaki"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Utoro"   
+2809 = "Marukawa"   
+2939 = "Norigawa"   
+4615 = "Hirugi"   
+     
+# GUYANA    
+     
+502 = "Awajishima"   
+743 = "Inashiki"   
+744 = "Isosaki"   
+2803 = "Naganuma"   
+     
+# MARACAIBO    
+     
+830 = "Asadori"   
+2807 = "Hamashi"   
+4609 = "Wakamatsu"   
+4610 = "Himenomachi"   
+4611 = "Urabetsu"   
+     
+# POPAYAN    
+     
+823 = "Seijo"   
+826 = "Hakone"   
+2818 = "Komoritani"   
+4596 = "Yohama"   
+4604 = "Hirono"   
+     
+# SURINAME    
+     
+745 = "Kasumigaura"   
+746 = "Hirami"   
+2937 = "Yutake"   
+     
+# UPPER GUYANA   
+     
+742 = "Akehira"   
+2804 = "Shiritsu"   
+2811 = "Asasaki"   
+2931 = "Harimasaki"   
+4617 = "Kawagoe"   
+     
+# VENEZUELA    
+     
+741 = "Tanabe"   
+831 = "Ariake"   
+2808 = "Nishino"   
+4612 = "Kurumi"   
+4616 = "Awamatsu"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Soga"   
+2814 = "Osumi"   
+2815 = "Noboribetsu"   
+4608 = "Nishion"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Yasuki"   
+786 = "Ukiyama"   
+2868 = "Asada"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Urakami"   
+773 = "Saitama"   
+2850 = "Akamatsu"   
+2851 = "Kanzaki"   
+2852 = "Edo"   
+     
+# BUENOS AIRES   
+     
+778 = "Yoikaze"   
+2846 = "Isesaki"   
+2848 = "Uramatsu"   
+2849 = "Maebashi"   
+     
+# CENTRAL CHILE   
+     
+784 = "Tateyama"   
+787 = "Omachi"   
+2862 = "Azumino"   
+     
+# CUYO    
+     
+2843 = "Hatoyama"   
+2844 = "Kiriyama"   
+2845 = "Nishigaki"   
+2847 = "Yusui"   
+2877 = "Yonaha"   
+     
+# MESOPOTAMIA    
+     
+777 = "Kuronuma"   
+2853 = "Hareda"   
+2855 = "Shokugyo"   
+2858 = "Otake"   
+2859 = "Soranai"   
+     
+# NEHEUNKEN    
+     
+785 = "Kanoya"   
+2867 = "China"   
+2871 = "Kogetsu"   
+2872 = "Amami"   
+     
+# PATAGONIA    
+     
+781 = "Okuizumo"   
+782 = "Katsuchi"   
+2869 = "Shirohana"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Kurogawa"   
+2870 = "Yoshika"   
+2875 = "Kurabashi"   
+2876 = "Shiso"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Noshima"   
+2025 = "Minami-shikoku"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Kyotango"   
+2873 = "Mihama"   
+2874 = "Ayabe"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Moriki"   
+2860 = "Fujinomiya"   
+2861 = "Mito"   
+2865 = "Shibuya"   
+2866 = "Hayada"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Hirayama"   
+804 = "One"   
+2831 = "Sagamihara"   
+2947 = "Kawaba"   
+     
+# CAJAMARCA    
+     
+813 = "Anamizu"   
+2824 = "Fukuyama"   
+2825 = "Yoshiyama"   
+2943 = "Shimoda"   
+     
+# CHIMOR    
+     
+812 = "Muroto"   
+2002 = "Hirashima"   
+2821 = "Hakui"   
+2822 = "Masuda"   
+2826 = "Hamada"   
+     
+# HUANUCO    
+     
+809 = "Anjo"   
+810 = "Kitayama"   
+811 = "Kawaka"   
+814 = "Ichiirie"   
+2827 = "Sasebo"   
+     
+# IQUITOS    
+     
+815 = "Hanasaki"   
+818 = "Tsurushi"   
+821 = "Gokamachi"   
+     
+# KUNTISUYU    
+     
+807 = "Okumachi"   
+808 = "Kuzuko"   
+2829 = "Tochigi"   
+2830 = "Yonegata"   
+     
+# PERUAN COAST   
+     
+805 = "Uranami"   
+806 = "Nagayama"   
+2828 = "Tsuname"   
+     
+# QUITO    
+     
+816 = "Akune"   
+817 = "Kunimi"   
+819 = "Yodori"   
+820 = "Kamigaki"   
+2820 = "Ogigayatsu"   
+     
+# UCAYALI    
+     
+2823 = "Konaga"   
+2944 = "Urumachi"   
+2945 = "Yurigawa"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Yaneizu"   
+801 = "Ofunato"   
+2834 = "Rikuzentakata"   
+     
+# CHACO    
+     
+790 = "Minamihakuda"   
+2854 = "Chuohakuda"   
+2878 = "Gosen"   
+     
+# JUJUY    
+     
+794 = "Furubetsu"   
+2837 = "Fujikawa"   
+2839 = "Higashimatsuyama"   
+     
+# MOXOS    
+     
+803 = "Gunma"   
+2832 = "Tsumago"   
+2833 = "Kanenuma"   
+     
+# NORTHERN CHILE   
+     
+792 = "Minakami"   
+793 = "Hashikami"   
+796 = "Fudai"   
+2840 = "Yurihama"   
+2841 = "Hinoemata"   
+     
+# PARAGUAY    
+     
+775 = "Josho"   
+776 = "Atsuta"   
+799 = "Kitahakuda"   
+2882 = "Tanegawa"   
+2883 = "Senritsu"   
+     
+# POTOSI    
+     
+795 = "Yoyama"   
+797 = "Shizu"   
+2940 = "Sekitani"   
+2946 = "Yokote"   
+     
+# TUCUMAN    
+     
+791 = "Yarigadake"   
+2836 = "Himeji"   
+2842 = "Komagane"   
+     
+# UPPER PERU   
+     
+2835 = "Daisen"   
+2838 = "Hanamaki"   
+2941 = "Kaminoyama"   
+2942 = "Negida"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Yahiko"   
+4852 = "Tagami"   
+4853 = "Shibata"   
+4854 = "Sekikawa"   
+     
+# CAPRICORNIA    
+     
+2730 = "Arimaonsen"   
+2731 = "Omikohoan"   
+2732 = "Otari"   
+4848 = "Niigata"   
+4849 = "Izumozaki"   
+     
+# ILLAWARA    
+     
+1090 = "Karatsu"   
+4857 = "Shonai"   
+4858 = "Misato"   
+4859 = "Akita"   
+4860 = "Semboku"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Kezoji"   
+1092 = "Shimoichi"   
+4855 = "Nagai"   
+4856 = "Tozawa"   
+     
+# PERTH    
+     
+1084 = "Niseko"   
+2727 = "Iwami"   
+4863 = "Fujisato"   
+4864 = "Hachirogata"   
+     
+# PILBARA    
+     
+2726 = "Kurayoshi"   
+4865 = "Yashafukuro"   
+4866 = "Gojome"   
+4867 = "Hadachi"   
+     
+# PRINCELAND    
+     
+1086 = "Kushiro"   
+2735 = "Sakuho"   
+2736 = "Midori"   
+4862 = "Kosaka"   
+     
+# QUEENSLAND    
+     
+1093 = "Urayasu"   
+1094 = "Daisenguchi"   
+2733 = "Yoshioka"   
+4850 = "Tsubame"   
+     
+# TASMANIA    
+     
+1085 = "Esaki"   
+4868 = "Unshoji"   
+4869 = "Nakadomari"   
+     
+# TOP END   
+     
+2728 = "Sumoto"   
+2729 = "Izumisano"   
+4846 = "Suzaka"   
+4847 = "Sakaki"   
+     
+# VICTORIA    
+     
+1087 = "Shimoko"   
+1088 = "Maji"   
+1089 = "Tsunomori"   
+2734 = "Nakanojo"   
+4861 = "Kamikoani"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1244 = "Kirishima"   
+1987 = "Mashiki"   
+1988 = "Tobase"   
+     
+# EAST MICRONESIA   
+     
+1241 = "Myoko"
+1991 = "Kakenoue"
+1993 = "Imamachi"
+1994 = "Kashima"   
+     
+# FIJI    
+     
+1242 = "Tarumizu"   
+4937 = "Makurazaki"   
+4938 = "Higashikushira"   
+     
+# MELANESIA    
+     
+1236 = "Yanagawa"   
+1238 = "Nagasu"   
+1239 = "Gyokuto"   
+1986 = "Shin Kagoshima"   
+     
+# NORTHERN POLYNESIA   
+     
+1240 = "Minamiosumi"   
+1997 = "Sanashi"
+4934 = "Nichinan"   
+4935 = "Tsunagi"   
+4936 = "Hikawa"   
+     
+# POLYNESIA    
+     
+1243 = "Kushima"   
+1989 = "Takaharu"   
+1990 = "Minamata"   
+1992 = "Sanyoonoda"   
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Sotogahama"   
+1107 = "Nishimeya"   
+2739 = "Imabetsu"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Yomogita"   
+2737 = "Itayanagi"   
+4939 = "Goshogawara"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Towada"   
+1246 = "Hiranai"   
+2738 = "Higashidori"   
+     
+# WEST MICRONESIA   
+     
+1235 = "Kitakyushu"   
+1995 = "Itoshima"   
+1996 = "Okagaki"

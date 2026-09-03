@@ -1,0 +1,29 @@
+## BALKANS
+
+# Croatia
+
+1826 = {"Lica" "Segna"}
+4752 = {"Reka" "Reka"}
+
+# Dalmatia
+
+136 = {"Spalatro" "Spalatro"}
+137 = {"Ragusa" "Ragusa"}
+4753 = {"Jadera" "Jadera"}
+
+# Rascia
+
+4754 = {"Cottora" "Cottora"}
+
+## SOUTH GERMANY
+
+# Carniola
+
+130 = {"Istria" "Pola"}
+4738 = {"Triest" "Triest"}
+
+## PONTIC STEPPE
+
+# Azov
+
+286 = {"Tana" "Tana"}

@@ -1,0 +1,120 @@
+## FRANCE
+
+# Auvergne
+
+190 = {"Bourbonez" "Moulins"}
+195 = {"Lymouzin" "Lemojez"}
+199 = {"Aovergn" "Clarmont"}
+4697 = {"Marcha" "Garait"}
+4777 = {"Forez" "Montbrizon"}
+
+# Brittany
+
+169 = {"Arvorig" "Sant-Maloù"}
+170 = {"Penn-ar-Bed" "Brest"}
+171 = {"Bro Gwened" "Gwened"}
+172 = {"Bro Naoned" "Naoned"}
+4384 = {"Bro Roazhon" "Roazhon"}
+
+# Champagne
+
+181 = {"Ardenne" "Roc'hdeel"}
+186 = {"Rem" "Rem"}
+4390 = {"Trea" "Trea"}
+
+# Eastern Burgundy
+
+192 = {"Divionnois" "Divione"}
+193 = {"Frankoz-Kômte" "Bezanson"}
+4764 = {"Salinioù" "Salinioù"}
+
+# Gascony
+
+173 = {"Lapurdi" "Baiona"}
+175 = {"Armanhac" "Auch"}
+176 = {"Bearn" "Pau"}
+4694 = {"Fois" "Fois"}
+
+# Guyenne
+
+174 = {"Bourdel" "Bourdel"}
+194 = {"Peiregòrd" "Brageirac"}
+198 = {"Roèrgue" "Rodés"}
+4112 = {"Carcin" "Caors"}
+
+# Île-de-France
+
+182 = {"Gwaloa" "Swezon"}
+183 = {"Pariz" "Pariz"}
+185 = {"Nemors" "Nemors"}
+4388 = {"Chartrez" "Chartrez"}
+
+# Languedoc
+
+196 = {"Toloza" "Toloza"}
+200 = {"Montpelhièr" "Montpelhièr"}
+2753 = {"Narbona" "Narbona"}
+4391 = {"Vivarés" "Vivièrs"}
+4695 = {"Carcassiona" "Carcassiona"}
+
+# Loire Valley
+
+177 = {"Maine" "Ar Mañs"}
+178 = {"Anjev" "Añje"}
+4389 = {"Touren" "Teurgn"}
+
+# Lorraine
+
+187 = {"Bar" "Barroduce"}
+188 = {"Mets" "Mets"}
+189 = {"Loren" "Nanci"}
+4766 = {"Verdon" "Verdun"}
+
+# Normandy
+
+167 = {"Kao" "Rouan"}
+168 = {"Kaen" "Kaen"}
+1879 = {"Alencion" "Alencion"}
+4385 = {"Koten" "Kêr-Bourg"}
+
+# Orléanais
+
+179 = {"Berri" "Bourjez"}
+184 = {"Orleañs" "Orleañs"}
+4776 = {"Bleaz" "Bleaz"}
+
+# Picardy
+
+87 = {"Kalaï" "Kalaï"}
+88 = {"Artez" "Aarras"}
+89 = {"Pikardi" "Amiens"}
+1743 = {"Kambraï" "Kambraï"}
+
+# Poitou
+
+180 = {"Uhel Poatev" "Poictiers"}
+4111 = {"Sentes" "Sentes"}
+4386 = {"Izel Poatev" "Luson"}
+4387 = {"Angelome" "Angelome"}
+
+# Provence
+
+201 = {"Ais" "Ais de Provença"}
+202 = {"Avinhon" "Avinhon"}
+2991 = {"Fornchalcerii" "Fornchalcerii"}
+4696 = {"Toullon" "Toullon"}
+
+# Savoy
+
+203 = {"Lugon" "Lugon"}
+204 = {"Daofinez" "Grelibre"}
+205 = {"Chambéry" "Chambéry"}
+4719 = {"Bres" "Bourg en Bres"}
+
+# Western Burgundy
+
+191 = {"Nivers" "Nivers"}
+1877 = {"Kadrelas" "Kadrelas"}
+4392 = {"Autcedre" "Autcedre"}
+
+102 = {"Nisa" "Nisa"}

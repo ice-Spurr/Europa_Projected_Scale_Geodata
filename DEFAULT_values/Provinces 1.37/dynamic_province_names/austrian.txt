@@ -1,0 +1,265 @@
+## GERMANY ##
+
+# Alsace
+
+75 = {"Strossbuag" "Strossbuag"}
+1880 = {"Sundagau" "Altkiach"}
+4765 = {"Müihausn" "Müihausn"}
+
+# Austria Proper
+
+133 = {"Ob da Enns" "Woinz"}
+134 = {"Wean" "Wean"}
+1770 = {"Manhartsbuag" "Krems"}
+4761 = {"Traungau" "Steia"}
+4762 = {"Weanawoid" "Sankt Pödn"}
+
+# Baden
+
+72 = {"Breiasgau" "Fraibuag"}
+74 = {"Bodn" "Bodn"}
+4714 = {"Durlach" "Durlach"}
+
+# Bohemia
+
+266 = {"Prag" "Prag"}
+2968 = {"Budnwejs" "Budnwejs"}
+2970 = {"Kinigraz" "Kinigraz"}
+4724 = {"Pardubiatsch" "Pardubiatsch"}
+4725 = {"Neihaus" "Neihaus"}
+
+# Braunschweig
+
+57 = {"Broonschwaig" "Broonschwaig"}
+1758 = {"Hannover" "Hannover"}
+2971 = {"Hoia" "Hoia"}
+4773 = {"Geddingen" "Geddingen"}
+
+# Carniola
+
+129 = {"Krain" "Laiboch"}
+130 = {"Ischtrien" "Pul"}
+1769 = {"Görtz" "Görtz"}
+4738 = {"Triescht" "Triescht"}
+4751 = {"Cilli" "Cilli"}
+
+# East Bavaria
+
+76 = {"Soizbuag" "Soizbuag"}
+4709 = {"Båssa" "Båssa"}
+4760 = {"Innbaiern" "Bruanau am Inn"}
+
+# East Swabia
+
+68 = {"Mämminga" "Mämminga"}
+1868 = {"Augschbuag" "Augschbuag"}
+1872 = {"Uim" "Uim"}
+4711 = {"Doanaweat" "Nöadlinga"}
+
+# Erzgebirge
+
+267 = {"Pilsen" "Pilsen"}
+1771 = {"Leitmeritsch" "Leitmeritsch"}
+2967 = {"Ega" "Ega"}
+
+# Hesse
+
+78 = {"Meenz" "Meenz"}
+81 = {"Obahassn" "Moaboag"}
+1762 = {"Niedahassn" "Kassel"}
+1876 = {"Frankfurt" "Frankfurt am Main"}
+4774 = {"Fulda" "Fulda"}
+
+# Hinterpommern
+
+48 = {"Kolboar" "Kolboar"}
+2995 = {"Stohlp" "Stohlp"}
+4746 = {"Schtargårt" "Schtargårt"}
+
+# Inner Austria
+
+128 = {"Niedakarntn" "Klognfuat"}
+132 = {"Steiamoak" "Judnbuag"}
+1863 = {"Gratz" "Gratz"}
+4759 = {"Obakarntn" "Vellach"}
+
+# Lower Bavaria
+
+64 = {"Landsad" "Landsad"}
+1757 = {"Obapfoiz" "Amboarg"}
+2956 = {"Strauwing" "Strauwing"}
+2957 = {"Rengschburg" "Rengschburg"}
+
+# Lower Franconia
+
+71 = {"Ansbach" "Ansbach"}
+79 = {"Wiazbuag" "Wiazbuag"}
+4715 = {"Rechtenbach" "Rechtenbach"}
+4718 = {"Ascheberch" "Ascheberch"}
+
+# Lower Rhineland
+
+80 = {"Tria" "Tria"}
+1760 = {"Koablåns" "Koablåns"}
+1878 = {"Oachen" "Oachen"}
+4768 = {"Jülich" "Jülich"}
+
+# Lower Saxony
+
+44 = {"Hamboag" "Hamboag"}
+53 = {"Lunaboag" "Lunaboag"}
+1857 = {"Luanboag" "Luanboag"}
+4772 = {"Zelle" "Zelle"}
+
+# Lusatia
+
+60 = {"Boatzen" "Boatzen"}
+1763 = {"Niedalausidz" "Kottbus"}
+4778 = {"Görlidz" "Görlidz"}
+
+# Mecklemburg
+
+45 = {"Lübeg" "Lübeg"}
+46 = {"Rostoag" "Rostoag"}
+2996 = {"Wiesmar" "Wiesmar"}
+4749 = {"Neibradnburg" "Neibradnburg"}
+4786 = {"Prignidz" "Bankau"}
+
+# Mittelmark
+
+50 = {"Berlin" "Berlin-Cölln"}
+51 = {"Ruabin" "Neiruabin"}
+1759 = {"Potsdam" "Potsdam"}
+2993 = {"Uggarmoak" "Preanzlau"}
+4748 = {"Bradnburg" "Bradnburg an da Havel"}
+
+# Moravia
+
+265 = {"Brün" "Brün"}
+4237 = {"Olmätz" "Olmätz"}
+4726 = {"Hraodesch" "Hraodesch"}
+
+# Neumark
+
+49 = {"Neimoak" "Låndsbuag an da Ward"}
+2969 = {"Schdernbeag" "Frankfurt an da Oda"}
+4747 = {"Dranboag" "Dranboag"}
+
+# North Rhine
+
+83 = {"Nossau" "Nossau"}
+84 = {"Beag" "Düssldoaf"}
+85 = {"Köln" "Köln"}
+2975 = {"Kleve" "Klevee"}
+
+# North Westphalia
+
+56 = {"Osnabrugg" "Osnabrugg"}
+69 = {"Dortmund" "Dortmund"}
+86 = {"Minsta" "Minsta"}
+2973 = {"Meppn" "Meppn"}
+
+# Saxony
+
+59 = {"Wetnbeag" "Wetnbeag"}
+61 = {"Dresdn" "Dresdn"}
+62 = {"Leipzig" "Leipzig"}
+4744 = {"Zwickau" "Zwickau"}
+
+# Saxony-Anhalt
+
+52 = {"Magdebuag" "Magdebuag"}
+58 = {"Anhald" "Dessau"}
+2964 = {"Oidmoak" "Stendl"}
+4741 = {"Holl" "Holl"}
+4742 = {"Goslar" "Goslar"}
+
+# Schleswig-Holstein
+
+13 = {"Sleswigg" "Sleswigg"}
+1775 = {"Holstn" "Kiel"}
+4141 = {"Detmarschn" "Meldoaf"}
+
+# South Westphalia
+
+82 = {"Westfoln" "Ansbeag"}
+2972 = {"Padaboarn" "Padaboarn"}
+4775 = {"Ravnsbeag" "Bielfoid"}
+
+# Thuringia
+
+63 = {"Erfuad" "Erfuad"}
+2965 = {"Vogtlånd" "Plaun"}
+4743 = {"Waimar" "Waimar"}
+
+# Vorpommern
+
+47 = {"Stroislund" "Stroislund"}
+1858 = {"Stetten" "Stetten"}
+2994 = {"Wolleguast" "Wolleguast"}
+4745 = {"Rüng" "Bergn af Rüng"}
+
+# Weser
+
+54 = {"Stad" "Stad"}
+55 = {"Oidnbuag" "Oidnbuag"}
+1874 = {"Briam" "Briam"}
+4771 = {"Verdn" "Verdn"}
+
+# Palatinate
+
+77 = {"Heidlbeag" "Heidlbeag"}
+1761 = {"Pfoiz" "Warms"}
+4767 = {"Zwoabruggn" "Zwoabruggn"}
+
+# Romandie
+
+165 = {"Bern" "Bern"}
+1867 = {"Wad" "Lausann"}
+1871 = {"Walis" "Sittn"}
+4720 = {"Genf" "Genf"}
+4721 = {"Freibuag" "Freibuag"}
+
+# Switzerland
+
+166 = {"Woidstätt" "Schwitz"}
+1869 = {"Zirich" "Zirich"}
+1870 = {"San Galln" "San Galln"}
+1873 = {"Chuur" "Chuir"}
+4722 = {"Illanz" "Illanz"}
+
+# Tirol
+
+73 = {"Inntoi" "Innschbruck"}
+110 = {"Trient" "Trient"}
+1768 = {"Lianz" "Lianz"}
+4710 = {"Breagaz" "Breagaz"}
+4758 = {"Etschdal" "Merån"}
+
+# Upper Bavaria
+
+65 = {"Minga" "Minga"}
+2955 = {"Ingoistod" "Ingoistod"}
+4707 = {"Wassabuag am Inn" "Wassabuag am Inn"}
+4708 = {"Freising" "Freising"}
+
+# Upper Franconia
+
+66 = {"Bambeag" "Bambeag"}
+67 = {"Niamberg" "Niamberg"}
+4716 = {"Coburg" "Coburg"}
+4717 = {"Bareid" "Bareid"}
+
+# West Swabia
+
+70 = {"Stuagart" "Stuagart"}
+4712 = {"Konstonz" "Konstonz"}
+4713 = {"Urscha" "Reutlingen"}
+
+## SILESIA
+
+2966 = {"Glögau" "Glögau"}
+4238 = {"Lignitz" "Lignitz"}
+264 = {"Breslau" "Breslau"}
+4723 = {"Opln" "Opln"}
+263 = {"Radibor" "Radibor"}

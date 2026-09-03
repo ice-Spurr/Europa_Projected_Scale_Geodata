@@ -1,0 +1,2562 @@
+## DO NOT FORGET TO ADD RUSSIAN PROVINCE NAMES IN EASTERN EUROPE, SCANDINAVIA, MANCHURIA, PERSIA, JAPAN AND KOREA
+
+### CREDITS TO MyNameisJeff for reworking some province names
+
+### EUROPE
+
+## CARPATHIA
+
+# Moldavia
+
+268 = {"Suchava" "Suchava"}
+1756 = {"Bessarabiya" "Kiliya"}
+2405 = {"Bendery" "Bendery"}
+4529 = {"Yassy" "Yassy"}
+4530 = {"Byrlad" "Byrlad"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Bashkortostan" "Bashkortostan"}
+1965 = {"Buzuluk" "Buzuluk"}
+1966 = {"Chelyabinsk" "Chelyabinsk"}
+2420 = {"Orenburg" "Orenburg"}
+2444 = {"Zlatoust" "Zlatoust"}
+
+# Galich
+
+306 = {"Nizhny Novgorod" "Nizhny Novgorod"}
+1079 = {"Vyatka" "Khlynov"}
+1083 = {"Vetluga" "Vetluga"}
+1957 = {"Galich" "Galich"}
+
+# Kama
+
+305 = {"Perm" "Yagoshikha"}
+1962 = {"Izhevsk" "Izhevsk"}
+1972 = {"Udmurtiya" "Izhevsk"}
+4266 = {"Izhkar" "Izhkar"}
+
+# Kazan
+
+1082 = {"Kazan" "Kazan"}
+2422 = {"Cheboksary" "Cheboksary"}
+4264 = {"Tetyushi" "Tetyushi"}
+
+# Perm
+
+1077 = {"Usolye Kamskoye" "Usolye Kamskoye"}
+1755 = {"Ustyug" "Ustyug"}
+1963 = {"Troitsko-Pechersk" "Troitsko-Pechersk"}
+1964 = {"Ust-Sysolsk" "Ust-Sysolsk"}
+4129 = {"Ust-Vym" "Ust-Vym"}
+
+# Samara
+
+473 = {"Samara" "Samara"}
+1081 = {"Simbirsk" "Bolgar"}
+2423 = {"Alatyr" "Alatyr"}
+
+# Saratov
+
+303 = {"Saratov" "Saratov"}
+2418 = {"Pokrovsk" "Pokrovsk"}
+2419 = {"Syzran" "Syzran"}
+
+# Ural
+
+1078 = {"Yekaterinburg" "Yekaterinburg"}
+1080 = {"Serov" "Serov"}
+1780 = {"Yarensk" "Yarensk"}
+2427 = {"Beloyarsk" "Beloyarsk"}
+2441 = {"Iglino" "Iglino"}
+
+# Volga
+
+2421 = {"Berezhnye" "Berezhnye"}
+4265 = {"Naberezhnye" "Naberezhnye Chelny"}
+4267 = {"Bolgar" "Bolgar"}
+
+## RUSSIA
+
+30 = {"Vyborg" "Vyborg"}
+34 = {"Izhora" "Koporye"}
+1776 = {"Belomorskaya Kareliya" "Kem"}
+2415 = {"Atkarsk" "Atkarsk"}
+4124 = {"Kareliya" "Lieksa"}
+
+## CAUCASIA
+
+# Armenia
+
+419 = {"Yerivan" "Yerivan"}
+420 = {"Gyandzha" "Gyandzha"}
+2202 = {"Arcah" "Hankendy"}
+2205 = {"Nahichevan" "Nahichevan"}
+4302 = {"Payazet" "Payazet"}
+
+# Circassia
+
+463 = {"Cherkesiya" "Krasnodar"}
+2195 = {"Adygeya" "Sochi"}
+2197 = {"Kabarda" "Pyatigorsk"}
+2201 = {"Alaniya" "Vladikavkaz"}
+
+# Dagestan
+
+425 = {"Dagestan" "Derbent"}
+2198 = {"Khundziya" "Grozny"}
+2199 = {"Petrovsk" "Petrovsk"}
+2208 = {"Mozdok" "Mozdok"}
+4306 = {"Lakiya" "Khunzakh"}
+
+# Imereti
+
+422 = {"Imeretiya" "Kutais"}
+462 = {"Megreliya" "Zugdidi"}
+1856 = {"Abhaziya" "Suhum"}
+
+# Kartli-Kakheti
+
+423 = {"Tiflis" "Tiflis"}
+2203 = {"Kahetiya" "Televo"}
+4301 = {"Kartaliniya" "Gori"}
+
+# Samtskhe
+
+2196 = {"Guriya" "Batum"}
+2204 = {"Akhaltsikh" "Akhaltsikh"}
+4303 = {"Olty" "Olty"}
+
+# Shirvan
+
+421 = {"Sharvan" "Baku"}
+4299 = {"Shamahy" "Shamahy"}
+4305 = {"Nukha" "Nukha"}
+4340 = {"Astara" "Astara"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrakhan" "Astrakhan"}
+466 = {"Kamyshin" "Kamyshin"}
+468 = {"Volgodonsk" "Volgodonsk"}
+2416 = {"Stavropol" "Stavropol"}
+2417 = {"Elista" "Elista"}
+
+# Azov
+
+286 = {"Azov" "Azov"}
+287 = {"Yekaterinodar" "Yekaterinodar"}
+2413 = {"Novocherkassk" "Novocherkassk"}
+2414 = {"Tichoretsk" "Tichoretsk"}
+
+# Crimea
+
+284 = {"Krym" "Yevpatoriya"}
+285 = {"Feodosiya" "Kerch"}
+2410 = {"Sevastopol" "Sevastopol"}
+2447 = {"Taman'" "Taman'"}
+
+# Lower Don
+
+288 = {"Ust-Medveditskaya" "Cherkassk"}
+467 = {"Borisoglebsk" "Borisoglebsk"}
+1971 = {"Tsaritsyn" "Tsaritsyn"}
+2409 = {"Vyoshenskaya" "Vyoshenskaya"}
+
+# Yedisan
+
+282 = {"Yedisan" "Odessa"}
+1974 = {"Kherson" "Kherson"}
+2406 = {"Nikolayev" "Nikolayev"}
+
+# Zaporizhia
+
+283 = {"Zaporozhe" "Zaporozhe"}
+2411 = {"Yekaterinoslav" "Yekaterinoslav"}
+2412 = {"Mariupol" "Mariupol"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilna" "Vilna"}
+770 = {"Braslav" "Braslav"}
+4535 = {"Vilkomir" "Vilkomir"}
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Yezel'" "Kuressaare"}
+39 = {"Kuldyga" "Kuldyga"}
+1935 = {"Elgava" "Elgava"}
+
+# East Prussia
+
+40 = {"Klaypeda" "Klaypeda"}
+41 = {"Korolevets" "Korolevets"}
+42 = {"Varmiya" "Olshtyn"}
+767 = {"Shhitno" "Shhitno"}
+2958 = {"Ostruda" "Ostruda"}
+
+# Estonia
+
+36 = {"Tallin" "Tallin"}
+1834 = {"Yur'yev" "Yur'yev"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livoniya" "Vilyandi"}
+38 = {"Riga" "Riga"}
+273 = {"Latgaliya" "Dvinsk"}
+4241 = {"Cesis" "Cesis"}
+
+# Samogitia
+
+270 = {"Troki" "Troki"}
+271 = {"Zhmud" "Vorny"}
+1936 = {"Kovno" "Kovno"}
+4534 = {"Upite" "Upite"}
+
+# West Prussia
+
+43 = {"Gdansk" "Gdansk"}
+1841 = {"Malbork" "Malbork"}
+2997 = {"Tuholya" "Tuholya"}
+
+## BRITAIN
+
+# Connacht
+
+375 = "Limeritskaya"
+376 = "Konnagutski"
+4119 = "Slygovichi"
+
+# East Anglia
+
+238 = "Volnitsa"
+1860 = "Beryozovka"
+4370 = "Kamennnograd"
+
+# East Midlands
+
+243 = "Novolinkov"
+1861 = "Derbinsk"
+4376 = "Lesnov"
+
+# Highlands
+
+250 = "Perlovsk"
+252 = "Inverdinsk"
+369 = "Orkovskoye"
+4110 = "Suterlandiya"
+4363 = "Argilsk"
+
+# Leinster
+
+373 = "Palovsk"
+374 = "Leinstrov"
+4120 = "Kildarov"
+4379 = "Srednevski"
+
+# London
+
+235 = "Novorivne"
+236 = "Londongrad"
+237 = "Glorov"
+4371 = "Anglosetonia"
+
+# Lowlands
+
+248 = "Nivanoth"
+249 = "Rostnoy"
+251 = "Merlovy"
+4361 = "Olgarovy"
+4362 = "Duborin"
+
+# Munster
+
+4118 = "Vynorin"
+4377 = "Orlinsk"
+4378 = "Daminov"
+
+# Northern England
+
+244 = "Langomsk"
+246 = "Severin"
+247 = "Kumborin"
+4375 = "Starym"
+
+# The Isles
+
+253 = "Vynemorsk"
+4364 = "Ovromorsk"
+4365 = "Ostromann"
+
+# Ulster
+
+372 = "Torinov"
+4121 = "Ulyanova"
+4380 = "Donygov"
+
+# Wales
+
+241 = "Glavornik"
+242 = "Vynhovsk"
+4366 = "Montorin"
+4369 = "Karmarov"
+
+# Wessex
+
+233 = "Kornovsk"
+234 = "Gamshir"
+4130 = "Somorin"
+4373 = "Divonsk"
+4374 = "Dorovsky"
+
+# West Midlands
+
+239 = "Glavister"
+240 = "Shremsk"
+4372 = "Kovanov"
+
+# Yorkshire
+
+245 = "Yarograd"
+4367 = "Khulsk"
+4368 = "Skarborsk"
+4785 = "Skifsk"
+
+
+## FRANCE
+
+
+# Auvergne
+
+190 = "Bourbovgrad"
+195 = "Limovichi"
+199 = "Ovrevna"
+4697 = "Markovsk"
+4777 = "Foreskaya"
+
+# Brittany
+
+169 = "Armovsk"
+170 = "Finskoye"
+171 = "Vannov"
+172 = "Nanskoye"
+4384 = "Rennovka"
+
+# Champagne
+
+181 = "Rethelin"
+186 = "Reimov"
+4390 = "Troevsk"
+
+# Eastern Burgundy
+
+192 = "Dijonov"
+193 = "Comtovsk"
+4764 = "Salinsk"
+
+# Gascony
+
+173 = "Laburdin"
+175 = "Armagan"
+176 = "Beernsk"
+4694 = "Fojaksov"
+
+# Guyenne
+
+174 = "Bordevsk"
+194 = "Perigorod"
+198 = "Ruverk"
+4112 = "Kerkov"
+
+# Île-de-France
+
+182 = "Valovsk"
+183 = "Parizh"
+185 = "Nemuriv"
+4388 = "Chartrin"
+
+# Languedoc
+
+196 = "Tulusk"
+200 = "Montpeliv"
+2753 = "Narbinn"
+4391 = "Vivarsk"
+4695 = "Karkasov"
+
+# Loire Valley
+
+177 = "Mainovsk"
+178 = "Tourinsk"
+4389 = "Tourhain"
+
+# Lorraine
+
+187 = "Barrovsk"
+188 = "Melitovsk"
+189 = "Lotinov"
+4766 = "Verdunov"
+
+# Normandy
+
+167 = "Kayskaya"
+168 = "Kainsk"
+1879 = "Alenzonov"
+4385 = "Kotentinsk"
+
+# Orléanais
+
+179 = "Derrinsk"
+184 = "Orlejanova"
+4776 = "Bloihsk"
+
+# Picardy
+
+87 = "Kalaiskaya"
+88 = "Artovsk"
+89 = "Pikardova"
+1743 = "Povtin"
+
+# Poitou
+
+180 = "Sennov"
+4111 = "Povtinov"
+4386 = "Angumovsk"
+4387 = "Aiskaya"
+
+# Provence
+
+201 = "Avinovsk"
+202 = "Forcalik"
+2991 = "Tulinsk"
+4696 = "Lyonnovsk"
+
+# Savoy
+
+203 = "Meren"
+204 = "Daufinovsk"
+205 = "Savoyya"
+4719 = "Breskov"
+
+# Western Burgundy
+
+191 = "Nivernoya"
+1877 = "Sharolev"
+4392 = "Okserua"
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Chernigov" "Chernigov"}
+1945 = {"Severshtcina" "Novgorod-Seversky"}
+4543 = {"Rylsk" "Rylsk"}
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Pereyaslav" "Pereyaslav"}
+4542 = {"Lubny" "Lubny"}
+
+# Minsk
+
+276 = {"Minsk" "Minsk"}
+4115 = {"Mozyr" "Mozyr"}
+4242 = {"Ula" "Ula"}
+4544 = {"Bobroysk" "Bobroysk"}
+
+# Podlasie
+
+269 = {"Podlyashie" "Drohichin"}
+277 = {"Brest" "Brest-Litovsk"}
+1937 = {"Grodno" "Grodno"}
+
+# Podolia
+
+281 = {"Podolye" "Kamenets-Podolskiy"}
+1943 = {"Braslavl" "Braslavl"}
+4540 = {"Vinnitsa" "Vinnitsa"}
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"}
+1941 = {"Turov" "Turov"}
+4537 = {"Novogrudok" "Novogrudok"}
+4545 = {"Slutsk" "Slutsk"}
+
+# Sloboda Ukraine
+
+291 = {"Kharkov" "Belgorod"}
+298 = {"Kursk" "Kursk"}
+299 = {"Voronezh" "Voronezh"}
+2408 = {"Elets" "Elets"}
+
+# Smolensk
+
+293 = {"Smolensk" "Smolensk"}
+297 = {"Bryansk" "Byransk"}
+4244 = {"Trubchevsk" "Trubchevsk"}
+4245 = {"Vyazma" "Vyazma"}
+
+# Volhynia
+
+279 = {"Volyn" "Vladimir"}
+2962 = {"Rovno" "Rovno"}
+4538 = {"Khelm" "Khelm"}
+4539 = {"Kremenets" "Kremenets"}
+
+# West Dniepr
+
+280 = {"Kiev" "Kiev"}
+1942 = {"Zhitomir" "Zhitomir"}
+1944 = {"Cherkassy" "Cherkassy"}
+4247 = {"Ovruch" "Ovruch"}
+
+# White Ruthenia
+
+292 = {"Mogilyov" "Mogilyov"}
+771 = {"Vitebsk" "Vitebsk"}
+4246 = {"Mstislavl" "Mstislavl"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Seradz" "Seradz"}
+1939 = {"Lenchitsa" "Lenchitsa"}
+4533 = {"Velyun" "Velyun"}
+
+# Kuyavia
+
+1859 = {"Khelmno" "Torun"}
+4523 = {"Inovrotslav" "Inovrotslav"}
+4524 = {"Dobzhin" "Dobzhin"}
+4528 = {"Kuyaviya" "Bzhests’-Kuyavski"}
+
+# Malopolska
+
+262 = {"Krakov" "Krakov"}
+2960 = {"Novy-Sonch" "Novy-Sonch"}
+4527 = {"Khentsiny" "Khentsiny"}
+
+# Mazovia
+
+256 = {"Plotsk" "Plotsk"}
+257 = {"Varshava" "Varshava"}
+1938 = {"Vizna" "Vizna"}
+4525 = {"Rava" "Rava"}
+
+# Red Ruthenia
+
+261 = {"Galich" "Galich"}
+1940 = {"Belz" "Belz"}
+2424 = {"Pshemysl" "Pshemysl"}
+2961 = {"Lvov" "Lvov"}
+4541 = {"Drogobych" "Drogobych"}
+
+# Sandomierz
+
+259 = {"Sandomir" "Sandomir"}
+260 = {"Lyublin" "Lyublin"}
+2959 = {"Tarnuv" "Tarnuv"}
+
+# Silesia
+
+263 = {"Ratsibuzh" "Ratsibuzh"}
+264 = {"Vrotslav" "Vrotslav"}
+2966 = {"Gloguv" "Gloguv"}
+4238 = {"Legnitsa" "Legnitsa"}
+4723 = {"Opole" "Opole"}
+
+# Wielkopolska
+
+254 = {"Poznan" "Poznan"}
+255 = {"Kalish" "Kalish"}
+2963 = {"Notets" "Naklo"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Zelandiya" "Kopengagen"}
+14 = {"Fyun" "Odense"}
+1981 = {"Bornkholm" "Renne"}
+1983 = {"Lollann" "Nyukebing"}
+
+# Finland
+
+27 = {"Kaby" "Kaby"}
+28 = {"Usima" "Borgo"}
+29 = {"Tavastiya" "Khyamenlina"}
+31 = {"Savoniya" "Neyshlot"}
+4123 = {"Perkanskaya" "Mezakilya"}
+
+# Laponia
+
+315 = {"Finnmark" "Varde"}
+1777 = {"Kola" "Pechenga"}
+4151 = {"Inari" "Sodankyulya"}
+
+# Ostrobothnia
+
+19 = {"Ostrobotniya" "Korsholm"}
+4113 = {"Rovaniyemi" "Rovaniyemi"}
+4152 = {"Kaynu" "Manselkya"}
+
+## ITALY
+
+# Liguria
+
+101 = "Zhenye"
+102 = "Nitsa"
+2992 = "Sanovka"
+
+# Piedmont
+
+103 = "Torin"
+1875 = "Kunyevka"
+2981 = "Verratov"
+4727 = "Salutsk"
+
+# Lombardy
+
+104 = "Milyan"
+1862 = "Langobardysk"
+2979 = "Novarinsk"
+4728 = "Paviya"
+2740 = "Komov"
+
+# Emilia-Romagna
+
+105 = "Staraya Parma"
+106 = "Novomudin"
+113 = "Vrara"
+114 = "Sankt-Vital"
+4730 = "Bolonya"
+
+# Po Valley
+
+107 = "Brisha"
+109 = "Mantyask"
+4739 = "Byegram"
+
+# Venetia
+
+108 = "Veronov"
+111 = "Vurlaniya"
+112 = "Venetsisk"
+1774 = "Turovisk"
+4729 = "Padva"
+
+# Tuscany
+
+115 = "Arnusk"
+116 = "F'oryegorod"
+117 = "Syena"
+2978 = "Rasnask"
+2980 = "Luka"
+
+# Lazio-Umbria
+
+118 = "Rim"
+2976 = "Tibrsk"
+4731 = "Slokamen'"
+4732 = "Tarrakinsk"
+
+# Marche-Abruzzo
+
+119 = "Lokot"
+120 = "Pretuzisk"
+2977 = "Gorodchik"
+
+# Campania
+
+121 = "Novpol'"
+2983 = "Pyestumsk"
+4734 = "Yablochkovka"
+
+# Apulia
+
+122 = "Yuzhno Pugliyansk"
+1933 = "Varionsk"
+2985 = "Votzha"
+4733 = "Molish"
+
+# Calabria
+
+123 = "Kalavrisk"
+1934 = "Lukaniya"
+2984 = "Zuriygorod"
+
+# Eastern Sicily
+
+124 = "Myesinipol'"
+126 = "Ostrov Mal'ta"
+2982 = "Syrakosk"
+
+# Western Sicily
+
+125 = "Paleyapol'"
+4736 = "Stariymarsal"
+4737 = "Agritzentosk"
+
+# Tyrrhenian Isles
+
+127 = "Sardosgorod"
+1247 = "Korsy"
+2986 = "Kaliyarivka"
+4735 = "Aristanisk"
+
+### ASIA
+
+## WEST SIBERIA
+
+# Aqmola
+
+479 = {"Atbasarskaya" "Atbasarskaya"}
+2354 = {"Akmolinsk" "Akmolinsk"} # Astana, Nur-Sultan
+2357 = {"Kokchetav" "Kokchetav"}
+4686 = {"Ekibastuz" "Ekibastuz"}
+4690 = {"Korkina Sloboda" "Korkina Sloboda"}
+
+# Central Siberia
+
+1064 = {"Tomsk" "Tomsk"}
+1067 = {"Monastyrskoye" "Monastyrskoye"}
+1068 = {"Parabel" "Parabel"}
+1070 = {"Nizhnevartovsk" "Nizhnevartovsk"}
+2430 = {"Norilsk" "Norilsk"}
+
+# Irkutsk
+
+1060 = {"Irkutsk" "Irkutsk"}
+2442 = {"Bratsk" "Bratsk"}
+1063 = {"Sayan" "Malinovka"}
+1062 = {"Kansk" "Kansk"}
+2443 = {"Krasnoyarsk" "Krasnoyarsk"}
+
+# Ishim
+
+1074 = {"Tobolsk" "Tobolsk"}
+1075 = {"Tyumen" "Tyumen"}
+1076 = {"Tsaryovo Gorodishche" "Tsaryovo Gorodishche"}
+2369 = {"Kustanay" "Kustanay"}
+4692 = {"Turgai" "Akkayin"}
+
+# Kara
+
+1069 = {"Surgut" "Surgut"}
+1072 = {"Obdorsk" "Obdorsk"}
+1073 = {"Berezov" "Sangymgort"}
+2445 = {"Mangazeya" "Mangazeya"}
+4691 = {"Tolmachyovo" "Tolmachyovo"}
+
+# Ob
+
+480 = {"Novonikolayevsk" "Novonikolayevsk"}
+2428 = {"Yugan" "Yugan"}
+2429 = {"Megion" "Megion"}
+2433 = {"Kemerovo" "Kemerovo"}
+
+# Tunguska
+
+1059 = {"Vostochnaya Tunguska" "Chemdal'sk"}
+1061 = {"Zapadnaya Tunguska" "Boguchany"}
+2431 = {"Uchaminskiy" "Uchamo"}
+2432 = {"Yeniseysk" "Yeniseysk"}
+2436 = {"Vanavara" "Vanavara"}
+
+# Yrtesh
+
+1071 = {"Tara" "Tara"}
+2434 = {"Barnaul" "Barnaul"}
+4687 = {"Koryakovsky" "Korkakovsky"}
+4688 = {"Tatarsk" "Tatarsk"}
+4689 = {"Omsk" "Omsk"}
+
+## EAST SIBERIA
+
+# Buryatia
+
+1055 = {"Verhneangarsk" "Uoyan"}
+1056 = {"Barguzin" "Barguzin"}
+1057 = {"Udinskoye" "Udinskoye"}
+1058 = {"Chita" "Chita"}
+2446 = {"Bagdarin" "Bagdarin"}
+
+# Kamchatka
+
+1034 = {"Petropavlovsk" "Petropavlovsk-Kamchatskiy"}
+1035 = {"Penzhina" "Kamenskoye"}
+1038 = {"Bilibino" "Bilibino"}
+2440 = {"Novo-Mariinsk" "Novo-Mariinsk"}
+
+# Kolyma
+
+1036 = {"Kolyma" "Nizhnekolymsk"}
+1037 = {"Omolon" "Omolon"}
+1039 = {"Verkhoyansk" "Verkhoyansk"}
+1040 = {"Suntar-Khayata" "Kyubeme"}
+2439 = {"Yarmanka" "Kharba-Atakh"}
+
+# Okhotsk
+
+1043 = {"Okhota" "Okhotsk"}
+1044 = {"Magadan" "Magadan"}
+1047 = {"Dzhugdzhur" "Ayan"}
+1052 = {"Stanovoy" "Neryungri"}
+
+# Sakha
+
+1042 = {"Oymyakon" "Oymyakon"}
+1046 = {"Mayya" "Mayya"}
+2438 = {"Yakutsk" "Yakutsk"}
+
+# Yakutia
+
+1045 = {"Sinsk" "Sinsk"}
+1051 = {"Nezametny" "Nezametny"}
+1054 = {"Lensk" "Lensk"}
+2435 = {"Olyokminsk" "Olyokminsk"}
+2437 = {"Vilyisk" "Vilyisk"}
+
+## CENTRAL ASIA
+
+# Arys
+
+457 = {"Tashkent" "Tashkent"}
+2356 = {"Chimkent" "Chimkent"}
+2364 = {"Fergana" "Fergana"}
+
+# Balclash
+
+477 = {"Balkhash" "Balkhash"}
+478 = {"Semipalatinsk" "Semipalatinsk"}
+2355 = {"Sergiopol" "Sergiopol"}
+2360 = {"Karakalinsk" "Karakalinsk"}
+4685 = {"Karaganda" "Karaganda"}
+
+# Ferghana
+
+458 = {"Kokand" "Kokand"}
+460 = {"Uzgen" "Uzgen"}
+1967 = {"Hudzhand" "Hudzhand"}
+
+# Jetysuu
+
+459 = {"Pishpek" "Pishpek"}
+461 = {"Verny" "Verny"}
+2125 = {"Kochkorka" "Kochkorka"}
+2126 = {"Naryn" "Naryn"}
+2368 = {"Karaoy" "Karaoy"}
+
+# Kashgaria
+
+2124 = {"Yarkend" "Yarkend"}
+2127 = {"Yashikul" "Yashikul"}
+4209 = {"Maralbashi" "Tumshuk"}
+4210 = {"Inczisha" "Yengisar"}
+
+# Kazakhstan
+
+476 = {"Azhibeksor" "Nukus"}
+2351 = {"Irgiz" "Irgiz"}
+2353 = {"Akshiganak" "Akshiganak"}
+2358 = {"Koskol" "Koskol"}
+2359 = {"Kiyinsk" "Kiyinsk"}
+
+# Khiva
+
+440 = {"Karakalpakstan" "Chimbay"}
+441 = {"Hiva" "Hiva"}
+1973 = {"Urgench" "Urgench"}
+2362 = {"Kyoneurgench" "Kyoneurgench"}
+2370 = {"Zheleznodorozhny" "Zheleznodorozhny"}
+
+# Khuttalan
+
+1968 = {"Kulyab" "Kulyab"}
+4343 = {"Termez" "Termez"}
+4344 = {"Shahrisabz" "Shahrisabz"}
+
+# Kyzylkum
+
+455 = {"Kyzylkum" "Kyzylkum"}
+1970 = {"Perovsk" "Perovsk"}
+2363 = {"Atakent" "Zhetysay"}
+
+# Lower Yik
+
+469 = {"Guriev" "Guriev"}
+474 = {"Inderborskiy" "Inderborskiy"}
+2365 = {"Alexandrov Gai" "Alexandrov Gai"}
+2367 = {"Glinanskaya" "Glinanskaya"}
+
+# Nogai
+
+465 = {"Saraychik" "Saraychik"}
+470 = {"Kalmykov" "Kalmykov"}
+471 = {"Aralysk" "Aralysk"}
+472 = {"Aktyubinsk" "Aktyubinsk"}
+2366 = {"Iletskaya Zashchita" "Iletskaya Zashchita"}
+
+# Shanshan
+
+710 = {"Khotan" "Khotan"}
+711 = {"Cemo" "Cemo"}
+2123 = {"Charklyk" "Charklyk"}
+4693 = {"Keriya" "Keriya"}
+
+# Syr Darya
+
+456 = {"Turkestan" "Shavgar"}
+1969 = {"Suzak" "Suzak"}
+2352 = {"Kazalinsk" "Kazalinsk"}
+2361 = {"Betpak-Dala" "Betpak-Dala"}
+
+# Transcaspia
+
+437 = {"Kopetdag" "Parfavnisa"}
+438 = {"Karakumy" "Gyokdepe"}
+439 = {"Mangistauskaya" "Melovoye"}
+443 = {"Ustyurt" "Beyneu"}
+2349 = {"Krasnovodsk" "Krasnovodsk"}
+
+# Transoxiana
+
+442 = {"Buhara" "Buhara"}
+453 = {"Karshy" "Karshy"}
+454 = {"Samarkand" "Samarkand"}
+
+## KHORASAN
+
+452 = {"Badahshan" "Badashan"}
+2350 = {"Poltoratsk" "Poltoratsk"}
+445 = {"Gyaur-Kala" "Gyaur-Kala"}
+
+## PERSIA
+
+2236 = {"Bodzhnurd" "Bodzhnurd"}
+
+
+227 = {"Vladizapad" "Vladizapad"}
+
+
+## MONGOLIA
+
+# Outer Mongolia
+
+717 = "Kerulen"
+4220 = {"Kyakhta" "Kyakhta"}
+
+# Tannu Uriankhai
+
+716 = {"Tuva" "Belotsarsk"}
+1065 = {"Kuznetsk" "Kuznetsk"}
+4679 = {"Huvsgel" "Muryen"}
+1066 = {"Ulala" "Ulala"}
+
+## MANCHURIA
+
+2102 = {"Albazin" "Albazin"}
+2103 = {"Udskoye" "Udskoye"}
+4662 = {"Svobodny" "Svobodny"}
+1049 = {"Belogorsk" "Belogorsk"}
+2104 = {"Obluchye" "Obluchye"}
+2105 = {"Birobidzhan" "Birobidzhan"}
+729 = {"Khabarovsk" "Khabarovsk"}
+4215 = {"Komsomolsk" "Komsomolsk-on-Amur"}
+1048 = {"Chegdomyn" "Chegdomyn"}
+4214 = {"Evoron" "Evoron"}
+1050 = {"Nikolayevsk" "Nikolayevsk-on-Amur"}
+4216 = {"Selikhino" "Selikhino"}
+729 = {"Impegavan" "Imperatorskaya Gavan"}
+4217 = {"Vyazemsky" "Vyazemsky"}
+4656 = {"Maksimovka" "Maksimovka"}
+2186 = {"Novostroyka" "Novostroyka"}
+4655 = {"Semyonovka" "Semyonovka"}
+1850 = {"Nakhodka" "Nakhodka"}
+2106 = {"Vladivostok" "Vladivostok"}
+1033 = {"Yuzhno-Sakhalinsk" "Yuzhno-Sakhalinsk"}
+4658 = {"Okhe" "Okhe"}
+4659 = {"Fevralskoye" "Fevralskoye"}
+
+## JAPAN
+
+1032 = {"Kuril'skiye Ostrova" "Yuzhno-Kurilsk"}
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+Code  Name x  
+868 = {"Zemletryaseniy"}   
+869 = {"Kalafornaya"}   
+2021 = {"Khorosho"}   
+2476 = {"Svyatoy Iakov"}   
+4637 = {"Svyatoy Frantsisk"}   
+     
+# APACHERIA    
+     
+879 = {"Shirokiye"}   
+2492 = {"Chernoyye"}   
+4634 = {"Kreypol"}   
+     
+# ARIZONA    
+     
+867 = {"Pustynya"}   
+876 = {"Solenaya"}   
+877 = {"Chernogoriya"}   
+2491 = {"Ushchelye"}   
+4633 = {"Orekhovoye"}   
+     
+# BAJA CALIFORNIA   
+     
+865 = {"Trigorod"}   
+866 = {"Kalafornayagorod"}   
+2620 = {"Nizhnyaya Kalafornaya"}   
+4639 = {"Tikhuana"}   
+     
+# CENTRAL VALLEY   
+     
+870 = {"Tsentralnyye Ravniny"}   
+2478 = {"Trudnyy"}   
+4635 = {"Istochnikigorod"}   
+4636 = {"Angel Nebles"}   
+     
+# COLORADO PLATEU   
+     
+875 = {"Krasnyy Nagorye"}   
+878 = {"Korablya"}   
+2493 = {"Pustyne"}   
+2494 = {"Zunigrad"}   
+     
+# NEW MEXICO   
+     
+880 = {"Novaya Lunnaya"}   
+881 = {"Pomogat"}   
+2495 = {"Belly Kamen"}   
+4631 = {"Albulkerkyy"}   
+4632 = {"Ranchiye"}   
+     
+# NORTH CALIFORNIA   
+     
+871 = {"Ross"}   
+2477 = {"Lesagorod"}   
+2479 = {"Krepost’ Ross"}   
+2480 = {"Shasta"}   
+4638 = {"Szadigorod"}   
+     
+# SONORA    
+     
+862 = {"Novyy Novgorod"}   
+2616 = {"Pustynya Zhenshchin"}   
+4577 = {"Yuma"}   
+4649 = {"Generaly"}   
+4650 = {"Oazis Amerika"}   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = {"Poberezhye"}   
+2576 = {"Seryy Volk"}   
+2577 = {"Kruglyye Ostrova"}   
+2578 = {"Ostrov Vozneseniya"}   
+2579 = {"Kray Gluboko"}   
+     
+# GREENLAND    
+     
+1104 = {"Krepost’ Eyrik"}   
+1105 = {"Novaya Kareliya"}   
+     
+# HURONIA    
+     
+988 = {"Golovorezy"}   
+989 = {"Krasivoy"}   
+2585 = {"Treydery"}   
+2670 = {"Verkhniygorod"}   
+     
+# LABRADOR    
+     
+997 = {"Zemlevladelets"}   
+2574 = {"Neyn"}   
+2575 = {"Severozapadnaya"}   
+     
+# LAURENTIA    
+     
+992 = {"Reka Prepyatstviy"}   
+2581 = {"Glubokaya Voda"}   
+4894 = {"Uspenskii"}
+     
+# LOWER ACADIA   
+     
+982 = {"Tsarskiy"}   
+984 = {"Arkadiya"}   
+2568 = {"Yuzhnyy Bereg"}   
+2569 = {"Vostochnyy"}   
+4891 = {"Pitputya"}   
+     
+# LOWER CANADA   
+     
+993 = {"Mariagrad"}   
+2584 = {"Cherkasska"}   
+4895 = {"Batisk"}   
+     
+# NEWFOUNDLAND    
+     
+980 = {"Novayagrad"}   
+981 = {"Nemnogo Sever"}   
+2573 = {"Udovolstviye"}   
+     
+# OTTAWA VALLEY   
+     
+4890 = {"Kitesporod"}   
+4892 = {"Irigorod"}   
+4897 = {"Keinogorod"}   
+     
+# QUEBEC    
+     
+986 = {"Priyut"}   
+994 = {"Uzkost"}   
+995 = {"Grud’"}   
+2582 = {"Volka"}   
+2583 = {"Svyatogo Lavrentiya"}   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = {"Glubokiy"}   
+2571 = {"Malenkiye"}   
+4896 = {"Medukyy"}   
+     
+# TROIS_RIVIERES    
+     
+990 = {"Trigrad"}   
+2012 = {"Kotel"}   
+2580 = {"Svyatogo Mavrikiyska"}   
+4893 = {"Nebegorod"}   
+     
+# UPPER ACADIA   
+     
+983 = {"Ostrova Svyatoy Ioanna"}   
+985 = {"Shokolad"}   
+2572 = {"Teplyy"}   
+     
+# UPPER CANADA   
+     
+987 = {"Proliv"}   
+2586 = {"Tabak"}   
+2587 = {"Ostrov Dukhov"}   
+     
+# UPPER ONTARIO   
+     
+991 = {"Bol’shada Voda"}   
+1001 = {"Stremnina Svyataya Marii"}   
+1007 = {"Groma"}   
+2015 = {"Skaly"}   
+2671 = {"Spokiynoye More"}   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = {"Vorota"}   
+2658 = {"Svyatoy Ioann"}   
+2659 = {"Sofiya"}   
+4620 = {"Syamanyy"}   
+4621 = {"Vysshaya Milost’"}   
+     
+# EAST CUBA   
+     
+486 = {"Svyatoy =Jakob"}   
+2654 = {"Pirmorskiy"}   
+2655 = {"Svyatoy Spasitel’"}   
+2656 = {"Svyatoya Marii"}   
+     
+# GREATER ANTILLES   
+     
+481 = {"D’yavolov"}   
+487 = {"Pruzhinnyy"}   
+491 = {"Istseleniye"}   
+492 = {"Bogatyy Port"}   
+     
+# HAITI    
+     
+488 = {"Ostrovki"}   
+489 = {"Russkiy Mys"}   
+4618 = {"Gorod Sveta"}   
+4619 = {"Artibonit"}   
+     
+# LEEWARD ISLANDS   
+     
+493 = {"Devstvenyye Ostova"}   
+494 = {"Svyatoy =Khistofor"}   
+495 = {"Dervniy"}   
+496 = {"Ananasovyy"}   
+1881 = {"Svyatoy =Bartolomey"}   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = {"Melkoye"}   
+483 = {"Ostrova Turka"}   
+     
+# WEST CUBA   
+     
+484 = {"Gavan’"}   
+485 = {"Svyatoy Dukh"}   
+4622 = {"Gorod Mostov"}   
+4623 = {"Svyatoya Klara"}   
+4624 = {"Sosnovaya"}   
+     
+# WINDWARD ISLANDS   
+     
+497 = {"Voskresenye"}   
+498 = {"Tsvetochnyy"}   
+499 = {"Svyataya Lutsiya"}   
+500 = {"Svyatoy VIkentiy"}   
+501 = {"Borodatyye"}   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = {"Vnutri Prokhoda"}   
+977 = {"Novaya Rossiya"}   
+2613 = {"Novoarkhangesk"}   
+     
+# COLUMBIA RIVER   
+     
+873 = {"Kolumbiyskaya"}   
+2486 = {"Yakima"}   
+2487 = {"Solstna"}   
+2488 = {"Minogiye"}   
+     
+# HECATE STRAIT   
+     
+975 = {"Proliv Imperatrisy Yekatiriny"}   
+2022 = {"Imperatrisy Yekatiriny"}   
+2609 = {"Proliv Gekaty"}   
+     
+# INTERIOR PLATEAU   
+     
+2003 = {"Lukom"}   
+2604 = {"Novyy Ruteniya"}   
+2605 = {"Kanoe Dlinna"}   
+2606 = {"Okhra Reka"}   
+2607 = {"Fyodorovskaya"}   
+     
+# OREGON    
+     
+872 = {"Uragan"}   
+2481 = {"Kalamat"}   
+2482 = {"Volopadov"}   
+2483 = {"Bol’shoy Kruglyy"}   
+     
+# PUGET SOUND   
+     
+874 = {"Kaskadov"}   
+2484 = {"Olimpiykiy Poluostrov"}   
+2485 = {"Zelenskyy"}   
+     
+# SNAKE RIVER   
+     
+2019 = {"Lososya"}   
+2020 = {"Reka Zmey"}   
+2489 = {"Lesistoy Reka"}   
+2490 = {"Solenogo Ozera"}   
+2506 = {"Zelenyy"}   
+     
+# STRAITS OF GEORGIA  
+     
+972 = {"Vitsinskyy"}   
+973 = {"Russkaya Kolumbiya"}   
+974 = {"Na Vkhode Rytsarya"}   
+2610 = {"Proliv Yekaterina"}   
+     
+# WESTERN ALASKA   
+     
+978 = {"Fort Nikolayevskaya"}   
+979 = {"Aleutskie"}   
+2611 = {"Alyaska"}   
+2612 = {"Medno"}   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = {"Kleshchaya"}   
+2632 = {"Vlazhnoy"}   
+2650 = {"Tochki"}   
+     
+# CHIAPAS    
+     
+2635 = {"Shalfyy"}   
+2638 = {"Kisiyy"}   
+2649 = {"Obezliudev"}   
+4585 = {"Krolikov"}   
+4586 = {"Drevlikh"}   
+     
+# COSTA RICA   
+     
+836 = {"Tyumeni"}   
+2663 = {"Bogatyy Bereg"}   
+4597 = {"Limonyy"}   
+     
+# EAST YUCATAN   
+     
+2634 = {"Derev"}   
+2652 = {"Lastochki Ostrov"}   
+4588 = {"Semyagrad"}   
+4591 = {"Korolyagorod"}   
+     
+# GUATEMALA    
+     
+839 = {"Spasitel"}   
+841 = {"Pernatyy"}   
+2653 = {"Drevesnyy"}   
+4587 = {"Trosnik"}   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = {"Bolshoy Ostrov"}   
+843 = {"Mutnaya Voda"}   
+2636 = {"Sladkiygorod"}   
+4589 = {"Zhir Sovet"}   
+4594 = {"Vyerapashyye"}   
+     
+# HONDURAS    
+     
+840 = {"Glubiny"}   
+2637 = {"Loshadey"}   
+2640 = {"Serebranyye"}   
+2662 = {"Bolotovoda"}   
+4593 = {"Atlantida"}   
+     
+# NICARAGUA    
+     
+837 = {"Pskov"}   
+838 = {"Komarinyy"}   
+2660 = {"Nikarvody"}   
+2661 = {"Gorakh"}   
+4592 = {"Koldovstvo"}   
+     
+# WEST YUCATAN   
+     
+846 = {"Voronezh"}   
+2633 = {"Lesnyye"}   
+2651 = {"Bogatsgorod"}   
+4590 = {"Mesto"}   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = {"Materik"}   
+2664 = {"Vologda"}   
+2819 = {"Zolotaya Rossiya"}   
+4595 = {"Rot Byka"}   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = {"Krepost’ Feodor"}   
+916 = {"Razbitoye Serdste"}   
+917 = {"Ostrov Stale"}   
+4903 = {"Khikyysgrad"}   
+     
+# INDIANA    
+     
+942 = {"Svyataya Marii"}   
+943 = {"Zemlya Slivy"}   
+2523 = {"Nagor’ye"}   
+2524 = {"Indiyskaya"}   
+4922 = {"Pepikokia"}   
+     
+# LAKE SUPERIOR   
+     
+910 = {"Reka Dozhdya"}   
+911 = {"Verkhniy Poluostrov"}   
+2517 = {"Dno Ozera"}   
+2518 = {"Apostol Ostrova"}   
+4898 = {"Nokegorod"}   
+     
+# MICHIGAN    
+     
+944 = {"Ozerogorod"}   
+945 = {"Cherepakha"}   
+2521 = {"Zheltygorod"}   
+2522 = {"Svyatoy Iosif Reka"}   
+     
+# OHIO    
+     
+946 = {"Bolotnayagorod"}   
+947 = {"Krivaya"}   
+948 = {"Khoroshaya"}   
+2525 = {"Oleney"}   
+4907 = {"Mosopelea"}   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = {"Prepyatstviy"}   
+2520 = {"Nemnogo"}   
+4904 = {"Espeminkia"}   
+     
+# WISCONSIN    
+     
+912 = {"Severnaya Gornaya"}   
+913 = {"Krasnyy Kamen’"}   
+914 = {"Vonyuchiy"}   
+4899 = {"Mangrad"}   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = {"Korobkina"}   
+2504 = {"Baranov"}   
+2505 = {"Chernogoriya"}   
+     
+# Central Plains   
+     
+901 = {"Rovnaya"}   
+903 = {"Ploskaya"}   
+2009 = {"Peschanyye"}   
+2508 = {"Volkov"}   
+4915 = {"Pitaravograd"}   
+     
+# HIGH PLAINS   
+     
+889 = {"Chistilishche"}   
+2507 = {"Boltunyy"}   
+2625 = {"Rovnaya"}   
+     
+# IOWA    
+     
+905 = {"Reka Monakhov"}   
+2513 = {"Spyarshchiy"}   
+4900 = {"Otoye"}   
+4905 = {"Tapoyaryy"}   
+     
+# KANSAS    
+890 = {"Izgib"}   
+898 = {"Vyeter"}   
+2672 = {"Solomona"}   
+4914 = {"Neozho"}   
+     
+# MINNESOTA    
+     
+904 = {"Reka Kedra"}   
+908 = {"Tysyach"}   
+2512 = {"Lazurnaya"}   
+4901 = {"Saone"}   
+     
+# NORTH DAKOTA   
+     
+906 = {"Vasily"}   
+909 = {"Laskovaya"}   
+2510 = {"Limonovskaya"}   
+4918 = {"Runkipupkhka"}   
+     
+# SOUTH DAKOTA   
+     
+907 = {"Laskovaya"}   
+2007 = {"Slokony"}   
+2008 = {"Baydarka"}   
+4916 = {"Pankagrad"}   
+     
+# SOUTHERN PLAINS   
+     
+891 = {"Dikikh"}   
+892 = {"Lyudigrad"}   
+896 = {"Indiyskaya Territoriya"}   
+4908 = {"Tavekakh"}   
+     
+# UPPER MISSOURI   
+     
+2006 = {"Zheltyy"}   
+2501 = {"Severnyye Gory"}   
+2502 = {"Moloka"}   
+2503 = {"Kamenyy"}   
+4917 = {"Selgrad"}   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = {"Sredniy Voda"}   
+2588 = {"Matachviana"}   
+2589 = {"Kesigamiy"}   
+2590 = {"Shepcha Vody"}   
+2591 = {"Belozersk"}   
+     
+# ALBERTA    
+     
+2004 = {"Shlyapa Meditsiny"}   
+2017 = {"Aleksandria"}   
+2018 = {"Dom Skalistykh Gor"}   
+2602 = {"Lokot’ Reka"}   
+     
+# ASSINIBOIA    
+     
+2005 = {"Nazyvaya"}   
+2596 = {"Assiniboyny"}   
+2598 = {"Bolshiye Peschanyye Kholmy"}   
+4920 = {"Vadopabinyy"}   
+     
+# ATHABASCA    
+     
+2599 = {"Redkiye Trostnik"}   
+2600 = {"Maloye Nevolnich Ostrov"}   
+2601 = {"Dymchatyy"}   
+2603 = {"Mirnoye"}   
+     
+# HUDSON BAY   
+     
+1005 = {"Moskovskaya Faktoria"}   
+1006 = {"Chekov"}   
+1009 = {"Volkova"}   
+2592 = {"Tsarveny Iriny"}   
+2594 = {"Bogod"}   
+     
+# JAMES BAY   
+     
+998 = {"Zhizni"}   
+999 = {"Velikaya"}   
+1000 = {"Iriny"}   
+1003 = {"Zherdevsky"}   
+1004 = {"Obnazhenye"}   
+     
+# MANITOBA    
+     
+1008 = {"Mutnyye"}   
+1010 = {"Ozero"}   
+1011 = {"Paskuyak"}   
+2593 = {"Lesnoyo"}   
+4919 = {"Sirabyy"}   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = {"Kaversanaya"}   
+2511 = {"Krasnoy"}   
+4902 = {"Makandevyy"}   
+     
+# SASKATCHEWAN    
+     
+1813 = {"Kuzmicheva"}   
+2595 = {"Ostrov Kresta"}   
+2597 = {"Bystraya"}   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = {"Novyy Valyn"}   
+4646 = {"Tsapli"}   
+4647 = {"Nayyar"}   
+4648 = {"Khochu"}   
+     
+# GRAN CHICHIMECA   
+     
+857 = {"Svyatoy Konstantin"}   
+2642 = {"Matgorod"}   
+4642 = {"Dolinagorod"}   
+     
+# GUANAJUATO    
+     
+853 = {"Proliv"}   
+2615 = {"Penzagrad"}   
+4640 = {"Tverdogo"}   
+4641 = {"Osgorod"}   
+     
+# GUERRERO    
+     
+2627 = {"Bolshaya"}   
+2645 = {"Molchaniye"}   
+2648 = {"Trostnikoye"}   
+     
+# HUASTECA    
+     
+848 = {"Serdtsagrad"}   
+2641 = {"Kroliki"}   
+4598 = {"Krolikgorod"}   
+     
+# JALISCO    
+     
+854 = {"Novyy Chernigov"}   
+2617 = {"Goryachey"}   
+2621 = {"Peschanaya"}   
+2657 = {"Svyatoy Sebastyan"}   
+4576 = {"Olenegorod"}   
+     
+# MEXICO    
+     
+852 = {"Myeksikyy"}   
+2626 = {"Salamandra"}   
+4570 = {"Teskoko"}   
+4571 = {"Takuba"}   
+4572 = {"Idolov"}   
+     
+# MICHOAVAN    
+     
+2622 = {"Lyagushka"}   
+2623 = {"Goryachaya"}   
+2624 = {"Rybakov"}   
+4573 = {"Agavygorod"}   
+4574 = {"Koyotov"}   
+     
+# MIXTECA    
+     
+847 = {"Matgorod"}   
+849 = {"Nebolshoy"}   
+2646 = {"Oblakov"}   
+4581 = {"Kruglyy"}   
+     
+# NAYARIT    
+     
+855 = {"Olengrad"}   
+859 = {"Kukuruza"}   
+4578 = {"Lesaburg"}   
+     
+# Oaxaca    
+     
+844 = {"Proydennyye"}   
+2629 = {"Akatsiya"}   
+4584 = {"Otdykha"}   
+     
+# PUEBLA    
+     
+850 = {"Lyudigrad"}   
+2628 = {"Mestechko"}   
+2644 = {"Skala"}   
+4582 = {"Sozvediyegorod"}   
+4583 = {"Kordova"}   
+     
+# TIERRA CALIENTE   
+     
+851 = {"Plotakh"}   
+2643 = {"Laski"}   
+4575 = {"Gorychaya"}   
+4579 = {"Poletagrad"}   
+4580 = {"Romanovo"}
+     
+# VERACRUZ    
+     
+2630 = {"Boboskhye"}   
+2631 = {"Zmeygorod"}   
+2647 = {"Istinnyygrad"}   
+     
+# ZACATECAS    
+     
+856 = {"Pastbishche"}   
+4643 = {"Solevarnya"}   
+4645 = {"Plodorodnyye"}   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = {"Chashcha"}   
+925 = {"Babushka Reka"}   
+2531 = {"Severnaya Chashcha"}   
+2532 = {"Chernykh"}   
+4883 = {"Napokh"}   
+     
+# ARKANSAS    
+     
+894 = {"Buyvol"}   
+895 = {"Nizovoy"}   
+897 = {"Kameshek"}   
+4885 = {"Avoyel"}   
+4923 = {"Pakakh"}   
+     
+# KENTUCKY    
+     
+941 = {"Transil’ Vaniya"}   
+2526 = {"Luga"}   
+4888 = {"Tateroyy"}   
+     
+# LOUISIANA    
+     
+893 = {"Novaya Novgorod"}   
+2014 = {"Krasnaya"}   
+2516 = {"Poberezhya"}   
+     
+# MISSISSIPPI    
+     
+919 = {"Chernyy Poyas"}   
+920 = {"Khleba"}   
+2528 = {"Smerti"}   
+2529 = {"Velikaya"}   
+4884 = {"Roumy"}   
+     
+# OZARKS    
+     
+899 = {"Mostov"}   
+2509 = {"Sushkovo"}
+2515 = {"Belaya"}   
+4886 = {"Nasonye"}   
+     
+# TENNESSEE    
+     
+918 = {"Pushkinskaya"}   
+934 = {"Rogotnevo"}
+939 = {"Krepost’ Pavel"}   
+4913 = {"Aniyutsi"}   
+     
+# UPPER LOUISIANA   
+     
+900 = {"Baydarka"}   
+902 = {"Velikaya"}   
+2514 = {"Zhenevgrad"}   
+4906 = {"Koigorod"}   
+     
+# VANDALIA    
+     
+951 = {"Devstvennayagrad"}   
+2551 = {"Padeniye"}   
+4889 = {"Moretyy"}   
+     
+# WESTERN KENTUCKY   
+     
+940 = {"Lyudovikgrad"}   
+4887 = {"Kokhivoda"}   
+4921 = {"Kutava"}   
+     
+# WEST FLORIDA   
+     
+921 = {"Nizhe Zemlya Petra"}   
+922 = {"Mobilnykh Zaliva"}   
+923 = {"Tsvetochnaya"}   
+2530 = {"Muromskaya"}   
+2533 = {"Khokhtoyy"}   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = {"Dlinnyy"}   
+2555 = {"Proninskaya"}   
+4875 = {"Pokrovka"}   
+     
+# CONNECTICUT    
+     
+967 = {"Krasnyy Ostrov"}   
+2010 = {"Svezhiy"}   
+2560 = {"Novyy Ray"}   
+     
+# DELAWARE VALLEY   
+     
+956 = {"Petrovskyy"}   
+957 = {"Lebedev"}   
+962 = {"Yuzhnaya"}   
+2023 = {"Beskonechnyye"}   
+     
+# EASTERN MAINE   
+     
+971 = {"Spusk"}   
+2566 = {"Svyatoy Krest"}   
+2567 = {"Arustuk"}   
+     
+# HUDSON VALLEY   
+     
+961 = {"Stoya Kamen"}   
+963 = {"Tolstogo"}   
+964 = {"Kremen"}   
+2559 = {"Dikobrazy"}   
+4912 = {"Irikoygrad"}   
+     
+# IRIQUOISIA    
+     
+958 = {"Buyvol"}   
+959 = {"Priyatnaya Dolina"}   
+960 = {"Shesti Natsiy"}   
+4872 = {"Petrova"}   
+     
+# LAKE CHAMPLAIN   
+     
+969 = {"Zelenyye"}   
+2563 = {"Shukshina"}   
+4871 = {"Kovagrad"}   
+     
+# MAINE    
+     
+2013 = {"Bol’shoy"}   
+2565 = {"Materik"}   
+4873 = {"Pegovakyy"}   
+     
+# MARYLAND    
+     
+953 = {"Marii"}   
+2553 = {"Torgovli"}   
+2554 = {"Kirov"}   
+     
+# MASSACHUSETTS    
+     
+966 = {"Kareliya"}   
+968 = {"Golubykhgorod"}   
+2561 = {"Perm"}   
+4874 = {"Korovino"}
+     
+# NEW HAMPSHIRE   
+     
+970 = {"Novyy Suzdal"}   
+2562 = {"Odinochnyye"}   
+2564 = {"Belyye"}   
+     
+# NEW YORK   
+     
+965 = {"Novyy Novgorod"}   
+2558 = {"Koshek"}   
+2639 = {"Belgorod"}   
+     
+# WESTYLVANIA    
+     
+955 = {"Mutnaya"}   
+2556 = {"Zhunyatta"}   
+2557 = {"Krepost’ Yekaterina"}   
+4876 = {"Garevskaya"}
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = {"Prokhod"}   
+864 = {"Peresheyek"}   
+2618 = {"Varvargrad"}   
+4644 = {"Losnoygrad"}   
+     
+# COAHUILA    
+     
+861 = {"Novaya Sibir"}   
+864 = {"Peresheyek"}   
+2666 = {"Tyecherigrad"}   
+2667 = {"Novyy Saratov"}   
+4606 = {"Izgorod"}   
+     
+# COASTAL PRARIE   
+     
+884 = {"Krepost’ Ivana"}   
+888 = {"Gagaringrad"}   
+2665 = {"Kiparisami"}   
+2669 = {"Soyuznigrad"}   
+     
+# LLANO ESTACADO   
+     
+882 = {"Prichnaya"}   
+885 = {"Pashaya"}   
+2496 = {"Krovyu Khristos"}   
+2497 = {"Ravniny"}   
+4630 = {"Bleyzernaya"}   
+     
+# PECOS    
+     
+2498 = {"Prokhod"}   
+4628 = {"Kottonvud"}   
+4629 = {"Kresty"}   
+     
+# TAMAULIPAS    
+     
+858 = {"Vysokiye"}   
+2499 = {"Soyuzniki"}   
+2614 = {"Yarovslav"}   
+2668 = {"Yarosti"}   
+     
+# TEXAS    
+     
+883 = {"Svyatoy Antoniy"}   
+887 = {"Troisy"}   
+4627 = {"Svyatoy Markus"}   
+4911 = {"Naboryye"}   
+     
+# TEXAS PLAINS   
+     
+886 = {"Obyatiya"}   
+2500 = {"Savyygrad"}   
+4909 = {"Kisakh"}   
+4910 = {"Tavakonyy"}   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = {"Vostochnaya Tsvetochnaya"}   
+928 = {"Svyatoy Konstantin"}   
+2534 = {"Svyatoy Very"}   
+     
+# FLORIDA    
+     
+926 = {"Reka Svyatoy Ioann"}   
+2535 = {"Svyatoy Antoniy"}   
+2536 = {"Svyatoy Dukh"}   
+4625 = {"Oranzhevvy"}   
+4626 = {"Gorod Sviney"}   
+     
+# GEORGIA    
+     
+929 = {"Svyatoya Yekaterina"}   
+2537 = {"Ekho"}   
+2538 = {"Altamagiryy"}   
+2539 = {"Drozh’ Zemli"}   
+4880 = {"Konbakh"}   
+     
+# GREAT VALLEY   
+     
+949 = {"Khrebet"}   
+2011 = {"Reka Yeley"}   
+2548 = {"Novyygrad"}   
+2552 = {"Melkyy"}   
+     
+# NORTH CAROLINA   
+     
+937 = {"Severnagorod"}   
+938 = {"Pamalikoskaya"}   
+2546 = {"Mys Strakha"}   
+2547 = {"Vnutrenniye"}   
+     
+# OVERMOUNTAIN    
+     
+935 = {"Izvilistayagrad"}   
+936 = {"Dymchatyye"}   
+2527 = {"Izvilistayagorod"}   
+4879 = {"Kituvaryye"}   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = {"Tsarskoye"}   
+2545 = {"Yekaterinburg"}   
+4878 = {"Yenyy"}   
+     
+# SOUTH CAROLINA   
+     
+932 = {"Yuzhnaya Zemlya Mikhaila"}   
+2542 = {"Stranoy s Nizkim"}   
+2543 = {"Dolgorod"}   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = {"Predgor’ya"}   
+2541 = {"Krespost’ Prinsa Petra"}   
+4882 = {"Yetaly"}   
+     
+# UPPER GEORGIA   
+     
+930 = {"Kremnya"}   
+931 = {"Svyatoya Anny"}   
+2540 = {"Annagrad"}   
+4881 = {"Savokhgrad"}   
+     
+# VIRGINIA    
+     
+950 = {"Zemlya Prilivov"}   
+952 = {"Devstvennaya"}   
+2549 = {"Reka Vasiliya"}   
+2550 = {"Rastet Voda"}   
+4877 = {"Notovayy"}   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = {"Dozhdilvaya"}   
+2935 = {"More"}   
+2938 = {"Severnyy Mys"}   
+     
+# AMAZON    
+     
+2889 = {"Belaya"}   
+2930 = {"Bratsk"}   
+2933 = {"Chernaya"}   
+2934 = {"Svyatoy Iosif iz Chernykh Rek"}   
+     
+# BAHIA    
+     
+756 = {"Zaliv"}   
+757 = {"Ostrovky"}   
+760 = {"Bezopasnaya Gavan’"}   
+2914 = {"Nesokrushmyy Gornaya"}   
+2916 = {"Reka Schetov"}   
+     
+# CEARA    
+     
+750 = {"Voskhod"}   
+751 = {"Biryuzoyye Vody"}   
+753 = {"Servernaya"}   
+     
+# DIAMANTINA    
+     
+759 = {"Gory Shipami"}   
+2891 = {"Svyatoy Antoniy"}   
+2898 = {"Kholodnyye"}   
+     
+# GOIAS    
+     
+758 = {"Svyatoya Anna"}   
+2906 = {"Aryye"}   
+2907 = {"Volov"}   
+2908 = {"Borzaya Gornaya"}   
+2919 = {"Svyatoya Lutsyia"}   
+     
+# GRAO PARA   
+     
+748 = {"Shastlivyy Rossiya"}   
+2890 = {"Svyatoya Ioanna Ostrov"}   
+2928 = {"Saranchyy"}   
+2929 = {"Delta Amazonika"}   
+     
+# GUAPORE    
+     
+2900 = {"Vodopad"}   
+2901 = {"Paresyy"}   
+2902 = {"Somneniya"}   
+     
+# GUAYRA    
+     
+768 = {"Sosnovyy Les"}   
+2895 = {"Bez Ryby"}   
+2897 = {"Ryby"}   
+     
+# MARANHAO    
+     
+749 = {"Pal’movaya"}   
+2923 = {"Vyosikoyy"}   
+2924 = {"Perepel"}   
+2926 = {"Utki"}   
+2927 = {"Svyatoy Antoniy"}   
+     
+# MATO GROSSO   
+     
+2888 = {"Tolsyye"}   
+2903 = {"Boloto"}   
+2904 = {"Brazilskoye"}   
+2905 = {"Khrap"}   
+     
+# MINAS GERAIS   
+     
+765 = {"Staryy"}   
+2892 = {"Les Verevkoy"}   
+2894 = {"Dozhdevaya Kaplya"}   
+2899 = {"Shirokiye Shakhty"}   
+     
+# OFAIE    
+     
+2881 = {"Graviye"}   
+2893 = {"Yarensk"}
+2920 = {"Podushka"}   
+     
+# PERNAMBUCO    
+     
+754 = {"Nesudokhodnaya"}   
+755 = {"Vodopoya"}   
+2912 = {"Reka Krabov"}   
+2921 = {"Laguna"}   
+2922 = {"Nezhilyye"}   
+     
+# PIAUI    
+752 = {"Rybnaya"}   
+2886 = {"Plokho More"}   
+2925 = {"Bukta"}   
+     
+# PONTAL    
+     
+2909 = {"Tuvan Klyuv"}   
+2910 = {"Shumnyye"}   
+2911 = {"Rozhdeniye"}   
+     
+# RIO DE JANEIRO  
+     
+761 = {"Svyatoy Dukh"}   
+762 = {"Svyatoy Foma"}   
+763 = {"Yanvarskaya"}   
+764 = {"Svyatoy Afanasy"}   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = {"Yuzhnayagrad"}   
+2879 = {"Peschanyy"}   
+2884 = {"Vostochnyye Missii"}   
+2887 = {"Svyatoya Yekaterina"}   
+     
+# SAO FRANCISCO   
+     
+2885 = {"Svyatoy Fyodor"}   
+2913 = {"Tyvka"}   
+2915 = {"Derevo"}   
+2917 = {"Svyatoya Fyodora"}   
+2918 = {"Tokov"}   
+     
+# SAO PAULO   
+     
+766 = {"Svyatoy Vikentiy"}   
+769 = {"Moriyye"}   
+2896 = {"Novyy Moskva"}   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825= {"Safronovka"}
+832 = {"Vostochnyye"}   
+4602 = {"Goblinov"}   
+4603 = {"Korolevskoy"}   
+     
+# CENTRAL LLANOS   
+     
+834 = {"Obzor"}   
+2810 = {"Dalshe"}   
+2813 = {"Novgorod"}   
+4613 = {"Krasnoturinsk"}   
+4614 = {"Arauka"}   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = {"Kolumbiyskiy"}   
+2816 = {"Gaviyar"}   
+4605 = {"Khlynuyshaya"}   
+     
+# COQUIVACOA    
+     
+828 = {"Kyiv"}   
+829 = {"Magdalinaya"}   
+2806 = {"Parusov"}   
+4599 = {"Vladimir"}   
+4601 = {"Tsezar"}   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = {"Severnaya"}   
+827 = {"Antiokhiya"}   
+2817 = {"Magdaliny"}   
+4600 = {"Stolitsa"}   
+4607 = {"Armeniya"}   
+     
+# EASTERN LLANOS   
+     
+2805 = {"Veslograd"}   
+2809 = {"Kalabozey"}   
+2939 = {"Svyatoy Mikhail"}   
+4615 = {"Zhigulovsk"}   
+     
+# GUYANA    
+     
+502 = {"Troisa i Tabak"}   
+743 = {"Gayana"}   
+744 = {"Podorozhnik"}   
+2803 = {"Veslo Delta"}   
+     
+# MARACAIBO    
+     
+830 = {"Venetsiya"}   
+2807 = {"Blagodat"}   
+4609 = {"Larya"}   
+4610 = {"Tachirgorod"}   
+4611 = {"Budonovsk"}   
+     
+# POPAYAN    
+     
+823 = {"Marfagrad"}   
+826 = {"Mirnaya"}   
+2818 = {"Belgorod"}   
+4596 = {"Budushcheye"}   
+4604 = {"Narinyy"}   
+     
+# SURINAME    
+     
+745 = {"Sarinamyy"}   
+746 = {"Perets"}   
+2937 = {"Fyodorovna"}   
+     
+# UPPER GUYANA   
+     
+742 = {"Uzkost"}   
+2804 = {"Savanyy"}   
+2811 = {"Khatirinyye"}   
+2931 = {"Kaminy"}   
+4617 = {"Revda"}   
+     
+# VENEZUELA    
+     
+741 = {"Novyy Ryazan"}   
+831 = {"Shchiritsa"}   
+2808 = {"Annagorod"}   
+4612 = {"Labinsk"}   
+4616 = {"Zelenogorsk"}   
+     
+# WESTERN LLANOS   
+     
+2812 = {"Chernaya"}   
+2814 = {"Yekatiringorod"}   
+2815 = {"Ravniny"}   
+4608 = {"Voronezh"}   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = {"Prikyucheniye"}   
+786 = {"Karmel"}   
+2868 = {"Novyy Petrograd"}   
+     
+# BANDA ORIENTAL   
+     
+772 = {"Okrashenyye"}   
+773 = {"Vostochynaya"}   
+2850 = {"Gerasiny"}   
+2851 = {"Koloniya"}   
+2852 = {"Prypyat"}   
+     
+# BUENOS AIRES   
+     
+778 = {"Serebryanaya"}   
+2846 = {"Kasimov"}   
+2848 = {"Svyataya Vera"}   
+2849 = {"Potokov"}   
+     
+# CENTRAL CHILE   
+     
+784 = {"Granopol"}   
+787 = {"Svyatoy Iakov"}   
+2862 = {"Tikhoye"}   
+     
+# CUYO    
+     
+2843 = {"Severshchina"}   
+2844 = {"Druzhelyubiye"}   
+2845 = {"Ioanngrad"}   
+2847 = {"Kvintingorod"}   
+2877 = {"Merkulov"}   
+     
+# MESOPOTAMIA    
+     
+777 = {"Techeniya"}   
+2853 = {"Yarkiy"}   
+2855 = {"Missii"}   
+2858 = {"Stolp"}   
+2859 = {"Nakonechnik"}   
+     
+# NEHEUNKEN    
+     
+785 = {"Kriukovka"}
+2867 = {"Ravniny"}   
+2871 = {"Yaguargorod"}   
+2872 = {"Rafailgrad"}   
+     
+# PATAGONIA    
+     
+781 = {"Zhelannoye"}   
+782 = {"Ognennaya"}   
+2869 = {"Krestgrad"}   
+     
+# PATAGONIAN ANDES   
+     
+2863 = {"Chernaya"}   
+2870 = {"Prozrachnaya"}   
+2875 = {"Prozrachnyy"}   
+2876 = {"Patagoniya"}   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = {"Fyodorovskiye"}   
+2025 = {"Yuzhnyye Yekateriny"}   
+     
+# SOUTHERN CHILE   
+     
+783 = {"Peschanyy"}   
+2873 = {"Chayka Arkhpelag"}   
+2874 = {"Vitoy"}   
+     
+# SOUTHERN PAMPAS   
+     
+779 = {"Serebranoye"}   
+2860 = {"Volki"}   
+2861 = {"Chetvertaya"}   
+2865 = {"Vostochnyye"}   
+2866 = {"Siniy"}   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = {"Svintsovaya"}   
+804 = {"Alekseygrad"}   
+2831 = {"Mir"}   
+2947 = {"Vankaniy"}   
+     
+# CAJAMARCA    
+     
+813 = {"Shipgrad"}   
+2824 = {"Svyatoy Ignatiy"}   
+2825 = {"Ogromnost"}   
+2943 = {"Tuman"}   
+     
+# CHIMOR    
+     
+812 = {"Tver"}   
+2002 = {"Ostrova Cherepakh"}   
+2821 = {"Izobiliye"}   
+2822 = {"Kabachki"}   
+2826 = {"Izgorod"}   
+     
+# HUANUCO    
+     
+809 = {"Inkaya Krepost"}   
+810 = {"Svyashchennyy"}   
+811 = {"Shlaraffenland"}   
+814 = {"Korov"}   
+2827 = {"Voshod"}   
+     
+# IQUITOS    
+     
+815 = {"Amazonka"}   
+818 = {"Vostok"}   
+821 = {"Mollyuskov"}   
+     
+# KUNTISUYU    
+     
+807 = {"Yastreboy"}   
+808 = {"Novyy Tver"}   
+2829 = {"Trostnikgrad"}   
+2830 = {"Manyu"}   
+     
+# PERUAN COAST   
+     
+805 = {"Truba"}   
+806 = {"Kolodets"}   
+2828 = {"Kozhanyy"}   
+     
+# QUITO    
+     
+816 = {"Tumbigrad"}   
+817 = {"Kholmogory"}   
+819 = {"Zhemchug"}   
+820 = {"Ekvator"}   
+2820 = {"Izumrudy"}   
+     
+# UCAYALI    
+     
+2823 = {"Krasnyy"}   
+2944 = {"Svyatogo Mikhaila"}   
+2945 = {"Muroma"}   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = {"Svyatoy Martin"}   
+801 = {"Ravniny"}   
+2834 = {"Krestgrad"}   
+     
+# CHACO    
+     
+790 = {"Okhota"}   
+2854 = {"Krasivyy"}   
+2878 = {"Krasnovato"}   
+     
+# JUJUY    
+     
+794 = {"Khukhuy"}   
+2837 = {"Vysokogorya"}   
+2839 = {"Atakama"}   
+     
+# MOXOS    
+     
+803 = {"Savanyy"}   
+2832 = {"Ioakimgorod"}   
+2833 = {"Bozhiyey"}   
+     
+# NORTHERN CHILE   
+     
+792 = {"Biryizovaya"}   
+793 = {"Kholm"}   
+796 = {"Skalistyy"}   
+2840 = {"Pokhvaly"}   
+2841 = {"Vorota"}   
+     
+# PARAGUAY    
+     
+775 = {"Novyy Ryazan"}   
+776 = {"Zachatiye"}   
+799 = {"Korovannaya"}   
+2882 = {"Ravniny"}   
+2883 = {"Krasivoy"}   
+     
+# POTOSI    
+     
+795 = {"Bogatyyegorsk"}   
+797 = {"Nagorye"}   
+2940 = {"Laguna"}   
+2946 = {"Sbor"}   
+     
+# TUCUMAN    
+     
+791 = {"Naklonnaya"}   
+2836 = {"Mozyndor"}
+2842 = {"Iakovgrad"}   
+     
+# UPPER PERU   
+     
+2835 = {"Tsentraliya"}   
+2838 = {"Granitsa"}   
+2941 = {"Prudy"}   
+2942 = {"Tsarskiye"}   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = {"Yodva"}
+4852 = {"Yulygrad"}   
+4853 = {"Bidyargorod"}   
+4854 = {"Novyy Minsk"}   
+     
+# CAPRICORNIA    
+     
+2730 = {"Mys Moskva"}   
+2731 = {"Kashiringrad"}   
+2732 = {"Tsariningrad"}   
+4848 = {"Mingiruny"}   
+4849 = {"Kyurtygorod"}   
+     
+# ILLAWARA    
+     
+1090 = {"Patrakovo"}
+4857 = {"Novyy Kyiv"}   
+4858 = {"Taraval"}   
+4859 = {"Kambyera"}   
+4860 = {"Darogorod"}   
+     
+# NEW SOUTH WALES  
+     
+1091 = {"Novorossiya"}   
+1092 = {"Severnoye"}   
+4855 = {"Yimanyye"}   
+4856 = {"Barugrad"}   
+     
+# PERTH    
+     
+1084 = {"Lebedinoye"}   
+2727 = {"Yuzhnyy"}   
+4863 = {"Niyakiy"}   
+4864 = {"Yeatyye"}   
+     
+# PILBARA    
+     
+2726 = {"Akul"}   
+4865 = {"Lat'yuga"}
+4866 = {"Vozhgora"}
+4867 = {"Lebskoye"}
+     
+# PRINCELAND    
+     
+1086 = {"Australiya"}   
+2735 = {"Korablekrusheniye"}   
+2736 = {"Poluostrov"}   
+4862 = {"Negadyuri"}   
+     
+# QUEENSLAND    
+     
+1093 = {"Tsaritsy"}   
+1094 = {"Solnechnoye"}   
+2733 = {"Fyodorova"}   
+4850 = {"Byiryye"}   
+     
+# TASMANIA    
+     
+1085 = {"Yedinstva"}   
+4868 = {"Pyerogorod"}   
+4869 = {"Peragrad"}   
+     
+# TOP END   
+     
+2728 = {"Severnaya Territoriya"}   
+2729 = {"Astrakhana"}   
+4846 = {"Leshukonskoe"}
+4847 = {"Yunaviya"}   
+     
+# VICTORIA    
+     
+1087 = {"Pobeda"}   
+1088 = {"Kavkaz"}   
+1089 = {"Rechnyye"}   
+2734 = {"Kholodova"}   
+4861 = {"Yavero"}   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+#1244 = {""}
+#1987 = {""}
+1988 = {"Ostrov Paskhi"}   
+     
+# EAST MICRONESIA   
+     
+#1241 = {""}
+#1991 = {""}
+#1993 = {""}
+#1994 = {""}
+     
+# FIJI    
+     
+#1242 = {""}
+#4937 = {""}
+#4938 = {""}
+     
+# MELANESIA    
+     
+#1236 = {""}
+#1238 = {""}
+#1239 = {""}
+#1986 = {""}
+     
+# NORTHERN POLYNESIA   
+     
+1240 = {"Ravayy"}   
+#1997 = {""}
+4934 = {"Mauyy"}   
+4935 = {"Smolenskiye"}   
+4936 = {"Mavayy"}   
+     
+# POLYNESIA    
+     
+#1243 = {""}
+#1989 = {""}
+#1990 = {""}
+#1992 = {""}
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = {"Severnaya"}   
+1107 = {"Gosudarstv"}   
+2739 = {"Novyy Ufa"}   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = {"Bukhta Izobiliya"}   
+2737 = {"Yastrebinaya"}   
+4939 = {"Korshakovo"}
+     
+# TE WAIPOUNAMU   
+     
+1109 = {"Novaya Sibir"}   
+1246 = {"Yuzhnaya"}   
+2738 = {"Pskov"}   
+     
+# WEST MICRONESIA   
+     
+#1235 = {""}
+#1995 = {""}
+#1996 = {""}

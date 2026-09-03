@@ -1,0 +1,24 @@
+## URAL
+
+# Kama
+
+305 = {"Perem" "Perem"}
+1962 = {"Kudymkar" "Kudymkar"}
+1972 = {"Udmurt" "Alabuga"}
+4266 = {"Izkar" "Izkar"}
+
+# Perm
+
+1077 = {"Sovkar" "Sovkar"}
+1755 = {"Ustyug" "Ustyug"}
+1963 = {"Cerdyn" "Cerdyn"}
+1964 = {"Syktyvkar" "Syktyvkar"}
+4129 = {"Emdin" "Emdin"}
+
+# Ural
+
+1078 = {"Katykar" "Katykar"}
+1080 = {"Pelyom" "Pelyom"}
+1780 = {"Komi" "Yarönsk"}
+2427 = {"Belöyar" "Belöyar"}
+2441 = {"Iglin" "Iglin"}

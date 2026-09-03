@@ -1,0 +1,3659 @@
+##########################
+########  EUROPE  ########
+##########################
+
+## ITALY
+
+# Apulia
+
+122 = {"Sallentum" "Tarentum"}
+1933 = {"Barium" "Barium"}
+2985 = {"Daunia" "Fovea"}
+4733 = {"Molisium" "Campus Vassorum"}
+
+# Calabria
+
+123 = {"Bruttium" "Regium"}
+1934 = {"Acherontia" "Potentia"}
+2984 = {"Consentia" "Consentia"}
+
+# Campania
+
+121 = {"Neapolis" "Neapolis"}
+2983 = {"Salernum" "Salernum"}
+4734 = {"Abellinum" "Abellinum"}
+
+# Eastern Sicily
+
+124 = {"Messana" "Messana"}
+126 = {"Melita" "Medina"}
+2982 = {"Syracusae" "Syracusae"}
+
+# Emilia-Romagna
+
+105 = {"Parma" "Parma"} # other Latin names: Chrisopolis, Civitas Aurea, Colonia Iulia Augusta, Iulia Augusta
+106 = {"Mutina" "Mutina"}
+113 = {"Forum Alieni" "Forum Alieni"}
+114 = {"Ravenna" "Ravenna"}
+4730 = {"Bononia" "Bononia"}
+
+# Lazio-Umbria
+
+118 = {"Roma" "Roma"}
+2976 = {"Perusia" "Perusia"}
+4731 = {"Spoletium" "Spoletium"}
+4732 = {"Tarracina" "Tarracina"}
+
+# Liguria
+
+101 = {"Genua" "Genua"}
+102 = {"Nicaea" "Nicaea ad Varum"}
+2992 = {"Savo" "Savo"}
+
+# Lombardy
+
+104 = {"Mediolanum" "Mediolanum"}
+1862 = {"Cremona" "Cremona"}
+2979 = {"Novaria" "Novaria"}
+4728 = {"Ticinum" "Ticinum"}
+4740 = {"Comum" "Novum Comum"}
+
+# Marche-Abruzzo
+
+119 = {"Ancona" "Ancona"}
+120 = {"Aprutium" "Aquilia"}
+2977 = {"Urbinum" "Urbinum"}
+
+# Piedmont
+
+103 = {"Taurinum" "Augusta Taurinorum"}
+1875 = {"Cuneum" "Cuneum"}
+2981 = {"Mons Ferratus" "Burgus Casalis"}
+4727 = {"Salutiae" "Salutiae"}
+
+# Po Valley
+
+107 = {"Brixia" "Brixia"}
+109 = {"Mantua" "Mantua"}
+4739 = {"Bergomum" "Bergomum"}
+
+# Tuscany
+
+115 = {"Pisae" "Pisae"}
+116 = {"Florentia" "Florentia"}
+117 = {"Sena" "Sena Iulia"}
+2978 = {"Arretium" "Arretium"}
+2980 = {"Luca" "Luca"}
+
+# Tyrrhenian Isles
+
+127 = {"Sacerum" "Sacerum"}
+1247 = {"Corsica" "Mantinum"}
+2986 = {"Caralis" "Caralis"}
+4735 = {"Arborea" "Arborea"}
+
+# Venetia
+
+108 = {"Verona" "Verona"}
+111 = {"Forum Iulii" "Utinum"}
+112 = {"Venetiae" "Venetiae"}
+1774 = {"Tarvisium" "Tarvisium"}
+4729 = {"Patavium" "Patavium"}
+
+# Western Sicily
+
+125 = {"Panormus" "Panormus"}
+4736 = {"Drepanum" "Drepanum"}
+4737 = {"Agrigentum" "Agrigentum"}
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Borbonensis" "Molinae"}
+195 = {"Lemovicensis" "Augustoritum"}
+199 = {"Arvernia" "Augustonemetum"}
+4697 = {"Marchia" "Gueretum"}
+4777 = {"Forensis" "Monbrisonium"}
+
+# Brittany
+
+169 = {"Armorica" "Maclovium"}
+170 = {"Finisterrae" "Brestum"}
+171 = {"Dariorigum" "Dariorigum"}
+172 = {"Condivicnum" "Condivicnum"}
+4384 = {"Redones" "Redones"}
+
+# Champagne
+
+181 = {"Reistete" "Reistete"}
+186 = {"Durocortorum" "Durocortorum Remorum"}
+4390 = {"Trecae" "Trecae"}
+
+# Eastern Burgundy
+
+192 = {"Divio" "Divio"}
+193 = {"Liber Comitatus" "Vesontio"}
+4764 = {"Salinae" "Salinae"}
+
+# Gascony
+
+173 = {"Lapurdum" "Baiona"}
+175 = {"Armaniacum" "Augusta Auscorum"}
+176 = {"Bearnia" "Palum"}
+4694 = {"Fuxium" "Fuxium"}
+
+# Guyenne
+
+174 = {"Burdigala" "Burdigala"}
+194 = {"Petrocoriorum" "Brageriacum"}
+198 = {"Rutenensis" "Segodunum"}
+4112 = {"Cadurcensis" "Cadurcum"}
+
+# Île-de-France
+
+182 = {"Vallensis" "Augusta Suessionum"}
+183 = {"Lutetia" "Lutetia Parisiorum"}
+185 = {"Nemosum" "Nemosum"}
+4388 = {"Carnutum" "Carnutum"}
+
+# Languedoc
+
+196 = {"Tolosa" "Tolosa"}
+200 = {"Monspessulanus" "Monspessulanus"}
+2753 = {"Narbo" "Narbo"}
+4391 = {"Vivarium" "Vivarium"}
+4695 = {"Carcaso" "Carcaso"}
+
+# Loire Valley
+
+177 = {"Cenomanensis" "Cenomanum"}
+178 = {"Andegavia" "Andecavis"}
+4389 = {"Turonia" "Turonum"}
+
+# Lorraine
+
+187 = {"Barensis" "Barrum"}
+188 = {"Divodurum" "Divodurum Mediomatricorum"}
+189 = {"Lotharingia" "Nanceium"}
+4766 = {"Virodunum" "Virodunum"}
+
+# Normandy
+
+167 = {"Caletensis" "Rothomagus"}
+168 = {"Cadomum" "Cadomum"}
+1879 = {"Alenconium" "Alenconium"}
+4385 = {"Cotentinus" "Corbeorum"}
+
+# Orléanais
+
+179 = {"Bituria" "Avaricum Biturigum"}
+184 = {"Aurelia" "Aurelianum"}
+4776 = {"Blesae" "Blesae"}
+
+# Picardy
+
+87 = {"Calesium" "Calesium"}
+88 = {"Artesia" "Nemetacum"}
+89 = {"Picardia" "Ambianum"}
+1743 = {"Camaracum" "Camaracum"}
+
+# Poitou
+
+180 = {"Pictavensis Superior" "Pictavium"}
+4111 = {"Sanctonica" "Mediolanum Santonum"}
+4386 = {"Pictavensis Inferior" "Luciona"}
+4387 = {"Engolisma" "Engolisma"}
+
+# Provence
+
+201 = {"Aquae Sextiae" "Aquae Sextiae"}
+202 = {"Avennio" "Avennio"}
+2991 = {"Forum Calcarium" "Forum Calcarium"}
+4696 = {"Telo Martius" "Telo Martius"}
+
+# Savoy
+
+203 = {"Lugdunum" "Lugdunum"}
+204 = {"Delphinatus" "Gratianopolis"}
+205 = {"Camberiacum" "Camberiacum"}
+4719 = {"Bressia" "Burgus Bressiae"}
+
+# Western Burgundy
+
+191 = {"Noviodunum" "Noviodunum"}
+1877 = {"Quadrigellae" "Quadrigellae"}
+4392 = {"Autessiodurum" "Autessiodurum"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Aulona" "Aulona"}
+4174 = {"Dyrrhachium" "Dyrrhachium"}
+4175 = {"Lissus" "Lissus"}
+4750 = {"Croia" "Croia"}
+
+# Bosnia
+
+139 = {"Zachlumia" "Monstarum"}
+140 = {"Bosnia" "Canabea"}
+1831 = {"Herzegovina" "Castrum Novum"}
+3002 = {"Visochium" "Visochium"}
+4755 = {"Drinus Vallis" "Visegradum"}
+
+# Bulgaria
+
+150 = {"Nicopolis" "Nicopolis"}
+1765 = {"Serdica" "Ulpia Serdica"}
+2746 = {"Vidyna" "Vidyna"}
+2750 = {"Philippopolis" "Philippopolis"}
+4703 = {"Pautalia" "Ulpia Pautalia"}
+
+# Croatia
+
+131 = {"Zagrabia" "Zagrabia"}
+1826 = {"Iapudia" "Senia"}
+1828 = {"Partes inferiores" "Iaicia"}
+4752 = {"Tarsatica" "Tarsatica"}
+
+# Dalmatia
+
+136 = {"Spalatum" "Spalatum"}
+137 = {"Ragusium" "Ragusium"}
+4753 = {"Iader" "Iader"}
+
+# Macedonia
+
+148 = {"Macedonia" "Thessalonica"}
+1853 = {"Castoria" "Castoria"}
+3001 = {"Scupi" "Scupi"}
+4702 = {"Serrhae" "Serrhae"}
+4780 = {"Achrida" "Achrida"}
+
+# Morea
+
+145 = {"Morea" "Myzethras"}
+146 = {"Athenae" "Athenae"}
+163 = {"Creta" "Candia"}
+1773 = {"Achaia" "Patrae"}
+4701 = {"Corinthia" "Corinthia"}
+
+# Northern Greece
+
+142 = {"Corcyra" "Corcyra"}
+144 = {"Epirus" "Ioannina"}
+147 = {"Thessalia" "Larissa"}
+4698 = {"Cephallenia" "Sanctus Georgius"}
+4699 = {"Arta" "Naupactus"}
+
+# Rascia
+
+138 = {"Zeta" "Sablacium"}
+1766 = {"Campus Merlinus" "Pristina"}
+1827 = {"Rascia" "Trigovista"}
+4754 = {"Ascrivium" "Ascrivium"}
+
+# Serbia
+
+141 = {"Semendria" "Semendria"}
+3000 = {"Naissus" "Naissus"}
+4176 = {"Viminacium" "Viminacium"}
+4239 = {"Singidunum" "Singidunum"}
+4757 = {"Valis Aurea" "Valis Aurea"}
+
+# Silistria
+
+159 = {"Durostorum" "Durostorum"}
+4704 = {"Ternobum" "Ternobum"}
+4706 = {"Aegyssus" "Aegyssus"}
+
+# Slavonia
+
+152 = {"Varasdinum" "Varasdinum"}
+1767 = {"Interamnia" "Mursa"}
+4173 = {"Sirmium" "Civitas Sancti Demetrii"}
+4756 = {"Bellovarium" "Bellovarium"}
+
+# Thrace
+
+149 = {"Hadrianopolis" "Hadrianopolis"}
+151 = {"Constantinopolis" "Constantinopolis"}
+1764 = {"Peronticus" "Peronticus"}
+4705 = {"Comotena" "Comotena"}
+4779 = {"Callipolis" "Callipolis"}
+
+## IBERIA
+
+# Alentejo
+
+227 = {"Olisipo" "Olisipo"}
+229 = {"Pax Iulia" "Pax Iulia"}
+230 = {"Cyneticum" "Ossonoba"}
+4150 = {"Ebora" "Ebora"}
+4787 = {"Scalabis" "Scalabis"}
+
+# Aragon
+
+211 = {"Osca" "Osca"}
+214 = {"Caesaraugusta" "Caesaraugusta"}
+2990 = {"Terulium" "Terulium"}
+4557 = {"Augusta Bilbilis" "Augusta Bilbilis"}
+
+# Baleares
+
+333 = {"Majolica" "Palma"}
+4559 = {"Minorica" "Portus Magonis"}
+4560 = {"Ebusus" "Ebusus"}
+
+# Beiras
+
+228 = {"Vissaium" "Vissaium"}
+231 = {"Portus Cale" "Portus Cale"}
+232 = {"Vergancia" "Vergancia"}
+1851 = {"Conimbriga" "Conimbriga"}
+4556 = {"Aviarium" "Aviarium"}
+
+# Catalonia
+
+197 = {"Ruscinum" "Ruscinum"}
+212 = {"Gerunda" "Gerunda"}
+213 = {"Barcino" "Barcino"}
+2987 = {"Orgellia" "Tarrega"}
+2988 = {"Tarraco" "Tarraco"}
+
+# Extremadura
+
+218 = {"Badaiocium" "Badaiocium"}
+1747 = {"Norba Caesarina" "Norba Caesarina"}
+4788 = {"Placentia" "Placentia"}
+
+# Galicia
+
+206 = {"Brigantium" "Brigantium"}
+4554 = {"Lucus Augusti" "Lucus Augusti"}
+4555 = {"Pons Vetera" "Pons Vetera"}
+4558 = {"Auriense" "Auriense"}
+
+# León
+
+207 = {"Asturiae" "Ovetum"}
+208 = {"Leione" "Leione"}
+216 = {"Salmantica" "Salmantica"}
+4553 = {"Ocellodurum" "Ocellodurum"}
+
+# Lower Andalucia
+
+224 = {"Hispalis" "Hispalis"}
+225 = {"Corduba" "Corduba"}
+1748 = {"Villa Gaiena" "Villa Gaiena"}
+1749 = {"Gades" "Gades"}
+4548 = {"Onoba" "Onoba"}
+
+# North Castile
+
+215 = {"Valdoletum" "Valdoletum"}
+1745 = {"Cantabria" "Andreapolis"}
+1746 = {"Burgi" "Burgi"}
+4552 = {"Pallantia" "Pallantia"}
+
+# South Castile
+
+217 = {"Madritum" "Madritum"}
+2755 = {"Dauria" "Dauria"}
+4551 = {"Abula" "Abula"}
+4789 = {"Segobia" "Segobia"}
+
+# Toledo
+
+219 = {"Toletum" "Toletum"}
+221 = {"Murtia" "Murtia"}
+2751 = {"Valeria" "Valeria"}
+2754 = {"Manica" "Regia Urbs"}
+4547 = {"Alba Civitas" "Alba Civitas"}
+
+# Upper Andalucia
+
+222 = {"Portus Magnus" "Portus Magnus"}
+223 = {"Iliberis" "Iliberis"}
+226 = {"Mons Calpe" "Mons Calpe"}
+4546 = {"Malaca" "Malaca"}
+
+# Valencia
+
+220 = {"Valentia" "Valentia"}
+1750 = {"Lucentum" "Lucentum"}
+4549 = {"Saetabis" "Saetabis"}
+4550 = {"Castalia" "Castalia"}
+
+# Vasconia
+
+209 = {"Biscaia" "Bilbaum"}
+210 = {"Navarra" "Pompelo"}
+2989 = {"Rivogia" "Lucronium"}
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naxos" "Naxos"}
+320 = {"Rhodus" "Rhodus"}
+2348 = {"Chios" "Chios"}
+3003 = {"Euboea" "Chalcis"}
+4700 = {"Lesbos" "Mytilenae"}
+
+# Ankara
+
+326 = {"Ancyra" "Ancyra"}
+4312 = {"Dorylaeum" "Dorylaeum"}
+4313 = {"Germanopolis" "Germanopolis"}
+
+# Aydin
+
+318 = {"Smyrna" "Smyrna"}
+319 = {"Halicarnassus" "Halicarnassus"}
+2297 = {"Magnesia" "Magnesia"}
+2298 = {"Attalea" "Sattelia"}
+4309 = {"Tralles" "Tralles"}
+
+# Çukurova
+
+321 = {"Cyprus" "Leucosia"}
+327 = {"Cilicia" "Adana"}
+2302 = {"Seleucia" "Seleucia"}
+
+# Dulkadir
+
+332 = {"Germanicea" "Germanicea"}
+2303 = {"Melitene" "Melitene"}
+2308 = {"Edessa" "Edessa"}
+4310 = {"Tephrike" "Tephrike"}
+
+# Erzurum
+
+330 = {"Trapezus" "Trapezus"}
+331 = {"Theodosiopolis" "Theodosiopolis"}
+2305 = {"Acilisene" "Acilisene"}
+
+# Germiyan
+
+322 = {"Cotyaeum" "Cotyaeum"}
+1848 = {"Pisidia" "Sparta"}
+4308 = {"Laodicea" "Laodicea ad Lycum"}
+4311 = {"Acroenus" "Acroenus"}
+
+# Hüdavendigar
+
+316 = {"Nicomedia" "Nicomedia"}
+317 = {"Prusa" "Prusa"}
+2296 = {"Hellespontus" "Abydus"}
+
+# Karadeniz
+
+325 = {"Paphlagonia" "Castamona"}
+328 = {"Sinopa" "Sinopa"}
+2299 = {"Bithynia" "Claudiopolis"}
+2304 = {"Amisus" "Amisus"}
+
+# Karaman
+
+323 = {"Iconium" "Iconium"}
+324 = {"Laranda" "Laranda"}
+2301 = {"Caesarea" "Caesarea"}
+4307 = {"Colonia in Cappadocia" "Colonia"}
+
+# Rum
+
+329 = {"Sebastea" "Sebastea"}
+1846 = {"Amasea" "Amasea"}
+2300 = {"Tavium" "Tavium"}
+4314 = {"Mocissus" "Aquae Saravenae"}
+4315 = {"Eudocea" "Eudocea"}
+
+# Kurdistan
+
+418 = {"Amida" "Amida"}
+2306 = {"Martyropolis" "Musa"}
+2307 = {"Eua" "Eua"}
+4295 = {"Cephe" "Cepha"}
+4296 = {"Valaleseum" "Valaleseum"}
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Julamonustra" "Julamonustra"}
+1953 = {"Debrecinum" "Debrecinum"}
+1954 = {"Magna Ecclesia" "Magna Ecclesia"}
+4125 = {"Tibiscus" "Solonoca"}
+
+# Moldavia
+
+268 = {"Suceava" "Suceava"}
+1756 = {"Bessarabia" "Nova Kilia"}
+2405 = {"Benderum" "Benderum"}
+4529 = {"Iassium" "Forum Philistinorum"}
+4530 = {"Bereladum" "Bereladum"}
+
+# Northern Transylvania
+
+157 = {"Varadinum" "Varadinum"}
+158 = {"Forum Siculorum" "Novum Forum Siculorum"}
+1952 = {"Marmatia" "Costum"} # Khust/Huszt?
+4127 = {"Potaissa" "Potaissa"}
+
+# Slovakia
+
+154 = {"Nitria" "Nitria"}
+162 = {"Cassovia" "Cassovia"}
+1318 = {"Scepusium" "Levotia"}
+1772 = {"Posonium" "Posonium"}
+4236 = {"Laugaricio" "Laugaricio"}
+
+# Southern Transylvania
+
+156 = {"Timisvaria" "Timisvaria"}
+1951 = {"Apulum" "Alba Iulia"}
+4128 = {"Cibinium" "Cibinium"}
+
+# Transdanubia
+
+135 = {"Scarabantia" "Scarabantia"}
+153 = {"Pestinum" "Buda"}
+1864 = {"Castrum Rupertinum" "Castrum Rupertinum"}
+4126 = {"Bach" "Bach"}
+4240 = {"Alba Regia" "Alba Regia"}
+
+# Wallachia
+
+160 = {"Vallachia Minor" "Pelendava"}
+161 = {"Targovista" "Targovista"}
+4532 = {"Vallachia Major" "Musaeum"}
+4531 = {"Bucaresta" "Bucaresta"}
+2998 = {"Buzeu" "Buzeu"}
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brugae" "Brugae"}
+1865 = {"Gandavum" "Gandavum"}
+4769 = {"Insulae" "Insulae"}
+
+# Frisia
+
+99 = {"Arenacum" "Arenacum"}
+100 = {"Frisia" "Leovardia"}
+1931 = {"Frisia orientalis" "Emda"}
+4381 = {"Transisalania" "Transisalania"}
+4382 = {"Groninga" "Groninga"}
+
+# Holland
+
+96 = {"Zelandia" "Medioburgum"}
+97 = {"Amstelodamum" "Amstelodamum"}
+98 = {"Ultraiectum" "Traiectum ad Rhenum"}
+4383 = {"Haga" "Haga"}
+
+# North Brabant
+
+95 = {"Breda" "Breda"}
+1742 = {"Geldria Superior" "Ostium Rurae"}
+4770 = {"Silva Ducis" "Silva Ducis"}
+
+# South Brabant
+
+92 = {"Bruxelae" "Bruxelae"}
+1744 = {"Antverpia" "Antverpia"}
+2974 = {"Borchlonium" "Borchlonium"}
+
+# Wallonia
+
+91 = {"Hannonia" "Montes"}
+93 = {"Leodium" "Leodium"}
+94 = {"Luxemburgum" "Luxemburgum"}
+1866 = {"Namurcum" "Namurcum"}
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Limericum" "Limericum"}
+376 = {"Connacia" "Galvia"}
+4119 = {"Slegum" "Slegum"}
+
+# East Anglia
+
+238 = {"Camulodunum" "Claudiopolis"}
+1860 = {"Nordovicum" "Nordovicum"}
+4370 = {"Durovigutum" "Durovigutum"}
+
+# East Midlands
+
+243 = {"Lindum" "Lindum"}
+1861 = {"Derventium" "Derventium"}
+4376 = {"Lecestria" "Lecestria"}
+
+# Highlands
+
+250 = {"Perthia" "Perthia"}
+252 = {"Nestia" "Neda"}
+369 = {"Orcades" "Ecclesinus"}
+4110 = {"Sutherlandia" "Dornocum"}
+4363 = {"Ergadia" "Inveria"}
+
+# Leinster
+
+373 = {"Eblana" "Dublinum"}
+374 = {"Lagenia" "Manapia"}
+4120 = {"Cildaria" "Cildaria"}
+4379 = {"Offalaiensis" "Tullamorum"}
+
+# London
+
+235 = {"Cantium" "Cantium"}
+236 = {"Londinium" "Londinium"}
+237 = {"Oxonia" "Oxonia"}
+4371 = {"Hastingae" "Hastingae"}
+
+# Lowlands
+
+248 = {"Lugonia" "Edinburgum"}
+249 = {"Aerensis" "Glasgua"}
+251 = {"Aberdonia" "Aberdonia"}
+4361 = {"Roburgensis" "Roburgensis"}
+4362 = {"Caer Peris" "Caer Peris"}
+
+# Munster
+
+4118 = {"Corcagia" "Corcagia"}
+4377 = {"Mumonia Orientalis" "Canicopolis"}
+4378 = {"Mumonia Australis" "Cillarnia"}
+
+# Northern England
+
+244 = {"Calunium" "Calunium"}
+246 = {"Vindolandia" "Pons Aelius"}
+247 = {"Cumbria" "Luguvalium"}
+4375 = {"Mamucium" "Mamucium"}
+
+# The Isles
+
+253 = {"Ebudae Exteriores" "Stornovium"}
+4364 = {"Ebudae Interiores" "Colla"}
+4365 = {"Manavia" "Dubonium"}
+
+# Ulster
+
+372 = {"Tyronia" "Derria"}
+4121 = {"Ultonia" "Belfastum"}
+4380 = {"Dungalia" "Dungalia"}
+
+# Wales
+
+241 = {"Glamorgana" "Isca Silurum"}
+242 = {"Venedotia" "Segontium"}
+4366 = {"Poysia" "Mons Balduinui"}
+4369 = {"Moridunum" "Moridunum Demetarum"}
+
+# Wessex
+
+233 = {"Cornubia" "Tamaropolis"}
+234 = {"Clausentum" "Clauesentum"}
+4130 = {"Somersetia" "Lindinis"}
+4373 = {"Dumnonia" "Isca Dumnoniorum"}
+4374 = {"Durnovaria" "Durnovaria"}
+
+# West Midlands 
+
+239 = {"Glevum" "Glevum"}
+240 = {"Salopia" "Salopia"}
+4372 = {"Coventria" "Coventria"}
+
+# Yorkshire
+
+245 = {"Eboracum" "Eboracum"}
+4367 = {"Hullum" "Hullum"}
+4368 = {"Scarburgum" "Scarburgum"}
+4785 = {"Sefelda" "Sefelda"}
+
+## GERMANY
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = {"Praga" "Praga"}
+2968 = {"Budvicium" "Budvicium"}
+2970 = {"Reginogradecium" "Reginogradecium"}
+4724 = {"Paradubica" "Paradubica"}
+4725 = {"Nova Domus" "Nova Domus"}
+
+# Braunschweig
+
+57 = {"Brunonis Vicus" "Brunonis Vicus"}
+1758 = {"Hannovera" "Hannovera"}
+2971 = {"Hoia" "Hoia"}
+4773 = {"Tuliphordium" "Tuliphordium"}
+
+# Erzgebirge
+
+267 = {"Pilsna" "Pilsna"}
+1771 = {"Fergunna" "Nomisterium"}
+2967 = {"Egira" "Egira"}
+
+# Hesse 
+
+78 = {"Moguntiacum" "Moguntiacum"}
+81 = {"Hassia Superior" "Marpurgum"}
+1762 = {"Hassia Inferior" "Cassellae"}
+1876 = {"Francofurtum" "Francofurtum"}
+4774 = {"Fulta" "Fulta"}
+
+# Hinterpommern
+
+48 = {"Colbergum" "Colbergum"}
+2995 = {"Stolpe" "Stolpe"}
+4746 = {"Stellagardia" "Stellagardia"}
+
+# Lower Rhineland
+
+80 = {"Augusta Treverorum" "Augusta Treverorum"}
+1760 = {"Confluentes" "Confluentes"}
+1878 = {"Aquisgranum" "Aquisgranum"}
+4768 = {"Iuliacum" "Iuliacum"}
+
+# Lower Saxony
+
+44 = {"Hamburgum" "Hamburgum"}
+53 = {"Lunaburgum" "Lunaburgum"}
+1857 = {"Launeburgum" "Launeburgum"}
+4772 = {"Cella" "Cella"}
+
+# Lusatia
+
+60 = {"Budissa" "Budissa"}
+1763 = {"Lusatia Inferior" "Cotbusium"}
+4778 = {"Gorlicium" "Gorlicium"}
+
+# Mecklenburg
+
+45 = {"Lubeca" "Lubeca"}
+46 = {"Rhodopolis" "Rhodopolis"}
+2996 = {"Vyssemaria" "Vyssemaria"}
+4749 = {"Estrelicia" "Nova Estrelicia"}
+4786 = {"Prignitium" "Prignitium"}
+
+# Mittelmark
+
+50 = {"Berolinum" "Berolinum-Colonia"}
+51 = {"Rupinum" "Rupinum"}
+1759 = {"Potestampium" "Potestampium"}
+2993 = {"Ucramarchia" "Prenslavia"}
+4748 = {"Brenoburgum" "Brenoburgum in Habala"}
+
+# Moravia
+
+265 = {"Brunnia" "Brunnia"}
+4237 = {"Eburum" "Eburum"}
+4726 = {"Radiscum" "Radiscum"}
+
+# Neumark
+
+49 = {"Transoderia" "Soldina"}
+2969 = {"Mons Stellae" "Mons Stellae"}
+4747 = {"Dramopolis" "Dramopolis"}
+
+# North Rhine
+
+83 = {"Nassovia" "Nassovia"}
+84 = {"Dusseldorpium" "Dusseldorpium"}
+85 = {"Colonia" "Colonia Agrippina"}
+2975 = {"Clivia" "Clivia"}
+
+# North Westphalia
+
+56 = {"Ansibarium" "Ansibarium"}
+69 = {"Tremonia" "Tremonia"}
+86 = {"Monasterium" "Monasterium Guestfalorum"}
+2973 = {"Meppina" "Meppina"}
+
+# Saxony
+
+59 = {"Mons Albus" "Mons Albus"}
+61 = {"Dresda" "Dresda"}
+62 = {"Lipsia" "Lipsia"}
+4744 = {"Cygnea" "Cygnea"}
+
+# Saxony-Anhalt
+
+52 = {"Parthenopolis" "Parthenopolis"}
+58 = {"Anhaltium" "Cothena"}
+2964 = {"Antiqua marchia" "Stendalia"}
+4741 = {"Hala" "Salinae Saxonicae"}
+4742 = {"Goslaria" "Goslaria"}
+
+# Schleswig-Holstein
+
+13 = {"Slesvicum" "Slesvicum"}
+1775 = {"Holsatia" "Charopolis"}
+4141 = {"Tedmarsgum" "Tedmarsgum"}
+
+# South Westphalia
+
+82 = {"Vestfalia" "Lupia"}
+2972 = {"Paderbronna" "Paderbronna"}
+4775 = {"Bilivelda" "Bilivelda"}
+
+# Thuringia
+
+63 = {"Erfordia" "Erfordia"}
+2965 = {"Terra Advocatorum" "Plavia Variscorum"}
+4743 = {"Vimaria" "Vimaria"}
+
+# Vorpommern
+
+47 = {"Stralsunda" "Stralsunda"}
+1858 = {"Sedinum" "Sedinum"}
+2994 = {"Hologosta" "Hologosta"}
+4745 = {"Rugia" "Rugia"}
+
+# Weser
+
+54 = {"Stadium" "Stadium"}
+55 = {"Oldenburgum" "Oldenburgum"}
+1874 = {"Brema" "Brema"}
+4771 = {"Verdena" "Verdéna"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Argentoratum" "Argentoratum"}
+1880 = {"Sundgovia" "Aldechiarcum"}
+4765 = {"Mulhusia" "Mulhusium Alsatiae"}
+
+# Austria Proper
+
+133 = {"Austria Superior" "Lentia"} # capital name can also be Aredata/Aredatum (or Lentium)
+134 = {"Vindobona" "Vindobona"}
+1770 = {"Cremisa" "Cremisa"}
+4761 = {"Stira" "Stira"}
+4762 = {"Austria Inferior" "Aelium Cetium"}
+
+# Baden
+
+72 = {"Brisgovia" "Friburgum Brisgoviae"}
+74 = {"Badenia" "Aquae Aureliae"}
+4714 = {"Carolsruha" "Caroli Hesychium"} # there is no Latin name for Durlach so I made it for Karlsruhe
+
+# Carniola
+
+129 = {"Carniola" "Aemona"}
+130 = {"Histria" "Pietas Iulia"}
+1769 = {"Goritia" "Goritia"}
+4738 = {"Tergeste" "Tergestum"}
+4751 = {"Celeia" "Celeia"}
+
+# East Bavaria
+
+76 = {"Salisburgum" "Salisburgum"}
+4709 = {"Batavia" "Batavis"}
+4760 = {"Quadrans Aeni" "Brundunum"}
+
+# East Swabia
+
+68 = {"Cassiliacum" "Cassiliacum"} # based on a small military town existent in the Roman times, which was probably exactly called that name
+1868 = {"Augusta Vindelicum" "Augusta Vindelicorum"}
+1872 = {"Ulma" "Ulma"}
+4711 = {"Donawerda" "Donawerda"}
+
+# Inner Austria
+
+128 = {"Carintia Inferior" "Querimoniae Vadum"}
+132 = {"Stiria" "Juvaum"}
+1863 = {"Graecium" "Graecium"}
+4759 = {"Carintia Superior" "Santicum"}
+
+# Lower Bavaria
+
+64 = {"Landishuta" "Landishuta"}
+1757 = {"Palatinatus Superior" "Amberga"}
+2956 = {"Sorviodurum" "Sorviodurum"}
+2957 = {"Ratisbona" "Castra Regina"}
+
+# Lower Franconia
+
+71 = {"Onoldum" "Onoldum"}
+79 = {"Herbipolis" "Herbipolis"}
+4715 = {"Castrum Rubrum" "Castrum Rubrum"}
+4718 = {"Asciburgum" "Asciburgum"}
+
+# Palatinate
+
+77 = {"Heidelberga" "Heidelberga"}
+1761 = {"Palatinatus" "Vangiones"}
+4767 = {"Geminus Pons" "Geminus Pons"}
+
+# Romandie
+
+165 = {"Berna" "Berna"}
+1867 = {"Valdensis" "Lausonium"}
+1871 = {"Valesia" "Sedunum"}
+4720 = {"Genava" "Genava"}
+4721 = {"Friburgum" "Friburgum Nuithonum"}
+
+# Switzerland
+
+166 = {"Civitates Silvestres" "Suitius"}
+1869 = {"Turicum" "Turicum"}
+1870 = {"Sanctogallum" "Sanctogallum"}
+1873 = {"Curia" "Curia Raetorum"}
+4722 = {"Iliande" "Iliande"}
+
+# Tirol
+
+73 = {"Aeni Vallis" "Aeni Pons"}
+110 = {"Tridentinum" "Tridentinum"}
+1768 = {"Aguntum" "Aguntum"}
+4710 = {"Brigantia" "Brigantium"}
+4758 = {"Athesi Vallis" "Meranum"}
+
+# Upper Bavaria
+
+65 = {"Monachium" "Monacum"}
+2955 = {"Ingolstadium" "Ingolstadium"}
+4707 = {"Aquaeburgum" "Aquaeburgum ad Aenum"}
+4708 = {"Frisinga" "Frisinga"}
+
+# Upper Franconia
+
+66 = {"Bamberga" "Bamberga"}
+67 = {"Norimberga" "Norimberga"}
+4716 = {"Coburgum" "Coburgum"}
+4717 = {"Baruthum" "Baruthum"}
+
+# West Swabia
+
+70 = {"Stuccardia" "Stuccardia"}
+4712 = {"Constantia" "Constantia"}
+4713 = {"Reutlinga" "Reutlinga"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Seradia" "Seradum"}
+1939 = {"Lenticia" "Lenticium"}
+4533 = {"Velunia" "Velun"}
+
+# Kuyavia
+
+1859 = {"Thorunia" "Thorunium"}
+4523 = {"Junivladislavia" "Junivladislavia"}
+4524 = {"Dobrinia" "Dobrinum ad Vistulam"}
+4528 = {"Cuiavia" "Brestia Cuiavica"} # or Brestium Cuiaviense?
+
+# Malopolska
+
+262 = {"Cracovia" "Cracovia"}
+2960 = {"Sancia" "Novum Sanctium"}
+4527 = {"Cencinia" "Cencinium"}
+
+# Mazovia
+
+256 = {"Plocia" "Plocum"} # Plock
+257 = {"Varsovia" "Varsovia"}
+1938 = {"Vissinia" "Vissinicum"}
+4525 = {"Rava" "Ravum Mazovium"} # or Rava Mazovia
+
+# Red Ruthenia
+
+261 = {"Halicia" "Halicia"}
+1940 = {"Belecia" "Belecum"}
+2424 = {"Premislia" "Premislia"}
+2961 = {"Leopolis" "Leopolis"}
+4541 = {"Drogobicia" "Drogobicium"}
+
+# Sandomierz
+
+259 = {"Sandomiria" "Sandomiria"}
+260 = {"Lublinia" "Lublinum"}
+2959 = {"Tirnovia" "Tirnovia"}
+
+# Silesia
+
+263 = {"Ratiboria" "Ratiborum"}
+264 = {"Vratislavia" "Vratislavia"}
+2966 = {"Glogovia" "Glogovia"}
+4238 = {"Lignitia" "Lignitium"}
+4723 = {"Oppolia" "Oppolia"}
+
+# Wielkopolska
+
+254 = {"Posnania" "Posnania"}
+255 = {"Calecia" "Calecium"}
+2963 = {"Natissis" "Naclum ad Natissis"}
+4526 = {"Nesenia" "Nesecum"}
+
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astracanum" "Astracanum"}
+466 = {"Demetriopolis" "Demetriopolis"}
+468 = {"Rhatanais" "Rhatanais"}
+2416 = {"Stauropolis" "Stauropolis"}
+2417 = {"Stenoa" "Stenoa"}
+
+# Azov
+
+286 = {"Asovia" "Asovia"}
+287 = {"Crasnodaria" "Crasnodaria"}
+2413 = {"Nova Chercassia" "Nova Chercassia"} 
+2414 = {"Tacita Fluvia" "Tacita Fluvia"}
+
+# Crimea
+
+284 = {"Chersonesus Taurica" "Eupatoria"}
+285 = {"Capha" "Capha"}
+2410 = {"Sebastopolis" "Sebastopolis"}
+2447 = {"Phanagoria" "Phanagoria"} # or Tamanum
+
+# Lower Don
+
+288 = {"Oris Ursinus" "Oris Ursinus"}
+467 = {"Sancti Borisi" "Sancti Borisi et Glebi"}
+1971 = {"Augusta" "Augusta"}
+2409 = {"Bachmutum" "Bachmutum"}
+
+# Yedisan
+
+282 = {"Odessa" "Odessa"}
+1974 = {"Chersonium" "Chersonium"}
+2406 = {"Nicolaopolis" "Nicol. Olbiopolitarum"}
+
+# Zaporizhia
+
+283 = {"Alexandrovium" "Alexandrovium"}
+2411 = {"Danapris" "Danapris"}
+2412 = {"Mariopolis" "Mariopolis"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Czernichovia" "Czernichovium"}
+1945 = {"Scytharia" "Neapolis Scytharum"}
+4543 = {"Rylscia" "Rilscum"}
+
+# East Dniepr
+
+290 = {"Poltavia" "Poltavium"}
+2407 = {"Pereaslavia" "Pereaslavia"}
+4542 = {"Lubnia" "Lubnum"}
+
+# Minsk
+
+276 = {"Minscum" "Minscum"}
+4115 = {"Moseria" "Moserum"}
+4242 = {"Borisovia" "Borisovium"}
+4544 = {"Bobruisca" "Bobruiscium"}
+
+# Podlasie
+
+269 = {"Podlachia" "Drochobicum"}
+277 = {"Brestia" "Brestia Lithuaniae"}
+1937 = {"Grodna" "Grodna"}
+
+# Podolia
+
+281 = {"Bastarnia" "Camenecia"}
+1943 = {"Braslavia" "Braslavum"}
+4540 = {"Visontia" "Visontium"}
+
+# Pripyat
+
+278 = {"Pinscia" "Pinscum"}
+1941 = {"Turovia" "Turovium"}
+4537 = {"Novogardia" "Novogardia Lituanica"}
+4545 = {"Sluca" "Sluca"}
+
+# Sloboda Ukraine
+
+291 = {"Charcovia" "Zacharpolis"} # capital name can also be Charcovia
+298 = {"Curum" "Curum"} # or Kurscha
+299 = {"Voronegia" "Voronecum"}
+2408 = {"Ielecia" "Ielecum"}
+
+# Smolensk
+
+293 = {"Miliniscia" "Miliniscum"}
+297 = {"Branscia" "Branscum"}
+4244 = {"Trubcevia" "Trubcevicum"}
+4245 = {"Viasma" "Viasma"}
+
+# Volhynia
+
+279 = {"Volhynia" "Volodimiria Volhyniensis"}
+2962 = {"Eractia" "Eractum"}
+4538 = {"Chelmia" "Chelmia Poloniensis"}
+4539 = {"Cremenia" "Cremenecum"} # or Cremenicum (both names were made up)
+
+# West Dniepr
+
+280 = {"Kiovia" "Kiovia"}
+1942 = {"Zitomiria" "Zitomiria"}
+1944 = {"Circassium" "Circassium"} # not Circassia for obvious reasons, not Circassia (-um) Rutheniensis because the province name would be too long
+4247 = {"Ovrutia" "Ovrucium"}
+
+# White Ruthenia
+
+292 = {"Mohilovia" "Mohilovium"} # or Mohilovum
+771 = {"Vitepsia" "Vitebscum"}
+4246 = {"Mislavia" "Mislavium"} # or Mislavicum
+
+## CAUCASIA
+
+# Armenia
+
+419 = {"Erivanum" "Erivanum"}
+420 = {"Gangia" "Gangia"}
+2202 = {"Stephanopolis" "Stephanopolis"}
+2205 = {"Naxuana" "Naxuana"}
+4302 = {"Manazerta" "Manazerta"}
+
+# Circassia
+
+463 = {"Circassia" "Maikopa"}
+2195 = {"Adygeia" "Sotzium"}
+2197 = {"Kabardia" "Naliscium"}
+2201 = {"Alania" "Pylae Caucasiae"}
+
+# Dagestan
+
+425 = {"Daghestania" "Derbentum"}
+2198 = {"Avaria" "Humragia"}
+2199 = {"Tarcum" "Tarcum"}
+2208 = {"Terecia" "Mosdoca"}
+4306 = {"Lacia" "Cumucium"}
+
+# Imereti
+
+422 = {"Imerethia" "Cytaea"}
+462 = {"Archaeopolis" "Archaeopolis"}
+1856 = {"Abascia" "Dioscurias"}
+
+# Kartli-Karkheti
+
+423 = {"Tiphlis" "Tiphlis"}
+2203 = {"Teleda" "Teleda"}
+4301 = {"Goridis" "Goridis"}
+
+# Samtshkhe
+
+2196 = {"Bathus" "Bathus"}
+2204 = {"Chorzena" "Chorzena"}
+4303 = {"Oltium" "Oltium"}
+
+# Shirvan
+
+421 = {"Bacua" "Bacua"}
+4299 = {"Kamachia" "Kamachia"}
+4305 = {"Nucha" "Nucha"}
+4340 = {"Stellara" "Stellara"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilna" "Vilna"}
+770 = {"Braslavia" "Braslavia"}
+4535 = {"Vilkomiria" "Vilkomiria"}
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Osilia" "Arx Aquilae"}
+39 = {"Culdiga" "Culdiga"}
+1935 = {"Mitavia" "Mitavia"}
+
+# East Prussia
+
+40 = {"Claipeda" "Claipeda"}
+41 = {"Regiomontium" "Regiomontium"}
+42 = {"Varmia" "Allenstenium"}
+767 = {"Stitnium" "Stitnium"}
+2958 = {"Osteroda" "Osteroda"}
+
+# Estonia
+
+36 = {"Tallina" "Tallina"}
+1834 = {"Tarbatum" "Tarbatum"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livonia" "Felina"}
+38 = {"Riga" "Riga"}
+273 = {"Lettgallia" "Dunapolis"}
+4241 = {"Venda" "Venda"}
+
+# Samogitia
+
+270 = {"Troca" "Troca Prisca"}
+271 = {"Samogitia" "Mednicum"}
+1936 = {"Couna" "Couna"}
+4534 = {"Upita" "Upita"}
+
+# West Prussia
+
+43 = {"Gedanum" "Gedanum"}
+1841 = {"Malborcum" "Malborcum"}
+2997 = {"Tuchola" "Tuchola"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Selandia" "Hafnia"}
+14 = {"Fionia" "Othenae"}
+1981 = {"Boringia" "Ronnia"}
+1983 = {"Lalandia" "Novabinga"}
+
+# Finland
+
+27 = {"Aboa" "Aboa"}
+28 = {"Novalandia" "Helsingia"}
+29 = {"Tavastia" "Tavastiae"}
+31 = {"Savonia" "Olaopolis"}
+4123 = {"Birkaria" "Messuclia"}
+
+# Laponia
+
+315 = {"Finnomarchia" "Vadasium"}
+1777 = {"Pessamium" "Pessamium"}
+4151 = {"Inaria" "Bellonia"}
+
+# Norrland
+
+9 = {"Halsingia" "Gevalia"}
+11 = {"Bothnia Occidentalis" "Uma"}
+18 = {"Lapponia" "Arvisaria"}
+4114 = {"Jocomia" "Jocomia"}
+
+# North Atlantic Islands
+
+370 = {"Reyciavicum" "Reckiavicum"}
+371 = {"Acyerium" "Acyerium"}
+1978 = {"Acmodae" "Lervicium"}
+1979 = {"Ovinae" "Thori Portus"}
+
+# North Jutland
+
+15 = {"Cimbria Occidentalis" "Riba"}
+1984 = {"Cimbria Borealis" "Alburgum"}
+4142 = {"Cimbria Orientalis" "Arusium"}
+4149 = {"Cimbria Australis" "Colinga"}
+
+# Østlandet
+
+17 = {"Aggerhusium" "Ansloa"}
+22 = {"Opplandia" "Hamaria"}
+4143 = {"Foldia orientalis" "Moresa"}
+4144 = {"Drymorium" "Sciena"}
+
+# Östra Götaland
+
+2 = {"Gothia orientalis" "Lincopia"}
+3 = {"Calmaria" "Calmaria"}
+25 = {"Guthia" "Visbia"}
+4166 = {"Smolandia" "Vexionia"}
+
+# Östra Svealand
+
+1 = {"Holmia" "Holmia"}
+4 = {"Arosia" "Arosía"}
+1930 = {"Alandia" "Portus Mariae"}
+
+# Ostrobothnia
+
+19 = {"Bothnia Orientalis" "Corsholmia"}
+4113 = {"Rovanemium" "Rovanemium"}
+4152 = {"Caiania" "Monselca"}
+
+# Skåneland
+
+6 = {"Lunda" "Lunda"}
+26 = {"Hallandia" "Halmostadium"}
+1982 = {"Blekingia" "Ronebia"}
+4165 = {"Boscona" "Christianopolis"}
+
+# Trøndelag
+
+10 = {"Iemptia" "Frosona"}
+20 = {"Nidrosia" "Nidrosia"}
+21 = {"Stegenia" "Stegenia"}
+
+# Västra Götaland
+
+7 = {"Scarania" "Scara"}
+16 = {"Bahusia" "Marasia"}
+4163 = {"Gothoburgum" "Gothoburgum"}
+4164 = {"Dalia" "Dalium"}
+
+# Västra Svealand
+
+5 = {"Varmelandia" "Carolostadium"}
+8 = {"Dalecarlia" "Mora"}
+1985 = {"Nericia" "Orebrum"}
+
+# Vestlandet
+
+23 = {"Berga" "Berga"}
+24 = {"Stafangria" "Stafangria"}
+2752 = {"Raumaldia" "Moloda"}
+4145 = {"Augandia" "Mandala"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Comolgoria" "Comorgum"}
+4122 = {"Senquerscia" "Senquerscum"}
+4256 = {"Salinia" "Salvicodium"}
+4257 = {"Mezena" "Mezenum"}
+
+# Beloozero
+
+312 = {"Belosera" "Beloserum"}
+4259 = {"Velascia" "Velascum"}
+4261 = {"Ustusna" "Ustusna"}
+
+# Moscow
+
+295 = {"Moscua" "Moscua"}
+4251 = {"Mosaiscus" "Mosaiscum"}
+4252 = {"Columna" "Columna"}
+
+# North Karelia
+
+32 = {"Corela" "Corela"}
+309 = {"Olonka" "Olonicia"}
+4124 = {"Carelia" "Lieca"}
+
+# Novgorod
+
+310 = {"Novogardia" "Novogardia Magna"}
+311 = {"Cuniae" "Chelma"}
+1959 = {"Torsocia" "Toroscus"}
+2749 = {"Tichvina" "Tichvina"}
+4260 = {"Superiorem Partem" "Vesnum Volochiensis"}
+
+# Oka
+
+296 = {"Caluga" "Caluga"}
+300 = {"Tula" "Tula"}
+4116 = {"Aucensis" "Odoiovia"}
+
+# Pomorye
+
+313 = {"Archangelum" "Archangelum"}
+1776 = {"Alba Carelia" "Kemium"}
+1958 = {"Cargapolis" "Cargapolis"}
+4258 = {"Onega" "Onega"}
+
+# Pskov
+
+274 = {"Plescovia" "Plescovia"}
+275 = {"Polotia" "Polotum"}
+1960 = {"Ostrovia" "Ostrovium"}
+4148 = {"Luci" "Magni Luci"}
+
+# Ryazan
+
+301 = {"Resania" "Resanium"}
+1778 = {"Casimovia" "Casimovum"}
+4255 = {"Pronscum" "Pronscum"}
+
+# South Karelia
+
+30 = {"Viburgum" "Viburgum Careliorum"}
+33 = {"Neva" "Clidopolis"}
+34 = {"Ingria" "Coporium"}
+1961 = {"Ladoganum" "Ladoganum"}
+
+# Suzdal
+
+1754 = {"Muromum" "Muromum"}
+1956 = {"Susdalia" "Susdalia"}
+4254 = {"Starodubia" "Starodubum"}
+
+# Tambov
+
+302 = {"Tambovia" "Tambovia"}
+304 = {"Pensa" "Pensa"}
+2415 = {"Ecarum" "Ecarum"}
+
+# Tver
+
+294 = {"Tambovia" "Tambovia"}
+1752 = {"Rescovia" "Rescovum"}
+4243 = {"Toropetia" "Toropetum"}
+4248 = {"Cassinia" "Cassinum"}
+4249 = {"Zubetia" "Zubetium"}
+
+# Vladimir
+
+307 = {"Volodimiria" "Volodimiria ad Clasmam"}
+4147 = {"Rostovia" "Rostovia Magna"}
+4253 = {"Georgia Campestris" "Georgiopolis Agrorum"}
+
+# Vologda
+
+314 = {"Vologda" "Vologda"}
+4262 = {"Tomecia" "Tomecum"}
+4263 = {"Solegalia" "Solegalum"}
+
+# Yaroslavl
+
+308 = {"Iaroslavia" "Iaroslavia"}
+1753 = {"Costroma" "Castromogardia"}
+4117 = {"Bieschezia" "Bieschezia"}
+4250 = {"Mologa" "Mologa"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Bascurtania" "Bascurtia"}
+1965 = {"Buzulia" "Buzulucum"}
+1966 = {"Celiabinsca" "Celiabinsca"}
+2420 = {"Oropolis" "Oropolis"}
+2444 = {"Chrysostomia" "Chrysostomia"}
+
+# Galich
+
+306 = {"Novogardia Inferior" "Novogardia Inferior"}
+1079 = {"Viatca" "Chlynovia"}
+1083 = {"Vetulgia" "Vetulcum"}
+1957 = {"Galicia Meriensis" "Galicia Meriensis"}
+
+# Kama
+
+305 = {"Permia" "Permia"}
+1962 = {"Izum" "Izum"}
+1972 = {"Udmurtia" "Albuga"}
+4266 = {"Ecaro" "Ecaro"}
+
+# Kazan
+
+1082 = {"Casanum" "Casanum"}
+2422 = {"Cebocaria" "Cebocarium"}
+4264 = {"Tetusia" "Teusium"}
+
+# Perm
+
+1077 = {"Solicamium" "Salinae ad Camam"}
+1755 = {"Ustiuga" "Ustiuga Magna"}
+1963 = {"Tserdinia" "Tserdinum"}
+1964 = {"Sysola" "Sysola"}
+4129 = {"Vima" "Vima"}
+
+# Samara
+
+473 = {"Samara" "Samara"}
+1081 = {"Simbirium" "Simbirium"}
+2423 = {"Allatura" "Allatura"}
+
+# Saratov
+
+303 = {"Saratovia" "Saratovia"}
+2418 = {"Intercessio" "Intercessio"}
+2419 = {"Syzranum" "Syzranum"}
+
+# Ural
+
+1078 = {"Catharinopolis" "Catharinopolis"}
+1080 = {"Pelimia" "Pelimum"}
+1780 = {"Iarenecia" "Iarenecum"}
+2427 = {"Ostiachia" "Ostiachum"}
+2441 = {"Iglino" "Iglino"}
+
+# Volga
+
+2421 = {"Iucatia" "Iucatum"}
+4265 = {"Lintres Ripariae" "Lintres Ripariae"}
+4267 = {"Bularia" "Bularum"}
+
+##########################
+########  ASIA  ##########
+##########################
+
+## MASHRIQ
+
+# Aleppo
+
+377 = {"Beroea" "Beroea"}
+1849 = {"Epiphania" "Epiphania"}
+2313 = {"Antiochia" "Antiochia ad Orontem"}
+4298 = {"Doliche" "Doliche"}
+
+# Al Jazira
+
+407 = {"Callinicum" "Callinicum"}
+411 = {"Mausilium" "Mausilium"}
+2309 = {"Casinium" "Casinium"}
+2314 = {"Audatia" "Audatia"}
+4292 = {"Marida" "Marida"}
+
+# Basra
+
+408 = {"Basorium" "Basorium"}
+2311 = {"Vologesia" "Vologesia"}
+2312 = {"Mesapolis" "Mesapolis"}
+# 4288 = Shatt, capital al-Qurna
+
+# Iraq Arabi
+
+406 = {"Dura-Europos" "Dura-Europos"}
+409 = {"Carbalia" "Heracum"}
+410 = {"Baldacum" "Baldacum"}
+2310 = {"Tagritum" "Tagritum"}
+4291 = {"Casania" "Casanium"}
+
+# Palestine
+
+364 = {"Gaza" "Gaza"}
+379 = {"Hierosolyma" "Hierosolyma"}
+1854 = {"Flavia Neapolis" "Flavia Neapolis"}
+
+# Syria
+
+378 = {"Tripolis Libanitis" "Tripolis Libanitis"}
+382 = {"Damascus" "Damascus"}
+1855 = {"Sidon" "Sidon"}
+4297 = {"Emesa" "Emesa"}
+
+# Syrian Desert
+
+405 = {"Palmyra" "Palmyra"}
+4270 = {"Aracium" "Aracium"}
+4271 = {"Dyonisium" "Dyonisium"}
+
+# Transjordan
+
+380 = {"Idumea" "Idumea"}
+381 = {"Peraea" "Peraea"}
+2327 = {"Menacum" "Menacum"}
+
+##########################
+#######  AFRICA  #########
+##########################
+
+## MAGHREB
+
+# Algiers
+
+336 = {"Pomaria" "Pomaria"}
+2465 = {"Ouida" "Ouida"}
+4562 = {"Portus Divinus" "Portus Divinus"}
+
+# Barbary Coast
+
+337 = {"Unica Colonia" "Unica Colonia"}
+338 = {"Icosium" " Icosium"}
+2461 = {"Cartennae" "Cartennae"}
+
+# Central Morocco
+
+343 = {"Fezza" "Fezza"}
+344 = {"Marrochium" "Marrochium"}
+2467 = {"Volubilis" "Volubilis"}
+2468 = {"Tadalia" "Tadalia"} 
+
+# Djerba 
+
+353 = {"Tataouina" "Tataouina"}
+2453 = {"Taparura" "Taparura"}
+2954 = {"Gerba" "Girba"}
+
+# Fezzan
+
+2448 = {"Fasania" "Marzuca"}
+2449 = {"Houna" "Houna"}
+2474 = {"Tegerichium" "Tegerichium"}
+4567 = {"Garama" "Garama"}
+
+# Gharb
+
+342 = {"Rabatum" "Rabatum"}
+345 = {"Asfium" "Asfium"}
+2469 = {"Cap Soleis" "Cap Soleis"}
+4564 = {"Anfus" "Anfus"}
+
+# Hautes Plains
+
+2459 = {"Media" "Media"}
+2462 = {"Amoura" "Amoura"}
+2463 = {"Altava" "Altava"}
+
+# Kabylia
+
+339 = {"Saldae" "Saldae"}
+340 = {"Constantina" "Colonia Constantina"}
+1882 = {"Hippo Regius" "Hippo Regius"}
+
+# Macaronesia 
+
+366 = {"Insula Canaria" "Palmae Canariae"}
+367 = {"Insulae Accipitrinae" "Pons Delicatus"}
+368 = {"Insulae Materiae" "Fenicula"}
+4565 = {"Insula Nivaria" "Sancta Crux Nivariae"}
+
+# North Morocco
+
+334 = {"Tingis" "Tingis"}
+335 = {"Melila" "Melila"}
+1751 = {"Septum" "Septum"}
+4561 = {"Tamuda" "Tamuda"}
+4563 = {"Sala" "Sala Colonia"}
+
+# North Sahara
+
+352 = {"Capsa" "Capsa"}
+2450 = {"Cydamus" "Cydamus"}
+2456 = {"Tugurta" "Tugurta"}
+2457 = {"Mazabia" "Spelunca Daiae"}
+2472 = {"Ourgalia" "Ouarglia"}
+
+# Ouled Nail
+
+350 = {"Tizgrarin" "Tizgrarin"}
+351 = {"Vecera" "Vecera"}
+2458 = {"Sitifis" "Sitifis"}
+
+# Southern Morocco
+
+347 = {"Ifnium" "Ifnium"}
+1110 = {"Gadira" "Gadira"}
+2470 = {"Haha" "Haha"}
+
+# Sus
+
+348 = {"Sussa" "Sussa"}
+2464 = {"Ouarza" "Ouarza"}
+2466 = {"Daratus" "Tagmadis"}
+4568 = {"Demnata" "Demnata"}
+
+# Tafilalt
+
+346 = {"Sigilmusium" "Sigilmusium"}
+349 = {"Figus" "Figus"}
+2460 = {"Saoura" "Numerus Beduinorum"}
+
+# Tripolitania
+
+354 = {"Tripolis" "Tripolis"}
+355 = {"Euphranta" "Euphranta"}
+2451 = {"Thubactis" "Thubactis"}
+2452 = {"Sabratha" "Sabratha"}
+
+# Tunisia
+
+341 = {"Carthago" "Carthago"}
+2454 = {"Sicca Veneria" "Sicca Veneria"}
+2455 = {"Hippo Acra" "Hippo Acra"}
+2473 = {"Hadrumetum" "Hadrumetum"}
+4566 = {"Camunium" "Camunium"}
+
+## EGYPT
+
+# al-Wahat
+
+1233 = {"Oasis Magna" "Oasis Magna"}
+2318 = {"Oasis Parva" "Banetium"}
+4323 = {"Pharania" "Pharania"}
+
+# Bahari
+
+361 = {"Cairus" "Cairus"}
+2316 = {"Athribis" "Athribis"}
+4316 = {"Leontopolis" "Leontopolis"}
+4317 = {"Hermopolis" "Hermopolis"}
+
+# Cyrenaica
+
+356 = {"Hesperides" "Hesperides"}
+357 = {"Darnis" "Darnis"}
+2325 = {"Paraetonium" "Paraetonium"}
+2326 = {"Petras Maior" "Petras Maior"}
+
+# Delta
+
+358 = {"Alexandrea" "Alexandrea"}
+362 = {"Rosetta" "Rosetta"}
+363 = {"Damietta" "Damietta"}
+
+# Lower Nubia
+
+1234 = {"Ibrimia" "Castrum Ibrimum"}
+2322 = {"Vallis Halphensis" "Halphensia"}
+2323 = {"Deserta Nubiana" "Sancta Maria"}
+
+# Red Sea Hills
+
+365 = {"Paeninsula Sinaitica" "Sancta Catharina"}
+2315 = {"Suesia" "Portus Sues"}
+2320 = {"Portus Veneris" "Sanctus Antonius"}
+2321 = {"Leucos Limen" "Leucos Limen"}
+
+# Said
+
+360 = {"Diocletiania" "Diocletianopolis"}
+1231 = {"Syene" "Syene"}
+2319 = {"Licopolis" "Licopolis"}
+4319 = {"Lato" "Lato"}
+4320 = {"Giorgia" "Giorgia"}
+
+# Vostani
+
+359 = {"Lacus Meridensis" "Crocodilopolis"}
+2317 = {"Antinopolis" "Antinopolis"}
+4318 = {"Aphroditia" "Aphroditopolis"}
+
+## ARABIA
+
+# al-Qasim
+
+392 = {"Riadum" "Dirigium"}
+2337 = {"Bourais" "Bourais"}
+4273 = {"Charitina" "Charitina"}
+4274 = {"Sudaris" "Auta"}
+
+# al-Yamamah
+
+2335 = {"Dosseria" "Vasata"}
+2336 = {"Aflagia" "Layla"}
+2339 = {"Abrinium" "Abrinium"}
+4275 = {"Cardisa" "Cardisa"}
+
+# An Nafud
+
+393 = {"Mons Samarorum" "Chailis"}
+2338 = {"Hafaria" "Hafaria"}
+4272 = {"Nabatena" "Dumatha"}
+
+# Asir
+
+386 = {"Ebissa" "Ebissa"}
+391 = {"Negrana" "Negrana"}
+4282 = {"Sada" "Sada"}
+
+# Bahrain
+
+394 = {"Katifa" "Katifa"}
+395 = {"Catura" "Doha"}
+396 = {"Tylos" "Aradus"}
+2340 = {"Cubaitum" "Urbs Cubaitensis"}
+2347 = {"Hopifis" "Hopifis"}
+
+# Dhofar
+
+401 = {"Dofaria" "Sala"}
+2341 = {"Serapis" "Aema"}
+2342 = {"Hasica" "Hasica"}
+
+# Hadramut
+
+389 = {"Mycalla" "Mycalla"}
+2343 = {"Sauna" "Sauna" }
+4283 = {"Sihra" "Sihra"}
+
+# Lower Yemen
+
+388 = {"Eudaemon" " Eudaemon"}
+2345 = {"Behanum" "Behanum"}
+4280 = {"Tais" "Tais"}
+
+# Mahra
+
+402 = {"Kysina" "Kysina"}
+1099 = {"Insula Geminorum" "Tamris"}
+4284 = {"Gada" "Gada"}
+
+# Mecca
+
+385 = {"Geapolis" "Geapolis"}
+2331 = {"Gedda" "Gedda"}
+2332 = {"Turba" "Turba"}
+4277 = {"Taifum" "Taifum"}
+4278 = {"Kufundum" "Kufundum"}
+
+# Medina
+
+384 = {"Medina" "Medina"}
+2329 = {"Charmutha" "Charmutha"}
+2330 = {"Medina Sulaorum" "Medina Sulaorum"}
+
+# Muscat 
+ 
+399 = {"Batina" "Soharia"}
+400 = {"Amithoscuta" "Amithoscuta"}
+4286 = {"Calatus" "Calatus"} 
+
+# Oman
+
+403 = {"Niza" "Niza"}
+4285 = {"Ibris" "Ibris"}
+4287 = {"Ibra" "Ibra"}
+
+# Tabuk
+
+383 = {"Tabava" "Tabava"}
+2328 = {"Hegra" "Hegra"}
+4268 = {"Aela" "Aela"}
+4269 = {"Hegra Come" "Hegra Come"}
+
+# Tihama al-Yemen
+
+387 = {"Musa" "Musa"}
+2346 = {"Gazania" "Gazania"}
+4279 = {"Sabitha" "Sabitha"}
+
+# Upper Yemen
+
+390 = {"Sana" "Sana"}
+2344 = {"Marabia" "Marabia"}
+4281 = {"Damara" "Damara"}
+
+## CENTRAL ASIA
+
+# Ferghana
+
+458 = {"Abocanda" "Abocanda"}
+460 = {"Osgonia" "Osgonia"}
+1967 = {"Alexandrea Ultima" "Alexandrea Ultima"}
+
+# Khuttalan
+
+1968 = {"Culobus" "Culobus"}
+4343 = {"Tharmis" "Tharmis"}
+4344 = {"Nautaca" "Nautaca"}
+
+# Transoxiana
+
+442 = {"Bochara" "Bochara"}
+453 = {"Eucratidea" "Eucratidea"}
+454 = {"Maracanda" "Maracanda"}
+
+## Hindustan
+
+# Khasmir
+
+508 = {"Caspeiria" "Caspira"}
+2073 = {"Sargina" "Sargina"}
+2074 = {"Marasa" "Marasa"}
+4449 = {"Jamus" "Jamus"}
+4521 = {"Ascardus" "Ascardus"}
+
+# Lahore
+
+507 = {"Labocla" "Labocla"}
+2075 = {"Bedasa" "Bedasa"}
+2076 = {"Sagala" "Sagala"}
+4510 = {"Sarcata" "Sarcata"}
+4513 = {"Depalura" "Depalura"}
+
+# Multan
+
+506 = {"Mallia" "Mallia"}
+2079 = {"Dera" "Dera"}
+2086 = {"Alexandrea Indi" "Alexandrea Indi"}
+4508 = {"Bavalia" "Bavalia"}
+4509 = {"Carora" "Carora"}
+
+# Sind Sagar
+
+2077 = {"Margalla" "Pindium"}
+2078 = {"Barena" "Barena"}
+4511 = {"Beria" "Beria"}
+
+## KHORASAN
+
+# Balkh
+
+450 = {"Bactra" "Bactra"}
+2227 = {"Drapsaca" "Drapsaca"}
+2228 = {"Maimana" "Maimana"}
+
+# Birjand
+
+436 = {"Birianda" "Birianda"}
+4334 = {"Tabasa" "Tabasa"}
+4336 = {"Ferdosia" "Ferdosia"}
+
+# Ghor
+
+447 = {"Arachotus" "Arachotus"}
+449 = {"Angrana" "Angrana"}
+2225 = {"Peucelaetis" "Peucelaetis"}
+
+# Herat
+
+446 = {"Aria" "Aria"}
+4324 = {"Guriana" "Guriana"}
+4325 = {"Sarax" "Sarax"}
+
+# Kabulistan
+
+448 = {"Alexandrea Opiana" "Alexandrea Opiana"}
+451 = {"Cabura" "Cabura"}
+452 = {"Faisa" "Faisa"}
+578 = {"Peshorum" "Peshorum"}
+2226 = {"Nagarhara" "Nagarhara"}
+
+# Kalat
+
+576 = {"Calatum" "Calatum"}
+577 = {"Salcota" "Salcota"}
+2068 = {"Sibium" "Sibium"}
+
+# Makran
+
+434 = {"Pura" "Pura"}
+575 = {"Musarua" "Musarua"}
+2231 = {"Arabius" "Arabius"}
+2232 = {"Acharnia" "Acharnia"}
+2233 = {"Tis" "Tis"}
+
+# Mashhad
+
+2221 = {"Susia" "Susia"}
+2235 = {"Asbaria" "Asbaria"}
+2236 = {"Astauena" "Astauena"}
+4326 = {"Nisapurum" "Nisapurum"}
+
+# Merv
+
+444 = {"Amulium" "Amulium"}
+445 = {"Antiochia Margiana" "Antiochia Margiana"}
+2350 = {"Aschabadum" "Aschabadum"}
+
+# Sistan
+
+435 = {"Drangiana" "Drangiana"}
+2224 = {"Phrada" "Phrada"}
+2229 = {"Lascarga" "Lascarga"}
+2230 = {"Acansura" "Acansura"}
+
+## PERSIA
+
+# Azerbaijan
+
+416 = {"Tauris" "Tauris"}
+424 = {"Ardebilia" "Ardebilia"}
+2206 = {"Urmia" "Urmia"}
+2207 = {"Phrata" "Phrata"}
+4304 = {"Gobdum" "Gobdum"}
+
+# Farsistan
+
+2218 = {"Sirasium" "Sirasium"}
+4329 = {"Fasia" "Fasia"}
+4330 = {"Dariopolis" "Dariopolis"}
+4331 = {"Sapuria" "Sapuria"}
+
+# Gulf Coast
+
+430 = {"Mesambria" "Mesambria"}
+2219 = {"Sidodona" "Sidodona"}
+2223 = {"Lara" "Lara"}
+4332 = {"Gogana" "Gogana"}
+
+# Iraq-e-Ajam
+
+427 = {"Hecatompylus" "Hecatompylus"}
+428 = {"Teheranum" "Teheranum"}
+2213 = {"Comum" "Comum"}
+2216 = {"Tiava" "Tiava"}
+4337 = {"Sabacina" "Sabacina"}
+
+# Isfahan
+
+429 = {"Aspadana" "Aspadana"}
+433 = {"Isatichae" "Isatichae"}
+2222 = {"Artacana" "Artacana"}
+4171 = {"Abarca" "Abarca"}
+4335 = {"Casana" "Casana"}
+
+# Kerman
+
+432 = {"Carmania" "Carmana"}
+2220 = {"Bamia" "Bamia"}
+2234 = {"Sangiana" "Sangiana"}
+4345 = {"Saida" "Saida"}
+
+# Khuzestan
+
+412 = {"Aginis" "Aginis"}
+2217 = {"Portae Persicae" "Iasia"}
+4289 = {"Sostra" "Sostra"}
+4290 = {"Susiana" "Cissia"}
+4342 = {"Malmyra" "Malmyra"}
+
+# Luristan
+
+413 = {"Chorama" "Chorama"}
+414 = {"Ecbatana" "Ecbatana"}
+2209 = {"Elamia" "Susa"}
+2210 = {"Regis Carmanorum" "Regis Carmanorum"}
+
+# Mogostan
+
+431 = {"Harmoxia" "Harmoxia"}
+2999 = {"Organa" "Organa"}
+4327 = {"Jascium" "Jascium"}
+
+# Shahrizor
+
+415 = {"Corcura" "Corcura"}
+2211 = {"Artalania" "Sandacia"}
+4293 = {"Arbela" "Arbela"}
+4294 = {"Masamua" "Masamua"}
+
+# Tabarestan
+
+417 = {"Sericania" "Sericania"}
+426 = {"Hamo" "Hamo"}
+2214 = {"Hyrcania" "Asatara"}
+4339 = {"Rasatium" "Rasatium"}
+4341 = {"Zadracarta" "Zadracarta"}
+
+# Zanjan
+
+2212 = {"Sacina" "Sacina"}
+2215 = {"Casbinum" "Casbinum"}
+4300 = {"Myana" "Myana"}
+4338 = {"Soltania" "Soltania"}
+
+## WESTERN INDIA
+
+# Northern Sindh
+
+505 = {"Sindomana" "Sindomana"}
+2072 = {"Bacara" "Bacara"}
+4505 = {"Charpa" "Charpa"}
+
+# Southern Sindh
+
+504 = {"Patala" "Patala"}
+2088 = {"Amarcota" "Amarcota"}
+4503 = {"Mansura" "Manasura"}
+4504 = {"Nasira" "Nasira"}
+
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+Code  Name x  
+868 = "Hellenia"    
+869 = "Portus Pinus"    
+2021 = "Vinocastrum"    
+2476 = "Furia"    
+4637 = "Jupiteria"    
+     
+# APACHERIA    
+     
+879 = "Tresiter"    
+2492 = "Vallacus"    
+4634 = "Tiberias"    
+     
+# ARIZONA    
+     
+867 = "Ascalum"    
+876 = "Phoenicia"    
+877 = "Vicus Tractus"    
+2491 = "Phazania"    
+4633 = "Bonum Argentia"    
+     
+# BAJA CALIFORNIA   
+     
+865 = "California Inferior"    
+866 = "Promontorium Batavium"    
+2620 = "Novus Berytus"    
+4639 = "Hierophynus"    
+     
+# CENTRAL VALLEY   
+     
+870 = "Misericordia"    
+2478 = "Bremetanaxum"    
+4635 = "Pesadenum"    
+4636 = "Colonia Nova Alpes"    
+     
+# COLORADO PLATEU   
+     
+875 = "Colonia Scipio"    
+878 = "Forum Mesica"    
+2493 = "Vexillum"    
+2494 = "Villa Corona"    
+     
+# NEW MEXICO   
+     
+880 = "Adfectatio"    
+881 = "Cicero"    
+2495 = "Areopolis"    
+4631 = "Nova Gortyna"    
+4632 = "Novum Mogontanium"    
+     
+# NORTH CALIFORNIA   
+     
+871 = "Oppidum Rosa"    
+2477 = "Cappa Aemilia"    
+2479 = "Iosemitia"    
+2480 = "Villa Juliani"    
+4638 = "Raetia"    
+     
+# SONORA    
+     
+862 = "Populonia"    
+2616 = "Maecenas"    
+4577 = "Portus Coloratus"    
+4649 = "Portus Mercurii"    
+4650 = "Ad Senatum"    
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Mercatorium"    
+2576 = "Insulae Merkurium"    
+2577 = "Sinus Septum"    
+2578 = "Creta Nova"    
+2579 = "Domitiani"    
+     
+# GREENLAND    
+     
+1104 = "Portus Justianii"    
+1105 = "Terra Borealis"    
+     
+# HURONIA    
+     
+988 = "Uronae"    
+989 = "Ontarium"    
+2585 = "Otavia"    
+2670 = "Fidenae Novae"    
+     
+# LABRADOR    
+     
+997 = "Vinlanus"    
+2574 = "Estotilandiae"    
+2575 = "Sinus Cabotum"    
+     
+# LAURENTIA    
+     
+992 = "Namnetus"    
+2581 = "Fororum Hadrianorum"    
+4894 = "Luguvalium"    
+     
+# LOWER ACADIA   
+     
+982 = "Novi Capri"    
+984 = "Acadia"    
+2568 = "Nova Punia"    
+2569 = "Aquae Faxia"    
+4891 = "Sostra"    
+     
+# LOWER CANADA   
+     
+993 = "Mons Realis"    
+2584 = "Colonia Augusta Aquae"    
+4895 = "Isurium"    
+     
+# NEWFOUNDLAND    
+     
+980 = "Avalonia"    
+981 = "Tingitania"    
+2573 = "Nova Placentia"    
+     
+# OTTAWA VALLEY   
+     
+4890 = "Lactodurum"    
+4892 = "Oenipontum"    
+4897 = "Durovigutum"    
+     
+# QUEBEC    
+     
+986 = "Cappa Apia"    
+994 = "Cebecus"    
+995 = "Pertinax"    
+2582 = "Lux"    
+2583 = "Castra Cambodunum"    
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Apuleius"    
+2571 = "Terra Nova"    
+4896 = "Meductium"    
+     
+# TROIS_RIVIERES    
+     
+990 = "Castra Triaflumina"    
+2012 = "Novum Beneventum"    
+2580 = "Dianapolis"    
+4893 = "Nevirnum"    
+     
+# UPPER ACADIA   
+     
+983 = "Nova Sardinia"    
+985 = "Villa Asprenatis"    
+2572 = "Campelatum"    
+     
+# UPPER CANADA   
+     
+987 = "Niagarum"    
+2586 = "Pulchriae"    
+2587 = "Realopolis"    
+     
+# UPPER ONTARIO   
+     
+991 = "Hadriania"    
+1001 = "Praecipitium"    
+1007 = "Sinus Bronte"    
+2015 = "Aquae Sullis"    
+2671 = "Nova Asturica"    
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Nova Fovea"    
+2658 = "Terra Bandera"    
+2659 = "Portus Argentum"    
+4620 = "Terrenaenum"    
+4621 = "Macoris"    
+     
+# EAST CUBA   
+     
+486 = "Sinus Interflumina"    
+2654 = "Sinus Cubanis"    
+2655 = "Sinopesiae"    
+2656 = "Hortus Iovi"    
+     
+# GREATER ANTILLES   
+     
+481 = "Insulae Bermuda"    
+487 = "Iamaica"    
+491 = "Capri Novi"    
+492 = "Nova Elba"    
+     
+# HAITI    
+     
+488 = "Littus Aquileia"    
+489 = "Insulae Testudo"    
+4618 = "Portus Caesaris"    
+4619 = "Gonavia"    
+     
+# LEEWARD ISLANDS   
+     
+493 = "Insula Opis"    
+494 = "Insula Fontis"    
+495 = "Ianus Insula"    
+496 = "Gaulus Novus"    
+1881 = "Insula Rex Otho"    
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Insulae Eleuthera"    
+483 = "Insulae Anatoliae"    
+     
+# WEST CUBA   
+     
+484 = "Portus Cubanis"    
+485 = "Euboea Nova"    
+4622 = "Canimarius"    
+4623 = "Salica"    
+4624 = "Mantova"    
+     
+# WINDWARD ISLANDS   
+     
+497 = "Insula Rugum"    
+498 = "Insula Viridis"    
+499 = "Luciium"    
+500 = "Inaula Grenadum"    
+501 = "Insula ex Barbatis"    
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Forum Iulii in Alasca"    
+977 = "Castra Alasca"    
+2613 = "Albasinus"    
+     
+# COLUMBIA RIVER   
+     
+873 = "Gardia"    
+2486 = "Magnia"    
+2487 = "Laccus Canis"    
+2488 = "Maximinus"    
+     
+# HECATE STRAIT   
+     
+975 = "Junopolis"    
+2022 = "Insulae Hadrianae"    
+2609 = "Pompeiopolis"    
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Ad Turres"    
+2604 = "Colonia Alpina"    
+2605 = "Leptis Minor"    
+2606 = "Castra Alexandria"    
+2607 = "Novus Halicarnassus"    
+     
+# OREGON    
+     
+872 = "Corvallis"    
+2481 = "Britannicum"    
+2482 = "Nova Etruria"    
+2483 = "Miseriae"    
+     
+# PUGET SOUND   
+     
+874 = "Quaecia"    
+2484 = "Vertera"    
+2485 = "Delphi"    
+     
+# SNAKE RIVER   
+     
+2019 = "Civitas Curia"    
+2020 = "Serpeniae"    
+2489 = "Colonia Centralis"    
+2490 = "Mare Mortuum"    
+2506 = "Atemnae"    
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Insula Alba"    
+973 = "Vidobonne"    
+974 = "Sinus Resonarum"    
+2610 = "Pons Traiani"    
+     
+# WESTERN ALASKA   
+     
+978 = "Locus Ancora"    
+979 = "Aleutiae"    
+2611 = "Portus Batavius"    
+2612 = "Iuliomagnus"    
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Lazarus"    
+2632 = "Villahermium"    
+2650 = "Carmelopolis"    
+     
+# CHIAPAS    
+     
+2635 = "Lentulae"    
+2638 = "Romanopolis"    
+2649 = "Palus Maeotis"    
+4585 = "Villa Ostia"    
+4586 = "Primaporta"    
+     
+# COSTA RICA   
+     
+836 = "Nova Carthago"    
+2663 = "Colonia Cartago"    
+4597 = "Parisimum"    
+     
+# EAST YUCATAN   
+     
+2634 = "Severinii"    
+2652 = "Hippo Legium"    
+4588 = "Truncatis"    
+4591 = "Salturia"    
+     
+# GUATEMALA    
+     
+839 = "Iovium"    
+841 = "Gutemalum"    
+2653 = "Familia"    
+4587 = "Citscetum"    
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Flores"    
+843 = "Forum Vittelium"    
+2636 = "Templum Hellenium"    
+4589 = "Sinus Saltus"    
+4594 = "Templum Fecunditas"    
+     
+# HONDURAS    
+     
+840 = "Gepidae"    
+2637 = "Colonia Moneta"    
+2640 = "Colonia Treverorum"    
+2662 = "Dux"    
+4593 = "Laxinum"    
+     
+# NICARAGUA    
+     
+837 = "Civitas Stella"    
+838 = "Moquitium"    
+2660 = "Laccus Vesuvius"    
+2661 = "Toeii"    
+4592 = "Ulva"    
+     
+# WEST YUCATAN   
+     
+846 = "Novi Tingi"    
+2633 = "Meridae"    
+2651 = "Colonia Salina"    
+4590 = "Bilbrate"    
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Angustia"    
+2664 = "Fordia"    
+2819 = "Ad Novum"    
+4595 = "Davidium"    
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Nova Genua"    
+916 = "Civitanova"    
+917 = "Novum Treverorum"    
+4903 = "Diocletianopolis"    
+     
+# INDIANA    
+     
+942 = "Gabii"    
+943 = "Castra Vestra"    
+2523 = "Castra Principia"    
+2524 = "Indianum"    
+4922 = "Bovium"    
+     
+# LAKE SUPERIOR   
+     
+910 = "Tonitrium"    
+911 = "Novum Bruttium"    
+2517 = "Dyrachium Novum"    
+2518 = "Rhenopolis"    
+4898 = "Gesoriacum"    
+     
+# MICHIGAN    
+     
+944 = "Novae Pisae"    
+945 = "Nemetocenna"    
+2521 = "Saginucii"    
+2522 = "Mutunus Tutunus"    
+     
+# OHIO    
+     
+946 = "Novum Toletum"    
+947 = "Forum Landia"    
+948 = "Careiae"    
+2525 = "Cincinato"    
+4907 = "Olicana"    
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Colonia Agria"    
+2520 = "Cupressium"    
+4904 = "Burgodunum"    
+     
+# WISCONSIN    
+     
+912 = "Mosella"    
+913 = "Oppidum Exercitus"    
+914 = "Sinus Ponomium"    
+4899 = "Cibalae"    
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Castra Duca"    
+2504 = "Longinius"    
+2505 = "Iunavum"    
+     
+# Central Plains   
+     
+901 = "Heptas"    
+903 = "Culumbianum"    
+2009 = "Ad Gallium"    
+2508 = "Lupus"    
+4915 = "Ulcisia Castra"    
+     
+# HIGH PLAINS   
+     
+889 = "Colorado"    
+2507 = "Ad Vicesimum"    
+2625 = "Ascrivium"    
+     
+# IOWA    
+     
+905 = "Nova Ravenna"    
+2513 = "Arpia"    
+4900 = "Ciceropolis"    
+4905 = "Storgosia"    
+     
+# KANSAS    
+890 = "Satala"    
+898 = "Syracusae Novae"    
+2672 = "Beatricia"    
+4914 = "Thysdrus"    
+     
+# MINNESOTA    
+     
+904 = "Castrum Viridium"    
+908 = "Nova Dacia"    
+2512 = "Hadrianopolis"    
+4901 = "Aeminium"    
+     
+# NORTH DAKOTA   
+     
+906 = "Terra Magna"    
+909 = "Templum Dacium"    
+2510 = "Villa Pompeio"    
+4918 = "Segontium"    
+     
+# SOUTH DAKOTA   
+     
+907 = "Indianae"    
+2007 = "Aquae Salviae"    
+2008 = "Augustinia"    
+4916 = "Xanthus"    
+     
+# SOUTHERN PLAINS   
+     
+891 = "Crux"    
+892 = "Castra Victoria"    
+896 = "Castra Colonia"    
+4908 = "Sumelocenna"    
+     
+# UPPER MISSOURI   
+     
+2006 = "Flavolapis"    
+2501 = "Colonia Modus"    
+2502 = "Valentiae"    
+2503 = "Silva Maior"    
+4917 = "Tyrus"    
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Castra Borealis"    
+2588 = "Aegyptum"    
+2589 = "Rapidius"    
+2590 = "Cascadii"    
+2591 = "Castra Quirinalis"    
+     
+# ALBERTA    
+     
+2004 = "Beneficitus"    
+2017 = "Borealia "    
+2018 = "Nova Emona"    
+2602 = "Arae Philaenorum"    
+     
+# ASSINIBOIA    
+     
+2005 = "Regina"    
+2596 = "Aquae Mira"    
+2598 = "Lygdamus"    
+4920 = "Planissima Terra"
+     
+# ATHABASCA    
+     
+2599 = "Castra Apuleia"    
+2600 = "Colonia Apustius Flumen"    
+2601 = "Bruttiopolis"    
+2603 = "Castra Rosa"    
+     
+# HUDSON BAY   
+     
+1005 = "Terra Gela"    
+1006 = "Caracalla"    
+1009 = "Villa Raetica"    
+2592 = "Albafectum"    
+2594 = "Factopolis"    
+     
+# JAMES BAY   
+     
+998 = "Castra Commodus"    
+999 = "Borealia ad Castra"    
+1000 = "Villa Sinus"    
+1003 = "Villa Alchis"    
+1004 = "Tetradeum"    
+     
+# MANITOBA    
+     
+1008 = "Flumenruber"    
+1010 = "Elagabal"    
+1011 = "Vinebagii"    
+2593 = "Laccus Silvanus"    
+4919 = "Ragusium"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Fuscinula"    
+2511 = "Laccus Daemonius"    
+4901 = "Terra Mea"
+     
+# SASKATCHEWAN    
+     
+1813 = "Novum Noricum"    
+2595 = "Videmons"    
+2597 = "Oracadia"    
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Colonia Ilias"    
+4646 = "Phasis"    
+4647 = "Durancus"    
+4648 = "Villa Ocampo"    
+     
+# GRAN CHICHIMECA   
+     
+857 = "Lycia Nova"    
+2642 = "Panticapeum"    
+4642 = "Ulpia Traiana"    
+     
+# GUANAJUATO    
+     
+853 = "Luxor"    
+2615 = "Augusta Doloro"    
+4640 = "Villa Spastus"    
+4641 = "Vindonissa"    
+     
+# GUERRERO    
+     
+2627 = "Forum Mesticum"    
+2645 = "Forum Syracuasum"    
+2648 = "Crucemaga"    
+     
+# HUASTECA    
+     
+848 = "Atecia"    
+2641 = "Augustus"    
+4598 = "Loeri Epizephyrii"    
+     
+# JALISCO    
+     
+854 = "Lixus"    
+2617 = "Iolomeus"    
+2621 = "Obulco"    
+2657 = "Colonia Colima"    
+4576 = "Nova Olbia"    
+     
+# MEXICO    
+     
+852 = "Mesecia"    
+2626 = "Maluentum"    
+4570 = "Anagoia"    
+4571 = "Cephalodium"    
+4572 = "Castra Didia"    
+     
+# MICHOAVAN    
+     
+2622 = "Iazagum"    
+2623 = "Forum Numerii"    
+2624 = "Villa Hispania"    
+4573 = "Epirus Novus"    
+4574 = "Colonia Columni Herculi"    
+     
+# MIXTECA    
+     
+847 = "Sinus Viridis"    
+849 = "Bellum Americus"    
+2646 = "Villa Pons"    
+4581 = "Forum Commodum"    
+     
+# NAYARIT    
+     
+855 = "Nova Ancona"    
+859 = "Novus Euxinus"    
+4578 = "Portus Cyrenicum"    
+     
+# Oaxaca    
+     
+844 = "Tapotecum"    
+2629 = "Mariapolis"    
+4584 = "Castrum Militium"    
+     
+# PUEBLA    
+     
+850 = "Aggripinia"    
+2628 = "Novum Pergamum"    
+2644 = "Pago"    
+4582 = "Ad Deorum"    
+4583 = "Novis Salamis"    
+     
+# TIERRA CALIENTE   
+     
+851 = "Unium"    
+2643 = "Consaburum"    
+4575 = "Trioregum"    
+4579 = "Actium"    
+4580 = "Colimanum"    
+     
+# VERACRUZ    
+     
+2630 = "Pax Iulia in America"    
+2631 = "Villa Petronius"    
+2647 = "Ad Crux"    
+     
+# ZACATECAS    
+     
+856 = "Tacetium"    
+4643 = "Colonia Pamens"    
+4645 = "Castrum Bosporium"    
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Nova Tolosa"    
+925 = "Castra Ceres"    
+2531 = "Nova Mediolanum"    
+2532 = "Colonia Lucius"    
+4883 = "Taparura"    
+     
+# ARKANSAS    
+     
+894 = "Sarmaritia"    
+895 = "Bonifius in Misipia"    
+897 = "Flumen Magnum"    
+4885 = "Nequam"
+4923 = "Duroliponte"    
+     
+# KENTUCKY    
+     
+941 = "Novum Hadrumentum"    
+2526 = "Judea Nova"    
+4888 = "Clausentum"    
+     
+# LOUISIANA    
+     
+893 = "Ostia Nova"    
+2014 = "Americanus"    
+2516 = "Gallopolis"    
+     
+# MISSISSIPPI    
+     
+919 = "Noviomagnus"    
+920 = "Galliopolis"    
+2528 = "Castra Frigidium"    
+2529 = "Normannopolis"    
+4884 = "Ratae Coritanorum"    
+     
+# OZARKS    
+     
+899 = "Aggripina Nova"    
+2509 = "Lauriacum"    
+2515 = "Rotomagnus"    
+4886 = "Durocornovium"    
+     
+# TENNESSEE    
+     
+918 = "Heliopolis"    
+934 = "Rauricum"    
+939 = "Paducae"    
+4913 = "Agri Caerulei"
+     
+# UPPER LOUISIANA   
+     
+900 = "Silvanus"    
+902 = "Pannonia Magna"    
+2514 = "Severopolis"    
+4906 = "Andautonia"    
+     
+# VANDALIA    
+     
+951 = "Nova Roma "    
+2551 = "Castra Homerius"    
+4889 = "Lindinis"    
+     
+# WESTERN KENTUCKY   
+     
+940 = "Claudiopolis"    
+4887 = "Blestium"    
+4921 = "Comagenis"    
+     
+# WEST FLORIDA   
+     
+921 = "Sabatinia"    
+922 = "Castra Regina"    
+923 = "Alsium"    
+2530 = "Portus Caesar"    
+2533 = "Novo Barcino"    
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Albalonga"    
+2555 = "Silvanium"    
+4875 = "Attalia"    
+     
+# CONNECTICUT    
+     
+967 = "Insulae Rubae"    
+2010 = "Colonia Flumina"    
+2560 = "Novus Portus"    
+     
+# DELAWARE VALLEY   
+     
+956 = "Thebae"    
+957 = "Cycnusium"    
+962 = "Caeserea Maius"    
+2023 = "Vallis Caesarea"    
+     
+# EASTERN MAINE   
+     
+971 = "Nova Batavia"    
+2566 = "Baccopolis"    
+2567 = "Salinae"    
+     
+# HUDSON VALLEY   
+     
+961 = "Hannibalia"    
+963 = "Albanus"    
+964 = "Noviomagus Batavorum"    
+2559 = "Forum Antonium"    
+4912 = "Risinium"    
+     
+# IRIQUOISIA    
+     
+958 = "Bufalum"    
+959 = "Graecopolis"    
+960 = "Cicerae"    
+4872 = "Sirmium"    
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Paradox"    
+2563 = "Virmontus"    
+4871 = "Sorviodurum"    
+     
+# MAINE    
+     
+2013 = "Novus Panormus"    
+2565 = "Ad Lambaesis"    
+4873 = "Poetovio"    
+     
+# MARYLAND    
+     
+953 = "Alexandria"    
+2553 = "Denverium"    
+2554 = "Roma Nova"    
+     
+# MASSACHUSETTS    
+     
+966 = "Novum Eboracum"    
+968 = "Novo Narbo"    
+2561 = "Terra Alba"    
+4874 = "Pautalia"    
+     
+# NEW HAMPSHIRE   
+     
+970 = "Videlicia"    
+2562 = "Nova Troia"    
+2564 = "Salamis"    
+     
+# NEW YORK   
+     
+965 = "Carthago Nova"    
+2558 = "Heraclea"    
+2639 = "Nova Istria"    
+     
+# WESTYLVANIA    
+     
+955 = "Ruberpontus"    
+2556 = "Iuvenalis"    
+2557 = "Castra Minerva"    
+4876 = "Brixia"    
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Colonia Augusta Sonora"    
+864 = "Vetera"    
+2618 = "Rosarii"    
+4644 = "Patricum"    
+     
+# COAHUILA    
+     
+861 = "Tacape"    
+864 = "Vetera"    
+2666 = "Aquae America"    
+2667 = "Negropolis"    
+4606 = "Titopolis"    
+     
+# COASTAL PRARIE   
+     
+884 = "Sinus Augustus"    
+888 = "Corpus Junae"    
+2665 = "Caudinae"    
+2669 = "Visitum"    
+     
+# LLANO ESTACADO   
+     
+882 = "Castra Legiones"    
+885 = "Pagania"    
+2496 = "Amorterra"    
+2497 = "Albatemplum"    
+4630 = "Thelepte"    
+     
+# PECOS    
+     
+2498 = "Cihavua"    
+4628 = "Elpasum"    
+4629 = "Centroterra"    
+     
+# TAMAULIPAS    
+     
+858 = "Marathon"    
+2499 = "Corpus Christi"    
+2614 = "Iuliopolis"    
+2668 = "Nova Noreia"    
+     
+# TEXAS    
+     
+883 = "Poserpina"    
+887 = "Nova Raphana"    
+4627 = "Villa Texia"    
+4911 = "Arcadiopolis"    
+     
+# TEXAS PLAINS   
+     
+886 = "Apulum"    
+2500 = "Angelaum"    
+4909 = "Epidamnus"    
+4910 = "Dionysopolis"    
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Portus Augusti"    
+928 = "Penascola"    
+2534 = "Oriones"    
+     
+# FLORIDA    
+     
+926 = "Deltavia Minor"    
+2535 = "Floridia"    
+2536 = "Deltavia Maior"    
+4625 = "Canaveralis"    
+4626 = "Petropolis "    
+     
+# GEORGIA    
+     
+929 = "Nova Burdigla"    
+2537 = "Rhododendron"    
+2538 = "Castra Germania"    
+2539 = "Brunsvicum in America"    
+4880 = "Durocobrivis"    
+     
+# GREAT VALLEY   
+     
+949 = "Forum Felix"    
+2011 = "Nova Aremorica"    
+2548 = "Novoflumen"    
+2552 = "Raleia"    
+     
+# NORTH CAROLINA   
+     
+937 = "Nova Capua"    
+938 = "Novapatria"    
+2546 = "Terra Plutonis"    
+2547 = "Sinus Bruno"    
+     
+# OVERMOUNTAIN    
+     
+935 = "Feronia"    
+936 = "Mons Noricum"    
+2527 = "Colonia Augusta Liguria "    
+4879 = "Abritus"    
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Cannopolis"    
+2545 = "Qurinalia"    
+4878 = "Scarbantia"    
+     
+# SOUTH CAROLINA   
+     
+932 = "Castrum Gaius"    
+2542 = "Heleneum"    
+2543 = "Columbopolis"    
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Pentapolis"    
+2541 = "Faventia"    
+4882 = "Vesunna"    
+     
+# UPPER GEORGIA   
+     
+930 = "Ad Sextum"    
+931 = "Persicum"    
+2540 = "Augustopolis"    
+4881 = "Cannabiaca"    
+     
+# VIRGINIA    
+     
+950 = "Scipiopolis"    
+952 = "Petrusium"    
+2549 = "Esqulinium"    
+2550 = "Laurentia"    
+4877 = "Asculum"    
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Oram Malum"    
+2935 = "Novum Lugdunum"    
+2938 = "Castrimoeninica"    
+     
+# AMAZON    
+     
+2889 = "Veii Arx"    
+2930 = "Nova Danubia"    
+2933 = "Barcellum ad Villa"    
+2934 = "Villa"    
+     
+# BAHIA    
+     
+756 = "Littus Differium"    
+757 = "Brasilium"    
+760 = "Ostia in Brasilia"    
+2914 = "Ceteralis"    
+2916 = "Castra Vittoria"    
+     
+# CEARA    
+     
+750 = "Cratum"    
+751 = "Terra Dunes"    
+753 = "Natalium"    
+     
+# DIAMANTINA    
+     
+759 = "Diamantum"    
+2891 = "Capitolopolois"    
+2898 = "Sanctus"    
+     
+# GOIAS    
+     
+758 = "Templum Alba"    
+2906 = "Spartapolis"    
+2907 = "Villa Boa"    
+2908 = "Buxus"    
+2919 = "Medullia"    
+     
+# GRAO PARA   
+     
+748 = "Davidium "    
+2890 = "Hadria"    
+2928 = "Bovillae"    
+2929 = "Lidonovo"    
+     
+# GUAPORE    
+     
+2900 = "Colonia Felix"    
+2901 = "Porta Vestfalica"    
+2902 = "Villa Bellum"    
+     
+# GUAYRA    
+     
+768 = "Ruberum"    
+2895 = "Carnuntum"    
+2897 = "Ad Ladium"    
+     
+# MARANHAO    
+     
+749 = "Colonia Dunesalba"    
+2923 = "Hacofurtum"    
+2924 = "Timonius"    
+2926 = "Temperaturas"    
+2927 = "Adspectus"    
+     
+# MATO GROSSO   
+     
+2888 = "Villa Rostrata"    
+2903 = "Procterius"    
+2904 = "Silva Nero"    
+2905 = "Aqua Bona"    
+     
+# MINAS GERAIS   
+     
+765 = "Silvaminas"    
+2892 = "Mons Argentinum"    
+2894 = "Caesarea in America"    
+2899 = "Torredembara"    
+     
+# OFAIE    
+     
+2881 = "Nova Palma"    
+2893 = "Revulla"    
+2920 = "Castra Aquilae"    
+     
+# PERNAMBUCO    
+     
+754 = "Oppidum Rhodanus"    
+755 = "Fulgur Sanctus"    
+2912 = "Templum Janus"    
+2921 = "Castellum Nerva"    
+2922 = "Mons Miser"    
+     
+# PIAUI    
+752 = "Novum Conginium"    
+2886 = "Castra Albanus"    
+2925 = "Gaioterra"    
+     
+# PONTAL    
+     
+2909 = "Praeneste"    
+2910 = "Novavisum"    
+2911 = "Caesaraaugusta"    
+     
+# RIO DE JANEIRO  
+     
+761 = "Eos"    
+762 = "Litore ab Hannibale"    
+763 = "Sparta Nova"    
+764 = "Napoca"    
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Portus Claudii"    
+2879 = "Theclae"    
+2884 = "Cartenna Nova"    
+2887 = "Florianopolis"    
+     
+# SAO FRANCISCO   
+     
+2885 = "Villa Nova"    
+2913 = "Nomentum"    
+2915 = "Pescara"    
+2917 = "Vespasian"    
+2918 = "Cures"    
+     
+# SAO PAULO   
+     
+766 = "Medialia"    
+769 = "Sinus Minus"    
+2896 = "Ulysses"    
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Uxorabnorma"    
+832 = "Colonia Musica"    
+4602 = "Palavito"    
+4603 = "Leptis Magna"    
+     
+# CENTRAL LLANOS   
+     
+834 = "Berytus"    
+2810 = "Salinopolis"    
+2813 = "Terra Bovica"    
+4613 = "Villa Venecula"    
+4614 = "Lunapolis"    
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Mons Varietas"    
+2816 = "Avocamentum"    
+4605 = "Colonia Augusta Aequstorialensis"    
+     
+# COQUIVACOA    
+     
+828 = "Belgiacia"    
+829 = "Magdalena"    
+2806 = "Castra Ovidia"    
+4599 = "Avernium"    
+4601 = "Villa Germania"    
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Equitium"    
+827 = "Antiochia ad Orontem"    
+2817 = "Belgicus"    
+4600 = "Albiomagna"    
+4607 = "Nova Neva"    
+     
+# EASTERN LLANOS   
+     
+2805 = "Ad Orinco"    
+2809 = "Patrae Novae"    
+2939 = "Novarcum in Regis"    
+4615 = "Ad Tigris"    
+     
+# GUYANA    
+     
+502 = "Insula Rex Galba"    
+743 = "Nova Colonia"    
+744 = "Arae Helenae"    
+2803 = "Deltapolis"    
+     
+# MARACAIBO    
+     
+830 = "Latium Novum"    
+2807 = "Apolonia"    
+4609 = "Nova Abdera"    
+4610 = "Nobilia"    
+4611 = "Helice"    
+     
+# POPAYAN    
+     
+823 = "Remea"    
+826 = "Castrum Tropicum"    
+2818 = "Colonia Aurelia"    
+4596 = "Apardum"    
+4604 = "Colonia Augusta Incaorum"    
+     
+# SURINAME    
+     
+745 = "Nova Liburna"    
+746 = "Cuiana Orientis"    
+2937 = "Surenum"    
+     
+# UPPER GUYANA   
+     
+742 = "Frame Nigrum"    
+2804 = "Ptolemais"    
+2811 = "Esmeraldium"    
+2931 = "Episcopius"    
+4617 = "Silva Animalis"    
+     
+# VENEZUELA    
+     
+741 = "Castellum Caesarum"    
+831 = "Tarentum "    
+2808 = "Novum Videlicorum"    
+4612 = "Tathea"    
+4616 = "Portus Caribii"    
+     
+# WESTERN LLANOS   
+     
+2812 = "Ad Remea"    
+2814 = "Palaestina"    
+2815 = "Portus Flavii"    
+4608 = "Syropolis"    
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Candelum"    
+786 = "Carmen"    
+2868 = "Antoniopolis"    
+     
+# BANDA ORIENTAL   
+     
+772 = "Urucum"    
+773 = "Leberita"    
+2850 = "Videomontis"    
+2851 = "Templum Aesculapius"    
+2852 = "Villa Titus"    
+     
+# BUENOS AIRES   
+     
+778 = "Bonus Ventus"    
+2846 = "Cincatae"    
+2848 = "Bella Vista"    
+2849 = "Senecapolis"    
+     
+# CENTRAL CHILE   
+     
+784 = "Portus Gaius"    
+787 = "Valparisum"    
+2862 = "Germaniae"    
+     
+# CUYO    
+     
+2843 = "Boethia"    
+2844 = "Transquilius"    
+2845 = "Marcellinus"    
+2847 = "Pettulium"    
+2877 = "Leocoria"    
+     
+# MESOPOTAMIA    
+     
+777 = "Thaenae"    
+2853 = "Novus Padus"    
+2855 = "Roma in America"    
+2858 = "Aquae Apollinares"    
+2859 = "Eanuvium"    
+     
+# NEHEUNKEN    
+     
+785 = "Deserto Aluminio"    
+2867 = "Patria Nova "    
+2871 = "Templum Romanum"    
+2872 = "Auriopolis"    
+     
+# PATAGONIA    
+     
+781 = "Portus Desadum"    
+782 = "Terra Ignium"    
+2869 = "Hortensii"    
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Nova Castra Regina"    
+2870 = "Castra Nova"    
+2875 = "Villa Helvetia"    
+2876 = "Tartarium"    
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Insulae Aqilia"    
+2025 = "Novus Rhodos"    
+     
+# SOUTHERN CHILE   
+     
+783 = "Magllania"    
+2873 = "Automalax"    
+2874 = "Sinus Mariana"    
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Attalia"    
+2860 = "Cvitas Bellicum"    
+2861 = "Ad Septum"    
+2865 = "Vittoria"    
+2866 = "Oliveria"    
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Paxus"    
+804 = "Titgacum"    
+2831 = "Trajanopolis"    
+2947 = "Sebataeia"    
+     
+# CAJAMARCA    
+     
+813 = "Furium"    
+2824 = "Forum Gaio"    
+2825 = "Piscumbae"    
+2943 = "Aurumvilla"    
+     
+# CHIMOR    
+     
+812 = "Mons Ruberus"    
+2002 = "Insulae Draconis"    
+2821 = "Castra Hibrenia"    
+2822 = "Colonia Pulchra Cleopatra"    
+2826 = "Sinus Furium"    
+     
+# HUANUCO    
+     
+809 = "Lima"    
+810 = "Mercurium in Peruvium"    
+811 = "Panis Vallis"    
+814 = "Piraeus in Peruvium"    
+2827 = "Hussarium"    
+     
+# IQUITOS    
+     
+815 = "Lauretum"    
+818 = "Ambrosium"    
+821 = "Batavium"    
+     
+# KUNTISUYU    
+     
+807 = "Abanacum"    
+808 = "Cusco"    
+2829 = "Novus Berenice"    
+2830 = "Mons Petrus"    
+     
+# PERUAN COAST   
+     
+805 = "Pompei Novi"    
+806 = "Nascium"    
+2828 = "Villa Parthia"    
+     
+# QUITO    
+     
+816 = "Castrum Pertinax"    
+817 = "Caenecum"    
+819 = "Portus Nuntius"    
+820 = "Titium-Ecuadus"    
+2820 = "Aenia"    
+     
+# UCAYALI    
+     
+2823 = "Octopolis"    
+2944 = "Oea"    
+2945 = "Nova Nicomedia"    
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Civitas Minorium"    
+801 = "Colonia Limes"    
+2834 = "Iupiter Sator"    
+     
+# CHACO    
+     
+790 = "Cacum Australis"    
+2854 = "Colonia Cacum"    
+2878 = "Sabinopolis"    
+     
+# JUJUY    
+     
+794 = "Narbo"    
+2837 = "Novum Polemonium"    
+2839 = "Atacamia"    
+     
+# MOXOS    
+     
+803 = "Volubilis"    
+2832 = "Gaio"    
+2833 = "Saturnus"    
+     
+# NORTHERN CHILE   
+     
+792 = "Terra Amarilla"    
+793 = "Colonia Flavius"    
+796 = "Luderum"    
+2840 = "Iacobii"    
+2841 = "Antefactum"    
+     
+# PARAGUAY    
+     
+775 = "Templum Paracia"    
+776 = "Conceptum"    
+799 = "Templum ab Cacum"    
+2882 = "Alexanderpolis"    
+2883 = "Melodia"    
+     
+# POTOSI    
+     
+795 = "Mons Auris"    
+797 = "Castrum Aeris"    
+2940 = "Vasingtonia Australis"    
+2946 = "Villa Alba"    
+     
+# TUCUMAN    
+     
+791 = "Catomarcium"    
+2836 = "Forum Marci"    
+2842 = "Aurora"    
+     
+# UPPER PERU   
+     
+2835 = "Ad Caput"    
+2838 = "Novus Trapezus"    
+2941 = "Carolopolis"    
+2942 = "Campifons"    
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Heliopolis"    
+4852 = "Zeugma"    
+4853 = "Patavium"    
+4854 = "Augustianis"    
+     
+# CAPRICORNIA    
+     
+2730 = "Modoetia"    
+2731 = "Vesontio"    
+2732 = "Ambianum"    
+4848 = "Biriciana"    
+4849 = "Gratianopolis"    
+     
+# ILLAWARA    
+     
+1090 = "Romula"    
+4857 = "Tinurtium"    
+4858 = "Lintomagus"    
+4859 = "Dianium"    
+4860 = "Dea Vocontiorum"    
+     
+# NEW SOUTH WALES  
+     
+1091 = "Turnacum Nerviorum"    
+1092 = "Segobriga"    
+4855 = "Nova Italika"    
+4856 = "Vetulonia"    
+     
+# PERTH    
+     
+1084 = "Berytus"    
+2727 = "Forum Hadriani"    
+4863 = "Pomponiana"    
+4864 = "Segustero"    
+     
+# PILBARA    
+     
+2726 = "Pumbedita"    
+4865 = "Minerica"    
+4866 = "Ariminum"    
+4867 = "Calusiacum"    
+     
+# PRINCELAND    
+     
+1086 = "Mursa"    
+2735 = "Isca Augusta"    
+2736 = "Venta Silurum"    
+4862 = "Uxellodunum"    
+     
+# QUEENSLAND    
+     
+1093 = "Vinovia"    
+1094 = "Rhegium"    
+2733 = "Divodurum"    
+4850 = "Colonia Agrippinensium"    
+     
+# TASMANIA    
+     
+1085 = "Naissus"    
+4868 = "Summus Poeninus"    
+4869 = "Brocomagus"    
+     
+# TOP END   
+     
+2728 = "Quinque-Ecclesiis"    
+2729 = "Aeduorum"    
+4846 = "Mamucium"    
+4847 = "Traiectum ad Nicrem"    
+     
+# VICTORIA    
+     
+1087 = "Dyrrachium"    
+1088 = "Lentia"    
+1089 = "Utinum"    
+2734 = "Lindum Colonia"    
+4861 = "Salomacus"    
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1244 = "Pollentia"    
+1987 = "Iatinon"    
+1988 = "Sanisera"    
+     
+# EAST MICRONESIA   
+     
+1994 = "Portus Lemanis"    
+     
+# FIJI    
+     
+1242 = "Marinianis"    
+4937 = "Rittium"    
+4938 = "Metapontum"    
+     
+# MELANESIA    
+     
+1236 = "Durostorum"    
+1238 = "Mogontiacum"    
+1239 = "Colubraria"    
+1986 = "Nova Caledonia"    
+     
+# NORTHERN POLYNESIA   
+     
+1240 = "Celeia"    
+4934 = "Graccurris"    
+4935 = "Cilurnum"    
+4936 = "Brundisium"    
+     
+# POLYNESIA    
+     
+1243 = "Anderida"    
+1989 = "Neresnica"    
+1990 = "Nidum"    
+1992 = "Portus Naurus"    
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Ratea Colitanorum"    
+1107 = "Novae Palmyrae"    
+2739 = "Neviodunum"    
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Aphrodisias"    
+2737 = "Lagentium"    
+4939 = "Aquae Granni"    
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Massilia"    
+1246 = "Utica"    
+2738 = "Viroconium Cornoviorum"    
+     
+# WEST MICRONESIA   
+     
+1235 = "Baeterrae"    
+1995 = "Ad Silanum"    
+1996 = "Cinniana"

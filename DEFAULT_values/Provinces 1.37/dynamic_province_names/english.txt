@@ -1,0 +1,2262 @@
+### EUROPE
+
+# BRITAIN
+
+# Connacht
+
+375 = {"Limerick" "Limerick"}
+376 = {"Connaught" "Galway"}
+4119 = {"Sligo" "Sligo"}
+
+# East Anglia
+
+238 = {"Essex" "Chelmsford"}
+1860 = {"Norfolk" "Norwich"}
+4370 = {"Bedfordshire" "Cambridge"}
+
+# East Midlands
+
+243 = {"Lincolnshire" "Lincoln"}
+1861 = {"Derby" "Derby"}
+4376 = {"Leicester" "Leicester"}
+
+# Highlands
+
+250 = {"Perth" "Perth"}
+252 = {"Inverness" "Inverness"}
+369 = {"Orkney" "Kirkwall"}
+4110 = {"Sutherland" "Dornoch"}
+4363 = {"Argyle" "Loch Awe"}
+
+# Leinster
+
+373 = {"Pale" "Dublin"}
+374 = {"Leinster" "Wexford"}
+4120 = {"Kildare" "Naas"}
+4379 = {"King's County" "Annaly"}
+
+# London
+
+235 = {"Kent" "Canterbury"}
+236 = {"London" "London"}
+237 = {"Oxford" "Oxford"}
+4371 = {"Sussex" "Hastings"}
+
+# Lowlands
+
+248 = {"Lothian" "Edinburgh"}
+249 = {"Ayrshire" "Ayr"}
+251 = {"Aberdeen" "Aberdeen"}
+4361 = {"Roxburghshire" "Jedburgh"}
+4362 = {"Dumfries" "Dumfries"}
+
+# Munster
+
+4118 = {"Cork" "Cork"}
+4377 = {"Ormond" "Kilkenny"}
+4378 = {"Desmond" "Killarney"}
+
+# Northern England
+
+244 = {"Lancashire" "Lancaster"}
+246 = {"Northumberland" "Newcastle upon Tyne"}
+247 = {"Cumbria" "Carlisle"}
+4375 = {"Chester" "Chester"}
+
+# The Isles
+
+253 = {"Outer Hebrides" "Stornoway"}
+4364 = {"Inner Hebrides" "Skye"}
+4365 = {"Isle of Man" "Castletown"}
+
+# Ulster
+
+372 = {"Londonderry" "Dungannon"} # apologies to some Irish people
+4121 = {"Ulster" "Carrickfergus"}
+4380 = {"Donegal" "Donegal"}
+
+# Wales
+
+241 = {"Glamorgan" "Swansea"}
+242 = {"Carnarvonshire" "Carnarvon"}
+4366 = {"Powys" "Montgomery"}
+4369 = {"Carmarthenshire" "Carmarthen"}
+
+# Wessex
+
+233 = {"Cornwall" "Treliver"}
+234 = {"Hampshire" "Salisbury"}
+4130 = {"Somerset" "Bath"}
+4373 = {"Devonshire" "Plymouth"}
+4374 = {"Dorset" "Weymouth"}
+
+# West Midlands
+
+239 = {"Gloucester" "Bristol"}
+240 = {"Shrewsbury" "Shrewsbury"}
+4372 = {"Coventry" "Coventry"}
+
+# Yorkshire
+
+245 = {"York" "York"}
+4367 = {"Hull" "Hull"}
+4368 = {"Scarborough" "Scarborough"}
+4785 = {"Sheffield" "Sheffield"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = "Willtown"
+770 = "Brasslake"
+4535 = "Wilkimer"
+4536 = "Lidale"
+
+# Curonia
+
+35 = "Oselia"
+39 = "Goldingford"
+1935 = "Mitham"
+
+# East Prussia
+
+40 = "Merton" # or Melrose
+41 = "Kingslake" # or Kingston
+42 = "Walmer" # or Wintermute
+767 = "Overton" # or Orford
+2958 = "Otterham" # or Overmere
+
+# Estonia
+
+36 = "Portia"
+1834 = "Thorpe"
+1842 = "Narborough"
+
+# Livonia
+
+37 = "Northbrook"
+38 = "Rayleigh"
+273 = "Latwick"
+4241 = "Wendlebury"
+
+# Samogitia
+
+270 = "Treborough"
+271 = "Samberland"
+1936 = "Kendale"
+4534 = "Upshire"
+
+# West Prussia
+
+43 = "Danport"
+1841 = "Marlow"
+2997 = "Thornbury"
+
+## IBERIA
+
+# Alentejo
+
+227 = "Lisbon"
+229 = "Bexshire"
+230 = "Alverton"
+4150 = "Evorbridge"
+4787 = "Tagus Valley"
+
+# Aragon
+
+211 = "Huesham"
+214 = "Iberbridge"
+2990 = "Turoland"
+4557 = "Cidford"
+
+# Baleares
+
+333 = "Majorca"
+4559 = "Menorca"
+4560 = "Pinebay"
+
+# Beiras
+
+228 = "Beirford"
+231 = "Oporto"
+232 = "Bragton"
+1851 = "Coimbrough"
+4556 = "Averidge"
+
+# Catalonia
+
+197 = "Rousell"
+212 = "Girone"
+213 = "Barcelone"
+2987 = "Urenford"
+2988 = "Tarradon"
+
+# Extremadura
+
+218 = "Badajost"
+1747 = "Caceress"
+4788 = "Placentia"
+
+# Galicia
+
+206 = "The Groyne"
+4554 = "Lugon"
+4555 = "Pontever"
+4558 = "Orendon"
+
+# León
+
+207 = "Asterly"
+208 = "Lyon"
+216 = "Salamond"
+4553 = "Zamwich"
+
+# Lower Andalucia
+
+224 = "Seville"
+225 = "Cordova"
+1748 = "Jayan"
+1749 = "Cadis"
+4548 = "Huelve"
+
+# North Castile
+
+215 = "Valleydell"
+1745 = "Cantshire"
+1746 = "Burge"
+4552 = "Palenshire"
+
+# South Castile
+
+217 = "Madrith"
+2755 = "Sorham"
+4551 = "Avile"
+4789 = "Seggrove"
+
+# Toledo
+
+219 = "Tyldesley"
+221 = "Murray"
+2751 = "Quenby"
+2754 = "Mansfield"
+4547 = "Albright"
+
+# Upper Andalucia
+
+222 = "Andalby"
+223 = "Granwick"
+226 = "Gibraltar" # Gibraltar is already owned by the UK
+4546 = "Malborne"
+
+# Valencia
+
+220 = "Valentia"
+1750 = "Albert Bay"
+4549 = "Jativa"
+4550 = "Castlebeach"
+
+# Vasconia
+
+209 = "Viston"
+210 = "Navarre"
+2989 = "Rionford"
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Bourvonshire" "Moulin"}
+195 = {"Limington" "Limewich"}
+199 = {"Auverny" "Clairmount"}
+4697 = {"The March" "Geret"}
+4777 = {"Foreton" "Mountbrion"}
+
+# Brittany
+
+169 = {"Armor" "Saint Malou"}
+170 = {"Finster" "Berest"}
+171 = {"Vannecy" "Vannes"}
+172 = {"Nadenshire" "Naden"}
+4384 = {"Redonshire" "Redon"}
+
+# Champagne
+
+181 = {"Rothel" "Rothel"}
+186 = {"Rheims" "Rheims"}
+4390 = {"Troington" "Troington"}
+
+# Eastern Burgundy
+
+192 = {"Divonshire" "Divon"}
+193 = {"Free County" "Bisance"}
+4764 = {"Salens" "Salens"}
+
+# Gascony
+
+173 = {"Labourd" "Bayon"}
+175 = {"Armagnac" "Auch"}
+176 = {"Barnes" "Pow"}
+4694 = {"Foy" "Foy"}
+
+# Guyenne
+
+174 = {"Bordengale" "Bordengale"}
+194 = {"Perigort" "Berrack"}
+198 = {"Rogworth" "Rutterham"}
+4112 = {"Quercy" "Cadercy"}
+
+# Ile-de-France
+
+182 = {"Valcester" "Swesson"}
+183 = {"Paris" "Paris"}
+185 = {"Nemor" "Nemor"}
+4388 = {"Chartwell" "Chartwell"}
+
+# Languedoc
+
+196 = {"Toulsley" "Toulsley"}
+200 = {"Mountwoad" "Mountwoad"}
+2753 = {"Narburh" "Narburh"}
+4391 = {"Veavars" "Veaveres"}
+4695 = {"Carcaston" "Carcaston"}
+
+# Loire Valley
+
+177 = {"Maine" "Chelmens"}
+178 = {"Anders" "Angevin"}
+4389 = {"Turren" "Turondel"}
+
+# Lorraine
+
+187 = {"Barrow" "Barton"}
+188 = {"Mets" "Mets"}
+189 = {"Lorraine" "Nancy"}
+4766 = {"Verton" "Verton"}
+
+# Normandy
+
+167 = {"Caltes" "Rone"}
+168 = {"Cathem" "Cathem"}
+1879 = {"Alenson" "Alenson"}
+4385 = {"Countentry" "Cherbourg"}
+
+# Orleanais
+
+179 = {"Bury" "Bourgenshire"}
+184 = {"Orleanshire" "Orleans"}
+4776 = {"Blessend" "Blessend"}
+
+# Picardie
+
+87 = {"Cales" "Cales"}
+88 = {"Artes" "Athrades"}
+89 = {"Picardy" "Amyn"}
+1743 = {"Camerick" "Camerick"}
+
+# Poitou
+
+180 = {"High Picton" "Powters"}
+411 = {"Santonshire" "Saints"}
+4386 = {"Low Picton" "Lyson"}
+4387 = {"Angens" "Engoleme"}
+
+# Provence
+
+201 = {"Marsile" "Marsile"}
+202 = {"Aveny" "Aveny"}
+2991 = {"Forken Callow" "Forken Callow"}
+4696 = {"Tolons" "Tolons"}
+
+# Savoy
+
+203 = {"Loughens" "Loughens"}
+204 = {"Delphinate" "Grainsbury"}
+205 = {"Cameradge" "Cameradge"}
+4719 = {"Bresse" "Burg in Bresse"}
+
+# Western Burgundy
+
+191 = {"Nievern" "Newfort"}
+1877 = {"Charleston" "Charleston"}
+4392 = {"Auxerry" "Seymor"}
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = "Prague"
+2968 = "Boudwel"
+2970 = "Gradel"
+4724 = "Palmerbell"
+4725 = "Jindrygel"
+
+# Braunschweig (Brunswick)
+
+57 = "Brunswick"
+1758 = "Hanover"
+2971 = "The Hew"
+4773 = "Gottingen"
+
+# Erzgebirge
+
+267 = "Pilsen"
+1771 = "Ergton"
+2967 = "Eger"
+
+# Hesse
+
+78 = "Mayence"
+81 = "Upper Hesse"
+1762 = "Lower Hesse"
+1876 = "Francford"
+4774 = "Fuld"
+
+# Hinterpommern
+
+48 = "Colberg"
+2995 = "Stolpen"
+4746 = "Stargrad"
+
+# Lower Rhineland
+
+80 = "Treves"
+1760 = "Coblence" # Archaic 
+1878 = "Aix-la-Chapelle" # Archaic
+4768 = "Gulick"
+
+# Lower Saxony
+
+44 = "Hamburg"
+53 = "Lunenburgh"
+1857 = "Lauenburg"
+4772 = "Cellen"
+
+# Lusatia
+
+60 = "Bauten"
+1763 = "Lower Lusatia"
+4778 = "Gorlfort"
+
+# Mecklenburg
+
+45 = "Lubern"
+46 = "Rostock"
+2996 = "Vismer"
+4749 = "New Brandenburg"
+4786 = "Pryness"
+
+# Mittelmark
+
+50 = "Berlin"
+51 = "Ruppen"
+1759 = "Pottsdale"
+2993 = "Huckermark"
+4748 = "Brandenburg"
+
+# Moravia
+
+265 = "Brun"
+4237 = "Olmern"
+4726 = "Osterville"
+
+# Neumark
+
+49 = "New Merle"
+2969 = "Sternburg"
+4747 = "Dramburg"
+
+# North Rhine
+
+83 = "Nalmerton"
+84 = "Berg"
+85 = "Cologne"
+2975 = "Kleve"
+
+# North Westphalia
+
+56 = "Oakensbrook"
+69 = "Dortmund"
+86 = "Munster"
+2973 = "Meppen"
+
+# Saxony
+
+59 = "Vittenburg"
+61 = "Dresden"
+62 = "Lipswick"
+4744 = "Zwicken"
+
+# Saxony-Anhalt
+
+52 = "Magedeburgh"
+58 = "Anhalt"
+2964 = "Altmark"
+4741 = "Halles"
+4742 = "Goslar"
+
+# Schleswig-Holstein
+
+13 = "Slewig"
+1775 = "Holsatia"
+4141 = "Ditmarsh"
+
+# South Westphalia
+
+82 = "Westphalia"
+2972 = "Paderborn"
+4775 = "Ravensburg"
+
+# Thuringia
+
+63 = "Erford"
+2965 = "Vogenland"
+4743 = "Verlington"
+
+# Vorpommern
+
+47 = "Stralhaven"
+1858 = "Stetton"
+2994 = "Volgast"
+4745 = "Rugia"
+
+# Weser
+
+54 = "Steede"
+55 = "Oldenburgh"
+1874 = "Bremen"
+4771 = "Verden"
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = "Strasbourg"
+1880 = "Sundale"
+4765 = "Mullhouse"
+
+# Austria Proper
+
+133 = "Overden"
+134 = "Vienna"
+1770 = "Manherts"
+4761 = "Tralon"
+4762 = "Vienna's Florest"
+
+# Baden
+
+72 = "Brisgow"
+74 = "Baden"
+4714 = "Durnale"
+
+# Carniola
+
+129 = "Carniola"
+130 = "Istrien"
+1769 = "Gorlich"
+4738 = "Triest"
+4751 = "Sellen"
+
+# East Bavaria
+
+76 = "Saltsburgh" # Archaic
+4709 = "Passaw"
+4760 = "Inlerbale"
+
+# East Swabia
+
+68 = "Memmingen"
+1868 = "Augsburg"
+1872 = "Ulm"
+4711 = "Daneworth"
+
+# Inner Austria
+
+128 = "Lower Carinthia"
+132 = "Styria"
+1863 = "Gralzen"
+4759 = "Upper Carinthia"
+
+# Lower Bavaria
+
+64 = "Landshut"
+1757 = "Upper Palatinate"
+2956 = "Strawbourne"
+2957 = "Regensburg"
+
+# Lower Franconia
+
+71 = "Anesbale"
+79 = "Vurrenburgh"
+4715 = "Rothenburg"
+4718 = "Ashfordburg"
+
+# Palatinate
+
+77 = "Heidelburg"
+1761 = "Palatinate"
+4767 = "Two Bridges"
+
+# Romandie
+
+165 = "Bern"
+1867 = "Vallen"
+1871 = "Wallis"
+4720 = "Geneva"
+4721 = "Fribourg"
+
+# Switzerland
+
+166 = "Florest City"
+1869 = "Zurich"
+1870 = "Saint Gallen"
+1873 = "Charren"
+4722 = "Illance"
+
+# Tirol
+
+73 = "Innvale"
+110 = "Trent"
+1768 = "Lietten"
+4710 = "Breglenz"
+4758 = "Etlental"
+
+# Upper Bavaria
+
+65 = "Munich"
+2955 = "Inglesten"
+4707 = "Water Castle"
+4708 = "Freiling"
+
+# Upper Franconia
+
+66 = "Bamberg"
+67 = "Nuremberg"
+4716 = "Coburg"
+4717 = "Barreuth"
+
+# West Swabia
+
+70 = "Stuttgart"
+4712 = "Constance"
+4713 = "Uradge"
+
+## POLAND
+
+# Central Poland
+
+258 = "Sieradge"
+1939 = "Lechester"
+4533 = "Wellun"
+
+# Kuyavia
+
+1859 = "Culm"
+4523 = "Inovroclaw"
+4524 = "Dobrin"
+4528 = "Kuyavia"
+
+# Malopolska
+
+262 = "Cracow"
+2960 = "New Sandern"
+4527 = "Chenchiny"
+
+# Mazovia
+
+256 = "Polten"
+257 = {"Warsaw" "Warsaw"}
+1938 = "Winsen"
+4525 = "Rawe"
+
+# Red Ruthenia
+
+261 = "Halych"
+1940 = "Bellen"
+2424 = "Premisle"
+2961 = "Leverton"
+4541 = "Drodenbridge"
+
+# Sandomierz
+
+259 = "Sandomer"
+260 = "Lublin"
+2959 = "Tarnow"
+
+# Silesia
+
+263 = "Ratenborn"
+264 = "Breslaw"
+2966 = "Glogow"
+4238 = "Lingrenen"
+4723 = "Oppeln"
+
+# Wielkopolska
+
+254 = "Posen"
+255 = "Calten"
+2963 = "Noutham"
+4526 = "Gnielen"
+
+#####################
+### NORTH AMERICA ###
+#####################
+
+## California
+
+# Alta California
+
+868 = "Angel City"
+869 = "Pineport"
+2021 = "King's Bay"
+2476 = "Tiffany"
+4637 = "Welshman's Bay"
+
+# Apacheria
+
+879 = "Lords"
+2492 = "Redrock"
+4634 = "Fort Apache"
+
+# Arizona
+
+867 = "Redstacks"
+876 = "Phoenix"
+877 = "Sentinel"
+2491 = "Desert Meadow"
+4633 = "Silver City"
+
+# Baja California
+
+865 = "Botany Peninsula"
+866 = "Dutchman's Cape"
+2620 = "Oakleigh"
+4639 = "Lemon Grove"
+
+# Central Valley
+
+870 = "Stockton"
+2478 = "Northopshire"
+4635 = "Fort Itwin"
+4636 = "Turlock"
+
+# Colorado Plateau
+
+875 = "Bullfrog"
+878 = "White Rock"
+2493 = "Flagstaff"
+2494 = "Fort Wingate"
+
+# New Mexico
+
+880 = "Stafford"
+881 = {"Garfield" "Meow"}
+2495 = "Shropshire"
+4631 = "Wagon Mound"
+4632 = "South Valley"
+
+# North California
+
+871 = "Port Cavendish"
+2477 = "Worcester"
+2479 = "Switzerberg"
+2480 = "Reading"
+4638 = "Oundhym"
+
+# Sonora
+
+862 = "Rocky Point"
+2616 = "Greekport"
+4577 = "Grantham Bay"
+4649 = "Western Mayo"
+4650 = "Sounghall"
+
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Mecatina"   
+2576 = "Harrington"   
+2577 = "Seven Islands"   
+2578 = "New Rathlin"   
+2579 = "Islington"   
+     
+# GREENLAND    
+     
+1104 = "Fort Williams"   
+1105 = "Northland"   
+     
+# HURONIA    
+     
+988 = {"Simcoe" "Midhurst"}   
+989 = {"Ontario" "Kingston"}  
+2585 = "Ottawa"   
+2670 = "Toronto"   
+     
+# LABRADOR    
+     
+997 = "Red Bay"   
+2574 = "Nain"   
+2575 = "Melville"   
+     
+# LAURENTIA    
+     
+992 = "Hull"   
+2581 = "Sullivan Valley"   
+4894 = "Valley of Gold"
+     
+# LOWER ACADIA   
+     
+982 = "Cape Breton"   
+984 = "Fundy"   
+2568 = "Cape Sable"   
+2569 = "Halifax"   
+4891 = "Truro"
+     
+# LOWER CANADA   
+     
+993 = "Montreal"   
+2584 = "Wendover"   
+4895 = "Hawkesbury"
+     
+# NEWFOUNDLAND    
+     
+980 = "Avalon"   
+981 = "Cape Ray"   
+2573 = "Placentia"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Ottawa"   
+4892 = "Brockville"
+4897 = "Sudbury"
+     
+# QUEBEC    
+     
+986 = "Gaspe"   
+994 = "Quebec"   
+995 = "Ushant"   
+2582 = "Rimouski"   
+2583 = "St. Anselm"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "St. John"   
+2571 = "Fredericton"   
+4896 = "Woodstock"
+     
+# TROIS_RIVIERES    
+     
+990 = "Three Rivers"   
+2012 = "Memphremagog"   
+2580 = "Wemotaci"   
+4893 = "Sherbrooke"
+     
+# UPPER ACADIA   
+     
+983 = "Prince Edward Isl."   
+985 = "Moncton"   
+2572 = "Campbelton"   
+     
+# UPPER CANADA   
+     
+987 = "Windsor"   
+2586 = "Nottawasaga"   
+2587 = "Manitoulin"   
+     
+# UPPER ONTARIO   
+     
+991 = "Fort Tudor"   
+1001 = "Sault Ste. Marie"   
+1007 = "Thunder Bay"   
+2015 = "Peninsula Bay"   
+2671 = "Ronde"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "St. Dominic"   
+2658 = "Eden Rock"   
+2659 = "Ringwood"   
+4620 = "Port-of-Galicia"   
+4621 = "Walsingham"   
+     
+# EAST CUBA   
+     
+486 = "Windward City"   
+2654 = "Honey Bay"   
+2655 = "Eastchurch"   
+2656 = "King's Garden"   
+     
+# GREATER ANTILLES   
+     
+481 = "Bermuda"   
+487 = "Kingston"   
+491 = "New Ravenser"   
+492 = "Goldport"   
+     
+# HAITI    
+     
+488 = "Connah's Quay"   
+489 = "Turtle Island"   
+4618 = "Prince's Port"   
+4619 = "Christmas County"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "St. Thomas"   
+494 = "St. Kitts"   
+495 = "St. David"   
+496 = "St. Patrick"   
+1881 = "St. Martin"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Bahamas"   
+483 = "Turks Islands"   
+     
+# WEST CUBA   
+     
+484 = "Haven"   
+485 = "Tillerston"   
+4622 = "Sugar Bay"   
+4623 = "Winfordshire"   
+4624 = "Saint Christopher"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Lordsday Island"   
+498 = "Green Isle"   
+499 = "St. Lucy"   
+500 = "St. Vincent"   
+501 = "Bimshire"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Prince of Wales"   
+977 = "Mount Logan"   
+2613 = "Sitka"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Astoria"   
+2486 = "Wooded Mountains"   
+2487 = "Spokane House"   
+2488 = "Penticton"   
+     
+# HECATE STRAIT   
+     
+975 = "King Island"   
+2022 = "Charlotte Islands"   
+2609 = "Prince Rupert"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Kootenai"   
+2604 = "Prince George"   
+2605 = "Shuswap"   
+2606 = "Fort Alexandria"   
+2607 = "Peachland"   
+     
+# OREGON    
+     
+872 = "Portland"   
+2481 = "Crater Lake"   
+2482 = "Applegate"   
+2483 = "Fur Lodge"   
+     
+# PUGET SOUND   
+     
+874 = "Bellingham"   
+2484 = "Cape Flattery"   
+2485 = "Olympia"   
+     
+# SNAKE RIVER   
+     
+2019 = "Council City"   
+2020 = "Snake River"   
+2489 = "Albion"   
+2490 = "Salt Lake"   
+2506 = "Uncumber"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Quadra & Vancouver"   
+973 = "Vancouver"   
+974 = "Echo Bay"   
+2610 = "Earl's Cove"   
+     
+# WESTERN ALASKA   
+     
+978 = "Anchorage"   
+979 = "Aleut Islands"   
+2611 = "Dutch Harbour"   
+2612 = "Montague"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Campeachy"   
+2632 = "New Selsey"   
+2650 = "Fort Carmel"   
+     
+# CHIAPAS    
+     
+2635 = "Vanburgh"   
+2638 = "Mablethorpe"   
+2649 = "Shappshire"   
+4585 = "Swanfort"   
+4586 = "Lemonhills"   
+     
+# COSTA RICA   
+     
+836 = "St. Joseph"   
+2663 = "Morgansport"   
+4597 = "Rorford"   
+     
+# EAST YUCATAN   
+     
+2634 = "Fort Sian"   
+2652 = "Leominster"   
+4588 = "Wythenshawe"   
+4591 = "Twickenham"   
+     
+# GUATEMALA    
+     
+839 = "Cuscat"   
+841 = "Greenwoods"   
+2653 = "Church Wilton"   
+4587 = "New Wells"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Payton"   
+843 = "Wallace"   
+2636 = "Livingstone"   
+4589 = "Caledon"   
+4594 = "Winhunton"   
+     
+# HONDURAS    
+     
+840 = "Cunningham"   
+2637 = "Newport"   
+2640 = "Landan Bay"   
+2662 = "Catacombes"   
+4593 = "Devilswint"   
+     
+# NICARAGUA    
+     
+837 = "Endeavour"   
+838 = "Dunham"   
+2660 = "Warwick Sea"   
+2661 = "Ansontown"   
+4592 = "Bluefields"   
+     
+# WEST YUCATAN   
+     
+846 = "Whirling Cape"   
+2633 = "Bernard"   
+2651 = "Westwich"   
+4590 = "New Oxford"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Pila-Pala"   
+2664 = "Stamford"   
+2819 = "Scottshire"   
+4595 = "Debrotte"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Peoria"   
+916 = "Beardstown"   
+917 = "Peoria"   
+4903 = "Chicago"   
+     
+# INDIANA    
+     
+942 = "Sackville"   
+943 = "Fort Wayne"   
+2523 = "Vincennes"   
+2524 = "Indiana"   
+4922 = "Goldport"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Red Lake"   
+911 = {"Upper Peninsula" "Escanaba"}
+2517 = "Mille Lacs"   
+2518 = "Drummond"   
+4898 = "Houghton"   
+     
+# MICHIGAN    
+     
+944 = "Detroit"   
+945 = "Mackinac"   
+2521 = "Saginaw"   
+2522 = "Grand Rapids"   
+     
+# OHIO    
+     
+946 = "Toledo"   
+947 = "Cleveland"   
+948 = "Marietta"   
+2525 = "Losantiville"   
+4907 = "Dayton"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Effingham"   
+2520 = "Little Egypt"   
+4904 = "Edwardsville"   
+     
+# WISCONSIN    
+     
+912 = "Abbotsford"   
+913 = "Prairie du Chien"   
+914 = "Green Bay"   
+4899 = "Iron Mountain"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "MacDonald"   
+2504 = "Dunbannock"   
+2505 = "Rabyshire"   
+     
+# Central Plains   
+     
+901 = "Lincoln"   
+903 = "Omaha"   
+2009 = "Scottsbluff"   
+2508 = "Weatherfield"   
+4915 = "Grand Island"   
+     
+# HIGH PLAINS   
+     
+889 = "Windsor"   
+2507 = "Holyoke"   
+2625 = "Montrose"   
+     
+# IOWA    
+     
+905 = "Council Bluff"   
+2513 = "Fort Madison"   
+4900 = "Omaha"   
+4905 = "Sioux City"   
+     
+# KANSAS    
+890 = "Hastings"   
+898 = "Little Rock"   
+2672 = "Holton"   
+4914 = "Parsons"   
+     
+# MINNESOTA    
+     
+904 = "Fort Dodge"   
+908 = {"Minnesota" "St. Paul"}   
+2512 = "Traverse"   
+4901 = "Marshall"   
+     
+# NORTH DAKOTA   
+     
+906 = "Jamestown"   
+909 = "Rugby"   
+2510 = "Williston"   
+4918 = "Bowman"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Sioux Post"   
+2007 = "Les Cedres"   
+2008 = "Fort Clark"   
+4916 = "Aberdeen"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Dodge City"   
+892 = "Winfield"   
+896 = "Grand River"   
+4908 = "Leavenworth"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Yellowstone"   
+2501 = "Blackleaf"   
+2502 = "Scot's Plain"   
+2503 = "Ranchester"   
+4917 = "Twin Falls"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Fort Hudson"   
+2588 = "Cloche"   
+2589 = "Otter Rapids"   
+2590 = "Smoky Falls"   
+2591 = "Fort Hope"   
+     
+# ALBERTA    
+     
+2004 = "Crowsnest Pass"   
+2017 = "Edmonton"   
+2018 = "Jasper"   
+2602 = "Red Deer"   
+     
+# ASSINIBOIA    
+     
+2005 = "Harlechshire"   
+2596 = "Yorkton"   
+2598 = "Swift Current"   
+4920 = "Saskatoon"
+     
+# ATHABASCA    
+     
+2599 = "Fort McMurray"   
+2600 = "Vermillion"   
+2601 = "Dunvegan"   
+2603 = "Fort St. John"   
+     
+# HUDSON BAY   
+     
+1005 = "York Factory"   
+1006 = "Churchill"   
+1009 = "Berens River"   
+2592 = "Severn"   
+2594 = "Lake Factory"   
+     
+# JAMES BAY   
+     
+998 = "Fort Richmond"   
+999 = "Eastmain"   
+1000 = "Fort Rupert"   
+1003 = "Moose Factory"   
+1004 = "Fort Albany"   
+     
+# MANITOBA    
+     
+1008 = "Red River"   
+1010 = "Dauphin"   
+1011 = "The Pas"   
+2593 = "Lake of the Woods"   
+4919 = "Regina"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Great Forks"   
+2511 = "Lake Alice"   
+4902 = "Grand Forks"
+     
+# SASKATCHEWAN    
+     
+1813 = "Fort Sturgeon"   
+2595 = {"English River" "Ile a la Crosse"}   
+2597 = "South Branch"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Marlborough"   
+4646 = "Kingsport"   
+4647 = "Ringham Wood"   
+4648 = "Pidmill"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Crosby"   
+2642 = "Glendower"   
+4642 = "Beaconshill"   
+     
+# GUANAJUATO    
+     
+853 = "Westham Birk"   
+2615 = "Chetwynd"   
+4640 = "Longhill"   
+4641 = "Wembley"   
+     
+# GUERRERO    
+     
+2627 = "Cavendish"   
+2645 = "Rotherwich"   
+2648 = "Talburton"   
+     
+# HUASTECA    
+     
+848 = "Port Aztechs"   
+2641 = "Percyshire"   
+4598 = "Cranham"   
+     
+# JALISCO    
+     
+854 = "County Douglas"   
+2617 = "Dusty Hills"   
+2621 = "Bicester"   
+2657 = "Madison"   
+4576 = "Rawhead"   
+     
+# MEXICO    
+     
+852 = "Meseca"   
+2626 = "Astecia"   
+4570 = "Rosemount"   
+4571 = "Normanton"   
+4572 = "Tollook"   
+     
+# MICHOAVAN    
+     
+2622 = "New Winchester"   
+2623 = "Hotlands"   
+2624 = "Tenbyshire"   
+4573 = "Moorfields"   
+4574 = "Bridgeham"   
+     
+# MIXTECA    
+     
+847 = "Port Nutall"   
+849 = "Warrior Colony"   
+2646 = "Saundersfoot"   
+4581 = "Andersbank"   
+     
+# NAYARIT    
+     
+855 = "Fletchley"   
+859 = "Welshport"   
+4578 = "Dog River"   
+     
+# Oaxaca    
+     
+844 = "Shappochester"   
+2629 = "Exmoorshire"   
+4584 = "Kinderscout"   
+     
+# PUEBLA    
+     
+850 = "Stoke Brizeton"   
+2628 = "Kendal"   
+2644 = "Ballyree"   
+4582 = "Chotland"   
+4583 = "Looe"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Naseborough"   
+2643 = "Welshchester"   
+4575 = "Kings Town"   
+4579 = "Braefell"   
+4580 = "Palm City"   
+     
+# VERACRUZ    
+     
+2630 = "Caint"   
+2631 = "Head Stone"   
+2647 = "Crossways"   
+     
+# ZACATECAS    
+     
+856 = "Awston Common"   
+4643 = "Saughton"   
+4645 = "Sloane"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Ondwich"   
+925 = "Fort Jackson"   
+2531 = "Huntsville"   
+2532 = "Tuscaloosa"   
+4883 = "Florence"   
+     
+# ARKANSAS    
+     
+894 = "Ecore Fabre"   
+895 = "Pine Bluff"   
+897 = "Little Rock"   
+4885 = "Lake Village"
+4923 = "Forrest City"   
+     
+# KENTUCKY    
+     
+941 = "Harrodstown"   
+2526 = "Lexington"   
+4888 = "Prestonburg"   
+     
+# LOUISIANA    
+     
+893 = "New Orleans"   
+2014 = "Mansfield"   
+2516 = "Lake Arthur"   
+     
+# MISSISSIPPI    
+     
+919 = "New Albany"   
+920 = "Meridian"   
+2528 = "Fort Sarah"   
+2529 = "Port Gibson"   
+4884 = "Jackson"   
+     
+# OZARKS    
+     
+899 = {"Ozarks" "Springfield"}   
+2509 = "Fort Lawrence"   
+2515 = "Fort Smith"   
+4886 = "Texarkana"   
+     
+# TENNESSEE    
+     
+918 = "Memphis"   
+934 = "Nashborough"   
+939 = "Paducah"   
+4913 = "Lawrenceburg"
+     
+# UPPER LOUISIANA   
+     
+900 = "St. Louis"   
+902 = "Eagletown"   
+2514 = "Cape Girardeau"   
+4906 = "Quincy"   
+     
+# VANDALIA    
+     
+951 = "Hebburn"   
+2551 = "Fort Morgan"   
+4889 = "Summerville"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Louisville"   
+4887 = "Mayfield"   
+4921 = "Bowling Green"   
+     
+# WEST FLORIDA   
+     
+921 = "Baton Rouge"   
+922 = "Fort Charlotte"   
+923 = "Ferry Pass"   
+2530 = "Fort Henry"   
+2533 = "Seaside"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Erie"   
+2555 = "Pittsburgh"   
+4875 = "Bradford"   
+     
+# CONNECTICUT    
+     
+967 = {"Rhode Island" "Providence"}   
+2010 = "Connecticut"   
+2560 = "New Haven"   
+     
+# DELAWARE VALLEY   
+     
+956 = {"Philadelphia" "Philadelphia"}
+957 = "Delaware"   
+962 = "West Jersey"   
+2023 = "Wyoming Valley"   
+     
+# EASTERN MAINE   
+     
+971 = "Bangor"   
+2566 = "Castine"   
+2567 = "Eaton"   
+     
+# HUDSON VALLEY   
+     
+961 = "Fort Stanwix"   
+963 = "Albany"   
+964 = "Schenectady"   
+2559 = "Ticonderoga"   
+4912 = "Watertown"   
+     
+# IRIQUOISIA    
+     
+958 = {"Geneseo" "Geneseo"}
+959 = {"Rochester" "Rochester"}   
+960 = {"Oswego" "Oswego"}
+4872 = {"Buffalo" "Buffalo"}   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Bennington"   
+2563 = "Vermont"   
+4871 = "Montpelier"   
+     
+# MAINE    
+     
+2013 = "Casco"   
+2565 = "New Somersetshire"   
+4873 = "Lewistown"   
+     
+# MARYLAND    
+     
+953 = {"Maryland" "Annapolis"}   
+2553 = "Green Ridge"   
+2554 = "Baltimore"   
+     
+# MASSACHUSETTS    
+     
+966 = {"Berkshires" "Springfield"}   
+968 = {"Massachusetts" "Boston"}
+2561 = "Plymouth"   
+4874 = "Springfield"
+     
+# NEW HAMPSHIRE   
+     
+970 = {"New Hampshire" "Portsmouth"}   
+2562 = "Keene"   
+2564 = "White Mountains"   
+     
+# NEW YORK   
+     
+965 = {"New York" "New York City"}   
+2558 = "Catskills"   
+2639 = "East Jersey"   
+     
+# WESTYLVANIA    
+     
+955 = "Harrisborough"   
+2556 = "New Somerset"   
+2557 = "West Branch"   
+4876 = "Williamsport"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Saint Patrick"   
+864 = "Fort James"   
+2618 = "Hammond"   
+4644 = "Lennington"   
+     
+# COAHUILA    
+     
+861 = "Clovemount"   
+864 = "Fort James"   
+2666 = "Sanderson"   
+2667 = "Newmills"   
+4606 = "Riverbend"   
+     
+# COASTAL PRARIE   
+     
+884 = "Victoria"   
+888 = "Baytown"   
+2665 = "Beaumont"   
+2669 = "Longview"   
+     
+# LLANO ESTACADO   
+     
+882 = "White Sands"   
+885 = "Staked Plain"   
+2496 = "Formbyshire"   
+2497 = "Big Spring"   
+4630 = "Roswell"   
+     
+# PECOS    
+     
+2498 = "Fort Davis"   
+4628 = "Fort Hancock"   
+4629 = "Meriworth"   
+     
+# TAMAULIPAS    
+     
+858 = "Dunbar's Harbour"   
+2499 = "Kingsville"   
+2614 = "Ambridge"   
+2668 = "Oswestry"   
+     
+# TEXAS    
+     
+883 = "Austin"   
+887 = "Grapeland"   
+4627 = "College Station"   
+4911 = "Longview"   
+     
+# TEXAS PLAINS   
+     
+886 = "Fort Worth"   
+2500 = "Brownwood"   
+4909 = "Graham"   
+4910 = "Gatesville"   
+
+## SOUTHEAST
+
+# East Florida
+
+927 = "Atlantic Beach"
+928 = "Saint Marks"
+2534 = "Orion"
+
+# Florida
+
+926 = "Turkey Creek"
+2535 = "Port Charlotte"
+2536 = "River Glades"
+4625 = "Port Orange"
+4626 = "Fort Brooke"
+
+# Georgia
+
+929 = "Savannah"
+2537 = "Italy Vale"
+2538 = "Fidius"
+2539 = "Frederick"
+4880 = "Augusta"
+
+# Great Valley
+
+949 = "Blue Ridge"
+2011 = "Shedandoah"
+2548 = "New River"
+2552 = "Pearsall"
+
+# North Carolina
+
+937 = "Davidson's Fort"
+938 = "Clarendon County"
+2546 = "Cape Fear"
+2547 = "Granville"
+
+# Overmountain
+
+935 = "Watuga"
+936 = {"Overmountain" "Morristown"}
+2527 = {"Charedonville" "Chattanooga"}
+4879 = "Asheville"
+
+# Piedmont Plateau
+
+2544 = "Charlotte"
+2545 = "Campbelton"
+4878 = "Greensboro"
+
+# South Carolina
+
+932 = "Charleston"
+2542 = "Beaufort"
+2543 = "Long Bay"
+
+# South Carolina Piedmont
+
+933 = "Greenville"
+2541 = "Keowee"
+4882 = "Spartanburg"
+
+# Upper Georgia
+
+930 = "Peachtree"
+931 = "Fort Oglethorpe"
+2540 = "Augusta"
+4881 = "Bainbridge"
+
+# Virginia
+
+950 = "Jamestown"
+952 = {"James River" "Richmond"}
+2549 = "Charlottesville"
+2550 = "Rappahannock"
+4877 = "Danville"
+
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Applecross"   
+2935 = "Woodhall"   
+2938 = "Hykeham"   
+     
+# AMAZON    
+     
+2889 = "Rhins"   
+2930 = "Tarleton"   
+2933 = "Southallerton"   
+2934 = "Castle Bronford"   
+     
+# BAHIA    
+     
+756 = "All Saints Bay"   
+757 = "Wyndham"   
+760 = "Oldport"   
+2914 = "Middleton"   
+2916 = "Murless"   
+     
+# CEARA    
+     
+750 = "Ellesborough"   
+751 = "Newcastle"   
+753 = "Great Northern River"   
+     
+# DIAMANTINA    
+     
+759 = "Diamondton"   
+2891 = "Maybole"   
+2898 = "New Somerton"   
+     
+# GOIAS    
+     
+758 = "Desert River"   
+2906 = "Bedlingtonshire"   
+2907 = "Dorchester"   
+2908 = "New Morecambe"   
+2919 = "Saint George"   
+     
+# GRAO PARA   
+     
+748 = "Bethlehem"   
+2890 = "Creetown"   
+2928 = "Wigton"   
+2929 = "Stamforshire"   
+     
+# GUAPORE    
+     
+2900 = "Herbertcastle"   
+2901 = "Kesteven"   
+2902 = "Rooketower"   
+     
+# GUAYRA    
+     
+768 = "Awcester"   
+2895 = "Malmesbury"   
+2897 = "Wincombshire"   
+     
+# MARANHAO    
+     
+749 = "Grandvick"   
+2923 = "Fort Britannica"   
+2924 = "Gallantown"   
+2926 = "Burlington"   
+2927 = "Southport"   
+     
+# MATO GROSSO   
+     
+2888 = "Eccleshall"   
+2903 = "Procter"   
+2904 = "Hallam"   
+2905 = "Hallamshire"   
+     
+# MINAS GERAIS   
+     
+765 = "Minehead"   
+2892 = "Broughton"   
+2894 = "Harrogate"   
+2899 = "Aethelborough"   
+     
+# OFAIE    
+     
+2881 = "St. Davids"   
+2893 = "Dunsimline"   
+2920 = "Appleby"   
+     
+# PERNAMBUCO    
+     
+754 = "County Porto"   
+755 = "Wreckin"   
+2912 = "Saundershire"   
+2921 = "Duchie"   
+2922 = "Mount Misery"   
+     
+# PIAUI    
+752 = "White Woods"   
+2886 = "Newham Wells"   
+2925 = "Wolfeshire"   
+     
+# PONTAL    
+     
+2909 = "Astorfield"   
+2910 = "Werbergh"   
+2911 = "New Hastings"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Fawchester"   
+762 = "Burntwood"   
+763 = "King's Chester"   
+764 = "St. Paul's"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Mornmouth"   
+2879 = "Bodwin"   
+2884 = "Breconshire"   
+2887 = "Penzance"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Olston"   
+2913 = "Drakeshire"   
+2915 = "Old Brock"   
+2917 = "Cravenshire"   
+2918 = "Willoughby"   
+     
+# SAO PAULO   
+     
+766 = "Riseborough"   
+769 = "Fort Augustus"   
+2896 = "Salopia"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Canterbury"   
+832 = "Northwick"   
+4602 = "Warwick Pike"   
+4603 = "Barnsbury"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Hawthorn"   
+2810 = "Wilaverstan"   
+2813 = "Gorwickston"   
+4613 = "Laughing Gull"   
+4614 = "Church Linton"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Mount Stuart"   
+2816 = "Erry"   
+4605 = "Doverford"   
+     
+# COQUIVACOA    
+     
+828 = "Carthaginia"   
+829 = "Port Magdelene"   
+2806 = "Witham Point"   
+4599 = "Dutch Cottage"   
+4601 = "Cardigan"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Fernswick"   
+827 = "New Antioch"   
+2817 = "Montshire"   
+4600 = "Paddington"   
+4607 = "Peterfield"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Atiscross"   
+2809 = "Dunhamshire"   
+2939 = "Newark Regis"   
+4615 = "Basshire"   
+     
+# GUYANA    
+     
+502 = "Trinity"   
+743 = "Port Long"   
+744 = "Oughtham Rake"   
+2803 = "Terrmouth"   
+     
+# MARACAIBO    
+     
+830 = "Fort Charles"   
+2807 = "Lion"   
+4609 = "Foxton"   
+4610 = "Rushmede"   
+4611 = "Fort Miranda"   
+     
+# POPAYAN    
+     
+823 = "Stewartsburgh"   
+826 = "Jungle Fort"   
+2818 = "Saint Basil"   
+4596 = "Royston Vasey"   
+4604 = "Dunorwick"   
+     
+# SURINAME    
+     
+745 = "Fort Willoughby"   
+746 = "Middlesex"   
+2937 = "Surinam"   
+     
+# UPPER GUYANA   
+     
+742 = "Black Heath"   
+2804 = "Elmet"   
+2811 = "Hunstanton"   
+2931 = "Bishop Settle"   
+4617 = "Saxes"   
+     
+# VENEZUELA    
+     
+741 = "Fort Caesar"   
+831 = "Chatham"   
+2808 = "Eddisbury"   
+4612 = "Princetown"   
+4616 = "Neston"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Llanstephan"   
+2814 = "Ablemarle"   
+2815 = "Redheath"   
+4608 = "Saint Diallo"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Candlemaston"   
+786 = "Black River"   
+2868 = "Saint Ives"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Oriental Plate"   
+773 = "Alnwickshire"   
+2850 = "Adrianforth"   
+2851 = "Prestwich"   
+2852 = "Upstream"   
+     
+# BUENOS AIRES   
+     
+778 = "Fair Winds"   
+2846 = "Kisscat"   
+2848 = "New Pevensey"   
+2849 = "Wingfield"   
+     
+# CENTRAL CHILE   
+     
+784 = "Port William"   
+787 = "Saltcoats"   
+2862 = "Elliston"   
+     
+# CUYO    
+     
+2843 = "Sandwich"   
+2844 = "Hardewick"   
+2845 = "Saint John"   
+2847 = "Daventry"   
+2877 = "Cockermouth"   
+     
+# MESOPOTAMIA    
+     
+777 = "Hungerford"   
+2853 = "Yippeayoo"   
+2855 = "Holmhead"   
+2858 = "Saint James"   
+2859 = "New Mercia"   
+     
+# NEHEUNKEN    
+     
+785 = "Fort Petulia"   
+2867 = "Lincoln Baths"   
+2871 = "Fort Harlech"   
+2872 = "Kenilworth"   
+     
+# PATAGONIA    
+     
+781 = "Port Desire"   
+782 = "Burntisland"   
+2869 = "Helenscauld"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Warhawston"   
+2870 = "Frethenham"   
+2875 = "Beverly"   
+2876 = "Wressle"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Falklands"   
+2025 = "South Georgia"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Wellington"   
+2873 = "Letchfield"   
+2874 = "Waketon"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Tawndyle"   
+2860 = "Didsbury"   
+2861 = "Armadale"   
+2865 = "Church Olston"   
+2866 = "Wells"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Our Lady of Peace"   
+804 = "Busbridge"   
+2831 = "Busbridgeshire"   
+2947 = "Varrowshire"   
+     
+# CAJAMARCA    
+     
+813 = "Simonswyck"   
+2824 = "Carisbrooke"   
+2825 = "Brotheroe"   
+2943 = "Fromeshire"   
+     
+# CHIMOR    
+     
+812 = "Bishopchester"   
+2002 = "Cowley's Islands"   
+2821 = "Irish Cape"   
+2822 = "New Leicester"   
+2826 = "Solebay"   
+     
+# HUANUCO    
+     
+809 = "Fort George"   
+810 = "New Brighton"   
+811 = "Shawshank"   
+814 = "One Cove"   
+2827 = "Mowbray"   
+     
+# IQUITOS    
+     
+815 = "Lauretum"   
+818 = "Ambrosia"   
+821 = "Mount Fortune"   
+     
+# KUNTISUYU    
+     
+807 = "Kingstown"   
+808 = "Cusco"   
+2829 = "Ashby-on-the-Bend"   
+2830 = "Saint Peter's Mount"   
+     
+# PERUAN COAST   
+     
+805 = "Walmington-on-Sea"   
+806 = "Great Culster"   
+2828 = "Caister"   
+     
+# QUITO    
+     
+816 = "Tombess"   
+817 = "Carlisle"   
+819 = "Port Dampier"   
+820 = "Avonlea"   
+2820 = "Catherinesland"   
+     
+# UCAYALI    
+     
+2823 = "Eight Valleys"   
+2944 = "Crickhowell"   
+2945 = "Easton"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Little Wakeling"   
+801 = "Meadowdrie"   
+2834 = "Lansdowne"   
+     
+# CHACO    
+     
+790 = "Castle Henry"   
+2854 = "Central Chacko"   
+2878 = "Chillingham"   
+     
+# JUJUY    
+     
+794 = "Hoi-hoi"   
+2837 = "Saint Catherine"   
+2839 = "Georgian Desert"   
+     
+# MOXOS    
+     
+803 = "Glastonbury"   
+2832 = "Abingdon"   
+2833 = "Maldonshire"   
+     
+# NORTHERN CHILE   
+     
+792 = "Copper Bluff"   
+793 = "St. Conan"   
+796 = "St. Mark's"   
+2840 = "Jacobus"   
+2841 = "Scarbrough"   
+     
+# PARAGUAY    
+     
+775 = "Dormition"   
+776 = "Ninechurches"   
+799 = "Castle Douglas"   
+2882 = "Ludlow"   
+2883 = "Caerabon"   
+     
+# POTOSI    
+     
+795 = "Llantrisant"   
+797 = "Turtle Fort"   
+2940 = "Broadstairs"   
+2946 = "New Hereford"   
+     
+# TUCUMAN    
+     
+791 = "Catamarch"   
+2836 = "Bodely"   
+2842 = "New Westmorland"   
+     
+# UPPER PERU   
+     
+2835 = "Huntingdon"   
+2838 = "Winchilsea"   
+2941 = "Cinque Boroughs"   
+2942 = "Ventnor"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Sunshine Coast"   
+4852 = "Burnett"   
+4853 = "Paroo"   
+4854 = "Brisbane"   
+     
+# CAPRICORNIA    
+     
+2730 = {"Weipa" "Weipa Town"}  
+2731 = {"Hope Vale" "Cairns"}
+2732 = {"Townsville" "City of Townsville"}   
+4848 = "Burke"   
+4849 = "Carpentaria"   
+     
+# ILLAWARA    
+     
+1090 = {"Sydney" "Sydney"}
+4857 = "Newcastle"   
+4858 = "Wollongong"   
+4859 = "Canberra"   
+4860 = {"Tablelands" "Gouldburn"}
+     
+# NEW SOUTH WALES  
+     
+1091 = {"Orana" "Dubbo City"}   
+1092 = "Port Macquarie"   
+4855 = {"Moree Plains" "Moree"}   
+4856 = "Tamworth"   
+     
+# PERTH    
+     
+1084 = "Perth"   
+2727 = "Esperance"   
+4863 = "Marmion"   
+4864 = {"Murray" "Moora"}   
+     
+# PILBARA    
+     
+2726 = {"Gascoyne" "Geraldton"}  
+4865 = {"Ashburton" "Karratha"}
+4866 = {"Pilbara" "Port Hedland"}   
+4867 = {"Kimberley" "Easton"}   
+     
+# PRINCELAND    
+     
+1086 = {"Adelaide" "Port Adelaide"}   
+2735 = "Mount Gambier"   
+2736 = "Hopetown"   
+4862 = "Taunton"   
+     
+# QUEENSLAND    
+     
+1093 = {"Bulloo" "Thargomindah"}   
+1094 = {"Fraser Coast" "Hervey Bay"}   
+2733 = "Mackay"   
+4850 = "Gladstone"   
+     
+# TASMANIA    
+     
+1085 = "Hobart"   
+4868 = "Launceston"   
+4869 = "Queenstown"   
+     
+# TOP END   
+     
+2728 = {"Bathurst Island" "Nguiu"}   
+2729 = {"Arnhem" "East Arnhem"}   
+4846 = {"Palmerston" "Darwin"}
+4847 = {"Barkly" "Tennant Creek"}   
+     
+# VICTORIA    
+     
+1087 = "Melbourne"   
+1088 = "Bendigo"   
+1089 = {"Bathurst" "Orange"}   
+2734 = "Port Albert"   
+4861 = "Bogong"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+#N/A
+#N/A
+#N/A
+     
+# EAST MICRONESIA   
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# FIJI    
+     
+#N/A
+#N/A
+#N/A
+     
+# MELANESIA    
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# NORTHERN POLYNESIA   
+     
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# POLYNESIA    
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Cape Reinga"   
+1107 = "Wellington"   
+2739 = "Auckland"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Hamilton"   
+2737 = "Eskdale"   
+4939 = "Gisborne"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Christchurch"   
+1246 = "Greymouth"   
+2738 = "Nelson"   

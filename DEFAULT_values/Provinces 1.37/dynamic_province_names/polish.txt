@@ -1,0 +1,2942 @@
+### EUROPE
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = {"Praga" "Praga"}
+2968 = {"Budziejowice" "Budziejowice"}
+2970 = {"Hradec Królewski" "Hradec Kroléwski"}
+4724 = {"Pardubice" "Chlumec"}
+4725 = {"Henryków Gródek" "Henryków Gródek"}
+
+# Braunschweig (Brunswick)
+
+57 = {"Brunszwik" "Brunszwik"}
+1758 = {"Hanower" "Hanower"}
+2971 = {"Hoja" "Hoja"}
+4773 = {"Getynga" "Getynga"}
+
+# Erzgebinge
+
+267 = {"Pilzno" "Pilzno"}
+1771 = {"Góry Kruszcowe" "Góry Kruszcowe"}
+2967 = {"Cheb" "Cheb"}
+
+# Hesse
+
+78 = {"Moguncja" "Moguncja"}
+81 = {"Górna Hesja" "Marburk"}
+1762 = {"Dolna Hesja" "Kasel"}
+1876 = {"Frankfurt" "Frankfurt nad Menem"}
+4774 = {"Fulda" "Fulda"}
+
+# Hinterpommern
+
+48 = {"Kolobrzeg" "Kolobrzeg"}
+2995 = {"Slupsk" "Slupsk"}
+4746 = {"Stargard" "Stargard"}
+
+# Lower Rhineland
+
+80 = {"Trewir" "Trewir"}
+1760 = {"Koblencja" "Koblencja"}
+1878 = {"Akwizgran" "Akwizgran"}
+4768 = {"Julianów" "Julianów"}
+
+# Lower Saxony
+
+44 = {"Hambork" "Hambork"}
+53 = {"Lynybork" "Lynybork"}
+1857 = {"Lebno" "Lebno"}
+4772 = {"Cela" "Cela"}
+
+# Lusatia
+
+60 = {"Budziszyn" "Budziszyn"}
+1763 = {"Luzyce Dolne" "Chociebuz"}
+4778 = {"Zgorzelec" "Zgorzelec"}
+
+# Mecklenburg
+
+45 = {"Lubeka" "Lubeka"}
+46 = {"Roztoka" "Roztoka"}
+2996 = {"Wyszomierz" "Wyszomierz"}
+4749 = {"Strzelce" "Strzelce Nowe"}
+4786 = {"Przygnice" "Przygnice"}
+
+# Mittelmark
+
+50 = {"Berlin" "Berlin-Celno"}
+51 = {"Rypin" "Rypin"}
+1759 = {"Poczdam" "Poczdam"}
+2993 = {"Marchia Wkrzanska" "Przeslaw"}
+4748 = {"Brandenburgia" "Branibór"}
+
+# Moravia
+
+265 = {"Berno" "Berno"}
+4237 = {"Olomuniec" "Olomuniec"}
+4726 = {"Ostrawa" "Ostrawa"}
+
+# Neumark
+
+49 = {"Gorzów Wielkopolski" "Gorzów Wielkopolski"}
+2969 = {"Frankfurt nad Odra" "Frankfurt nad Odra"}
+4747 = {"Drawsko" "Drawsko"}
+
+# North Rhine
+
+83 = {"Nasawa" "Nasawa"}
+84 = {"Góra" "Drzyszowo"}
+85 = {"Kolonia" "Kolonia"}
+2975 = {"Klewia" "Klewia"}
+
+# North Westphalia
+
+56 = {"Wolomost" "Wolomost"}
+69 = {"Tremonia" "Tremonia"}
+86 = {"Monastyr" "Monastyr"}
+2973 = {"Mepia" "Mepia"}
+
+# Saxony
+
+59 = {"Witnbork" "Witnbork"} 
+61 = {"Drezno" "Drezno"}
+62 = {"Lipsk" "Lipsk"}
+4744 = {"Cwików" "Cwików"}
+
+# Saxony-Anhalt
+
+52 = {"Magdbork" "Magdbork"}
+58 = {"Anbród" "Desawa"}
+2964 = {"Stara Marchia" "Sztendól"}
+4741 = {"Dobrogóra" "Hala"}
+4742 = {"Goszlary" "Goszlary"}
+
+# Schleswig-Holstein
+
+13 = {"Szlezwik" "Szlezwik"}
+1775 = {"Holsztyn" "Kiel"}
+4141 = {"Dimarszyn" "Dimarszyn"}
+
+# South Westphalia
+
+82 = {"Westfalia" "Arnszbórk"}
+2972 = {"Paderbórz" "Paderbórz"}
+4775 = {"Raweszyn" "Bylanów"}
+
+# Thuringia
+
+63 = {"Jarobród" "Jarobród"}
+2965 = {"Wojskowo" "Plawno"}
+4743 = {"Wymar" "Wymar"}
+
+# Vorpommern
+
+47 = {"Strzalów" "Strzalów"}
+1858 = {"Szczecin" "Szczecin"}
+2994 = {"Wologoszcz" "Wologoszcz"}
+4745 = {"Rugia" "Górsko Ranskie"}
+
+# Weser
+
+54 = {"Miasto" "Miasto"}
+55 = {"Oldenbórk" "Oldenbórk"}
+1874 = {"Brema" "Brema"}
+4771 = {"Werdnia" "Werdnia"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Sztrasbórk" "Sztrasbórk"}
+1880 = {"Górna Alzacja" "Stary Kosciól"}
+4765 = {"Mulawsk" "Mulawsk"}
+
+# Austria Proper
+
+133 = {"Górna Austria" "Lyniec"}
+134 = {"Wieden" "Wieden"}
+1770 = {"Twarda Góra" "Kremza"}
+4761 = {"Trabórz" "Szyr"}
+4762 = {"Las Wiedenski" "Swiety Hipolit"}
+
+# Baden
+
+72 = {"Brzegi" "Frybórk"}
+74 = {"Badenia" "Badenia"}
+4714 = {"Durów" "Durów"}
+
+# Carniola
+
+129 = {"Kraina" "Lublana"}
+130 = {"Istria" "Pula"}
+1769 = {"Gorycja" "Gorycja"}
+4738 = {"Triest" "Triest"}
+4751 = {"Celje" "Celje"}
+
+# East Bavaria
+
+76 = {"Solnogród" "Solnogród"}
+4709 = {"Pasawa" "Pasawa"}
+4760 = {"Innbór" "Brunów"}
+
+# East Swabia
+
+68 = {"Memigowo" "Memigowo"}
+1868 = {"Augustów" "Augustów"}
+1872 = {"Ulmia" "Ulmia"}
+4711 = {"Dunów" "Nerlin"}
+
+# Inner Austria
+
+128 = {"Dolna Karyntia" "Celowiec"}
+132 = {"Styria" "Zwydów"}
+1863 = {"Grodziec" "Grac"}
+4759 = {"Górna Karyntia" "Belak"}
+
+# Lower Bavaria
+
+64 = {"Landszut" "Landszut"}
+1757 = {"Górny Palatynat" "Amberów"}
+2956 = {"Straszbing" "Straszbing"}
+2957 = {"Ratyzbona" "Ratyzbona"}
+
+# Lower Franconia
+
+71 = {"Anszbach" "Anszbach"}
+79 = {"Wierszburk" "Wierszburk"}
+4715 = {"Czerwiensk" "Czerwiensk"}
+4718 = {"Aszafburk" "Aszafburk"}
+
+# Palatinate
+
+77 = {"Hedelgród" "Hedelgród"}
+1761 = {"Palatynat" "Wormacja"}
+4767 = {"Dwa Mosty" "Dwa Mosty"}
+
+# Romandie
+
+165 = {"Berno" "Berno"}
+1867 = {"Wadno" "Lozanna"}
+1871 = {"Waliszów" "Sytna"}
+4720 = {"Genewa" "Genewa"}
+4721 = {"Fryburk" "Fryburk"}
+
+# Switzerland
+
+166 = {"Waldów" "Szwecin"}
+1869 = {"Zurych" "Zurych"}
+1870 = {"Swiety Gawel" "Swiety Gawel"}
+1873 = {"Chór" "Chór"}
+4722 = {"Ilanec" "Ilanec"}
+
+# Tirol
+
+73 = {"Insbruk" "Insbruk"}
+110 = {"Trydent" "Trydent"}
+1768 = {"Lienec" "Lienec"}
+4710 = {"Bregencja" "Bregencja"}
+4758 = {"Dolina Adygi" "Meranja"}
+
+# Upper Bavaria
+
+65 = {"Monachium" "Monachium"}
+2955 = {"Ingolda" "Ingolda"}
+4707 = {"Wodogród" "Wodogród"}
+4708 = {"Fryzynga" "Fryzynga"}
+
+# Upper Franconia
+
+66 = {"Bamberga" "Bamberga"}
+67 = {"Norymberga" "Norymberga"}
+4716 = {"Koburk" "Koburk"}
+4717 = {"Bajrut" "Bajrut"}
+
+# West Swabia
+
+70 = {"Sztutgart" "Sztutgart"}
+4712 = {"Konstancja" "Konstancja"}
+4713 = {"Uracz" "Rojtlin"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Sieradz" "Sieradz"}
+1939 = {"Leczyca" "Leczyca"}
+4533 = {"Wielun" "Wielun"}
+
+# Kuyavia
+
+1859 = {"Chelmno" "Torun"}
+4523 = {"Inowroclaw" "Inowroclaw"}
+4524 = {"Dobrzyn" "Dobrzyn nad Wisla"}
+4528 = {"Kujawy" "Brzesc Kujawski"}
+
+# Malopolska
+
+262 = {"Kraków" "Kraków"}
+2960 = {"Nowy Sacz" "Nowy Sacz"}
+4527 = {"Checiny" "Checiny"}
+
+# Mazovia
+
+256 = {"Plock" "Plock"}
+257 = {"Warszawa" "Warszawa"}
+1938 = {"Wizna" "Wizna"}
+4525 = {"Rawa" "Rawa"}
+
+# Red Ruthenia
+
+261 = {"Halicz" "Halicz"}
+1940 = {"Belz" "Belz"}
+2424 = {"Przemysl" "Przemysl"}
+2961 = {"Lwów" "Lwów"}
+4541 = {"Drohobycz" "Drohobycz"}
+
+# Sandomierz
+
+259 = {"Sandomierz" "Sandomierz"}
+260 = {"Lublin" "Lublin"}
+2959 = {"Tarnów" "Tarnów"}
+
+# Silesia
+
+263 = {"Racibórz" "Racibórz"}
+264 = {"Wroclaw" "Wroclaw"}
+2966 = {"Glogów" "Glogów"}
+4238 = {"Legnica" "Legnica"}
+4723 = {"Opole" "Opole"}
+
+# Wielkopolska
+
+254 = {"Poznan" "Poznan"}
+255 = {"Kalisz" "Kalisz"}
+2963 = {"Notec" "Naklo nad Notecia"}
+4526 = {"Gniezno" "Gniezno"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Wilno" "Wilno"}
+770 = {"Braslaw" "Braslaw"}
+4535 = {"Wilkomierz" "Wilkomierz"}
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Ozylia" "Zurawin"}
+39 = {"Kuldyga" "Kuldyga"}
+1935 = {"Mitawa" "Mitawa"}
+
+# East Prussia
+
+40 = {"Klajpeda" "Klajpeda"}
+41 = {"Królewiec" "Królewiec"}
+42 = {"Warmia" "Olsztyn"}
+767 = {"Szczytno" "Szczytno"}
+2958 = {"Ostróda" "Ostróda"}
+
+# Estonia
+
+36 = {"Rewel" "Rewel"}
+1834 = {"Tawra" "Tawra"}
+1842 = {"Narwia" "Narwia"}
+
+# Livonia
+
+37 = {"Liwonia" "Felin"}
+38 = {"Ryga" "Ryga"}
+273 = {"Latgalia" "Dyneburg"}
+4241 = {"Inflanty" "Inflanty"}
+
+# Samogitia
+
+270 = {"Troki" "Troki"}
+271 = {"Zmudz" "Wornie"}
+1936 = {"Kowno" "Kowno"}
+4534 = {"Upita" "Upita"}
+
+# West Prussia
+
+43 = {"Gdansk" "Gdansk"}
+1841 = {"Malbork" "Malbork"}
+2997 = {"Tuchola" "Tuchola"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Czernihów" "Czernihów"}
+1945 = {"Siewierszczyzna" "Nowogród Siewierski"}
+4543 = {"Rylsk" "Rylsk"}
+
+# East Dniepr
+
+290 = {"Poltawa" "Poltawa"}
+2407 = {"Perejaslaw" "Perejaslaw"}
+4542 = {"Lubnie" "Lubnie"}
+
+# Minsk
+
+276 = {"Minsk" "Minsk"}
+4115 = {"Mozyrz" "Mozyrz"}
+4242 = {"Ula" "Ula"}
+4544 = {"Bobrujsk" "Bobrujsk"}
+
+# Podlasie
+
+269 = {"Podlasie" "Drohiczyn"}
+277 = {"Brzesc" "Brzesc Litewski"}
+1937 = {"Grodno" "Grodno"}
+
+# Podolia
+
+281 = {"Podole" "Kamieniec Podolski"}
+1943 = {"Braclaw" "Braclaw"}
+4540 = {"Winnica" "Winnica"}
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"}
+1941 = {"Turów" "Turów"}
+4537 = {"Nowogródek" "Nowogródek"}
+4545 = {"Sluck" "Sluck"}
+
+# Sloboda Ukraine
+
+291 = {"Charków" "Charków"}
+298 = {"Kursk" "Kursk"}
+299 = {"Woronez" "Woronez"}
+2408 = {"Jelec" "Jelec"}
+
+# Smolensk
+
+293 = {"Smolensk" "Smolensk"}
+297 = {"Briansk" "Briansk"}
+4244 = {"Trubczewsk" "Trubczewsk"}
+4245 = {"Wiazma" "Wiazma"}
+
+# Volhynia
+
+279 = {"Wolyn" "Wlodzimierz"}
+2962 = {"Równe" "Równe"}
+4538 = {"Chelm" "Chelm"}
+4539 = {"Krzemieniec" "Krzemieniec"}
+
+# West Dniepr
+
+280 = {"Kijów" "Kijów"}
+1942 = {"Zytomierz" "Zytomierz"}
+1944 = {"Czerkasy" "Czerkasy"}
+4247 = {"Owrucz" "Owrucz"}
+
+# White Ruthenia
+
+292 = {"Mohylew" "Mohylew"}
+771 = {"Witebsk" "Witebsk"}
+4246 = {"Mscislaw" "Mscislaw"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Wlora" "Wlora"}
+4174 = {"Duresz" "Duresz"}
+4175 = {"Lezha" "Lezha"}
+4750 = {"Kruja" "Kruja"}
+
+# Bosnia
+
+139 = {"Chum" "Chum"}
+140 = {"Bosnia" "Bosnia"}
+1831 = {"Hercegowina" "Hercegowina"}
+3002 = {"Wysoki" "Wysoki"}
+4755 = {"Podrynie" "Wyszehrad"}
+
+# Bulgaria
+
+150 = {"Nikopol" "Nikopol"}
+1765 = {"Sofija" "Sofija"}
+2746 = {"Widyn" "Widyn"}
+2750 = {"Plowdiw" "Plowdiw"}
+4703 = {"Kiutendil" "Kiutendil"}
+
+# Croatia
+
+131 = {"Zagrzeb" "Zagrzeb"}
+1826 = {"Likowo" "Sen"}
+1828 = {"Krajów Dolny" "Bania Laka"}
+4752 = {"Rzeka" "Rzeka"}
+
+# Dalmatia
+
+136 = {"Szplice" "Szplice"}
+137 = {"Dubrownik" "Dubrownik"}
+4753 = {"Zadra" "Zadra"}
+
+# Macedonia
+
+148 = {"Macedonia" "Solon"}
+1853 = {"Kastyra" "Kastyra"}
+3001 = {"Skopie" "Skopie"}
+4702 = {"Sery" "Sery"}
+4780 = {"Ochryda" "Ochryda"}
+
+# Morea
+
+145 = {"Lakonia" "Mistra"}
+146 = {"Ateny" "Ateny"}
+163 = {"Kreta" "Kreta"}
+1773 = {"Achaja" "Iraklion"}
+4701 = {"Korynt" "Korynt"}
+
+# Northern Greece
+
+142 = {"Korfu" "Korfu"}
+144 = {"Epir" "Janina"}
+147 = {"Tesalia" "Larysa"}
+4698 = {"Kefalinia" "Swiety Jerzy"}
+4699 = {"Ambrakia" "Lapiaty"}
+
+# Rascia
+
+138 = {"Czarnogóra" "Zablasziec"}
+1766 = {"Kosowo" "Prisztina"}
+1827 = {"Raszyn" "Targowiszcze"}
+4754 = {"Kotorów" "Kotorów"}
+
+# Serbia
+
+141 = {"Szmederów" "Szmederów"}
+3000 = {"Nisz" "Nisz"}
+4176 = {"Branicewo" "Kruszewiec"}
+4239 = {"Bialogród" "Bialogród"}
+4757 = {"Kolubara" "Walewo"}
+
+# Silistria
+
+159 = {"Silistra" "Silistra"}
+4704 = {"Tyrnowo" "Tyrnowo"}
+4706 = {"Tulcza" "Tulcza"}
+
+# Slavonia
+
+152 = {"Warazdin" "Warazdin"}
+1767 = {"Slawonia" "Osiek"}
+4173 = {"Srem" "Mitrovce"}
+4756 = {"Belowar" "Belowar"}
+
+# Thrace
+
+149 = {"Edryna" "Edryna"}
+151 = {"Carogród" "Carogród"}
+1764 = {"Nesebyr" "Nesebyr"}
+4705 = {"Komotini" "Komotini"}
+4779 = {"Galipola" "Galipola"}
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Bekesz" "Jula"}
+1953 = {"Szabolsk" "Debreczyn"}
+1954 = {"Torszynt" "Zreniów"}
+4125 = {"Solnice" "Solnice"}
+
+# Moldavia
+
+268 = {"Suczawa" "Suczawa"}
+1756 = {"Besarabia" "Kilia"}
+2405 = {"Bjender" "Bjender"}
+4529 = {"Jasy" "Jasy"}
+4530 = {"Byrlad" "Byrlad"}
+
+# Northern Transylvania
+
+157 = {"Bichar" "Warad Wielki"}
+158 = {"Marusza" "Nowy Mark nad Marusza"}
+1952 = {"Maramusza" "Chust"}
+4127 = {"Turdów" "Turdów"}
+
+# Slovakia
+
+154 = {"Nitra" "Nitra"}
+162 = {"Zemplin" "Koszyce"}
+1318 = {"Spisz" "Spisz"}
+1772 = {"Preszburg" "Preszburg"}
+4236 = {"Trenczyn" "Trenczyn"}
+
+# Southern Transylvania
+
+156 = {"Temeszów" "Temeszwar"}
+1951 = {"Hunedorów" "Biala Julia"}
+4128 = {"Ziemia Królewska" "Sybin"}
+
+# Transdanubia
+
+135 = {"Szupron" "Szupron"}
+153 = {"Buda" "Peszt"}
+1864 = {"Somogów" "Kaposzary"}
+4126 = {"Baczów" "Bacz"}
+4240 = {"Fejerów" "Bialogród Stoleczny"}
+
+# Wallachia
+
+160 = {"Mala Woloszczyzna" "Krajowa"}
+161 = {"Targowice" "Targowica Woloska"}
+2998 = {"Buzelów" "Buzelów"}
+4531 = {"Bukareszt" "Bukareszt"}
+4532 = {"Sewerin" "Sewerin"}
+
+## RUSSIA
+
+# Archanelsk
+
+1955 = {"Archangielsk" "Archangielsk"}
+4122 = {"Szenkursk" "Szenkursk"}
+4256 = {"Solwyczegosk" "Solwyczegosk"}
+4257 = {"Miezien" "Okladnikowo"}
+
+# Beloozero
+
+312 = {"Bieloziersk" "Bieloziersk"}
+4259 = {"Wielsk" "Wielsk"}
+4261 = {"Ustiuzna" "Ustiuzna"}
+
+# Moscow
+
+295 = {"Moskwa" "Moskwa"}
+4251 = {"Mozajsk" "Mozajsk"}
+4252 = {"Kolomnica" "Kolomnica"}
+
+# North Karelia
+
+32 = {"Prioziersk" "Korczyn"}
+309 = {"Oloniec" "Oloniec"}
+4124 = {"Karelia" "Liesków"}
+
+# Novgorod
+
+310 = {"Nowogród" "Nowogród Wielki"}
+311 = {"Cholm" "Cholm"}
+1959 = {"Torzok" "Torzok"}
+2749 = {"Tichwin" "Tichwin"}
+4260 = {"Wysoki Woloczok" "Wysoki Woloczok"}
+
+# Oka
+
+296 = {"Kaluga" "Kaluga"}
+300 = {"Tulanów" "Tulanów"}
+4116 = {"Odojew" "Odojew"}
+
+# Pomorye
+
+313 = {"Bialomorsk" "Bialomorsk"}
+1776 = {"Biala Karelia" "Krzem"}
+1958 = {"Troczek" "Troczek"}
+4258 = {"Oniega" "Oniega"}
+
+# Pskov
+
+274 = {"Psków" "Psków"}
+275 = {"Polock" "Polock"}
+1960 = {"Ostrów" "Ostrów"}
+4148 = {"Luki" "Wielki Luki"}
+
+# Ryazan
+
+301 = {"Riazan" "Przemyslaw Rozanski"}
+1778 = {"Nowy Nizowoj" "Nowy Nizowoj"}
+4255 = {"Pronsk" "Pronsk"}
+
+# South Karelia
+
+30 = {"Wyborg" "Wyborg"}
+33 = {"Kazimierzogród" "Kazimierzogród"}
+34 = {"Ingria" "Koporce"}
+1961 = {"Newo" "Newo"}
+
+# Suzdal
+
+1754 = {"Murowaniec" "Murowaniec"}
+1956 = {"Sudalów" "Sudalów"}
+4254 = {"Stary Dab" "Stary Dab"}
+
+# Tambov
+
+302 = {"Tambów" "Tambów"} 
+304 = {"Penza" "Moszshi"}
+2415 = {"Otarsk" "Otarsk"}
+
+# Tver
+
+294 = {"Twer" "Twer"}
+1752 = {"Rzew" "Rzew"}
+4243 = {"Toropiec" "Toropiec"}
+4248 = {"Kaszyn" "Kaszyn"}
+4249 = {"Zubców" "Zubców"}
+
+# Vladimir
+
+307 = {"Wlodzimierz" "Wlodzimierz"}
+4147 = {"Rostów" "Rostów"}
+4253 = {"Juriew" "Juriew"}
+
+# Vologda
+
+314 = {"Wologoda" "Wologoda"}
+4262 = {"Totmanów" "Totmanów"}
+4263 = {"Soligalicz" "Soligalicz"}
+
+# Yaroslavl
+
+308 = {"Jaroslaw" "Jaroslaw"}
+1753 = {"Kostroma" "Kostroma"}
+4117 = {"Biezeck" "Biezeck"}
+4250 = {"Mologowice" "Mologowice"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrachan" "Harcingie"}
+466 = {"Saraj" "Saraj"}
+468 = {"Manycz" "Czornyj Jar"}
+2416 = {"Magjaryn" "Magjaryn"}
+2417 = {"Kumaczyn" "Kumaczyn"}
+
+# Azov
+
+286 = {"Azow" "Rostów nad Donem"}
+287 = {"Kuban" "Stawropol"}
+2413 = {"Tyniec" "Tyniec"}
+2414 = {"Nowoczerkask" "Nowoczerkask"}
+
+# Crimea
+
+284 = {"Krym" "Kozlów"}
+285 = {"Teodozja" "Teodozja"}
+2410 = {"Mangup" "Mangup"}
+2447 = {"Taman" "Taman"}
+
+# Lower Don
+
+288 = {"Dolina Donu" "Czerkask"}
+467 = {"Wojciechów" "Wojciechów"}
+1971 = {"Carycyn" "Carycyn"}
+2409 = {"Bachmut" "Bachmut"}
+
+# Yedisan
+
+282 = {"Oczaków" "Oczaków"}
+1974 = {"Cherson" "Cherson"}
+2406 = {"Mikolajów" "Beryslaw"}
+
+# Zaporizhia
+
+283 = {"Zaporoze" "Zaporoze"}
+2411 = {"Dniepr" "Dniepr"}
+2412 = {"Melitopol" "Melitopol"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Baszkiria" "Ufa"}
+1965 = {"Buzulsk" "Buzulsk"}
+1966 = {"Czelabowice" "Czelabowice"}
+2420 = {"Agidel" "Agidel"}
+2444 = {"Baszagród" "Baszagród"}
+
+# Galich
+
+306 = {"Nowogród Dolny" "Nowogród Dolny"}
+1079 = {"Wiatka" "Glinów"}
+1083 = {"Wietluga" "Jur"}
+1957 = {"Galicz" "Galicz"}
+
+# Kama
+
+305 = {"Perm" "Jagosicza"}
+1962 = {"Kudymków" "Kudymków"}
+1972 = {"Udmurcja" "Jabluga"}
+4266 = {"Izewsk" "Izewsk"}
+
+# Kazan
+
+1082 = {"Kazan" "Kazan"}
+2422 = {"Suwarów Srodkowy" "Suwarów Srodkowy"}
+4264 = {"Tetiusze" "Tetiusze"}
+
+# Perm
+
+1077 = {"Solna Skala" "Usoli Kamienskie"}
+1755 = {"Ustiug" "Ustiug"}
+1963 = {"Czerdyn" "Czerdyn"}
+1964 = {"Syktywkar" "Syktywkar"}
+4129 = {"Ust-Wym" "Ust-Wym"}
+
+# Samara
+
+473 = {"Samara" "Samara"}
+1081 = {"Piastów" "Spasów"}
+2423 = {"Alatyr" "Alatyr"}
+
+# Saratov
+
+303 = {"Saratów" "Ukecki"}
+2418 = {"Pokrowosc" "Zólta Góra"}
+2419 = {"Kanadynów" "Syzranie"}
+
+# Ural
+
+1078 = {"Jadwigogród" "Neromków"}
+1080 = {"Brama Syberii" "Peliem"}
+1780 = {"Zyrianów" "Jarensk"}
+2427 = {"Bialy Jar" "Bialy Jar"}
+2441 = {"Ignaszów" "Ignaszów"}
+
+# Volga
+
+2421 = {"Berezyn" "Berezyn"}
+4265 = {"Czelnów Nabrzezny" "Czelnów Nabrzezny"}
+4267 = {"Bulgar Wielki" "Bulgar Wielki"}
+
+## CAUCASIA
+
+# Armenia
+
+419 = "Erywan"
+420 = "Gandza"
+2202 = "Górski Karabach"
+2205 = "Nachiczewan"
+4302 = "Bazidzice"
+
+# Circassia
+
+463 = "Czerkiesja"
+2195 = "Adygeja"
+2197 = "Czerkiesja Wschodnia"
+2201 = "Osetia"
+
+# Dagestan
+
+425 = "Dagestania"
+2198 = "Awaria"
+2199 = "Tarków"
+2208 = "Czeczenia"
+4306 = "Laków"
+
+# Imereti
+
+422 = "Imeretia"
+462 = "Odiszi"
+1856 = "Abchazja"
+
+# Kartli-Kakheti
+
+423 = "Tyfilis"
+2203 = "Kachetia"
+4301 = "Kartalia"
+
+# Samtskhe
+2196 = "Adzaria"
+2204 = "Achacice"
+4303 = "Taocin"
+
+# Shirvan
+
+421 = "Szyrwan"
+424 = "Ardabil"
+4299 = "Szemacha"
+4305 = "Szaki"
+4340 = "Astarachowice"
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = "Naksos"
+320 = "Rodos"
+2348 = "Cios"
+3003 = "Ewia"
+4700 = "Lesbos"
+
+# Ankara
+
+326 = "Angora"
+4312 = "Stare Miasto"
+4313 = "Paflagonia"
+
+# Aydin
+
+318 = "Smyrana"
+319 = "Halikarnas"
+2297 = "Maniszów"
+2298 = "Chanaka"
+4309 = "Ajdin"
+
+# Çukurova
+
+321 = "Cypr"
+327 = "Adanów"
+2302 = "Cylicja"
+
+# Dulkadir
+
+332 = "Germanika"
+2303 = "Melitene"
+2308 = "Edeszyn"
+4310 = "Dziwnogród"
+
+# Erzurum
+
+330 = "Trabzon"
+331 = "Erkurum"
+2305 = "Arsinga"
+
+# Germiyan
+
+322 = "Kutaja"
+1848 = "Hamidia"
+4308 = "Wodne Miasto"
+4311 = "Czarna Twierdza"
+
+# Hüdavendigar
+
+316 = "Kocalia"
+317 = "Bursa"
+2296 = "Karasiów"
+
+# Karadeniz
+
+325 = "Kastamoniec"
+328 = "Synopa"
+2299 = "Polis"
+2304 = "Samsuniec"
+
+# Karaman
+
+323 = "Konja"
+324 = "Karamanogród"
+2301 = "Kapadocja"
+4307 = "Bialy Palac"
+
+# Kurdistan
+
+418 = "Amida"
+2306 = "Mus"
+2307 = "Wan"
+4295 = "Hasankejf"
+4296 = "Bitlice"
+
+# Rum
+
+329 = "Sebastia"
+1846 = "Amazja"
+2300 = "Bozock"
+4314 = "Miasto Stepów"
+4315 = "Tokaczew"
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Zelandia" "Kopenhaga"}
+14 = {"Fionia" "Ottonia"}
+1981 = {"Bornholm" "Rynne"}
+1983 = {"Lalandia" "Nowy Targ Dunski"}
+
+# Finland
+
+27 = {"Turek Finski" "Turek Finski"}
+28 = {"Nylandia" "Porwon"}
+29 = {"Tawastia" "Tawastym"}
+31 = {"Sawonia" "Olafgród"}
+4123 = {"Birkania" "Mesukila"}
+
+# Laponia
+
+315 = {"Samia" "Wardo"}
+1777 = {"Kola" "Kandalaksza"}
+4151 = {"Laponia Finska" "Sodankila"}
+
+# Norrland
+
+9 = {"Helsingia" "Gawle"}
+11 = {"Westrobotnia" "Umeja"}
+18 = {"Laponia Szwedzka" "Arwidszów"}
+4114 = {"Jokmok" "Jokmok"}
+
+# North Atlantic Islands
+
+370 = {"Rejkiawik" "Rejkiawik"}
+371 = {"Akurejri" "Akurejri"}
+1978 = {"Szetlandy" "Lerwicz"}
+1979 = {"Wyspy Owcze" "Torszów"}
+
+# North Jutland
+
+15 = {"Jutlandia Zachodnia" "Rypen"}
+1984 = {"Jutlandia Pólnocna" "Albork"}
+4142 = {"Jutlandia Wschodnia" "Archus"}
+4149 = {"Koldynga" "Koldynga"}
+
+# Ostlandet
+
+17 = {"Agerhusja" "Oslo"}
+22 = {"Oplandia" "Hamry"}
+4143 = {"Smalninia" "Moss"}
+4144 = {"Bracka Góra" "Skien"}
+
+# Östra Götaland
+
+2 = {"Ostrogotia" "Lintarg"}
+3 = {"Kalmar" "Kalmar"}
+25 = {"Gotlandia" "Wisby"}
+4166 = {"Tiogród" "Wepionia"}
+
+# Östra Svealand
+
+1 = {"Sztokholm" "Sztokholm"}
+4 = {"Westmania" "Wasteras"}
+1930 = {"Wyspy Alandzkie" "Port Marii"}
+
+# Ostrobothnia
+
+19 = {"Ostrobotnia" "Korsholm"}
+4113 = {"Rowaniemi" "Rowaniemi"}
+4152 = {"Kajnia" "Manselka"}
+
+# Skaneland
+
+6 = {"Lund" "Lund"}
+26 = {"Halandia" "Halmgród"}
+1982 = {"Blekinga" "Ronebów"}
+4165 = {"Gionia" "Gladsaks"}
+
+# Trondelag
+
+10 = {"Jempcja" "Fryzyn"}
+20 = {"Dronthejmia" "Nidaros"}
+21 = {"Halogalandia" "Sztejg"}
+
+# Västra Götaland
+
+7 = {"Skarogród" "Skara"}
+16 = {"Bohuslania" "Marstrand"}
+4163 = {"Elfgród" "Elfgród"}
+4164 = {"Dalia" "Daligród"}
+
+# Västra Svealand
+
+5 = {"Werlandia" "Karlogród"}
+8 = {"Dalekarlia" "Mora"}
+1985 = {"Nericja" "Orebno"}
+
+# Vestlandet
+
+23 = {"Bergenia" "Berga"}
+24 = {"Stawangria" "Stawanger"}
+2752 = {"Romsdalia" "Molde"}
+4145 = {"Agderia" "Mandal"}
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = "Brugia"
+1865 = "Gandawa"
+4769 = "Lilia"
+
+# Frisia
+
+99 = "Geldria"
+100 = "Fryzja"
+1931 = "Wschodnia Fryzja"
+4381 = "Strzychów"
+4382 = "Gronowice"
+
+# Holland
+
+96 = "Zelandia"
+97 = "Amsterdam"
+98 = "Utrechów"
+4383 = "Haga"
+
+# North Brabant
+
+95 = "Maczkowice"
+1742 = "Górna Geldria"
+4770 = "Wielki Bór"
+
+# South Brabant
+
+92 = "Brabancja"
+1744 = "Antwerpia"
+2974 = "Lun"
+
+# Wallonia
+
+91 = "Hajnat"
+93 = "Liez"
+94 = "Luksemburg"
+1866 = "Namurze"
+
+## BRITAIN
+
+# Connacht
+
+375 = "Limieck"
+376 = "Konachowice"
+4119 = "Slizgów"
+
+# East Anglia
+
+238 = "Eseks"
+1860 = "Norwicz"
+4370 = "Katabrygia"
+
+# East Midlands
+
+243 = "Linkolonia"
+1861 = "Derbowice"
+4376 = "Lester"
+
+# Highlands
+
+250 = "Pertia"
+252 = "Inweria"
+369 = "Orkady"
+4110 = "Ziemia Polnocna"
+4363 = "Akryl"
+
+# Leinster
+
+373 = "Czarny Staw"
+374 = "Leistia"
+4120 = "Debowy Kosciól"
+4379 = "Ziemia Irlandzka"
+
+# London
+
+235 = "Kentowo"
+236 = "Londyn"
+237 = "Oksford"
+4371 = "Suseks"
+
+# Lowlands
+
+248 = "Edynburg"
+249 = "Airia"
+251 = "Aberdonia"
+4361 = "Gawronowice"
+4362 = "Dufrytów"
+
+# Munster
+
+4118 = "Kork"
+4377 = "Wschodnia Munstia"
+4378 = "Zachodnia Munstia"
+
+# Northern England
+
+244 = "Lankaster"
+246 = "Nowy Zamek"
+247 = "Kumbria"
+4375 = "Czester"
+
+# The Isles
+
+253 = "Hebrydy Zewnetrzne"
+4364 = "Hebrydy Wewnetrzne"
+4365 = "Wyspa Czlowieka"
+
+# Ulster
+
+372 = "Tyronowice"
+4121 = "Ulstów"
+4380 = "Tykonalia"
+
+# Wales
+
+241 = "Glamorgia"
+242 = "Gwyndia"
+4366 = "Montgorowice"
+4369 = "Fort Merlina"
+
+# Wessex
+
+233 = "Kornwalia"
+234 = "Port Poludniowy"
+4130 = "Somerecja"
+4373 = "Plymock"
+4374 = "Dorsecja"
+
+# West Midlands
+
+239 = "Blyszczacy Fort"
+240 = "Szruberów"
+4372 = "Kowentria"
+
+# Yorkshire
+
+245 = "Jork"
+4367 = "Królewiec Angielski"
+4368 = "Skarabowice"
+4785 = "Szefilt"
+
+## ITALY
+
+# Apulia
+
+122 = "Salentów"
+1933 = "Baricin"
+2985 = "Fodzia"
+4733 = "Molice"
+
+# Calabria
+
+123 = "Kalabria"
+1934 = "Lukania"
+2984 = "Kosenza"
+
+# Campania
+
+121 = "Neapol"
+2983 = "Salercin"
+4734 = "Awelino"
+
+# Eastern Sicily
+
+124 = "Mesyna"
+126 = "Malta"
+2982 = "Syrakuzy"
+
+# Emilia-Romagna
+
+105 = "Parma"
+106 = "Modena"
+113 = "Ferara"
+114 = "Rawenna"
+4730 = "Bolonia"
+
+# Lazio-Umbria
+
+118 = "Rzym"
+2976 = "Peruzja"
+4731 = "Spoleciów"
+4732 = "Teracin"
+
+# Liguria
+
+101 = "Genua"
+102 = "Nicea"
+2992 = "Albengowice"
+
+# Lombardy
+
+104 = "Mediolan"
+1862 = "Kremona"
+2979 = "Nowara"
+4728 = "Pawia"
+4740 = "Komo"
+
+# Marche-Abruzzo
+
+119 = "Ankona"
+120 = "Abruzja"
+2977 = "Urbinów"
+
+# Piedmont
+
+103 = "Turyn"
+1875 = "Kuneo"
+2981 = "Montferat"
+4727 = "Szaluzo"
+
+# Po Valley
+
+107 = "Brzescia"
+109 = "Mantowa"
+4739 = "Bergamotka"
+
+# Tuscany
+
+115 = "Piza"
+116 = "Florencja"
+117 = "Sieniów"
+2978 = "Areszo"
+2980 = "Lukka"
+
+# Venetia
+
+108 = "Werona"
+111 = "Friulia"
+112 = "Wenecja"
+1774 = "Trewizo"
+4729 = "Padwa"
+
+# Western Mediterranean Islands
+
+127 = "Sasarów"
+1247 = "Korsyka"
+2986 = "Kaljari"
+4735 = "Arborowice"
+
+# Western Sicily
+
+125 = "Palermo"
+4736 = "Trapanice"
+4737 = "Girgencin"
+
+## FRANCE
+
+# Auvergne
+
+190 = "Burbonia"
+195 = "Limuzynia"
+199 = "Owernia"
+4697 = "La Marchia"
+4777 = "Loara"
+
+# Brittany
+
+169 = "Swiety Briok"
+170 = "Dolna Bretonia"
+171 = "Wenetia"
+172 = "Nantes"
+4384 = "Rens"
+
+# Champagne
+
+181 = "Retel"
+186 = "Rems"
+4390 = "Trua"
+
+# Eastern Burgundy
+
+192 = "Dijonia"
+193 = "Besankonia"
+4764 = "Salicin"
+
+# Gascony
+
+173 = "Labord"
+175 = "Armaniak"
+176 = "Bearnia"
+4694 = "Foiks"
+
+# Guyenne
+
+174 = "Bordega"
+194 = "Perogórd"
+198 = "Rodania"
+4112 = "Kahorsk"
+
+# Île-de-France
+
+182 = "Walezja"
+183 = "Paryz"
+185 = "Namur"
+4388 = "Czartów"
+
+# Languedoc
+
+196 = "Tuluza"
+200 = "Monteplier"
+2753 = "Narbona"
+4391 = "Wiwaria"
+4695 = "Karkason"
+
+# Loire Valley
+
+177 = "Men"
+178 = "Andegawenia"
+4389 = "Turenia"
+
+# Lorraine
+
+187 = "Bar"
+188 = "Mets"
+189 = "Lotaryngia"
+4766 = "Werde"
+
+# Normandy
+
+167 = "Rua"
+168 = "Kan"
+1879 = "Alekon"
+4385 = "Koszcencin"
+
+# Orléanais
+
+179 = "Biturg"
+184 = "Orleania"
+4776 = "Blula"
+
+# Picardy
+
+87 = "Kale"
+88 = "Artua"
+89 = "Pikardia"
+1743 = "Kambrai"
+
+# Poitou
+
+180 = "Górna Piktawia"
+4111 = "Sentonia"
+4386 = "Dolna Piktawia"
+4387 = "Angumowice"
+
+# Provence
+
+201 = "Marsylia"
+202 = "Awinion"
+2991 = "Forklier"
+4696 = "Tulon"
+
+# Savoy
+
+203 = "Ljon"
+204 = "Delfinat"
+205 = "Sabaudia"
+4719 = "Breszia"
+
+# Western Burgundy
+
+191 = "Newery"
+1877 = "Karlowice"
+4392 = "Auteria"
+
+## IBERIA
+
+# Alentejo
+
+227 = "Lizbona"
+229 = "Bejanowice"
+230 = "Algarwia"
+4150 = "Ewora"
+4787 = "Ribaszewo"
+
+# Aragon
+
+211 = "Pireneje"
+214 = "Saragossa"
+2990 = "Terelcin"
+4557 = "Kalatajud"
+
+# Baleares
+
+333 = "Majorka"
+4559 = "Minorka"
+4560 = "Ibiza"
+
+# Beiras
+
+228 = "Bejria"
+231 = "Portów"
+232 = "Braganka"
+1851 = "Kombria"
+4556 = "Aweiro"
+
+# Catalonia
+
+197 = "Roulion"
+212 = "Gironia"
+213 = "Barcelona"
+2987 = "Urgelów"
+2988 = "Taragonia"
+
+# Extremadura
+
+218 = "Badajowice"
+1747 = "Kakeres"
+4788 = "Plazencja"
+
+# Galicia
+
+206 = "Koruna"
+4554 = "Lugowice"
+4555 = "Pontewederów"
+4558 = "Oreniów"
+
+# León
+
+207 = "Asturia"
+208 = "Lew"
+216 = "Salamanka"
+4553 = "Zamorzyn"
+
+# Lower Andalucia
+
+224 = "Sewilla"
+225 = "Kordoba"
+1748 = "Daenia"
+1749 = "Kadyks"
+4548 = "Welwa"
+
+# North Castile
+
+215 = "Wajadolid"
+1745 = "Kantabria"
+1746 = "Burgoniów"
+4552 = "Palencja"
+
+# South Castile
+
+217 = "Madryt"
+2755 = "Sorianów"
+4551 = "Awilanów"
+4789 = "Segowia"
+
+# Toledo
+
+219 = "Toleto"
+221 = "Murcja"
+2751 = "Kuenka"
+2754 = "La Manczia"
+4547 = "Albacja"
+
+# Upper Andalucia
+
+222 = "Almeriów"
+223 = "Grenada"
+226 = "Góra Tarika"
+4546 = "Malagia"
+
+# Valencia
+
+220 = "Walencja"
+1750 = "Alikante"
+4549 = "Hatiwa"
+4550 = "Kastelo"
+
+# Vasconia
+
+209 = "Bizkaia"
+210 = "Nawarra"
+2989 = "La Rioja"
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Wisztyniec"   
+869 = "Krynica"   
+2021 = "Miwoki"   
+2476 = "Jarogniewice"   
+4637 = "Zamoyski"   
+     
+# APACHERIA    
+     
+879 = "Karniów"   
+2492 = "Siemradz"   
+4634 = "Tastaków"   
+     
+# ARIZONA    
+     
+867 = "Szeroko"   
+876 = "Feniks"   
+877 = "Chynów"   
+2491 = "Strzechowice"   
+4633 = "Soborwa"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Pólwysep Dickmanna"   
+866 = "Zaciesz"   
+2620 = "Nakiposz"   
+4639 = "Dobropole"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Mlynary"   
+2478 = "Marwice"   
+4635 = "Takotam"   
+4636 = "Pod Skalistom"   
+     
+# COLORADO PLATEU   
+     
+875 = "Boleslawiec"   
+878 = "Zsatec"   
+2493 = "Witoszyn"   
+2494 = "Olobok"   
+     
+# NEW MEXICO   
+     
+880 = "Publyn"   
+881 = "Shwierczynowiec"   
+2495 = "Akotasz"   
+4631 = "Piaski"   
+4632 = "Olszyna"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Nowe Luzsyce"   
+2477 = "Wierzbon"   
+2479 = "Madejów"   
+2480 = "Przyjezierze"   
+4638 = "Lubiechów"   
+     
+# SONORA    
+     
+862 = "Wlodzimierz"   
+2616 = "Konorwie"   
+4577 = "Tachowa"   
+4649 = "Mowowiec"   
+4650 = "Ortabasz"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Wielki Las"   
+2576 = "Drzewica"   
+2577 = "Siedem Wysp"   
+2578 = "Wyspa Sobieszewska"   
+2579 = "Lejkowo"   
+     
+# GREENLAND    
+     
+1104 = "Opoczno"   
+1105 = "Ziemia Pólnocna"   
+     
+# HURONIA    
+     
+988 = "Jazlowiecki"   
+989 = "Czochralski"   
+2585 = "Kupczyce"   
+2670 = "Mieczowce"   
+     
+# LABRADOR    
+     
+997 = "Kaszun"   
+2574 = "Goniec"   
+2575 = "Chodziebusz"   
+     
+# LAURENTIA    
+     
+992 = "Smarzno"   
+2581 = "Zarêby"   
+4894 = "Przyborów"   
+     
+# LOWER ACADIA   
+     
+982 = "Wyspa Trzyglówa"   
+984 = "Koniecpolski"   
+2568 = "Bielaja"   
+2569 = "Andrychów"   
+4891 = "Janowice"   
+     
+# LOWER CANADA   
+     
+993 = "Tluczewo"   
+2584 = "Brzozowica"   
+4895 = "Rzeszów"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Zatoka Kaminiskiego"   
+981 = "Paraszyno"   
+2573 = "Baranowicze"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Radostowice"   
+4892 = "Bestwina"   
+4897 = "Wysoka Glogowska"   
+     
+# QUEBEC    
+     
+986 = "Nanice"   
+994 = "Pilsudski"   
+995 = "Mawr"   
+2582 = "Czymchowa"   
+2583 = "Ratulów"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Sluzsewo"   
+2571 = "Wonwolnica"   
+4896 = "Iwierzyce"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Trzy Rzeki"   
+2012 = "Kazimierz"   
+2580 = "Brzuchacze"  
+     
+# UPPER ACADIA   
+     
+983 = "Wyspa Swarozsyca"   
+985 = "Zsarnowo"   
+2572 = "Bolszewo"   
+     
+# UPPER CANADA   
+     
+987 = "Cieshnina Sobieskiego"   
+2586 = "Szczepanów"   
+2587 = "Konciny"   
+     
+# UPPER ONTARIO   
+     
+991 = "Czêstowo"   
+1001 = "Mójcza"   
+1007 = "Morawica "   
+2015 = "Hawierzów"   
+2671 = "Charocin"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Shwiêta Dominika"   
+2658 = "Dolinka"   
+2659 = "Srebrny Port"   
+4620 = "Kagomiesz"   
+4621 = "Logotka"   
+     
+# EAST CUBA   
+     
+486 = "Guantanama"   
+2654 = "Miodowa Zatoka"   
+2655 = "Dewno"   
+2656 = "Wyspa Shw Marii"   
+     
+# GREATER ANTILLES   
+     
+481 = "Bermudy"   
+487 = "Wyspa Ksionzseca"   
+491 = "Fort Czartoryski"   
+492 = "Królewski Port"   
+     
+# HAITI    
+     
+488 = "Zatoka Koralowa"   
+489 = "Zsólwia Wyspa"   
+4618 = "Gonajów"   
+4619 = "Marinasz"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Wyspa Shw Stefana"   
+494 = "Wyspa Shw Benedykta"   
+495 = "Wyspa Shw Szymona"   
+496 = "Wyspa Shw Wojciecha"   
+1881 = "Wyspa Shw Marcina"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Bahamy"   
+483 = "Wyspy Kaktusowe"   
+     
+# WEST CUBA   
+     
+484 = "Hawana"   
+485 = "Fort Cukrowy"   
+4622 = "Kanimier"   
+4623 = "Eskaby"   
+4624 = "Guawnijce"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Wyspa Piratów"   
+498 = "Martynika"   
+499 = "Wyspa Shw Andrzeja"   
+500 = "Wyspa Shw Jadwigi"   
+501 = "Figowo"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Wyspa Piastów"   
+977 = "Góra Józefa"   
+2613 = "Pychowice"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Strzala"   
+2486 = "Lysegórki"   
+2487 = "Lugwald"   
+2488 = "Kalenisko"   
+     
+# HECATE STRAIT   
+     
+975 = "Wyspa Królewska"   
+2022 = "Wyspa Czaplak"   
+2609 = "Skarzsysko-Kamienna"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Baluty"   
+2604 = "Prondnik Bialy"   
+2605 = "Latarenka"   
+2606 = "Krowodrza"   
+2607 = "Majdów"   
+     
+# OREGON    
+     
+872 = "Soshnica"   
+2481 = "Nowa Rudnica"   
+2482 = "Kostrzynek"   
+2483 = "Gozdowice"   
+     
+# PUGET SOUND   
+     
+874 = "Fort Chodkiewicz"   
+2484 = "Czelin"   
+2485 = "Góra Bozsa"   
+     
+# SNAKE RIVER   
+     
+2019 = "Windawa"   
+2020 = "Szczawnik"   
+2489 = "Plawidlo"   
+2490 = "Jezioro Solne"   
+2506 = "Rajgród"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Wyspa Kameleonów"   
+973 = "Dybowo"   
+974 = "Zatoka Szumów"   
+2610 = "Nowy Sosnowiec"   
+     
+# WESTERN ALASKA   
+     
+978 = "Kotwicowisko"   
+979 = "Aleuty"   
+2611 = "Prondnik Czerwony"   
+2612 = "Bodzów"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Sroki"   
+2632 = "Strysza Buda"   
+2650 = "Fort Aleksa"   
+     
+# CHIAPAS    
+     
+2635 = "Lakadów"   
+2638 = "Zamek Sobieskiego"   
+2649 = "Zamóniesz"   
+4585 = "Bozsanka"   
+4586 = "Jakodnica"   
+     
+# COSTA RICA   
+     
+836 = "Warzenko"   
+2663 = "Fort Jagielloniczyk"   
+4597 = "Niewiadomiesz"   
+     
+# EAST YUCATAN   
+     
+2634 = "Newojina"   
+2652 = "Nowolina"   
+4588 = "Kubodnik"   
+4591 = "Chikala"   
+     
+# GUATEMALA    
+     
+839 = "Panna Marja"   
+841 = "Lublewo"   
+2653 = "Shw Adalbert"   
+4587 = "Waronitok"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Patnin"   
+843 = "Wilkomierz"   
+2636 = "Kowalewo"   
+4589 = "Jabloniycków"   
+4594 = "Telsze"   
+     
+# HONDURAS    
+     
+840 = "Kulnica"   
+2637 = "Panarjnice"   
+2640 = "Wielzno"   
+2662 = "Zolocin"   
+4593 = "Wielkie Ogrody"   
+     
+# NICARAGUA    
+     
+837 = "Bielinek"   
+838 = "Chalupy"   
+2660 = "Jezioro Wêzsa"   
+2661 = "Amelowiec"   
+4592 = "Ulwa"   
+     
+# WEST YUCATAN   
+     
+846 = "Lubar"   
+2633 = "Namosz"   
+2651 = "Tuluszna"   
+4590 = "Zabien"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Miêdzymorze"   
+2664 = "Nadorko"   
+2819 = "Barszczaznowo"   
+4595 = "Guama"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Królewskie wzgórze"   
+916 = "Cêtkowo"   
+917 = "Kwiatoni"   
+4903 = "Wawrochy"   
+     
+# INDIANA    
+     
+942 = "Mszczuje"   
+943 = "Jasienica"   
+2523 = "Tykocin"   
+2524 = "Brenna"   
+4922 = "Przystan"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Czerwone Jezioro"   
+911 = "Makowo"   
+2517 = "Siewrze"   
+2518 = "Balaga"   
+4898 = "Zabajka"   
+     
+# MICHIGAN    
+     
+944 = "Rejtan"   
+945 = "Firlej"   
+2521 = "Montwy"   
+2522 = "Merecz"   
+     
+# OHIO    
+     
+946 = "Sadowski"   
+947 = "Wêglów"   
+948 = "Donbie"   
+2525 = "Gardziec"   
+4907 = "Wielbark"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Wolibórz"   
+2520 = "Zbonszyni"   
+4904 = "Plozy"   
+     
+# WISCONSIN    
+     
+912 = "Kaczan"   
+913 = "Bozsepole"   
+914 = "Mierzynko"   
+4899 = "Pszczelarska"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Wolibórz"   
+2504 = "Trebnica"   
+2505 = "Slawno"   
+     
+# Central Plains   
+     
+901 = "Przelaje"   
+903 = "Nowa Kruszwica"   
+2009 = "Daszyna"   
+2508 = "Miadziol"   
+4915 = "Zdunowo"   
+     
+# HIGH PLAINS   
+     
+889 = "Zielony Dwór"   
+2507 = "Birze"   
+2625 = "Olsztyn"   
+     
+# IOWA    
+     
+905 = "Szydlowicze"   
+2513 = "Kurzym"   
+4900 = "Myszyniec"   
+4905 = "Maldaniec"   
+     
+# KANSAS    
+
+890 = "Dobrylug"   
+898 = "Kamienice"   
+2672 = "Baniadlicz"   
+4914 = "Kadzidlo"   
+     
+# MINNESOTA    
+     
+904 = "Hozsa"   
+908 = "Mineszyce"   
+2512 = "Czchów"   
+4901 = "Gawrzyjalki"   
+     
+# NORTH DAKOTA   
+     
+906 = "Janówek"   
+909 = "Cieplice"   
+2510 = "Wojnicz"   
+4918 = "Elzbiecin"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Lipski"   
+2007 = "Kozuby"   
+2008 = "Gawrony"   
+4916 = "Kuczynskie"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Bialy Mlyn"   
+892 = "Borowiec"   
+896 = "Dworek"   
+4908 = "Zapadki"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Tymienica"   
+2501 = "Struga"   
+2502 = "Niegosz"   
+2503 = "Pscim"   
+4917 = "Adamczycha"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Fort Zbyszka z Bogdanca"   
+2588 = "Dojazdów"   
+2589 = "Mistrzejowice"   
+2590 = "Nizina Dymna"   
+2591 = "Sulechów"   
+     
+# ALBERTA    
+     
+2004 = "Bronin"   
+2017 = "Bilowiec"   
+2018 = "Kietrz"   
+2602 = "Zablocie"   
+     
+# ASSINIBOIA    
+     
+2005 = "Malachowiece"   
+2596 = "Szczechy"   
+2598 = "Plaszów"   
+4920 = "Dybowo"
+     
+# ATHABASCA    
+     
+2599 = "Nowy Modlin"   
+2600 = "Grzegórzki"   
+2601 = "Rakowice"   
+2603 = "Zselazna Rzondowa"   
+     
+# HUDSON BAY   
+     
+1005 = "Krajno"   
+1006 = "Niwy"   
+1009 = "Miedzianka"   
+2592 = "Szczyglice"   
+2594 = "Gliczar"   
+     
+# JAMES BAY   
+     
+998 = "Wishniowiecki"   
+999 = "Wyszkowo"   
+1000 = "Konty Rybackiej"   
+1003 = "Fort Zimowy"   
+1004 = "Fort Zawiszy"   
+     
+# MANITOBA    
+     
+1008 = "Wolica"   
+1010 = "Lasocin"   
+1011 = "Starzechowice"   
+2593 = "Skiertong"   
+4919 = "Brajniki"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Krasna"   
+2511 = "Jezioro Alicija"   
+4902 = "Malszewo"
+     
+# SASKATCHEWAN    
+     
+1813 = "Unewel"   
+2595 = "Falsztyn"   
+2597 = "Barycz"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Pomaraniczowe Góry"   
+4646 = "Tarachowa"   
+4647 = "zsetkora"   
+4648 = "Nowiec"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Nowe Zaporozse"   
+2642 = "Pomieczyno"   
+4642 = "Piszcza"   
+     
+# GUANAJUATO    
+     
+853 = "Wolniak"   
+2615 = "Aleksandrowice"   
+4640 = "Cieniste Piaski"   
+4641 = "Aleksobietz"   
+     
+# GUERRERO    
+     
+2627 = "Gondyn"   
+2645 = "Marikosz"   
+2648 = "Góblce"   
+     
+# HUASTECA    
+     
+848 = "Pulaski"   
+2641 = "Kazilawek"   
+4598 = "Jabalów"   
+     
+# JALISCO    
+     
+854 = "Tepicza"   
+2617 = "Kinów"   
+2621 = "Czyzsyny"   
+2657 = "Kolka"   
+4576 = "Piaskowy port"   
+     
+# MEXICO    
+     
+852 = "Nowe Gniezno"   
+2626 = "Zabawowna"   
+4570 = "Wolnogród"   
+4571 = "Wielona"   
+4572 = "Piaski Wielkie"   
+     
+# MICHOAVAN    
+     
+2622 = "Lesinice"   
+2623 = "Staniszewo"   
+2624 = "Czarnochowice"   
+4573 = "Agapole"   
+4574 = "Dobien"   
+     
+# MIXTECA    
+     
+847 = "Gródek"   
+849 = "Fort Husarz"   
+2646 = "Doignice"   
+4581 = "Inomiesz"   
+     
+# NAYARIT    
+     
+855 = "Maciejów"   
+859 = "Rozkladów"   
+4578 = "Jablonia"   
+     
+# Oaxaca    
+     
+844 = "Nowogród Zapotecki"   
+2629 = "Buczyno"   
+4584 = "Mitlawa"   
+     
+# PUEBLA    
+     
+850 = "Soleczniki"   
+2628 = "Hopy"   
+2644 = "Stertno"   
+4582 = "Telegmiecz"   
+4583 = "Grodyn"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Klif"   
+2643 = "Jablogród"   
+4575 = "Bieniczyce"   
+4579 = "Solyn"   
+4580 = "Alizna"   
+     
+# VERACRUZ    
+     
+2630 = "Bieszkowice"   
+2631 = "Kamieniogoszc"   
+2647 = "Plasowina"   
+     
+# ZACATECAS    
+     
+856 = "Zabojniew"   
+4643 = "Pamawiec"   
+4645 = "Zsnonin"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Santoczno"   
+925 = "Skupin"   
+2531 = "Malogoszcz"   
+2532 = "Korzec"   
+4883 = "Klodzino"   
+     
+# ARKANSAS    
+     
+894 = "Niezamyshl"   
+895 = "Skalka"   
+897 = "Rzeczyn"   
+4885 = "Dzierzgunka"
+4923 = "Olszewka"   
+     
+# KENTUCKY    
+     
+941 = "Brzozowo"   
+2526 = "Radziwillów"   
+4888 = "Rogozany"   
+     
+# LOUISIANA    
+     
+893 = "Nowy Gdanisk"   
+2014 = "Wolodino"   
+2516 = "Wurcin"   
+     
+# MISSISSIPPI    
+     
+919 = "Kurowo"   
+920 = "Kopani"   
+2528 = "Shrem"   
+2529 = "Zonbkowice"   
+4884 = "Moracz"   
+     
+# OZARKS    
+     
+899 = "Wiezsyca"   
+2509 = "Karaczew"   
+2515 = "Prostki"   
+4886 = "Raciborz"   
+     
+# TENNESSEE    
+     
+918 = "Kielno"   
+934 = "Kamica"   
+939 = "Czarnoglowy"   
+4913 = "Jemiolowo"
+     
+# UPPER LOUISIANA   
+     
+900 = "Jantar"   
+902 = "Grzegorzewo"   
+2514 = "Strzelin"   
+4906 = "Stachy"   
+     
+# VANDALIA    
+     
+951 = "Podgrodzie"   
+2551 = "Denków"   
+4889 = "Wódka"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Jaszyn"   
+4887 = "Nowa Cerekwia"   
+4921 = "Chojniki"   
+     
+# WEST FLORIDA   
+     
+921 = "Kluki"   
+922 = "Reduta"   
+923 = "Kusice"   
+2530 = "Moglino"   
+2533 = "Parczew"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Koperników"   
+2555 = "Skaryszew"   
+4875 = "Bogaczewo"   
+     
+# CONNECTICUT    
+     
+967 = "Zatoka Zswiru"   
+2010 = "Szubsk"   
+2560 = "Miednik"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Bialy Sad"   
+957 = "Nowe Wilno"   
+962 = "Wyszczecino"   
+2023 = "Trzebnice"   
+     
+# EASTERN MAINE   
+     
+971 = "Ryczyn"   
+2566 = "Koniskowola"   
+2567 = "Alszan"   
+     
+# HUDSON VALLEY   
+     
+961 = "Fort Bojem"   
+963 = "Dêbowiec"   
+964 = "Lozienica"   
+2559 = "Sereje"   
+4912 = "Zawojki"   
+     
+# IRIQUOISIA    
+     
+958 = "Cztery Klony"   
+959 = "Przylesie"   
+960 = "Bartlomino"   
+4872 = "Wrzesina"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Benedyktów"   
+2563 = "Rzezsyca"   
+4871 = "Szelagowo"   
+     
+# MAINE    
+     
+2013 = "Nowe Prusy"   
+2565 = "Aleksandrów"   
+4873 = "Stekiny"   
+     
+# MARYLAND    
+     
+953 = "Karsibór"   
+2553 = "Irena"   
+2554 = "Kosakowo"   
+     
+# MASSACHUSETTS    
+     
+966 = "Giecz"   
+968 = "Gdynia"   
+2561 = "Rylsk"   
+4874 = "Nowaczyzna"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Nowa Warmia"   
+2562 = "Wolkowyjsk"   
+2564 = "Bialogóra"   
+     
+# NEW YORK   
+     
+965 = "Nowy Kraków"   
+2558 = "Wlodowice"   
+2639 = "Krewetkowo"   
+     
+# WESTYLVANIA    
+     
+955 = "Wolczkowo"   
+2556 = "Grocholice"   
+2557 = "Zieluni"   
+4876 = "Antoniewo"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Krzemieniec"   
+864 = "Komarówka"   
+2618 = "Rzsonka"   
+4644 = "Jakoyna"   
+     
+# COAHUILA    
+     
+861 = "Lipa"   
+864 = "Komarówka"   
+2666 = "Czernoza"   
+2667 = "Fort Boleslawa"   
+4606 = "Conamieni"   
+     
+# COASTAL PRARIE   
+     
+884 = "Nowa Karczma"   
+888 = "Borowo"   
+2665 = "Koloplutsk"   
+2669 = "Panostok"   
+     
+# LLANO ESTACADO   
+     
+882 = "Masztoka"   
+885 = "Zbychowo"   
+2496 = "Grabiszyce"   
+2497 = "Lipinice"   
+4630 = "Likawa"   
+     
+# PECOS    
+     
+2498 = "Karlowiec"   
+4628 = "Netobloni"   
+4629 = "Stankowice"   
+     
+# TAMAULIPAS    
+     
+858 = "Tomaszówka"   
+2499 = "Przecznice"   
+2614 = "Zakrzówek"   
+2668 = "Byjnice"   
+     
+# TEXAS    
+     
+883 = "Suchy Dwór"   
+887 = "Rzucewo"   
+4627 = "Kowbojowo"   
+4911 = "Rozogi"   
+     
+# TEXAS PLAINS   
+     
+886 = "Dêbogórze"   
+2500 = "Wojciewice"   
+4909 = "Zdunek"   
+4910 = "Czarnia"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Niszcza"   
+928 = "Fort Biskupa Edmunda"   
+2534 = "Oszmiana"   
+     
+# FLORIDA    
+     
+926 = "Mierzynek"   
+2535 = "Zakroczym"   
+2536 = "Kojdanów"   
+4625 = "Tytusowo"   
+4626 = "Czystowody"   
+     
+# GEORGIA    
+     
+929 = "Nowe Kaszuby "   
+2537 = "Bialy Kamieni"   
+2538 = "Reszel"   
+2539 = "Choszczno"   
+4880 = "Jeziorki"   
+     
+# GREAT VALLEY   
+     
+949 = "Zseromski"   
+2011 = "Zielosztyn"   
+2548 = "Rossosz"   
+2552 = "Sienno"   
+     
+# NORTH CAROLINA   
+     
+937 = "Dobropole"   
+938 = "Sulominice"   
+2546 = "Przylondek Strachu"   
+2547 = "Zatoka Shwini"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Goslaw"   
+936 = "Góra Biala"   
+2527 = "Zsókiewo"   
+4879 = "Rzedy"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Szarllota"   
+2545 = "Polanisko"   
+4878 = "Piergozy"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Chocholów"   
+2542 = "Nowa Rugia"   
+2543 = "Zatoka Lutycka"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Czernin"   
+2541 = "Shwiêck"   
+4882 = "Trzechel"   
+     
+# UPPER GEORGIA   
+     
+930 = "Letnica"   
+931 = "Matarnia"   
+2540 = "Wyszogród"   
+4881 = "Golczewo"   
+     
+# VIRGINIA    
+     
+950 = "Janów"   
+952 = "Fort Jana z Kolna"   
+2549 = "Kamieniczyk"   
+2550 = "Jablonka"   
+4877 = "Zbozne"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Nowy Puck"   
+2935 = "Nowy Królewiec"   
+2938 = "Kóbonin"   
+     
+# AMAZON    
+     
+2889 = "Jelesznia"   
+2930 = "Stara Dzsungla"   
+2933 = "Inæerowiec"   
+2934 = "Zaroshniêty Zamek"   
+     
+# BAHIA    
+     
+756 = "Shwietoszewo"   
+757 = "Lukowiec"   
+760 = "Magnatowo"   
+2914 = "Kalodlisz"   
+2916 = "Bótoko"   
+     
+# CEARA    
+     
+750 = "Nowy Kolobrzeg"   
+751 = "Twierdza"   
+753 = "Pruszcz Pólnocny"   
+     
+# DIAMANTINA    
+     
+759 = "Diamentówek"   
+2891 = "Nowy Lublin"   
+2898 = "Zlonowieszka"   
+     
+# GOIAS    
+     
+758 = "Glinisk"   
+2906 = "Dolinawy"   
+2907 = "Adalbork"   
+2908 = "Nad ziemion"   
+2919 = "Welnosz"   
+     
+# GRAO PARA   
+     
+748 = "Betlejem"   
+2890 = "Zatoczmok"   
+2928 = "Sadorowo"   
+2929 = "Rzenolwock"   
+     
+# GUAPORE    
+     
+2900 = "Wielondzn"   
+2901 = "Zaroszn"   
+2902 = "Wotym"   
+     
+# GUAYRA    
+     
+768 = "Mala Polska"   
+2895 = "Telomiec"   
+2897 = "Chledowo"   
+     
+# MARANHAO    
+     
+749 = "Kosakowo"   
+2923 = "Fort Janusza"   
+2924 = "Tadógród"   
+2926 = "Ziemia Stara"   
+2927 = "Port Shwiêtego Jaromira"   
+     
+# MATO GROSSO   
+     
+2888 = "Utóm"   
+2903 = "Nowozieni"   
+2904 = "Madorzeg"   
+2905 = "Tólóbrzeg"   
+     
+# MINAS GERAIS   
+     
+765 = "Lajkonik"   
+2892 = "Nazolin"   
+2894 = "Shw Jan"   
+2899 = "Sieroszo"   
+     
+# OFAIE    
+     
+2881 = "Dawidów"   
+2893 = "Piawolo"   
+2920 = "Pieshoznan"   
+     
+# PERNAMBUCO    
+     
+754 = "Pruszcz Wchodni"   
+755 = "Sztygary"   
+2912 = "Siedomie"   
+2921 = "Pruszcz Pólnocny"   
+2922 = "Pruszcz Zachodni"   
+     
+# PIAUI    
+
+752 = "Bielec"   
+2886 = "Letnitok"   
+2925 = "Nasbowiec"   
+     
+# PONTAL    
+     
+2909 = "Nowe Opole"   
+2910 = "Kawolicze"   
+2911 = "Aoltonwiec"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Kolchowice"   
+762 = "Nowy Lwów"   
+763 = "Jaroslawiec"   
+764 = "Pawlów "   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Kaloæemósz"   
+2879 = "Delomnic"   
+2884 = "Rólomiersz"   
+2887 = "Penabork"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Ziemia Szwarczewska"   
+2913 = "Brótko"   
+2915 = "Stary Ogród"   
+2917 = "Malomza"   
+2918 = "Cedómorsz"   
+     
+# SAO PAULO   
+     
+766 = "Nowe Kujawy"   
+769 = "Malinowice"   
+2896 = "Jaceneszno"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Chmielów"   
+832 = "Tonjêw"   
+4602 = "Moloniek"   
+4603 = "Matarnia"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Chylonia"   
+2810 = "Nomószno"   
+2813 = "Góra Anny"   
+4613 = "Pahekogoszcz"   
+4614 = "Lunetko"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Smolno"   
+2816 = "Shw Eustachy"   
+4605 = "Mokoa"   
+     
+# COQUIVACOA    
+     
+828 = "Wrzeszcz"   
+829 = "Port Madgalena"   
+2806 = "Punkt Szymona"   
+4599 = "Synomasz"   
+4601 = "Chemila"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Krasnobród"   
+827 = "Moniuszki"   
+2817 = "Cheniemieszcz"   
+4600 = "Magowo"   
+4607 = "Pinjów"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Mólawic"   
+2809 = "Bodgalisz"   
+2939 = "Gynodmiesz"   
+4615 = "Grantok"   
+     
+# GUYANA    
+     
+502 = "Nowa Kurlandia"   
+743 = "Nowy Hel"   
+744 = "Rowy"   
+2803 = "Port wielkiego pirata"   
+     
+# MARACAIBO    
+     
+830 = "Witomino"   
+2807 = "Mieskoszyn"   
+4609 = "Wratkowo"   
+4610 = "Ulotek"   
+4611 = "Wytom"   
+     
+# POPAYAN    
+     
+823 = "Bozsa Wola"   
+826 = "Baranów"   
+2818 = "Nowa Wizna"   
+4596 = "Kunotek"   
+4604 = "Pastowno"   
+     
+# SURINAME    
+     
+745 = "Fort Przymorze"   
+746 = "Kajena"   
+2937 = "Fort Surinamu"   
+     
+# UPPER GUYANA   
+     
+742 = "Zsytniów"   
+2804 = "Canowalki"   
+2811 = "Górne Bogate Góry"   
+2931 = "Dólnolki"   
+4617 = "Dolne Bogate Góry"   
+     
+# VENEZUELA    
+     
+741 = "Stefanowo"   
+831 = "Grabówek"   
+2808 = "Górotko"   
+4612 = "Taknamiesz"   
+4616 = "Aszontowic"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Cukrawy"   
+2814 = "Lusznia"   
+2815 = "Janodnik"   
+4608 = "Agalnowo"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Konary"   
+786 = "Donbrowski"   
+2868 = "Nióm"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Nowygród"   
+773 = "Koprzywnica"   
+2850 = "Cenómia"   
+2851 = "Lószóm"   
+2852 = "Lutek"
+     
+# BUENOS AIRES   
+     
+778 = "Wiaterna"   
+2846 = "Taranisz"   
+2848 = "Dolina kwiatów"   
+2849 = "Shrym"   
+     
+# CENTRAL CHILE   
+     
+784 = "Babie Doly"   
+787 = "Poróg"   
+2862 = "Tócorzyn"   
+     
+# CUYO    
+     
+2843 = "Zselotno"   
+2844 = "Kórótsz"   
+2845 = "Shw John"   
+2847 = "Olcim"   
+2877 = "Miedzonic"   
+     
+# MESOPOTAMIA    
+     
+777 = "Orlowo"   
+2853 = "Nadbozin"   
+2855 = "Fort Celiny"   
+2858 = "Rzedom"   
+2859 = "Lelotno"   
+     
+# NEHEUNKEN    
+     
+785 = "Rudnik"   
+2867 = "Pustynia Anastazji"   
+2871 = "Walowiec"   
+2872 = "Góry Wodowe"   
+     
+# PATAGONIA    
+     
+781 = "Nowy Port"   
+782 = "Ziemia Ognista"   
+2869 = "Poluwalki"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Piaski czerwone"   
+2870 = "Karszo"   
+2875 = "Ostórasha"   
+2876 = "Dolna Ostórasha"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Malwiny"   
+2025 = "Krzydlowice"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Nowak"   
+2873 = "Zamek Alesky"   
+2874 = "Fioletowe Wybrzezse"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Lisie doly"   
+2860 = "lónotno"   
+2861 = "Bonlno"   
+2865 = "Gotek"   
+2866 = "Walosha"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Walga"   
+804 = "Warnów"   
+2831 = "Shw Damian"   
+2947 = "Worodnia"   
+     
+# CAJAMARCA    
+     
+813 = "Lukowsko"   
+2824 = "Bialelotko"   
+2825 = "Walosznia"   
+2943 = "Jalodnik"   
+     
+# CHIMOR    
+     
+812 = "Bronica"   
+2002 = "Zarzêcin"   
+2821 = "Wybrzezse Zygmunta"   
+2822 = "Kolibki"   
+2826 = "Syronka"   
+     
+# HUANUCO    
+     
+809 = "Pogórze"   
+810 = "Pyrzyce"   
+811 = "Wielka Glusza"   
+814 = "Radogoszcz"   
+2827 = "Leotko"   
+     
+# IQUITOS    
+     
+815 = "Lityn"   
+818 = "Jablonka"   
+821 = "Chyrów"   
+     
+# KUNTISUYU    
+     
+807 = "Redlowo"   
+808 = "Kuzko"   
+2829 = "Dalómnica"   
+2830 = "Mónosz"   
+     
+# PERUAN COAST   
+     
+805 = "Lêgowo"   
+806 = "Naska"   
+2828 = "Fort Czeslawa"   
+     
+# QUITO    
+     
+816 = "Tartaków"   
+817 = "Lisznia"   
+819 = "Obluzse"   
+820 = "Franciszków"   
+2820 = "Spókomiesz"   
+     
+# UCAYALI    
+     
+2823 = "Osiem Dolin"   
+2944 = "Staroszna"   
+2945 = "Rimotko"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Nowêcin"   
+801 = "Sarbsko"   
+2834 = "Pisimole"   
+     
+# CHACO    
+     
+790 = "Bronowicze"   
+2854 = "Centralne Chaco"   
+2878 = "Srebnic"   
+     
+# JUJUY    
+     
+794 = "Kononowicze"   
+2837 = "Shw Catherine"   
+2839 = "Zselazne Góry"   
+     
+# MOXOS    
+     
+803 = "Nizsyce"   
+2832 = "Nolmlicz"   
+2833 = "Gamarnole"   
+     
+# NORTHERN CHILE   
+     
+792 = "Choroszcze"   
+793 = "Twierdza Radziwillów"   
+796 = "Karakan"   
+2840 = "Malolupsk"   
+2841 = "Onobosz"   
+     
+# PARAGUAY    
+     
+775 = "Nowy Shlonsk"   
+776 = "Fort Jakuba"   
+799 = "Biala góra"   
+2882 = "Czarnic"   
+2883 = "Melodin"   
+     
+# POTOSI    
+     
+795 = "Suchodolsko "   
+797 = "Czarnystok"   
+2940 = "Jasne góry"   
+2946 = "Inorkasz"   
+     
+# TUCUMAN    
+     
+791 = "Katamarka"   
+2836 = "Dolna Dolina"   
+2842 = "Nowe Kielce"   
+     
+# UPPER PERU   
+     
+2835 = "Dobronin"   
+2838 = "Jódod"   
+2941 = "Górna Wisznia"   
+2942 = "Shedolzna"   

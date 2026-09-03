@@ -1,0 +1,242 @@
+## ITALY
+
+# Apulia
+
+122 = {"Salènt" "Brìndas"}
+1933 = {"Bari" "Bari"}
+2985 = {"Catapanàs" "Fogge"}
+4733 = {"Mulìs" "Campbàs"}
+
+# Calabria
+
+123 = {"Calabbria" "Catanzêra"}
+1934 = {"Lucània" "Pudènza"}
+2984 = {"Cuzènza" "Cuzènza"}
+
+# Campania
+
+121 = {"Nâpol" "Nâpol"}
+2983 = {"Salêren" "Salêren"}
+4734 = {"Avlèin" "Avlèin"}
+
+# Eastern Sicily
+
+124 = {"Messina" "Messina"}
+126 = {"Marta" "La Valletta"}
+2982 = {"Siracusa" "Siracusa"}
+
+# Emilia-Romagna
+
+105 = {"Pärma" "Pärma"}
+106 = {"Mòdna" "Mòdna"}
+113 = {"Fràra" "Fràra"}
+114 = {"Ravêna" "Ravêna"}
+4730 = {"Bulåggna" "Bulåggna"}
+
+# Lazio-Umbria
+
+118 = {"Råmma" "Råmma"}
+2976 = {"Perûsia" "Perûsia"}
+4731 = {"Spulêt" "Spulêt"}
+4732 = {"Terracìna" "Terracìna"}
+
+# Liguria 
+
+101 = {"Zêna" "Zêna"}
+102 = {"Nisa" "Nisa"}
+2992 = {"Svòna" "Àvenga"}
+
+# Lombardy
+
+104 = {"Milàn" "Milàn"}
+1862 = {"Carmona" "Carmona"}
+2979 = {"Nòvra" "Nòvra"}
+4728 = {"Pàvia" "Pàvia"}
+4740 = {"Còm" "Còm"}
+
+# Marche-Abruzzo
+
+119 = {"Âncua" "Âncua"}
+120 = {"Abrózz" "Abrózz"}
+2977 = {"Urbìn" "Urbìn"}
+
+# Piedmont
+
+103 = {"Turén" "Turén"}
+1875 = {"Cunè" "Cunè"}
+2981 = {"Montfrà" "Lisàndra"}
+4727 = {"Salûs" "Salûs"}
+
+# Po Valley
+
+107 = {"Brësa" "Brësa"}
+109 = {"Mantva" "Mantva"}
+4739 = {"Bêrgum" "Bêrgum"}
+
+# Tuscany
+
+115 = {"Pisa" "Pisa"}
+116 = {"Fiuränza" "Fiuränza"}
+117 = {"Séna" "Séna"}
+2978 = {"Aràzz" "Aràzz"}
+2980 = {"Locca" "Locca"}
+
+# Tyrrhenian Isles
+
+127 = {"Sâser" "Sâser"}
+1247 = {"Còrsega" "Aiàc"}
+2986 = {"Caljàri" "Caljàri"}
+4735 = {"Àrbera" "Àrbera"}
+
+# Venetia
+
+108 = {"Verôn" "Verôn"}
+111 = {"Friåul" "Ùdin"}
+112 = {"Venêzia" "Venêzia"}
+1774 = {"Trèviz" "Trèviz"}
+4729 = {"Pèdva" "Pèdva"}
+
+# Western Sicily
+
+125 = {"Palèrum" "Palèrum"}
+4736 = {"Tràpan" "Tràpan"}
+4737 = {"Agrigénto" "Agrigénto"}
+
+## SOUTH GERMANY
+
+# Carniola
+
+129 = {"Carniôla" "Lubiân"}
+130 = {"Iztria" "Pôla"}
+1769 = {"Gorìzia" "Gorìzia"}
+4738 = {"Teriêste" "Teriêste"}
+4751 = {"Celie" "Celie"}
+
+# Romandie
+
+165 = {"Bêrn" "Bêrn"}
+1867 = {"Vâd" "Losàn"}
+1871 = {"Vallês" "Síon"}
+4720 = {"Ginêvra" "Ginêvra"}
+4721 = {"Fribûrg" "Fribûrg"}
+
+# Switzerland
+
+166 = {"Svîtt" "Svîtt"}
+1869 = {"Zûric" "Zûric"}
+1870 = {"San Gâl" "San Gâl"}
+1873 = {"Côira" "Côira"}
+4722 = {"Ilônt" "Ilônt"}
+
+# Tirol
+
+73 = {"Vàl dal Ìn" "Pontìn"}
+110 = {"Trento" "Trento"}
+1768 = {"Tirôl d'léstr" "Luénz"}
+4710 = {"Bregenza" "Bregénz"}
+4758 = {"Àdez d'vêr" "Merân"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Valôna" "Valôna"}
+4174 = {"Duràzz" "Duràzz"}
+4175 = {"Alêsi" "Alêsi"}
+4750 = {"Crôia" "Crôia"}
+
+# Bosnia
+
+139 = {"Zaclûmi" "Mostâr"}
+140 = {"Bósna" "Dubói"}
+1831 = {"Trabîn" "Trabîn"}
+3002 = {"Visôk" "Visôk"}
+4755 = {"Vâl de la Drîna" "Visegrâd"}
+
+# Croatia
+
+131 = {"Zagâbria" "Zagâbria"}
+1826 = {"Séggna" "Séggna"}
+1828 = {"Líca" "Bagnalûc"}
+4752 = {"Fiume" "Fiume"}
+
+# Dalmatia
+
+136 = {"Spalât" "Spalât"}
+137 = {"Ragùs" "Ragùs"}
+4753 = {"Zára" "Zára"}
+
+# Macedonia
+
+148 = {"Salunech" "Salunech"}
+1853 = {"Castôr" "Castôr"}
+3001 = {"Scôpia" "Scôpia"}
+4702 = {"Sêre" "Sêre"}
+4780 = {"Ocrìd" "Ocrìd"}
+
+# Morea
+
+145 = {"Lacônia" "Myzétra"}
+146 = {"Aténe" "Aténe"}
+163 = {"Crète" "Iraclyòn"}
+1773 = {"Acàia" "Pàtra"}
+4701 = {"Corinten" "Corinten"}
+
+# Northern Greece
+
+142 = {"Corfù" "Cittæ de la Corfù"}
+144 = {"Epîr" "Giovania"}
+147 = {"Tessâglia" "Larìs"}
+4698 = {"Cefalônia" "San Zorz"}
+4699 = {"Etôlia" "Ârt"}
+
+# Rascia
+
+138 = {"Val de la Zêta" "Zetin"}
+1766 = {"Cozôve" "Pristìn"}
+1827 = {"Râscia" "Targovísta"}
+4754 = {"Catâr" "Catâr"}
+
+# Thrace
+
+149 = {"Adrianòpuli" "Adrianòpuli"}
+151 = {"Custantinòpuli" "Custantinòpuli"}
+1764 = {"Mesembria" "Mesembria"}
+4705 = {"Komotêne" "Komotêne"}
+4779 = {"Gallìpuli" "Gallìpuli"}
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Nàss" "Nàss"}
+320 = {"Ròdi" "Ròdi"}
+2348 = {"Scìo" "Scìo"}
+3003 = {"Negropônte" "Negropônte"}
+4700 = {"Lêsbo" "Meteléni"}
+
+# Çukurova
+
+321 = {"Cipru" "Nicòsa"}
+
+## FRANCE
+
+# Provence
+
+201 = {"Marsèa" "Marsèa"}
+202 = {"Avignòni" "Avignòni"}
+2991 = {"Furcalcâr" "Furcalcâr"}
+4696 = {"Tolône" "Tolône"}
+
+# Savoy
+
+203 = {"Liònesa" "Liòn"}
+204 = {"Delfinât" "Granopuli"}
+205 = {"Savòja" "Ciambri"}
+4719 = {"Brèssa" "Borg in Brèssa"}
+
+## PONTIC STEPPE
+
+# Azov
+
+286 = {"Tana" "Tana"}

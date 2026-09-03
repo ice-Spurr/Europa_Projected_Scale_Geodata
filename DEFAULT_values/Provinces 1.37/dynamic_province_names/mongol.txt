@@ -1,0 +1,139 @@
+### ASIA
+
+
+## East Siberia
+
+# Buryatia
+
+1055 = "Khaan-Uul"
+1056 = "Barga"
+1057 = "Öndör"
+1058 = "Onan Gol" # Onan Gol is in Mongolia
+2446 = "Charuul"
+
+# Kamchatkan Peninsula
+
+1034 = "Mogoltai"
+1035 = "Tsagaanbulag"
+1038 = "Tsahiryn"
+1041 = "Khänër"
+2440 = "Kyrgyn"
+
+# Kolyma
+
+1036 = "Borogodo"
+1037 = "Aimal"
+1039 = "Yanskoyor"
+1040 = "Sunkhayat"
+2439 = "Yarman"
+
+# Okhotsk
+
+1043 = "Nogoon"
+1044 = "Tau-Ulaan"
+1047 = "Jargalant"
+1052 = "Tsaganol"
+
+# Sakha
+
+1042 = "Sakhaav"
+1046 = "Yosun"
+2438 = "Khände"
+
+# Yakutia
+
+1045 = "Khylgai"
+1051 = "Altaan"
+1054 = "Muktu"
+2435 = "Khuktei"
+2437 = "Unguul"
+
+
+## JAPAN
+
+# Eastern Chubu
+
+1029 = "Kaiyin"
+1839 = "Sulgai"
+4188 = "Shara"
+4360 = "Borchin"
+
+# Eastern Kanto
+
+1027 = "Narangai"
+4190 = "Shigmo"
+4191 = "Namakan"
+
+# Hokkaido
+
+1031 = "Naranbulag"
+1032 = "Tulun"
+1847 = "Chirbes"
+1852 = "Tokah"
+4193 = "Ulgai"
+
+# Hokuriku
+
+1023 = "Urdai"
+1024 = "Saghang"
+1837 = "Zaigal"
+
+# Kinai
+
+1020 = "Danba"
+1021 = "Sengor"
+1832 = "Khutul"
+4187 = "Tömör"
+
+# Northern Kyushu
+
+1014 = "Togudor"
+1818 = "Khudulmur"
+4182 = "Majuu"
+4651 = "Zaluuchu"
+
+# San'indo
+
+1018 = "Arvan"
+1830 = "Uruun"
+4183 = "Ujumchin"
+4185 = "Khuural"
+
+# Sanyodo
+
+1017 = "Sugul"
+1019 = "Hasara"
+1825 = "Zaluun"
+4184 = "Zkulguud"
+
+# Shikoku
+
+1819 = "Dorj"
+1820 = "Bolor"
+4186 = "Altan"
+
+# Southern Kyushu
+
+1012 = "Sarnai"
+1015 = "Oyun"
+4180 = "Eren"
+4181 = "Harzal"
+
+# Tohoku
+
+1025 = "Taira"
+1026 = "Jinpu"
+4131 = "Harai"
+4192 = "Mikai"
+
+# Western Chubu
+
+1030 = "Nurdu"
+1835 = "Oyunchimeg"
+4359 = "Shiree"
+
+# Western Kanto
+
+1028 = "Togtokh"
+1843 = "Nomoo"
+4189 = "Golomt"
