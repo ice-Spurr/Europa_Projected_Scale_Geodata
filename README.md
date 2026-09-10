@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.8 | 2026-09-10 | **Provinces:** _Caucasus_.<br>**Cities;** _Caucasus_. | 925/3359 |
 | 0.2.7 | 2026-09-08 | **Provinces:** _Anatolia_.<br>**Cities:** _Anatolia_.<br>Renamed main file to `Europa_Projected_Scale_Geodata.qgz`
 <br>Corrected Greenland PROVID and merged neighbouring islands.<br>Added `Regions Progress.png` to show progress. | 895/3359 |
 | 0.2.6b | 2026-09-04 | **Provinces:** : _West Siberia_. | 815/3359 |
