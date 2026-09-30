@@ -62,7 +62,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 2. On the `my_run_XXX` layer, past your provinces. Edit them to provide the country tag, the date where you started and stopped being their lord, what type of possession it is (see the [Custom data and layers](#custom-data-and-layers) chapter above), and what country you got them from. For possession dates, you can go the esea way (give all you provinces either _full core_ or the appropriate subject type) or the mad way (start and end dates for each stage of legitimacy : territorial and full core, even trade company of needed).
 3. Repeat until done.
 4. Change the map style (right click on layer > Style > chose) if you want.
-5. Some styles are "temporal", such as _Political_. Activate the Temporal Controller Panel in the QGIS toolbar to view an animation of your border !
+5. Some styles are "temporal", such as _Political_. Activate the Temporal Controller Panel in the QGIS toolbar to view an animation of your borders !
 6. Share on Reddit !
 
 ---
@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.10 | 2026-09-30 | **Provinces:** : _Mongolia_.<br>**Cities:** _Mongolia_. | 1053/3359 |
 | 0.2.9 | 2026-09-25| **Provinces:** _Central Asia_.<br>**Cities:** _Central Asia_.<br>Corrected geometry errors in western Europe.<br>Added conditional formatting to `provinces.ods` for a clearer view of what is done/to do ; added fields _capital_status_ and _province_status_ to follow progress. |	991/3359 |
 | 0.2.8 | 2026-09-10 | **Provinces:** _Caucasus_.<br>**Cities:** _Caucasus_. | 925/3359 |
 | 0.2.7 | 2026-09-08 | **Provinces:** _Anatolia_.<br>**Cities:** _Anatolia_.<br>Renamed main file to `Europa_Projected_Scale_Geodata.qgz`
