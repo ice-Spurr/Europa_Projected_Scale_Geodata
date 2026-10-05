@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.12 | 2026-10-05 | **Provinces:** : _Korea_.<br>**Cities:** _Korea_. | 1120/3359 |
 | 0.2.11 | 2026-10-03 | **Provinces:** : _Manchuria_.<br>**Cities:** _Manchuria_.<br>Reviewed `provinces.ods` to correct old mistakes. | 1099/3359 |
 | 0.2.10 | 2026-09-30 | **Provinces:** : _Mongolia_.<br>**Cities:** _Mongolia_. | 1053/3359 |
 | 0.2.9 | 2026-09-25| **Provinces:** _Central Asia_.<br>**Cities:** _Central Asia_.<br>Corrected geometry errors in western Europe.<br>Added conditional formatting to `provinces.ods` for a clearer view of what is done/to do ; added fields _capital_status_ and _province_status_ to follow progress. |	991/3359 |
