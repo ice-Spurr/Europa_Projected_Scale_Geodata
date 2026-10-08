@@ -73,14 +73,14 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
-| 0.2.13 | 2026-10-06 | **Provinces:** : _Japan_.<br>**Cities:** _Japan_. | 1168/3359 |
-| 0.2.12 | 2026-10-05 | **Provinces:** : _Korea_.<br>**Cities:** _Korea_. | 1120/3359 |
-| 0.2.11 | 2026-10-03 | **Provinces:** : _Manchuria_.<br>**Cities:** _Manchuria_.<br>Reviewed `provinces.ods` to correct old mistakes. | 1099/3359 |
-| 0.2.10 | 2026-09-30 | **Provinces:** : _Mongolia_.<br>**Cities:** _Mongolia_. | 1053/3359 |
+| 0.2.14 | 2026-10-08 | **Provinces:** _Mashriq_.<br>**Cities:** _Mashriq_.<br>Corrected city ID 4121 (was wrong). | 1199/3359 |
+| 0.2.13 | 2026-10-06 | **Provinces:** _Japan_.<br>**Cities:** _Japan_. | 1168/3359 |
+| 0.2.12 | 2026-10-05 | **Provinces:** _Korea_.<br>**Cities:** _Korea_. | 1120/3359 |
+| 0.2.11 | 2026-10-03 | **Provinces:** _Manchuria_.<br>**Cities:** _Manchuria_.<br>Reviewed `provinces.ods` to correct old mistakes. | 1099/3359 |
+| 0.2.10 | 2026-09-30 | **Provinces:** _Mongolia_.<br>**Cities:** _Mongolia_. | 1053/3359 |
 | 0.2.9 | 2026-09-25| **Provinces:** _Central Asia_.<br>**Cities:** _Central Asia_.<br>Corrected geometry errors in western Europe.<br>Added conditional formatting to `provinces.ods` for a clearer view of what is done/to do ; added fields _capital_status_ and _province_status_ to follow progress. |	991/3359 |
 | 0.2.8 | 2026-09-10 | **Provinces:** _Caucasus_.<br>**Cities:** _Caucasus_. | 925/3359 |
-| 0.2.7 | 2026-09-08 | **Provinces:** _Anatolia_.<br>**Cities:** _Anatolia_.<br>Renamed main file to `Europa_Projected_Scale_Geodata.qgz`
-<br>Corrected Greenland PROVID and merged neighbouring islands.<br>Added `Regions Progress.png` to show progress. | 895/3359 |
+| 0.2.7 | 2026-09-08 | **Provinces:** _Anatolia_.<br>**Cities:** _Anatolia_.<br>Renamed main file to `Europa_Projected_Scale_Geodata.qgz`<br>Corrected Greenland PROVID and merged neighbouring islands.<br>Added `Regions Progress.png` to show progress. | 895/3359 |
 | 0.2.6b | 2026-09-04 | **Provinces:** : _West Siberia_. | 815/3359 |
 | 0.2.6a | 2026-09-03 | **Cities:** Part of _West Siberia_. Now using the help of the "Dynamic Province Names" mod to get different city names when the original isn't available.<br>Converted `provinces.xlsx` to `provinces.ods` for usage of LibreOffice.| 774/3359 |
 | 0.2.6   | 2026-08-31 | **Provinces:** _Ural_.<br>**Cities:** _Ural_. (some provinces without cities due to unrealistic city names)| 774/3359 |
