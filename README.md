@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.16 | 2026-10-10 | **Provinces:** _Khorasan_.<br>**Cities:** _Khorasan_.<br>Also added Province #2078. | 1295/3359 |
 | 0.2.15 | 2026-10-09 | **Provinces:** _Persia_, _Caspian Sea_.<br>**Cities:** _Persia_.<br>Added missing IDs for some wastelands, cleaned unnecessary geometries and errors.<br>For the province map (`Region Progress.png`), lake colors switched to white for better visibility against wastelands. | 1255/3359|
 | 0.2.14 | 2026-10-08 | **Provinces:** _Mashriq_.<br>**Cities:** _Mashriq_.<br>Corrected city ID 4121 (was wrong). | 1199/3359 |
 | 0.2.13 | 2026-10-06 | **Provinces:** _Japan_.<br>**Cities:** _Japan_. | 1168/3359 |
