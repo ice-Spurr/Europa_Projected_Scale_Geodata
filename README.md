@@ -73,10 +73,11 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.19 | 2026-10-14 | **Provinces:** _South China_.<br>**Cities:** _South China_.<br>Added Yaeyama Islands to Province #1015 (Ryukyu archipelago). | 1412/3359 |
 | 0.2.18 | 2026-10-13 | **Provinces:** _North China_.<br>**Cities:** _North China_. | 1365/3359 |
 | 0.2.17 | 2026-10-11 | **Provinces:** _Tibet_.<br>**Cities:** _Tibet_.<br>Also added Provinces #707 and #708 from _North China_. | 1324/3359 |
 | 0.2.16 | 2026-10-10 | **Provinces:** _Khorasan_.<br>**Cities:** _Khorasan_.<br>Also added Province #2078 from _Hindustan_. | 1295/3359 |
-| 0.2.15 | 2026-10-09 | **Provinces:** _Persia_, _Caspian Sea_.<br>**Cities:** _Persia_.<br>Added missing IDs for some wastelands, cleaned unnecessary geometries and errors.<br>For the province map (`Region Progress.png`), lake colors switched to white for better visibility against wastelands. | 1255/3359|
+| 0.2.15 | 2026-10-09 | **Provinces:** _Persia_, _Caspian Sea_.<br>**Cities:** _Persia_.<br>Added missing IDs for some wastelands, cleaned unnecessary geometries and errors.<br>For the province map (`Region Progress.png`), lake colors switched to white for better visibility against wastelands. | 1255/3359 |
 | 0.2.14 | 2026-10-08 | **Provinces:** _Mashriq_.<br>**Cities:** _Mashriq_.<br>Corrected city ID 4121 (was wrong). | 1199/3359 |
 | 0.2.13 | 2026-10-06 | **Provinces:** _Japan_.<br>**Cities:** _Japan_. | 1168/3359 |
 | 0.2.12 | 2026-10-05 | **Provinces:** _Korea_.<br>**Cities:** _Korea_. | 1120/3359 |
@@ -87,15 +88,15 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 | 0.2.7 | 2026-09-08 | **Provinces:** _Anatolia_.<br>**Cities:** _Anatolia_.<br>Renamed main file to `Europa_Projected_Scale_Geodata.qgz`<br>Corrected Greenland PROVID and merged neighbouring islands.<br>Added `Regions Progress.png` to show progress. | 895/3359 |
 | 0.2.6b | 2026-09-04 | **Provinces:** : _West Siberia_. | 815/3359 |
 | 0.2.6a | 2026-09-03 | **Cities:** Part of _West Siberia_. Now using the help of the "Dynamic Province Names" mod to get different city names when the original isn't available.<br>Converted `provinces.xlsx` to `provinces.ods` for usage of LibreOffice.| 774/3359 |
-| 0.2.6   | 2026-08-31 | **Provinces:** _Ural_.<br>**Cities:** _Ural_. (some provinces without cities due to unrealistic city names)| 774/3359 |
-| 0.2.5   | 2026-08-26 | **Provinces:** _Russia_, _Pontic Steppe_ (had to make weird shapes, far from the game provinces, to follow the cities locations).<br>**Cities:** _Pontic Steppe_| 739/3359 |
+| 0.2.6  | 2026-08-31 | **Provinces:** _Ural_.<br>**Cities:** _Ural_. (some provinces without cities due to unrealistic city names)| 774/3359 |
+| 0.2.5  | 2026-08-26 | **Provinces:** _Russia_, _Pontic Steppe_ (had to make weird shapes, far from the game provinces, to follow the cities locations).<br>**Cities:** _Pontic Steppe_| 739/3359 |
 | 0.2.4b | 2026-08-18 | README.md written | 697/3359 |
 | 0.2.4a | 2026-08-17 | **Provinces:** Part of _Russia_.<br>**Cities:** _Russia_. | 697/3359 |
 | 0.2.3b | 2026-08-15 | **Provinces:** _Ruthenia_.<br>**Cities:** _South Germany_, _Italy_ (now up to date).<br>Added `my_run_XXX` layer. | 677/3359 |
-| 0.2.3a  | 2026-07-31 | **Cities:** _Ruthenia_. | 636/3359                    |
-| 0.2.2   | 2026-07-29 | **Provinces:** _Poland_.<br>**Cities:** Additional entries.<br>Added hexadecimal colors to files. | 634/3359 |
-| 0.2.1   | 2026-07-22 | **Provinces:** _Carpathia_ (remaining).<br>**Cities:** _North Germany_. | 603/3359 |
-| 0.1.4   | 2026-07-20 | **Provinces:** _Balkans_, _Wallachia_, _Moldova_. | 581/3359 |
-| 0.1.3   | 2026-07-17 | **Provinces:** Baltic.<br>Added `provinces.bmp` with reference points. | 523/3359 |
-| 0.1.2   | 2026-07-10 | **Provinces:** _Scandinavia_, _France_, _Iberia_, _Britain_, _Italy_, _Low Countries_, _North Germany_, _South Germany_. | 515/3359 |
-| 0.1.1   | 2026-07-08 | **Initial upload.**<br>Provinces: Greenland and Iceland.<br>Added trade goods pictures. | 005/3359 |
+| 0.2.3a | 2026-07-31 | **Cities:** _Ruthenia_. | 636/3359                    |
+| 0.2.2 | 2026-07-29 | **Provinces:** _Poland_.<br>**Cities:** Additional entries.<br>Added hexadecimal colors to files. | 634/3359 |
+| 0.2.1 | 2026-07-22 | **Provinces:** _Carpathia_ (remaining).<br>**Cities:** _North Germany_. | 603/3359 |
+| 0.1.4 | 2026-07-20 | **Provinces:** _Balkans_, _Wallachia_, _Moldova_. | 581/3359 |
+| 0.1.3 | 2026-07-17 | **Provinces:** Baltic.<br>Added `provinces.bmp` with reference points. | 523/3359 |
+| 0.1.2 | 2026-07-10 | **Provinces:** _Scandinavia_, _France_, _Iberia_, _Britain_, _Italy_, _Low Countries_, _North Germany_, _South Germany_. | 515/3359 |
+| 0.1.1 | 2026-07-08 | **Initial upload.**<br>Provinces: Greenland and Iceland.<br>Added trade goods pictures. | 005/3359 |
