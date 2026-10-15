@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.20 | 2026-10-15 | **Provinces:** _Xinan_.<br>**Cities:** _Xinan_.<br>Also added Provinces #2395 from Burma and #2954 from Maghreb for personal use. | 1437/3359 |
 | 0.2.19 | 2026-10-14 | **Provinces:** _South China_.<br>**Cities:** _South China_.<br>Added Yaeyama Islands to Province #1015 (Ryukyu archipelago). | 1412/3359 |
 | 0.2.18 | 2026-10-13 | **Provinces:** _North China_.<br>**Cities:** _North China_. | 1365/3359 |
 | 0.2.17 | 2026-10-11 | **Provinces:** _Tibet_.<br>**Cities:** _Tibet_.<br>Also added Provinces #707 and #708 from _North China_. | 1324/3359 |
