@@ -3,7 +3,7 @@ Initially started as the _EU4 Province Map_, aims to recreate the Europa Univers
 
 ---
 # Inspiration
-I'm a map "fanatic", and QGIS is like a game to me (no wonder why I play EU4 then...). BUt I'm not alone ! I took my inspiration from the mysterious _Missouri_EMGIS_ who uploaded its version of the map on ArcGIS : [online viewer](https://www.arcgis.com/apps/mapviewer/index.html?webmap=194c90245ba4421486afa888c622dd1e) and [download](https://www.arcgis.com/home/item.html?id=16f470b5be2b4c25a76e0151bd4f76e7#overview). Sadly, this files is largely outdated, and with simple geometries.
+I'm a map "fanatic", and QGIS is like a game to me (no wonder why I play EU4 then...). But I'm not alone ! I took my inspiration from the mysterious _Missouri_EMGIS_ who uploaded its version of the map on ArcGIS : [online viewer](https://www.arcgis.com/apps/mapviewer/index.html?webmap=194c90245ba4421486afa888c622dd1e) and [download](https://www.arcgis.com/home/item.html?id=16f470b5be2b4c25a76e0151bd4f76e7#overview). Sadly, this file is largely outdated, and with simple geometries.
 # Data Origin
 The raw data comes from varied sources, including game files and geospatial datasets.
 
@@ -11,7 +11,7 @@ The raw data comes from varied sources, including game files and geospatial data
 Game files were scrapped with python codes to extract `.xlsx` and `.csv` files in `\DEFAULT_values`. All values correspond to the 1444-11-11 start date :
 - `countries.xlsx` links countries tags, names and map colours. Tags are from `Europa Universalis 4/history/countries`, and colours from `Europa Universalis 4/common/countries`. Some end-game tags colours are missing.
 - `religions.xlsx` links the religions codes, names, groups and map colours.
-- `provinces.xlsx` contains most of the provinces data, like the owner, development, region etc. Provinces/cities in blue are already mapped. Some data are directly extracted from a 1444-11-11 game save.
+- `provinces.xlsx` contains most of the provinces data, like the owner, development, region etc. Provinces/cities in green are already mapped. Some data are directly extracted from a 1444-11-11 game save.
 - `definition.csv` links the provinces IDs and their map colour. Sourced from `Europa Univrsalis 4/map`, I've added each province colour in it. I don't know what the "x" column is for.
 - `regions.csv` links regions and their colours. Manually compiled from the wiki.
 - `religions.csv`links religions and their colours. Manually compiled from the wiki.
@@ -34,7 +34,7 @@ GADM offers high precision and deep subdivisions, enabling detailed province bou
 - `Cities` layer : a point layer with the cities, you guessed it. I chose the exact point coordinates depending on a few factors :
 	- For coastal cities, I snapped the point to the coast vertex/line.
 	- For inland cities, I placed the point on the biggest religious edifice (Notre Dame de Paris, Milano Duomo...) or a major military feature (Kruja Fortress, Russian Kremlins...).
-	- If none was available (province capital is a really small town, the city doesn't exists anymore), I placed the point in a central park or an intersection.
+	- If none was available (province capital is a really small town, the city doesn't exists anymore or no historical building remains, the map raster (Google or Bing) is jammed (like in China)...), I placed the point in a central park or an intersection.
 - `my_run_XXX` : used for custom runs. In this repository, my own runs are not included. I'll do it later. This layer allows you to map your own country (see [How to make a map for your own run ?](#how-to-make-a-map-for-your-own-run-?)). You can edit many properties, including the possession type :
 	- Subject :
 		- Personal Union
@@ -49,9 +49,9 @@ GADM offers high precision and deep subdivisions, enabling detailed province bou
 		- Colonial Outpost
 	
 # How I map
-1. Georeferencing : `provinces.bmp` needed to be accurately georeferenced to draw the provinces over it. the georeferenced version is named `MAP_provinces_projected.tif` in `\DEFAULT_vales\Provinces 1.37`.2100 reference points were used on coastlines and lakes.
-2. Placing the cities : since I don't want to draw a province and find out that its capital is not included in it (meaning reworking the provinces around it) I place all cities from a region, **then** I map the provinces. I made this mistake with Germany, it was a hell to recover.
-3. Province Splitting : using the _split features_ tool with the _snapping_/_tracing_ options, the NE_10m map was split into provinces, loosely following today's political borders.
+1. Georeferencing : `provinces.bmp` needed to be accurately georeferenced to draw the provinces over it. the georeferenced version is named `MAP_provinces_projected.tif` in `\DEFAULT_vales\Provinces 1.37`. 2100 reference points were used on coastlines and lakes, you can find them in `DEFAULT_values\Provinces 1.37\province_GCP.points`.
+2. Placing the cities : since I don't want to draw a province and find out that its capital is not included in it (meaning reworking the provinces around it) I place all cities from a region (and, since 0.2.20, the cities from neighbouring provinces too), **then** I map the provinces. I made this mistake with Germany, it was a hell to recover.
+3. Province Splitting : using the _split features_ tool with the _snapping_/_tracing_ options, the NE_10m map was split into provinces, loosely following today's political borders. I voluntarily **not** follow modern borders when I can, in order to not make another "Modern Borders mod" and keep a bit of fantasy.
 
 **/!\ Disclaimer /!\\**
 This project **does not intend to make political judgments** about regional ownership. Modern borders are used as a _reference only_ and may not fully align with historical or cultural realities. Errors or omissions are unintentional.
@@ -73,6 +73,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.21 | 2026-10-20 | **Provinces:** _Egypt_.<br>**Cities:** _Egypt_.<br>Corrected typos and updated a few informations in `README.md`. | 1468/3359 |
 | 0.2.20 | 2026-10-15 | **Provinces:** _Xinan_.<br>**Cities:** _Xinan_.<br>Also added Provinces #2395 from Burma and #2954 from Maghreb for personal use. | 1437/3359 |
 | 0.2.19 | 2026-10-14 | **Provinces:** _South China_.<br>**Cities:** _South China_.<br>Added Yaeyama Islands to Province #1015 (Ryukyu archipelago). | 1412/3359 |
 | 0.2.18 | 2026-10-13 | **Provinces:** _North China_.<br>**Cities:** _North China_. | 1365/3359 |
