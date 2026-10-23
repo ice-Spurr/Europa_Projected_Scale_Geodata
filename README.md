@@ -74,7 +74,6 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
 | 0.2.22 | 2026-10-23 | **Provinces:** _Maghreb_.<br>**Cities:** _Maghreb_.<br>Added layer `NE_10m_playas` as [basemap](#Basemaps) for the Maghreb lakes (Province #2471 : _Chott el Jerid_). | 1534/3359 |
-
 | 0.2.21 | 2026-10-20 | **Provinces:** _Egypt_.<br>**Cities:** _Egypt_.<br>Corrected typos and updated a few informations in `README.md`. | 1468/3359 |
 | 0.2.20 | 2026-10-15 | **Provinces:** _Xinan_.<br>**Cities:** _Xinan_.<br>Also added Provinces #2395 from Burma and #2954 from Maghreb for personal use. | 1437/3359 |
 | 0.2.19 | 2026-10-14 | **Provinces:** _South China_.<br>**Cities:** _South China_.<br>Added Yaeyama Islands to Province #1015 (Ryukyu archipelago). | 1412/3359 |
