@@ -20,8 +20,8 @@ Game files were scrapped with python codes to extract `.xlsx` and `.csv` files i
 
 ## Basemaps
 The "real world data" I'm using comes from these sources :
-- The coastline is from [Natural Earth](https://www.naturalearthdata.com/). I'm using the [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/) version, which provides a sufficient precision for this project.
-- The lakes are also from [Natural Earth](https://www.naturalearthdata.com/). I'm also using a [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-lakes/) model, with both "lakes" (todays lakes) and "historic lakes" (for past lakes, such as some Netherlands polders or the Aral Sea).
+- The coastline is from [Natural Earth](https://www.naturalearthdata.com/). I'm using the [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/) version, which provides a sufficient precision for this project. Islands <2 km² are not shown, and not relevant for this work.
+- The lakes are also from [Natural Earth](https://www.naturalearthdata.com/). I'm also using a [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-lakes/) model, with "lakes" and "playas" (todays open lakes and endorheic basins) as well as "historic lakes" (for past lakes, such as some Netherlands polders or the Aral Sea).
 
 I'm using 2 datasets for the political subdivisions :
 - one from [World Bank](https://datacatalog.worldbank.org/search/dataset/0038272/world-bank-official-boundaries) : unknown precision, but simpler geometry with fewer errors. Useful for dense areas (e.g., Poland, where GADM data is overly complex).
@@ -73,6 +73,8 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.22 | 2026-10-23 | **Provinces:** _Maghreb_.<br>**Cities:** _Maghreb_.<br>Added layer `NE_10m_playas` as [basemap](#Basemaps) for the Maghreb lakes (Province #2471 : _Chott el Jerid_). | 1534/3359 |
+
 | 0.2.21 | 2026-10-20 | **Provinces:** _Egypt_.<br>**Cities:** _Egypt_.<br>Corrected typos and updated a few informations in `README.md`. | 1468/3359 |
 | 0.2.20 | 2026-10-15 | **Provinces:** _Xinan_.<br>**Cities:** _Xinan_.<br>Also added Provinces #2395 from Burma and #2954 from Maghreb for personal use. | 1437/3359 |
 | 0.2.19 | 2026-10-14 | **Provinces:** _South China_.<br>**Cities:** _South China_.<br>Added Yaeyama Islands to Province #1015 (Ryukyu archipelago). | 1412/3359 |
