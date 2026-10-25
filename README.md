@@ -21,7 +21,7 @@ Game files were scrapped with python codes to extract `.xlsx` and `.csv` files i
 ## Basemaps
 The "real world data" I'm using comes from these sources :
 - The coastline is from [Natural Earth](https://www.naturalearthdata.com/). I'm using the [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/) version, which provides a sufficient precision for this project. Islands <2 km² are not shown, and not relevant for this work.
-- The lakes are also from [Natural Earth](https://www.naturalearthdata.com/). I'm also using a [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-lakes/) model, with "lakes" and "playas" (todays open lakes and endorheic basins) as well as "historic lakes" (for past lakes, such as some Netherlands polders or the Aral Sea).
+- The lakes are also from [Natural Earth](https://www.naturalearthdata.com/). I'm also using the [10 meters](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-lakes/) model, with "lakes" and "playas" (todays open lakes and endorheic basins) as well as "historic lakes" (for past lakes, such as some Netherlands polders or the Aral Sea).
 
 I'm using 2 datasets for the political subdivisions :
 - one from [World Bank](https://datacatalog.worldbank.org/search/dataset/0038272/world-bank-official-boundaries) : unknown precision, but simpler geometry with fewer errors. Useful for dense areas (e.g., Poland, where GADM data is overly complex).
@@ -64,7 +64,10 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 4. Change the map style (right click on layer > Style > chose) if you want.
 5. Some styles are "temporal", such as _Political_. Activate the Temporal Controller Panel in the QGIS toolbar to view an animation of your borders !
 6. Share on Reddit !
-
+---
+# Further Development ideas:
+- In `Provinces.ods`, add the following columns : local name of the place (both in local language, romanised and english), justification of precise location (_this_ palace, _this_ fort, _along coastline_, etc.).
+- Check every vertex to ensure there is no duplicate or missing point.
 ---
 # Author
 - iceSpurr : [u/iceSpurr](https://www.reddit.com/user/iceSpurr/submitted/), [DeviantArt](https://www.deviantart.com/icespurr)
@@ -73,8 +76,8 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
-| 0.2.22 | 2026-10-23 | **Provinces:** _Maghreb_.<br>**Cities:** _Maghreb_.<br>Added layer `NE_10m_playas` as [basemap](#Basemaps) for the Maghreb lakes (Province #2471 : _Chott el Jerid_). | 1534/3359 |
-
+| 0.2.23a | 2026-10-25 | **Provinces:** _Arabia_, parts of _Hindustan_.<br>**Cities:** _Arabia_, parts of _Hindustan_.<br>Corrected adjacency of Provinces #2109-#4675.<br>Started corrections on provinces common-vertices errors ("holes" when mergin features): 1/n. | 1614/3359|
+| 0.2.22 | 2026-10-23 | **Provinces:** _Maghreb_.<br>**Cities:** _Maghreb_.<br>Added layer `NE_10m_playas` as a [basemap](#Basemaps) for the Maghreb lakes (Province #2471 : _Chott el Jerid_). | 1534/3359 |
 | 0.2.21 | 2026-10-20 | **Provinces:** _Egypt_.<br>**Cities:** _Egypt_.<br>Corrected typos and updated a few informations in `README.md`. | 1468/3359 |
 | 0.2.20 | 2026-10-15 | **Provinces:** _Xinan_.<br>**Cities:** _Xinan_.<br>Also added Provinces #2395 from Burma and #2954 from Maghreb for personal use. | 1437/3359 |
 | 0.2.19 | 2026-10-14 | **Provinces:** _South China_.<br>**Cities:** _South China_.<br>Added Yaeyama Islands to Province #1015 (Ryukyu archipelago). | 1412/3359 |
