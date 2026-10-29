@@ -76,7 +76,8 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
-| 0.2.23a | 2026-10-25 | **Provinces:** _Arabia_, parts of _Hindustan_.<br>**Cities:** _Arabia_, parts of _Hindustan_.<br>Corrected adjacency of Provinces #2109-#4675.<br>Started corrections on provinces common-vertices errors ("holes" when mergin features): 1/n. | 1614/3359|
+| 0.2.23b | 2026-10-25 | **Provinces:** _Hindustan_.<br>**Cities:** _Hindustan_.<br>Continued corrections on provinces common-vertices errors ("holes" when merging features): 2/n. | 1670/3359|
+| 0.2.23a | 2026-10-25 | **Provinces:** _Arabia_, parts of _Hindustan_.<br>**Cities:** _Arabia_, parts of _Hindustan_.<br>Corrected adjacency of Provinces #2109-#4675.<br>Started corrections on provinces common-vertices errors ("holes" when merging features): 1/n. | 1614/3359|
 | 0.2.22 | 2026-10-23 | **Provinces:** _Maghreb_.<br>**Cities:** _Maghreb_.<br>Added layer `NE_10m_playas` as a [basemap](#Basemaps) for the Maghreb lakes (Province #2471 : _Chott el Jerid_). | 1534/3359 |
 | 0.2.21 | 2026-10-20 | **Provinces:** _Egypt_.<br>**Cities:** _Egypt_.<br>Corrected typos and updated a few informations in `README.md`. | 1468/3359 |
 | 0.2.20 | 2026-10-15 | **Provinces:** _Xinan_.<br>**Cities:** _Xinan_.<br>Also added Provinces #2395 from Burma and #2954 from Maghreb for personal use. | 1437/3359 |
