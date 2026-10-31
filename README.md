@@ -11,7 +11,12 @@ The raw data comes from varied sources, including game files and geospatial data
 Game files were scrapped with python codes to extract `.xlsx` and `.csv` files in `\DEFAULT_values`. All values correspond to the 1444-11-11 start date :
 - `countries.xlsx` links countries tags, names and map colours. Tags are from `Europa Universalis 4/history/countries`, and colours from `Europa Universalis 4/common/countries`. Some end-game tags colours are missing.
 - `religions.xlsx` links the religions codes, names, groups and map colours.
-- `provinces.xlsx` contains most of the provinces data, like the owner, development, region etc. Provinces/cities in green are already mapped. Some data are directly extracted from a 1444-11-11 game save.
+- `provinces.ods` contains most of the provinces data, like the owner, development, region etc. Provinces/cities in green are already mapped. Some data are directly extracted from a 1444-11-11 game save. I've added a few columns :
+	- _capital_status_: is the capital mapped.
+	- _province_status_: is the province mapped.
+	- _Note : capital point location_: where is placed the capital point. Drop down menu with the following values: Palace, Religious building (main), Religious building (secondary), Fort, Place, City center, Coastline, Other.
+	- _Note : capital point detail_: more detail abouth the capital point (name of palace or fort, "coordinates given by Wikipedia", etc.).
+	- _Note : other_: any other note about the capital or province.
 - `definition.csv` links the provinces IDs and their map colour. Sourced from `Europa Univrsalis 4/map`, I've added each province colour in it. I don't know what the "x" column is for.
 - `regions.csv` links regions and their colours. Manually compiled from the wiki.
 - `religions.csv`links religions and their colours. Manually compiled from the wiki.
@@ -66,7 +71,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 6. Share on Reddit !
 ---
 # Further Development ideas:
-- In `Provinces.ods`, add the following columns : local name of the place (both in local language, romanised and english), justification of precise location (_this_ palace, _this_ fort, _along coastline_, etc.).
+- In `Provinces.ods`, add the following columns : local name of the place (both in local language, romanised and english), justification of precise location (_this_ palace, _this_ fort, _along coastline_, etc. : started in 0.2.24 with _Western India_, need to backtrack from the previous ~1600 provinces).
 - Check every vertex to ensure there is no duplicate or missing point.
 ---
 # Author
@@ -76,7 +81,8 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
-| 0.2.23b | 2026-10-25 | **Provinces:** _Hindustan_.<br>**Cities:** _Hindustan_.<br>Continued corrections on provinces common-vertices errors ("holes" when merging features): 2/n. | 1670/3359|
+| 0.2.24a | 2026-10-31 | **Cities:** _Western India_.<br>Added columns "Note : capital point location" and "Note : capital point detail" to `provinces.ods`. Modified the corresponding [ReadMe chapter](#EUIV-Data) accordingly.<br>Continued corrections on provinces common-vertices errors: 3/n. | 1670/3359|
+| 0.2.23b | 2026-10-25 | **Provinces:** _Hindustan_.<br>**Cities:** _Hindustan_.<br>Continued corrections on provinces common-vertices errors: 2/n. | 1670/3359|
 | 0.2.23a | 2026-10-25 | **Provinces:** _Arabia_, parts of _Hindustan_.<br>**Cities:** _Arabia_, parts of _Hindustan_.<br>Corrected adjacency of Provinces #2109-#4675.<br>Started corrections on provinces common-vertices errors ("holes" when merging features): 1/n. | 1614/3359|
 | 0.2.22 | 2026-10-23 | **Provinces:** _Maghreb_.<br>**Cities:** _Maghreb_.<br>Added layer `NE_10m_playas` as a [basemap](#Basemaps) for the Maghreb lakes (Province #2471 : _Chott el Jerid_). | 1534/3359 |
 | 0.2.21 | 2026-10-20 | **Provinces:** _Egypt_.<br>**Cities:** _Egypt_.<br>Corrected typos and updated a few informations in `README.md`. | 1468/3359 |
