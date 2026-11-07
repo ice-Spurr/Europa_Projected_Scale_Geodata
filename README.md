@@ -81,9 +81,8 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
-
+| 0.2.25 | 2026-11-07 | **Provinces:** _Bengal_.<br>**Cities:** _Bengal_.<br>Continued corrections on provinces common-vertices errors: 3/n. | 1853/3359 |
 | 0.2.24b | 2026-11-02 | **Provinces:** _Deccan, Coromandel_.<br>**Cities:** _Deccan, Coromandel_. | 1801/3359 |
-
 | 0.2.24a | 2026-10-31 | **Cities:** _Western India_.<br>Added columns "Note : capital point location" and "Note : capital point detail" to `provinces.ods`. Modified the corresponding [ReadMe chapter](#EUIV-Data) accordingly.<br>Continued corrections on provinces common-vertices errors: 3/n. | 1670/3359|
 | 0.2.23b | 2026-10-25 | **Provinces:** _Hindustan_.<br>**Cities:** _Hindustan_.<br>Continued corrections on provinces common-vertices errors: 2/n. | 1670/3359|
 | 0.2.23a | 2026-10-25 | **Provinces:** _Arabia_, parts of _Hindustan_.<br>**Cities:** _Arabia_, parts of _Hindustan_.<br>Corrected adjacency of Provinces #2109-#4675.<br>Started corrections on provinces common-vertices errors ("holes" when merging features): 1/n. | 1614/3359|
