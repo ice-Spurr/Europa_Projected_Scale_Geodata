@@ -81,6 +81,7 @@ Ok, maybe there's a more efficient way to do it. Here how I go :
 
 | **Version** | **Date** | **Changes** | **Completion** (land+wasteland) |
 |---|---|---|---|
+| 0.2.27 | 2026-11-15 | **Provinces:** _Indochina_.<br>**Cities:** _Indochina_.<br>Continued corrections on provinces common-vertices errors: 5/n. | 1951/3359 |
 | 0.2.26 | 2026-11-08 | **Provinces:** _Burma_.<br>**Cities:** _Burma_.<br>Continued corrections on provinces common-vertices errors: 4/n. | 1886/3359 |
 | 0.2.25 | 2026-11-07 | **Provinces:** _Bengal_.<br>**Cities:** _Bengal_.<br>Continued corrections on provinces common-vertices errors: 3/n. | 1853/3359 |
 | 0.2.24b | 2026-11-02 | **Provinces:** _Deccan, Coromandel_.<br>**Cities:** _Deccan, Coromandel_. | 1801/3359 |
